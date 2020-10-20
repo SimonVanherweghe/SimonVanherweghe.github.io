@@ -1,0 +1,9 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "luxon": "^1.24.1"
+  }
+}
