@@ -2,7 +2,7 @@
 title: "BudaBeachBot"
 date: "2017-05-01T05:18:43"
 permalink: "2017/05/01/budabeachbot/"
-tags: ["post"]
+tags: ["post","project"]
 ---
 Boten aan Buda Beach, Kortrijk  
   

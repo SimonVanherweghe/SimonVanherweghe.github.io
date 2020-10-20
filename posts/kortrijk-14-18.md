@@ -2,7 +2,7 @@
 title: "Kortrijk 14-18"
 date: "2013-11-01T05:23:41"
 permalink: "2013/11/01/kortrijk-14-18/"
-tags: ["post"]
+tags: ["post","project"]
 ---
 Kortrijk in de eerste wereldoorlog, dag op dag, 100 jaar geleden.
 
