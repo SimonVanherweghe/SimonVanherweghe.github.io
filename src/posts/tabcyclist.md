@@ -1,8 +1,12 @@
 ---
-title: "TabCyclist"
-date: "2019-02-20T05:50:16"
-permalink: "2019/02/20/tabcyclist/"
-tags: ["post","project"]
+title: TabCyclist
+date: 2019-02-20T05:50:16
+permalink: 2019/02/20/tabcyclist/
+tags:
+  - post
+  - project
+  - code
+preview: /blog/2023/04/tabcyclist.png
 ---
 [Extensie voor VS Code](https://marketplace.visualstudio.com/items?itemName=donebysimon.tabcyclist) om automatisch andere tabbladen weer te geven, net zoals een slideshow.
 

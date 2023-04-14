@@ -1,10 +1,18 @@
 ---
-title: "Kortrijk 14-18"
-date: "2013-11-01T05:23:41"
-permalink: "2013/11/01/kortrijk-14-18/"
-tags: ["post","project"]
+title: Kortrijk 14-18
+date: 2013-11-01T05:23:41
+permalink: 2013/11/01/kortrijk-14-18/
+tags:
+  - post
+  - project
+  - history
+description: Kortrijk in the first world war, day by day, 100 years ago.
+preview: /blog/2013/11/wo1kortrijk.jpeg
 ---
-Kortrijk in de eerste wereldoorlog, dag op dag, 100 jaar geleden.
+
+I had the idea to revive the first world war in Kortrijk via Twitter. This way a tweet would pop up in your timeline and would make you think about it for a minute.
+
+It turned out that [Egied van Hoonacker wrote a book about the day-by-day events in Kortrijk](https://www.google.be/books/edition/Kortrijk_14_18/Bn4dAQAAMAAJ?hl=nl&gbpv=0&bsq=kortrijk%2014%2018) during that period of time. This was a goldmine to say the least. I used the book as a source for the tweets.
 
 [https://twitter.com/Kortrijk1418/](https://twitter.com/Kortrijk1418/)
 

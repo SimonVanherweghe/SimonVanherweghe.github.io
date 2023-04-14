@@ -4,7 +4,15 @@ layout: base.njk
 
 <article class="post">
   <header class="post__header">
+    <div class="post__tags">
+      {% for tag in tags | pageTags %}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}">#{{ tag }}</a>
+      {% endfor %}
+    </div>
+
     <h1>{{ title }}</h1>
+    <p>{{ description }}</p>
     <div class="post__details">
       <time datetime="{{ page.date | htmlDateString }}">
         {{ page.date | readableDate }}
@@ -12,17 +20,13 @@ layout: base.njk
     </div>
   </header>
 
-  <main class="post__content">
+  <img class="post__img" webc:is="eleventy-image" :width="[1500]" src="/images{{preview}}" alt="photo of my tabby cat">
+
+  <div class="post__content">
     {{ content | safe }}
-  </main>
+  </div>
 
   <aside class="post__aside">
-    <div class="post__tags">
-      {% for tag in tags | pageTags %}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}">#{{ tag }}</a>
-      {% endfor %}
-    </div>
 
     <nav class="post__pagination">
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}

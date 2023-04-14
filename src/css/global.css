@@ -43,6 +43,10 @@ body::-webkit-scrollbar-thumb {
   padding: 0;
 }
 
+p {
+  margin-bottom: 1rem;
+} 
+
 img,
 video,
 canvas,
@@ -62,6 +66,10 @@ video {
 img {
   display: block;
   max-width: 100%;
+}
+
+iframe {
+  margin: 0 auto;
 }
 
 hr {
@@ -130,33 +138,12 @@ td:only-child {
   text-align: center;
 }
 
-* + h1,
-* + h2 {
-  margin-top: 5rem;
-}
-
-* + h3,
-* + h4,
-* + h5 {
-  margin-top: 3rem;
-}
-
-* + p {
-  margin-top: 2rem;
-}
-
-h2 + p,
-h3 + p,
-h4 + p {
-  margin-top: 1rem;
-}
 
 iframe,
 audio,
 video,
 img {
   max-width: 100%;
-  margin-top: 1rem;
 }
 
 blockquote {
@@ -235,4 +222,8 @@ mark {
   position: absolute;
   white-space: nowrap;
   width: 1px;
+}
+
+.eleventy-plugin-embed-instagram {
+  width: 70%;
 }

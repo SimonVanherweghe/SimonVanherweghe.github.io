@@ -1,14 +1,15 @@
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const EleventyVitePlugin = require("@11ty/eleventy-plugin-vite");
-const embedInstagram = require("eleventy-plugin-embed-instagram");
-const embedTwitter = require("eleventy-plugin-embed-twitter");
+const eleventyWebcPlugin = require("@11ty/eleventy-plugin-webc");
+const { eleventyImagePlugin } = require("@11ty/eleventy-img");
+const embedEverything = require("eleventy-plugin-embed-everything");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(EleventyVitePlugin);
-  eleventyConfig.addPlugin(embedInstagram);
-  eleventyConfig.addPlugin(embedTwitter);
+
+  eleventyConfig.addPlugin(embedEverything);
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
@@ -58,7 +59,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("pageTags", (tags) => {
-    const generalTags = ["all", "nav", "post", "posts", "archive"];
+    const generalTags = ["all", "nav", "post", "posts", "archive", "project"];
 
     return tags
       .toString()
@@ -75,6 +76,30 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/css");
+
+  // WebC
+  eleventyConfig.addPlugin(eleventyWebcPlugin, {
+    components: [
+      // …
+      // Add as a global WebC component
+      "npm:@11ty/eleventy-img/*.webc",
+    ],
+  });
+
+  // Image plugin
+  eleventyConfig.addPlugin(eleventyImagePlugin, {
+    // Set global default options
+    formats: ["webp", "jpeg"],
+    urlPath: "/img/",
+
+    // Notably `outputDir` is resolved automatically
+    // to the project output directory
+
+    defaultAttributes: {
+      loading: "lazy",
+      decoding: "async",
+    },
+  });
 
   return {
     passthroughFileCopy: true,

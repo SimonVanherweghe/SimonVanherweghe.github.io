@@ -4,8 +4,23 @@
   justify-content: center;
 }
 
+.post__header {
+  display: grid;
+  grid-template-columns: auto 45rem auto;
+}
+
+.post__header > * {
+  grid-column: 2;
+}
+
 .post > * + * {
-  margin-top: 4rem;
+  margin-top: 2rem;
+}
+
+.post__img {
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  margin-bottom: 1rem;
 }
 
 .post__details {
@@ -19,6 +34,13 @@
 
 .post__content {
   word-wrap: break-word;
+  display: grid;
+  row-gap: 1rrem;
+  grid-template-columns: auto 45rem auto;
+}
+
+.post__content > * {
+  grid-column: 2;
 }
 
 .post__aside {

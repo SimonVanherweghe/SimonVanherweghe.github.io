@@ -24,53 +24,75 @@
   list-style: none;
   display: grid;
   grid-template-columns: repeat(6,1fr);
-  gap: 1rem;
+  gap: 2rem;
 }
 
 
 .post-list__item {
-  display: flex;
-  flex-direction: column;
   padding-bottom: 3rem;
   padding-top: 3rem;
   border-top: 1px solid rgba(230, 230, 230, 1);
   grid-column: span 2;
 }
 
+
+.post-list__link {
+  text-decoration: none;
+  display: grid;
+  grid-template-areas: "img"
+  "tags"
+  "title"
+  "excerpt"
+  "meta";
+}
+
+
 .post-list__item:nth-child(1){
   border-top: none;
   grid-column: span 6;
+}
+
+.post-list__item:nth-child(1) .post-list__title  {
+  font-size: var(--text-3xl);
+}
+
+.post-list__item:nth-child(1) .post-list__link{
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: repeat(3, min-content) 1fr;
+  gap: 1rem;
+grid-template-areas: "img tags"
+"img title"
+"img excerpt"
+"img meta";
 }
 
 .post-list__item:nth-child(2),.post-list__item:nth-child(3){
   grid-column: span 3;
 }
 
-
 .post-list__item:last-child {
   border-bottom: 1px solid rgba(230, 230, 230, 1);
 }
 
+
+
+.post-list__img {
+  grid-area: img;
+  aspect-ratio: 16/8;
+  object-fit: cover;
+}
+
 .post-list__title {
   font-size: var(--text-2xl);
-  margin-top: 0.5rem;
+  grid-area: title;
+  font-weight: bold;
 }
 
-.post-list__title a {
-  font-weight: normal;
-  text-decoration: none;
-  color: rgb(41, 41, 41);
-}
-
-.post-list__title a:hover {
-  /* color: var(--accent); */
-  text-decoration: underline;
-}
 
 .post-list__meta {
   font-size: var(--text-sm);
-  margin-top: 1rem;
   color: rgb(117, 117, 117);
+  grid-area: meta;
 }
 
 .post-list__meta > * + * {
@@ -80,37 +102,22 @@
 .post-list__tags {
   text-decoration: none;
   font-size: var(--text-sm);
-  margin-top: 0.5rem;
+  grid-area: tags;
+  list-style: none;
 }
 
-.post-list__tags a {
-  text-decoration: none;
-  color: rgb(117, 117, 117);
+.post-list__tags li {
+  display: inline-block;
 }
 
-.post-list__tags a:hover {
-  color: var(--accent);
-}
 
-.post-list__tags > * + * {
-  margin-left: 1rem;
+.post-list__tags li + li:before {
+  content: " - ";
 }
 
 .post-list__excerpt {
-  margin-top: 1rem;
   color: rgba(0, 0, 0, 0.8);
-}
-
-.post-list__read-more {
-  width: fit-content;
-  font-size: 1rem;
-  text-transform: capitalize;
-  margin-top: 1rem;
-  text-decoration: underline;
-}
-
-.post-list__read-more:hover {
-  text-decoration: underline;
+  grid-area: excerpt;
 }
 
 .all-posts-link {

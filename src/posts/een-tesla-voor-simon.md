@@ -2,7 +2,7 @@
 title: "Een Tesla voor Simon"
 date: "2017-09-19T05:34:35"
 permalink: "2017/09/19/een-tesla-voor-simon/"
-tags: ["post","project"]
+tags: ["post","project", "code"]
 ---
 Door te surfen naar [eenteslavoorsimon.be](https://eenteslavoorsimon.be/) helpt de bezoeker mee in z’n browser Monero’s cryptocurrency minen.
 
