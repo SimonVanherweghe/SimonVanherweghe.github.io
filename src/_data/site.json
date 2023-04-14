@@ -1,0 +1,48 @@
+{
+  "title": "DoneBySimon",
+  "name": "DoneBySimon",
+  "url": "https://donebysimon.be/",
+  "description": "Binnen en buiten de lijntjes code",
+  "author": {
+    "name": "Simon Vanherweghe",
+    "email": "simon.vanherweghe@gmail.com",
+    "twitterHandle": "@donebysimon"
+  },
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "/blog",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/donebysimon/",
+      "external": true
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/simonvanherweghe",
+      "external": true
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/donebysimon",
+      "external": true
+    }
+  ],
+  "footerLinks": [
+    {
+      "text": "RSS",
+      "url": "/feed.xml",
+      "external": true
+    }
+  ],
+  "showFooterAttribution": true
+}
