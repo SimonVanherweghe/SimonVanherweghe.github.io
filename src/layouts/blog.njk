@@ -1,0 +1,12 @@
+---
+layout: base
+eleventyImport:
+  collections: ["post"]
+---
+
+<section class="post-list__wrapper">
+  <h2 class="post-list__heading">Blog posts</h2>
+
+  {% set archiveList = collections.post %}
+  {% include "archive-list.njk" %}
+</section>

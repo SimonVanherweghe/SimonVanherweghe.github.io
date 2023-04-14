@@ -1,26 +1,19 @@
 .post {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.post__header {
   display: grid;
+  padding-top: 3rem;
   grid-template-columns: auto 45rem auto;
 }
 
-.post__header > * {
+.post__header {
   grid-column: 2;
-}
-
-.post > * + * {
-  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .post__img {
   aspect-ratio: 16/9;
   object-fit: cover;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
+  grid-column: 1 / -1;
 }
 
 .post__details {
@@ -34,17 +27,17 @@
 
 .post__content {
   word-wrap: break-word;
-  display: grid;
-  row-gap: 1rrem;
-  grid-template-columns: auto 45rem auto;
-}
-
-.post__content > * {
   grid-column: 2;
 }
 
+.post__content > *  {
+  margin-bottom: 1.5rem;
+}
+
+
 .post__aside {
   margin-top: 2rem;
+  grid-column: 2;
 }
 
 .post__tags {

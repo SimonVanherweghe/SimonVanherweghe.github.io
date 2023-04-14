@@ -7,7 +7,8 @@ tags:
   - project
   - code
 preview: /blog/2023/04/tabcyclist.png
+description: Cycle through your open tabs
 ---
-[Extensie voor VS Code](https://marketplace.visualstudio.com/items?itemName=donebysimon.tabcyclist) om automatisch andere tabbladen weer te geven, net zoals een slideshow.
+[Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=donebysimon.tabcyclist) that lets you cycle through your open tabs like a slideshow.
 
-![](https://github.com/SimonVanherweghe/TabCyclist/raw/master/images/cyclistdemo.gif)
+![Animated gif that shows how tabs are cycled](https://github.com/SimonVanherweghe/TabCyclist/raw/master/images/cyclistdemo.gif)

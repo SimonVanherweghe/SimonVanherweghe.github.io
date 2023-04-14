@@ -4,32 +4,15 @@ eleventyImport:
   collections: ["post"]
 ---
 
-{# <header class="hero">
+<header class="hero">
   <div class="hero-content">
     <div class="intro">
       {{ content | safe }}
     </div>
-
-    {% if site.socialLinks %}
-      <ul class="hero__social-links">
-        {% for item in site.socialLinks %}
-          {% set externalAttribute = '' %}
-
-          {% if item.external %}
-            {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
-          {% endif %}
-
-          <li>
-            <a href="{{ item.url | url }}" {{ externalAttribute | safe }}>{{ item.text }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    {% endif %}
   </div>
+</header>
 
-</header> #}
-
-<section class="post-list__wrapper">
+<section class="post-list__wrapper home">
   <h2 class="post-list__heading visually-hidden">Recent stuff</h2>
 
   {% set postslist = collections.post | head(-10) %}
