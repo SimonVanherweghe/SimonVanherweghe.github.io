@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href=https://donebysimon.be/2019/06/18/buda-kitchen-bot/>
+    <link rel="canonical" href=https://donebysimon.be/2022/05/02/portrait-plotter/>
 
     
 
@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
 
     <title>
-      Buda Kitchen Bot
+      Portrait plotter
       
          | DoneBySimon
       
@@ -21,10 +21,10 @@
 
     <link rel="icon" type= “image/x-icon” href="/images/favicon.ico">
 
-    <meta property="og:title" content="Buda Kitchen Bot">
+    <meta property="og:title" content="Portrait plotter">
     <meta property="og:site_name" content="DoneBySimon"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://donebysimon.be//2019/06/18/buda-kitchen-bot/"/>
+    <meta property="og:url" content="https://donebysimon.be//2022/05/02/portrait-plotter/"/>
     <meta name="twitter:card" content="summary_large_image">
 
     
@@ -34,9 +34,9 @@
     
     
     
-      <meta name="description" content="Ask your Google assistant for the menu">
-      <meta property="og:description" content="Ask your Google assistant for the menu">
-      <meta name="description" content="Ask your Google assistant for the menu"/>
+      <meta name="description" content="A plotter that draws a picture of you">
+      <meta property="og:description" content="A plotter that draws a picture of you">
+      <meta name="description" content="A plotter that draws a picture of you"/>
     
 
     
@@ -106,21 +106,45 @@
         
         <a href="/tags/code/">#code</a>
       
+        
+        <a href="/tags/play/">#play</a>
+      
     </div>
 
-    <h1>Buda Kitchen Bot</h1>
-    <p>Ask your Google assistant for the menu</p>
+    <h1>Portrait plotter</h1>
+    <p>A plotter that draws a picture of you</p>
     <div class="post__details">
-      <time datetime="2019-06-18">
-        18 Jun 2019
+      <time datetime="2022-05-02">
+        02 May 2022
       </time>
     </div>
   </header>
 
-  <img class="post__img" webc:is="eleventy-image" :width="[1500]" src="/assets/Screenshot 2023-04-14 at 13.02.44-49fe22d6.png" alt="Buda Kitchen Bot">
+  <img class="post__img" webc:is="eleventy-image" :width="[1500]" src="/assets/plotter-ecc26bac.jpg" alt="Portrait plotter">
 
   <div class="post__content">
-    <p>A <a href="https://assistant.google.com/services/a/uid/0000004f817c7aef?hl=nl">Google Assistant action</a> you can ask what's on the menu today at <a href="http://budakitchen.be">Buda Kitchen Kortrijk.</a></p>
+    <p>It all started with a note in our mailbox during corona: &quot;Present yourself, your hobbies, via the front window of your house&quot;.</p>
+<p>I wanted to present something interactive, and I had a pen plotter available, so I decided to make a little site where neighbors could upload a picture and get a plotter drawing of it.</p>
+<p>It had some attention, people tried it and were happily surprised with the result.</p>
+<p><img src="/assets/firstportraitplotter-e6e637d1.jpg" alt="A plotter viewed through a rainy window"></p>
+<h2>Next iteration</h2>
+<p>When we saw the call for makers for the <a href="https://www.makerfairegent.be/">Maker Faire</a> at the office, I talked about this project and suggested we could use our <a href="https://axidraw.com/">AxiDraw</a> to create something similar.</p>
+<p>We decided to ditch the app and let people queue to let their picture get taken. You can <a href="https://github.com/devinekask/postcard-portrait-plotter">take a look at the code</a> yourself, but this is how it works:</p>
+<ul>
+<li>There is an Arduino micro hooked up to two buttons. The Arduino can act like a keyboard, so when you press a button, it will send a keystroke to the computer.</li>
+<li>The whole thing runs in Node.js using <a href="https://github.com/google/zx">zx</a>, it is like bash scripting, but then in node. I like it.</li>
+<li>When the command to take a picture is received, the native photo booth app is opened and a picture is taken. By running AppleScript from the Node.js script... An approach <a href="aboutme.be">Wouter</a> came up with, nice one!</li>
+<li>When the command to plot a new picture from the queue, the picture goes through a couple of steps:
+<ul>
+<li>The picture is cropped to a postcard-ratio, taking the position of one or more faces into account. <a href="https://github.com/jwagner/smartcrop-sharp">Smartcrop</a></li>
+<li>A Python script then transforms the cropped picture into a line drawing (SVG) <a href="https://github.com/LingDong-/linedraw">Linedraw</a></li>
+<li>The SVG gets simplified and optimized for plotting with <a href="https://vpype.readthedocs.io/en/latest/">vpype</a></li>
+</ul>
+</li>
+<li>Finally, the optimized SVG is then plotted with the <a href="https://axidraw.com/">AxiDraw</a></li>
+</ul>
+<h2>Results</h2>
+<p>During the <a href="https://www.makerfairegent.be/">Maker Faire</a>, we had a lot of visitors who were intrigued by the plotter and wanted to let their picture get drawn. We ran into a queue of multiple hours, so we had to refuse people at some point. The algorithm that translates a picture into a line drawing can bring surprising results now and then, but overall, people were happy with the result.</p>
 
   </div>
 
@@ -128,15 +152,15 @@
 
     <nav class="post__pagination">
 
-        <a href="/2021/12/26/vloryan/">
+        <a href="/2022/09/01/sleeptrainer/">
           <span>←</span>
-          <span>Vloryan</span>
+          <span>Sleep trainer</span>
         </a>
 
       
 
-        <a href="/2019/02/20/tabcyclist/">
-          <span>TabCyclist</span>
+        <a href="/2022/04/02/social-banking-app/">
+          <span>Social Banking App</span>
           <span>→</span>
         </a>
 

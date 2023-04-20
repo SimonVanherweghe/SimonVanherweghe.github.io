@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href=https://donebysimon.be/2019/06/18/buda-kitchen-bot/>
+    <link rel="canonical" href=https://donebysimon.be/2022/09/01/sleeptrainer/>
 
     
 
@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
 
     <title>
-      Buda Kitchen Bot
+      Sleep trainer
       
          | DoneBySimon
       
@@ -21,10 +21,10 @@
 
     <link rel="icon" type= “image/x-icon” href="/images/favicon.ico">
 
-    <meta property="og:title" content="Buda Kitchen Bot">
+    <meta property="og:title" content="Sleep trainer">
     <meta property="og:site_name" content="DoneBySimon"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://donebysimon.be//2019/06/18/buda-kitchen-bot/"/>
+    <meta property="og:url" content="https://donebysimon.be//2022/09/01/sleeptrainer/"/>
     <meta name="twitter:card" content="summary_large_image">
 
     
@@ -34,9 +34,9 @@
     
     
     
-      <meta name="description" content="Ask your Google assistant for the menu">
-      <meta property="og:description" content="Ask your Google assistant for the menu">
-      <meta name="description" content="Ask your Google assistant for the menu"/>
+      <meta name="description" content="A custom-made sleep trainer made out of Lego">
+      <meta property="og:description" content="A custom-made sleep trainer made out of Lego">
+      <meta name="description" content="A custom-made sleep trainer made out of Lego"/>
     
 
     
@@ -106,21 +106,35 @@
         
         <a href="/tags/code/">#code</a>
       
+        
+        <a href="/tags/play/">#play</a>
+      
     </div>
 
-    <h1>Buda Kitchen Bot</h1>
-    <p>Ask your Google assistant for the menu</p>
+    <h1>Sleep trainer</h1>
+    <p>A custom-made sleep trainer made out of Lego</p>
     <div class="post__details">
-      <time datetime="2019-06-18">
-        18 Jun 2019
+      <time datetime="2022-09-01">
+        01 Sep 2022
       </time>
     </div>
   </header>
 
-  <img class="post__img" webc:is="eleventy-image" :width="[1500]" src="/assets/Screenshot 2023-04-14 at 13.02.44-49fe22d6.png" alt="Buda Kitchen Bot">
+  <img class="post__img" webc:is="eleventy-image" :width="[1500]" src="/assets/installed-a7e75359.jpg" alt="a view inside a lego tower with an electronics board and an RGB LED">
 
   <div class="post__content">
-    <p>A <a href="https://assistant.google.com/services/a/uid/0000004f817c7aef?hl=nl">Google Assistant action</a> you can ask what's on the menu today at <a href="http://budakitchen.be">Buda Kitchen Kortrijk.</a></p>
+    <p>Kids and sleep, it takes some time to get these two in harmony, to say the least. There are things called a 'sleep trainer' that let your child know when it's okay to get out of bed. Some of these are clocks which will open their eyes when it's time to get up. Others have lights in them. They come in all kinds of shapes and sizes. We've tried a couple of them, but we (and they...) were never really happy with them. The light is too bright, another light starts to shine a half hour before it's time to get up, or they simply figured out how to open the eyes by themselves...</p>
+<p>At one point we were playing with old Lego bricks (they were left behind when we bought our house) making a tower. Since we had some transparent bricks, the tower evolved into a lighthouse. So the idea came up to add a light to it and turn it into a sleep trainer.</p>
+<h2>Materials used</h2>
+<p>I've used an ESP32 for this. It's a small board, something like an Arduino, but it comes with Wi-Fi out of the box. Normally, it's a bit more of a low-level approach since I'm running <a href="https://www.home-assistant.io/">Home Assistant</a> here, I decided to use <a href="https://esphome.io/">ESPHome.</a> This framework allows you to configure the ESP32 in a yaml file, and it will generate the code for you.</p>
+<p><img src="/assets/breadboard-a438af82.jpg" alt="An ESP32 on a breadboard with an RGB LED"></p>
+<p>All I've needed was an RGB LED and some resistors, so this was a good starting project.</p>
+<p>It was <a href="aboutme.be">Wouter</a> who mentioned a <a href="https://www.adafruit.com/product/571">'perma-proto'</a> board to me. It's a step in between a breadboard and a prototype board. These things are great to use. They don't require that much soldering.</p>
+<h2>Automation</h2>
+<p>The integration with Home Assistant is pretty straight forward. I have an 'sleep trainer' entity which I can use within an automation. I have one running for the weekdays and one for the weekends (where they can sleep in a bit longer...)</p>
+<p>Via the Home Assistant app, I can turn the light on or off and even change the color.</p>
+<h2>Result</h2>
+<p>Do they stay in bed longer? Sometimes they do, sometimes they don't, but they can explain the concept very well ;-)</p>
 
   </div>
 
@@ -128,15 +142,8 @@
 
     <nav class="post__pagination">
 
-        <a href="/2021/12/26/vloryan/">
-          <span>←</span>
-          <span>Vloryan</span>
-        </a>
-
-      
-
-        <a href="/2019/02/20/tabcyclist/">
-          <span>TabCyclist</span>
+        <a href="/2022/05/02/portrait-plotter/">
+          <span>Portrait plotter</span>
           <span>→</span>
         </a>
 
