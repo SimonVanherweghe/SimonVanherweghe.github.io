@@ -13,17 +13,11 @@
 }
 
 .hero__social-links {
-  display: flex;
-  flex-wrap: wrap;
   list-style-type: none;
   margin-top: 2rem;
-  text-transform: uppercase;
+  padding-left: 0;
 }
 
-.hero__social-links > li {
-  margin-right: 2rem;
-  margin-top: 1rem;
-}
 
 .hero__skip-link {
   align-self: center;

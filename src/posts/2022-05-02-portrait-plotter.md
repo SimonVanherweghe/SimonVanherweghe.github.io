@@ -2,7 +2,7 @@
 title: Portrait plotter
 description: "A plotter that draws a picture of you"
 date: 2022-05-02T21:01:00.198Z
-preview: "/images/blog/2020/09/plotter.jpg"
+preview: "/images/blog/2022/05/plotter.jpg"
 draft: false
 tags: ["code", "play", "post"]
 permalink: "2022/05/02/portrait-plotter"
