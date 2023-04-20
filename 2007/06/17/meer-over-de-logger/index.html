@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href=https://donebysimon.be/2007/06/17/meer-over-de-logger/>
+
+    
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+
+    <title>
+      Meer over de logger
+      
+         | DoneBySimon
+      
+    </title>
+
+    
+
+    <link rel="icon" type= “image/x-icon” href="/images/favicon.ico">
+
+    <meta property="og:title" content="Meer over de logger">
+    <meta property="og:site_name" content="DoneBySimon"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://donebysimon.be//2007/06/17/meer-over-de-logger/"/>
+    <meta name="twitter:card" content="summary_large_image">
+
+    
+      <meta name="twitter:creator" content="@donebysimon"/>
+    
+
+    
+    
+      
+    
+    
+      <meta name="description" content="Meer over de logger 17 Jun 2007 Ik had het voorheen al wat gedropt, bij deze wat meer uitleg over mijn GPS-loggerke. Het betreft een klein...">
+      <meta property="og:description" content="Meer over de logger 17 Jun 2007 Ik had het voorheen al wat gedropt, bij deze wat meer uitleg over mijn GPS-loggerke. Het betreft een klein...">
+      <meta name="description" content="Meer over de logger 17 Jun 2007 Ik had het voorheen al wat gedropt, bij deze wat meer uitleg over mijn GPS-loggerke. Het betreft een klein..."/>
+    
+
+    
+      
+    
+    
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+      mermaid.initialize({startOnLoad: true});
+    </script>
+    
+    <link rel="stylesheet" href="/assets/main-427e9a22.css">
+  </head>
+  <body>
+    <div class="layout-wrapper">
+
+      <header class="header">
+        <div class="header__content">
+          <h1 class="site-title">
+            <a href=/>
+              DoneBySimon
+            </a>
+          </h1>
+
+          
+            <nav class="nav">
+              <ul class="nav__list">
+                
+                  
+                  
+
+                  
+
+                  
+
+                  <li class="nav-item">
+                    <a href="/blog/"  >Blog</a>
+                  </li>
+                
+                  
+                  
+
+                  
+
+                  
+
+                  <li class="nav-item">
+                    <a href="/about/"  >About</a>
+                  </li>
+                
+              </ul>
+            </nav>
+
+          
+
+        </div>
+      </header>
+
+      <main class="main">
+        
+<article class="post">
+  <header class="post__header">
+    <h1>Meer over de logger</h1>
+    <div class="post__details">
+      <time datetime="2007-06-17">
+        17 Jun 2007
+      </time>
+    </div>
+  </header>
+
+  <main class="post__content">
+    <p>Ik had het <a href="http://www.donebysimon.be/2007/06/09/track-it/" title="http://www.donebysimon.be/2007/06/09/track-it/">voorheen</a> al wat gedropt, bij deze wat meer uitleg over mijn GPS-loggerke. Het betreft een klein apparaatje dat werkt op 4 reuze AA batterijen (in vergelijking dan). Het doet in feite niks anders dan met een bepaald interval (bijvoorbeeld om de 10 seconden) mijn positie wegschrijven op een sd kaartje (zo van die zukke dat je in uwen kodak steekt).</p>
+<p>Eenmaal na mijn ‘trip’ lees ik dat dat kaartje uit, en dan heb ik een bestandje met allemaal regeltjes in het genre van:</p>
+<p><code>$GPGGA,151805.000,5046.4852,N,00314.5866,E,1,05,1.3,48.1,M,47.2,M,,0000*68   $GPRMC,151822.000,A,5046.5142,N,00314.5410,E,0.76,200.62,170607,,*0D   $GPGGA,151823.000,5046.5018,N,00314.5643,E,1,04,4.2,26.2,M,47.2,M,,0000*6C   $GPRMC,151926.000,A,5046.4904,N,00314.6093,E,0.68,45.47,170607,,*34   $GPGGA,151927.000,5046.4900,N,00314.6085,E,1,04,2.9,30.7,M,47.2,M,,0000*68   $GPRMC,152004.000,A,5046.4672,N,00314.5871,E,0.26,18.14,170607,,*33</code></p>
+<p>Dit lijkt misschien op het eerste zicht chinees, maar het komt er gewoon op neer dat ie de boel wegschrijft in 2 nmea formaten (GPGGA en GPRMC in dit geval). Ik kies deze 2 omdat ik er dan zowel de volledige positie, datum-tijd, snelheid en hoogte kan van opmaken. Wie meer info wil kan <a href="http://www.werple.net.au/~gnb/gps/nmea.html" title="http://www.werple.net.au/~gnb/gps/nmea.html">hier terecht</a></p>
+<p>Daarna is het een kwestie van de boel in kaart te brengen. Dit kan met het fantastische <a href="http://earth.google.com/" title="http://earth.google.com/">Google Earth</a> of de online <a href="http://maps.google.com/" title="http://maps.google.com/">Google Maps</a>. Beide zaken gebruiken een ander formaat, <a href="http://code.google.com/apis/kml/documentation/" title="http://code.google.com/apis/kml/documentation/">kml</a> genaamd, om al die punten weer te geven. En als je lijntjes trekt tussen al die coördinaten, dan verkrijg je natuurlijk je route. Het enige wat ik doe is in feite alle coördinaten in één lange lijn achter elkaar zetten. Dan kan je ook nog wat extra dingen doen, zoals een titelke, beschrijving, lijnkleur, dikte en transparantie. Hier heb ik gewoon een php scriptje voor aangemaakt dat de boel in één klik voor mij omzet, huppe!</p>
+<p>Nu ja, het is nog niet allemaal rozengeur en maneschijn, zo verbruikt het ding redelijk veel elentriek tijdens het effectieve loggen (gaat max 24 uur mee…) en slaat ie nogal gemakkelijk door als ik een eindje stil sta. Binnen mag je het al helemaal vergeten. Maar das met bijna elke gps zo blijkbaar.</p>
+<p>Zo kan je <a href="http://maps.google.com/maps?f=q&amp;hl=nl&amp;q=http%3A%2F%2Fwww.donebysimon.be%2Fgps%2Fkml%2Ffietstocht.kml&amp;ie=UTF8&amp;om=1&amp;ll=50.82073,3.277245&amp;spn=0.10194,0.324097&amp;z=12" title="http://maps.google.com/maps?f=q&amp;hl=nl&amp;q=http%3A%2F%2Fwww.donebysimon.be%2Fgps%2Fkml%2Ffietstocht.kml&amp;ie=UTF8&amp;om=1&amp;ll=50.82073,3.277245&amp;spn=0.10194,0.324097&amp;z=12">mijn trip van deze middag</a> checken. Eerst zijn we wat supervlet-motor-vaarlessen gaan geven aan Leen. Dat kan je duidelijk zien aan het stuk op de leie, heel wat draai- en aanlegmaneouvres. Daarna ben ik met Wies op de fiets gesprongen naar hoog Kortrijk toe. Het was veels te mooi weer om dit te laten liggen. Scheel van den dorst kwamen we plots op de lampestraat uit, op goed geluk reden we die door, en ja hoor, op het einde van de straat was café de Lampe open. En je ziet aan de rare uitspattingen dat we daar een eindje halt gehouden hebben <img src="http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif" alt=":-)"></p>
+<p>Voor welknen reden dat ik me dat in godsnaam heb aangeschaft? Om achteraf te kunnen zien waar we zo allemaal in <a href="http://www.zeescoutsjanbart.be/rafiki/" title="http://www.zeescoutsjanbart.be/rafiki/">Afrika</a> geweest zijn, om een zeiltrip te checken, om een 2daagse op te slaan, om in de toekomst m’n foto’s te <a href="http://www.bright.nl/de-toekomst-van-geotagging" title="http://www.bright.nl/de-toekomst-van-geotagging">geotaggen</a>, om tijdens een geheime spionage missie het bakje onderaan de auto van m’n target te monteren. Enfin, voor de fun gewoon <img src="http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif" alt=":-)"></p>
+<p>Nu nog effe testen of ik door de interval van 10 seconden naar 1 minuut te brengen de batterijduur aanzienlijk kan verlengen. En een 12-volt aansluiting voor in de auto zou ook handig zijn me dunkt…</p>
+<p>O ja, wie de trip in Google earth wil checken kan kiezen voor ‘toevoegen’ -&gt; ‘netwerk koppeling’ en dan volgende url ingeven: <a href="http://www.donebysimon.be/gps/kml/fietstocht.kml" title="http://www.donebysimon.be/gps/kml/fietstocht.kml">http://www.donebysimon.be/gps/kml/fietstocht.kml</a> (of gewoon reks klikken, opslaan, en openen in Google Earth e ja…)</p>
+
+  </main>
+
+  <aside class="post__aside">
+    <div class="post__tags">
+      
+    </div>
+
+    <nav class="post__pagination">
+
+        <a href="/2007/07/03/im-off/">
+          <span>←</span>
+          <span>I’m off!</span>
+        </a>
+
+      
+
+        <a href="/2007/06/15/dan-maar-weer-een-round-up/">
+          <span>Dan maar weer een round-up</span>
+          <span>→</span>
+        </a>
+
+      
+    </nav>
+  </aside>
+
+</article>
+      </main>
+
+      <footer class="footer">
+        <div class="footer__content">
+
+          <ul class="hero__social-links">
+            
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="https://www.instagram.com/donebysimon/" target="_blank" rel="noopener noreferrer" >Instagram</a>
+                </li>
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="https://github.com/simonvanherweghe" target="_blank" rel="noopener noreferrer" >GitHub</a>
+                </li>
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="https://twitter.com/donebysimon" target="_blank" rel="noopener noreferrer" >Twitter</a>
+                </li>
+              
+            
+
+            
+
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="/feed.xml" target="_blank" rel="noopener noreferrer" >RSS</a>
+                </li>
+              
+            
+          </ul>
+
+          <div>
+            
+              <p class="footer__attribution">
+          Based on
+      <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener">Eleventy Duo</a>
+              </p>
+            
+            <p>Very old stuff can be found in <a href="/archive/">the archive</a>.</p>
+          </div>
+        </div>
+      </div>
+
+    </footer>
+
+    
+  </body>
+</html>

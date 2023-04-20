@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href=https://donebysimon.be/2013/04/18/retrieving-single-cell-values-from-a-google-spreadsheet-xmljson-feed/>
+
+    
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+
+    <title>
+      Retrieving single cell values from a Google Spreadsheet XML/JSON feed
+      
+         | DoneBySimon
+      
+    </title>
+
+    
+
+    <link rel="icon" type= “image/x-icon” href="/images/favicon.ico">
+
+    <meta property="og:title" content="Retrieving single cell values from a Google Spreadsheet XML/JSON feed">
+    <meta property="og:site_name" content="DoneBySimon"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://donebysimon.be//2013/04/18/retrieving-single-cell-values-from-a-google-spreadsheet-xmljson-feed/"/>
+    <meta name="twitter:card" content="summary_large_image">
+
+    
+      <meta name="twitter:creator" content="@donebysimon"/>
+    
+
+    
+    
+      
+    
+    
+      <meta name="description" content="Retrieving single cell values from a Google Spreadsheet XML/JSON feed 18 Apr 2013 Je kan een Google Docs/Drive spreadsheet publiceren als...">
+      <meta property="og:description" content="Retrieving single cell values from a Google Spreadsheet XML/JSON feed 18 Apr 2013 Je kan een Google Docs/Drive spreadsheet publiceren als...">
+      <meta name="description" content="Retrieving single cell values from a Google Spreadsheet XML/JSON feed 18 Apr 2013 Je kan een Google Docs/Drive spreadsheet publiceren als..."/>
+    
+
+    
+      
+    
+    
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+      mermaid.initialize({startOnLoad: true});
+    </script>
+    
+    <link rel="stylesheet" href="/assets/main-427e9a22.css">
+  </head>
+  <body>
+    <div class="layout-wrapper">
+
+      <header class="header">
+        <div class="header__content">
+          <h1 class="site-title">
+            <a href=/>
+              DoneBySimon
+            </a>
+          </h1>
+
+          
+            <nav class="nav">
+              <ul class="nav__list">
+                
+                  
+                  
+
+                  
+
+                  
+
+                  <li class="nav-item">
+                    <a href="/blog/"  >Blog</a>
+                  </li>
+                
+                  
+                  
+
+                  
+
+                  
+
+                  <li class="nav-item">
+                    <a href="/about/"  >About</a>
+                  </li>
+                
+              </ul>
+            </nav>
+
+          
+
+        </div>
+      </header>
+
+      <main class="main">
+        
+<article class="post">
+  <header class="post__header">
+    <h1>Retrieving single cell values from a Google Spreadsheet XML/JSON feed</h1>
+    <div class="post__details">
+      <time datetime="2013-04-18">
+        18 Apr 2013
+      </time>
+    </div>
+  </header>
+
+  <main class="post__content">
+    <p>Je kan een Google Docs/Drive spreadsheet publiceren als rss feed via ‘bestand’ -&gt; ‘publiceren op internet’ en dan voor RSS kiezen.</p>
+<p>Lijkt handig, maar in de praktijk maakt Google hier een feed van met per rij 2 items: een titel en een description.<br>
+Dit staat ook zo in de <a href="https://developers.google.com/google-apps/spreadsheets/#working_with_list-based_feeds" title="https://developers.google.com/google-apps/spreadsheets/#working_with_list-based_feeds">docs</a>:</p>
+<blockquote>
+<p>Each entry represents a row in the worksheet. The <code>title</code> element contains the contents of the first cell in the row, and the <code>content</code> element contains a textual representation of the data from all the other cells in the row.</p>
+</blockquote>
+<p>Redelijk ambetant dus</p>
+<p>Wat ze er niet meteen bijzeggen is dat je de waardes ook apart kan verkrijgen. Het is een kwestie van de parameters in de url wat aan te passen:</p>
+<p>Standaard ziet het er zo uit:<br>
+<code>https://spreadsheets.google.com/feeds/list/[spreadsheet-id]/od6/public/basic?alt=rss</code><br>
+Het enige wat je hoeft te doen is die ‘basic’ door ‘values’ te vervangen:<br>
+<code>https://spreadsheets.google.com/feeds/list/[spreadsheet-id]/od6/public/values?alt=rss</code><br>
+En voor als je een json string wil:<br>
+<code>https://spreadsheets.google.com/feeds/list/[spreadsheet-id]/od6/public/values?alt=json</code></p>
+<p>Alle cellen in een rij zijn nu apart aanspreekbaar. Ze zijn voorzien van een prefix ‘gsx’, dit komt door de namespace die ze gebruiken om de xml valid te houden.</p>
+<p>Je moet er ook wel voor zorgen dat de eerste rij in jouw spreadsheet de kolomkoppen bevat.</p>
+<p>English version:</p>
+<p>Just use ‘values’ instead of ‘basic’ in the url</p>
+
+  </main>
+
+  <aside class="post__aside">
+    <div class="post__tags">
+      
+    </div>
+
+    <nav class="post__pagination">
+
+        <a href="/2010/08/04/iphone-internet-access-in-rwanda-and-congo/">
+          <span>iPhone internet access in Rwanda and Congo</span>
+          <span>→</span>
+        </a>
+
+      
+    </nav>
+  </aside>
+
+</article>
+      </main>
+
+      <footer class="footer">
+        <div class="footer__content">
+
+          <ul class="hero__social-links">
+            
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="https://www.instagram.com/donebysimon/" target="_blank" rel="noopener noreferrer" >Instagram</a>
+                </li>
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="https://github.com/simonvanherweghe" target="_blank" rel="noopener noreferrer" >GitHub</a>
+                </li>
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="https://twitter.com/donebysimon" target="_blank" rel="noopener noreferrer" >Twitter</a>
+                </li>
+              
+            
+
+            
+
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="/feed.xml" target="_blank" rel="noopener noreferrer" >RSS</a>
+                </li>
+              
+            
+          </ul>
+
+          <div>
+            
+              <p class="footer__attribution">
+          Based on
+      <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener">Eleventy Duo</a>
+              </p>
+            
+            <p>Very old stuff can be found in <a href="/archive/">the archive</a>.</p>
+          </div>
+        </div>
+      </div>
+
+    </footer>
+
+    
+  </body>
+</html>
