@@ -1,7 +1,7 @@
 ---
 title: "Een Tesla voor Simon"
 date: "2017-09-19T05:34:35"
-permalink: "2017/09/19/een-tesla-voor-simon/"
+permalink: 2017/09/19/een-tesla-voor-simon/
 tags: ["post","project", "code"]
 preview: /images/blog/2017/09/krant.jpg
 description: "Mine me monero for a Tesla"

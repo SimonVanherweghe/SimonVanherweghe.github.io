@@ -8,7 +8,7 @@ tags:
   - post
   - crafting
 categories: []
-permalink: "2021/12/27/waldschattenspiel"
+permalink: 2021/12/27/waldschattenspiel/
 ---
 
 It was when we were visiting [Manufactum](https://www.manufactum.de/) that I discovered [Waldschattenspiel](https://de.wikipedia.org/wiki/Waldschattenspiel). It is a game you play in the dark with a little candle. The goal is to hide your pawns in the shadows of the trees.

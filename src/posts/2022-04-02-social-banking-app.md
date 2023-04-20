@@ -8,7 +8,7 @@ tags:
   - post
   - code
 categories: []
-permalink: "/2022/04/02/social-banking-app"
+permalink: /2022/04/02/social-banking-app/
 alt: "A stock exchange icon"
 slug: social-banking-app
 ---

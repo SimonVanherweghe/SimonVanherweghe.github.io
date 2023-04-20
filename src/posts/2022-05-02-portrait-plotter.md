@@ -5,7 +5,7 @@ date: 2022-05-02T21:01:00.198Z
 preview: "/images/blog/2022/05/plotter.jpg"
 draft: false
 tags: ["code", "play", "post"]
-permalink: "2022/05/02/portrait-plotter"
+permalink: 2022/05/02/portrait-plotter/
 ---
 
 It all started with a note in our mailbox during corona: "Present yourself, your hobbies, via the front window of your house".

@@ -1,7 +1,7 @@
 ---
 title: Sleep trainer
 date: 2022-09-01T06:12:25.140Z
-permalink: "2022-09-01/sleep trainer"
+permalink: 2022/09/01/sleeptrainer/
 tags:
   - post
   - code
