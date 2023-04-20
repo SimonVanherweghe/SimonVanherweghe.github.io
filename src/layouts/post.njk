@@ -20,7 +20,7 @@ layout: base.njk
     </div>
   </header>
 
-  <img class="post__img" webc:is="eleventy-image" :width="[1500]" src="/images{{preview}}" alt="photo of my tabby cat">
+  <img class="post__img" webc:is="eleventy-image" :width="[1500]" src="{{preview}}" alt="{{ alt or title}}">
 
   <div class="post__content">
     {{ content | safe }}

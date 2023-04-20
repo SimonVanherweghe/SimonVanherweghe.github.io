@@ -3,7 +3,7 @@ title: "Een Tesla voor Simon"
 date: "2017-09-19T05:34:35"
 permalink: "2017/09/19/een-tesla-voor-simon/"
 tags: ["post","project", "code"]
-preview: "/blog/2017/09/krant.jpg"
+preview: /images/blog/2017/09/krant.jpg
 description: "Mine me monero for a Tesla"
 ---
 When browsing to [eenteslavoorsimon.be](https://eenteslavoorsimon.be/), the visitor helps mining Monero cryptocurrency for me. This way I could become immeasurable rich. The only concern I would have is to pick the color of the Tesla.
@@ -17,7 +17,7 @@ When browsing to [eenteslavoorsimon.be](https://eenteslavoorsimon.be/), the visi
 
 ## Update
 
-> Coinhive (de dienst achter [https://t.co/AFeBrQJXSB](https://t.co/AFeBrQJXSB)) is gestopt. We kloppen of op 197 226 752 hashes ([#merci](https://twitter.com/hashtag/merci?src=hash&ref_src=twsrc%5Etfw)) goed voor 0,02561 XMR. Met een transaction fee van 0,005 XMR heeft dit 0,02060 XMR opgebracht. 1 XMR is op dit moment €44,12  
+> Coinhive (de dienst achter [https://t.co/AFeBrQJXSB](https://t.co/AFeBrQJXSB)) is gestopt. We kloppen of op 197 226 752 hashes ([#merci](https://twitter.com/hashtag/merci?src=hash&ref_src=twsrc%5Etfw)) goed voor 0,02561 XMR. Met een transaction fee van 0,005 XMR heeft dit 0,02060 XMR opgebracht. 1 XMR is op dit moment €44.12  
 > Still, totally worth it 🤑
 >
 > — Simon Vanherweghe (@donebysimon) [March 14, 2019](https://twitter.com/donebysimon/status/1106099705237393408?ref_src=twsrc%5Etfw)
