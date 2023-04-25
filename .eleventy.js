@@ -24,7 +24,7 @@ module.exports = function (eleventyConfig) {
       linkify: true,
     }).use(markdownItEleventyImg, {
       imgOptions: {
-        widths: [1500, 750, 350]),
+        widths: [1500, 750, 350],
         urlPath: "/img/",
         outputDir: "./dist/img/",
         formats: ["avif", "webp", "jpeg"],
