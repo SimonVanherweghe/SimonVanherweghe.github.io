@@ -1,15 +1,45 @@
 const { DateTime } = require("luxon");
+const path = require("path");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const EleventyVitePlugin = require("@11ty/eleventy-plugin-vite");
 const eleventyWebcPlugin = require("@11ty/eleventy-plugin-webc");
 const { eleventyImagePlugin } = require("@11ty/eleventy-img");
 const embedEverything = require("eleventy-plugin-embed-everything");
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
+
+const markdownIt = require("markdown-it");
+const markdownItEleventyImg = require("markdown-it-eleventy-img");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(EleventyVitePlugin);
-
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(embedEverything);
+
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt({
+      html: true,
+      breaks: true,
+      linkify: true,
+    }).use(markdownItEleventyImg, {
+      imgOptions: {
+        widths: [1500, 750, 350]),
+        urlPath: "/img/",
+        outputDir: "./dist/img/",
+        formats: ["avif", "webp", "jpeg"],
+      },
+      globalAttributes: {
+        class: "markdown-image",
+        decoding: "async",
+        // If you use multiple widths,
+        // don't forget to add a `sizes` attribute.
+        sizes: "100vw",
+      },
+      resolvePath: (filepath, env) =>
+        path.join(path.dirname(env.page.inputPath), "..", filepath),
+    })
+  );
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
@@ -74,7 +104,7 @@ module.exports = function (eleventyConfig) {
     return content.substr(0, content.lastIndexOf(" ", 200)) + "...";
   });
 
-  eleventyConfig.addPassthroughCopy("src/images");
+  //eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/css");
 
   // WebC
@@ -89,7 +119,7 @@ module.exports = function (eleventyConfig) {
   // Image plugin
   eleventyConfig.addPlugin(eleventyImagePlugin, {
     // Set global default options
-    formats: ["webp", "jpeg"],
+    formats: ["webp", "avif", "jpeg"],
     urlPath: "/img/",
 
     // Notably `outputDir` is resolved automatically

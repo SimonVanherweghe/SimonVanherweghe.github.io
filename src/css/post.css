@@ -9,11 +9,14 @@
   margin-bottom: 2rem;
 }
 
+picture {
+  grid-column: 1 / -1;
+  margin-bottom: 2rem;
+}
+
 .post__img {
   aspect-ratio: 16/9;
   object-fit: cover;
-  margin-bottom: 2rem;
-  grid-column: 1 / -1;
 }
 
 .post__details {

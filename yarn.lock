@@ -1185,7 +1185,14 @@
   "resolved" "https://registry.npmjs.org/luxon/-/luxon-3.3.0.tgz"
   "version" "3.3.0"
 
-"markdown-it@^13.0.1":
+"markdown-it-eleventy-img@^0.10.1":
+  "integrity" "sha512-MaPM7M1qFzbMj1kUeOiC4ZKICO+543bCDyCd7X3PvUdKwIX1dLFv00jO4D6rJPhiJTW7iFdHkRATuvgUdYCE2w=="
+  "resolved" "https://registry.npmjs.org/markdown-it-eleventy-img/-/markdown-it-eleventy-img-0.10.1.tgz"
+  "version" "0.10.1"
+  dependencies:
+    "@11ty/eleventy-img" "^3.1.0"
+
+"markdown-it@^13.0.1", "markdown-it@>= 9.0.0":
   "integrity" "sha512-lTlxriVoy2criHP0JKRhO2VDG9c2ypWCsT237eDiLqi09rmbKoUetyGHq2uOIRoRS//kfoJckS0eUzzkDR+k2Q=="
   "resolved" "https://registry.npmjs.org/markdown-it/-/markdown-it-13.0.1.tgz"
   "version" "13.0.1"

@@ -20,7 +20,13 @@ layout: base.njk
     </div>
   </header>
 
-  <img class="post__img" webc:is="eleventy-image" :width="[1500]" src="{{preview}}" alt="{{ alt or title}}">
+  {% renderTemplate "webc", {
+    preview: preview,
+    alt: alt,
+    title: title
+  } %}
+  <img  class="post__img" webc:is="eleventy-image" :width="[ 500, 750, 1000, 1500 ]" sizes="100vw" :src="{{ './src' + preview}}" :alt="{{ (alt || title)}}">
+  {% endrenderTemplate %}
 
   <div class="post__content">
     {{ content | safe }}

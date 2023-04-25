@@ -3,7 +3,10 @@
     <li class="post-list__item">
       <a class="post-list__link" href="{{ post.url }}">
 
-        <img  class="post-list__img" webc:is="eleventy-image" :width="[500]" src="{{post.data.preview}}" alt="{{ (post.data.alt or post.data.title) | safe}}">
+        {% renderTemplate "webc",
+        post %}
+        <img  class="post-list__img" webc:is="eleventy-image" :width="[300, 500, 750, 1000 ]" sizes="33vw" :src="{{ './src' + data.preview}}" :alt="{{ (data.alt || data.title)}}">
+        {% endrenderTemplate %}
 
         <ul class="post-list__tags">
           {% for tag in post.data.tags | pageTags %}

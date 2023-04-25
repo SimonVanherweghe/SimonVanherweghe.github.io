@@ -71,11 +71,16 @@
 }
 
 
-.post-list__img {
+.post-list__item picture {
   grid-area: img;
+  margin-bottom: 1rem;
+}
+
+.post-list__img {
+ 
   aspect-ratio: 16/8;
   object-fit: cover;
-  margin-bottom: 1rem;
+ 
 }
 
 .post-list__title {
