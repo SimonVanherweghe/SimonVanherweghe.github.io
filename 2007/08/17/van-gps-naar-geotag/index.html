@@ -52,7 +52,7 @@
       mermaid.initialize({startOnLoad: true});
     </script>
     
-    <link rel="stylesheet" href="/assets/main-15d3f22e.css">
+    <link rel="stylesheet" href="/assets/main-03c584e5.css">
   </head>
   <body>
     <div class="layout-wrapper">
@@ -103,7 +103,7 @@
         
 <article class="post">
   <header class="post__header">
-    <h1>Van GPS naar GeoTag</h1>
+    <h2 class="post__title">Van GPS naar GeoTag</h2>
     <div class="post__details">
       <time datetime="2007-08-17">
         17 Aug 2007
@@ -111,7 +111,7 @@
     </div>
   </header>
 
-  <main class="post__content">
+  <div class="post__content markdown">
     <p>Wat zie ik daarnet op <a href="http://www.flickr.com/photos/simonvanherweghe/" title="http://www.flickr.com/photos/simonvanherweghe/">Flickr</a>, dat er nu onderaan de pagina een <a href="http://api.flickr.com/services/feeds/geo/?id=40396650@N00&amp;lang=en-us&amp;format=kml_nl" title="http://api.flickr.com/services/feeds/geo/?id=40396650@N00&amp;lang=en-us&amp;format=kml_nl">KML bestand</a> beschikbaar is met daarin de laatste 20 foto’s die je hebt gegeotagged (er is daar zeker een andere, correcte, schrijfwijze voor) Lovely!</p>
 <p>Nu m’n loggertje wel bewezen heeft dat ie tripjes kan onthouden en ik ze deftig kan weergeven in Google Earth, was het wel eens tijd om te onderzoeken hoe het nu zit met het geo-taggen (zou het zo geschreven zijn?) Voor de leken onder ons (jullie), geotaggen (of zo?) is een foto voorzien van zijn locatie. Een tag meegeven met daarin zijn coördinaten. Dit zetten ze ergens in de <a href="http://nl.wikipedia.org/wiki/Exchangeable_image_file_format" title="http://nl.wikipedia.org/wiki/Exchangeable_image_file_format">Exif</a> data van de foto, tussen alle andere informatie zoals datum, tijdstip, merk camera, sluitertijd enz… Als je dan die foto op Flickr zet, kan ie dat automatisch uitlezen en ze op de juiste plaats op de kaart zetten.</p>
 <p>De gps logger schrijft naast de positie ook telkens het exacte tijdstip van dat moment weg. En aangezien elke foto ook zijn tijdstip van ‘genomen te worden’ in zijn exif data staan heeft, vallen die 2 met elkaar te combineren.</p>
@@ -124,7 +124,7 @@ Je kan telkens kiezen of hij de dichtste log (qua tijd) neemt, of het gemiddelde
 Ik vrees dat ik voor dit laatste toch de programmeer toer zal op moeten, want ik kan nergens hiervoor een goeie freeware oplossing vinden. Eens met Applescript of AIR proberen dan maar.</p>
 <p>Enfin, de dag dat ik in de finder op een knopje ‘foto’s sorteren op plaats’ kan klikken komt stillekesaan dichterbij <img src="http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif" alt=":-)"></p>
 
-  </main>
+  </div>
 
   <aside class="post__aside">
     <div class="post__tags">
@@ -154,8 +154,8 @@ Ik vrees dat ik voor dit laatste toch de programmeer toer zal op moeten, want ik
 
       <footer class="footer">
         <div class="footer__content">
-
-          <ul class="hero__social-links">
+          <p>DoneBySimon &copy; 2023</p>
+          <ul class="footer__links">
             
               
                 
@@ -203,23 +203,19 @@ Ik vrees dat ik voor dit laatste toch de programmeer toer zal op moeten, want ik
                   <a href="/feed.xml" target="_blank" rel="noopener noreferrer" >RSS</a>
                 </li>
               
+                
+
+                
+
+                <li>
+                  <a href="/archive/"  >The archive</a>
+                </li>
+              
             
           </ul>
-
-          <div>
-            
-              <p class="footer__attribution">
-          Based on
-      <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener">Eleventy Duo</a>
-              </p>
-            
-            <p>Very old stuff can be found in <a href="/archive/">the archive</a>.</p>
-          </div>
         </div>
       </div>
 
     </footer>
-
-    
   </body>
 </html>
