@@ -1,0 +1,6 @@
+.post-list__heading {
+  font-size: var(--step-3);
+  font-weight: 400;
+  margin-bottom: var(--space-s);
+  margin-top: var(--space-l)
+}

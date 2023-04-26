@@ -11,20 +11,6 @@
   border-bottom: var(--border);
 }
 
-.post__tags a:any-link{
-  text-decoration: none;
-  color: var(--color-grey);
-  font-size: var(--step--1);
-}
-
-.post__tags a:hover {
-  color: var(--color-bg);
-}
-
-.post__tags {
-  margin-bottom: var(--space-m);
-}
-
 .post__title {
   font-size: var(--step-4);
   font-weight: 400;
@@ -59,4 +45,13 @@
 .post__pagination {
   display: flex;
   justify-content: space-between;
+  align-items: end;
+}
+
+.post__pagination > * {
+  flex: 1;
+}
+
+.post__pagination > *:last-child {
+  text-align: right;
 }

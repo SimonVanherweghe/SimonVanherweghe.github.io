@@ -25,3 +25,7 @@
   margin-left: var(--space-s);
   margin-bottom: var(--space-m);
 }
+
+.markdown strong {
+  font-weight: 400;
+}

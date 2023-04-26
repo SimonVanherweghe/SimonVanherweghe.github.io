@@ -8,6 +8,9 @@
 @import 'footer.css';
 @import 'post.css';
 @import 'markdown.css';
+@import 'blog.css';
+@import 'tags-list.css';
+@import 'archive.css';
 
 html {
   box-sizing: border-box;

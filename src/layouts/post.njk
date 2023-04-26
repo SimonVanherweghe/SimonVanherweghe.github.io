@@ -4,12 +4,9 @@ layout: base.njk
 
 <article class="post">
   <header class="post__header">
-    <div class="post__tags">
-      {% for tag in tags | pageTags %}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}">#{{ tag }}</a>
-      {% endfor %}
-    </div>
+
+    {% set tagslist = tags | pageTags %}
+    {% include "tags-list.njk" %}
 
     <h1 class="post__title">{{ title }}</h1>
     <p class="post__desc">{{ description }}</p>

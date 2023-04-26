@@ -4,7 +4,7 @@ layout: base.njk
 
 <article class="post">
   <header class="post__header">
-    <h1>{{ title }}</h1>
+    <h2 class="post__title">{{ title }}</h2>
     <div class="post__details">
       <time datetime="{{ page.date | htmlDateString }}">
         {{ page.date | readableDate }}
@@ -12,9 +12,9 @@ layout: base.njk
     </div>
   </header>
 
-  <main class="post__content">
+  <div class="post__content markdown">
     {{ content | safe }}
-  </main>
+  </div>
 
   <aside class="post__aside">
     <div class="post__tags">

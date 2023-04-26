@@ -7,9 +7,8 @@ eleventyImport:
 <section class="post-list__wrapper">
   <h2 class="post-list__heading">All posts</h2>
 
-  <div class="tags">
-    {% include "tags-list.njk" %}
-  </div>
+  {% set tagslist = collections.tagList | pageTags %}
+  {% include "tags-list.njk" %}
 
   {% set archiveList = collections.post %}
   {% include "archive-list.njk" %}

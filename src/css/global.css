@@ -1,7 +1,14 @@
+.layout-wrapper {
+  min-height: 100vh; 
+  display: grid;
+  grid-template-rows: auto 1fr auto; 
+}
+
 main {
   padding: var(--space-xs);
   margin: 0 auto;
   max-width: var(--max-width);
+  width: 100%;
 }
 
 a:any-link {
@@ -12,4 +19,9 @@ a:hover{
   color: inherit;
   text-decoration-color:var(--color-accent);
   text-decoration-style: double;
+}
+
+.post-list__wrapper {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
 }
