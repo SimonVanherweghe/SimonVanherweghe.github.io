@@ -11,8 +11,8 @@ layout: base.njk
       {% endfor %}
     </div>
 
-    <h1>{{ title }}</h1>
-    <p>{{ description }}</p>
+    <h1 class="post__title">{{ title }}</h1>
+    <p class="post__desc">{{ description }}</p>
     <div class="post__details">
       <time datetime="{{ page.date | htmlDateString }}">
         {{ page.date | readableDate }}
@@ -28,7 +28,7 @@ layout: base.njk
   <img  class="post__img" webc:is="eleventy-image" :width="[ 500, 750, 1000, 1500 ]" sizes="100vw" :src="{{ './src' + preview}}" :alt="{{ (alt || title)}}">
   {% endrenderTemplate %}
 
-  <div class="post__content">
+  <div class="post__content markdown">
     {{ content | safe }}
   </div>
 

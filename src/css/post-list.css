@@ -30,9 +30,6 @@
   }
 }
 
-
-
-
 .post-list__link {
   text-decoration: none;
   color: inherit;
@@ -40,7 +37,7 @@
 
 .post-list__link:hover .post-list__title{
   text-decoration: underline;
-}
+} 
 
 @container (min-width: 700px) {
   .post-list__link {

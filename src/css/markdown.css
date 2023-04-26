@@ -1,0 +1,27 @@
+.markdown p{
+  margin-bottom: var(--space-m);
+}
+
+.markdown h2{
+  font-size: var(--step-3);
+  font-weight: 400;
+  margin-bottom: var(--space-s);
+  margin-top: var(--space-l)
+}
+
+.markdown ol, .markdown ul {
+  list-style: disc;
+  padding-inline-start: var(--space-s);
+  margin-top: var(--space-2xs);
+}
+
+.markdown li {
+  margin-bottom: var(--space-2xs);
+}
+
+.markdown blockquote {
+  border-left: 4px solid var(--color-grey);
+  padding-left: var(--space-s);
+  margin-left: var(--space-s);
+  margin-bottom: var(--space-m);
+}

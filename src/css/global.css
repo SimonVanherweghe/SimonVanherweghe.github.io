@@ -3,3 +3,13 @@ main {
   margin: 0 auto;
   max-width: var(--max-width);
 }
+
+a:any-link {
+  color: inherit;
+}
+
+a:hover{
+  color: inherit;
+  text-decoration-color:var(--color-accent);
+  text-decoration-style: double;
+}

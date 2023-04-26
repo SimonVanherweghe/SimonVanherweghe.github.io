@@ -6,6 +6,8 @@
 @import 'home.css';
 @import 'post-list.css';
 @import 'footer.css';
+@import 'post.css';
+@import 'markdown.css';
 
 html {
   box-sizing: border-box;
@@ -36,4 +38,9 @@ body {
 
 picture {
   display: block;
+}
+
+picture img {
+  display: block;
+  margin: 0 auto;
 }
