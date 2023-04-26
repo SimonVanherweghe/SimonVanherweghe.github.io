@@ -1,28 +1,39 @@
 @import 'reset.css';
+@import 'tokens.css';
+@import 'typo.css';
 @import 'global.css';
-@import 'variable.css';
-@import 'prism-theme.css';
-@import 'typography.css';
-@import 'post-list.css';
-@import 'hero.css';
 @import 'header.css';
+@import 'home.css';
+@import 'post-list.css';
 @import 'footer.css';
-@import 'post.css';
-@import 'page.css';
 
-.layout-wrapper {
-  display: grid;
-  grid-template-rows: auto minmax(0, 1fr) auto;
-  min-height: 100%;
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
-.main {
-  display: flex;
-  padding-bottom: 4rem;
-  flex-direction: column;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  width: 100%;
-  max-width: var(--max-width);
-  justify-self: center;
+img {
+  max-inline-size: 100%;
+  block-size: auto;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+body {
+  background-color: var(--color-bg);
+}
+
+picture {
+  display: block;
 }

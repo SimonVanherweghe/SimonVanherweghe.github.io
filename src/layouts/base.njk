@@ -102,8 +102,8 @@
 
       <footer class="footer">
         <div class="footer__content">
-
-          <ul class="hero__social-links">
+          <p>DoneBySimon &copy; 2023</p>
+          <ul class="footer__links">
             {% if site.socialLinks %}
               {% for item in site.socialLinks %}
                 {% set externalAttribute = '' %}
@@ -133,21 +133,9 @@
               {% endfor %}
             {% endif %}
           </ul>
-
-          <div>
-            {% if site.showFooterAttribution %}
-              <p class="footer__attribution">
-          Based on
-      <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener">Eleventy Duo</a>
-              </p>
-            {% endif %}
-            <p>Very old stuff can be found in <a href="{{ '/archive/' | url }}">the archive</a>.</p>
-          </div>
         </div>
       </div>
 
     </footer>
-
-    {#     {% bundledjs %} #}
   </body>
 </html>

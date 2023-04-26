@@ -42,7 +42,11 @@
       "text": "RSS",
       "url": "/feed.xml",
       "external": true
+    },
+    {
+      "text": "The archive",
+      "url": "/archive/",
+      "external": false
     }
-  ],
-  "showFooterAttribution": true
+  ]
 }

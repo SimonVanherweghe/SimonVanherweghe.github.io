@@ -1,28 +1,32 @@
 .footer {
-  margin: 0 auto;
-  max-width: var(--max-width);
-  width: 100%;
-  padding: 2rem 1rem;
+  background-color: var(--color-text);
+  padding: var(--space-l) var(--space-xs);
+
+  color: var(--color-bg);
+
+  
 }
 
 .footer__content {
   display: flex;
-  flex-direction: row;
-  align-items: end;
-  justify-content: space-between;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: var(--max-width);
-  width: 100%;
-  border-top: 1px solid rgba(230, 230, 230, 1);
+  flex-flow: column nowrap;
+  align-items: center;
+  gap: var(--space-l);
 }
 
-
-.footer__attribution {
-  font-size: var(--text-sm);
+.footer a:any-link{
+  color: inherit;
 }
 
-.footer p {
-  font-size: var(--text-sm);
+.footer__links {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
 }
 
+.footer__links li:has(+ li)::after {
+  content: "\2022";
+  display: inline-block;
+  width: 2ch;
+  text-align: center;
+}

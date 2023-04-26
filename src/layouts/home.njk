@@ -15,9 +15,7 @@ eleventyImport:
 <section class="post-list__wrapper home">
   <h2 class="post-list__heading visually-hidden">Recent stuff</h2>
 
-  {% set postslist = collections.post | head(-25) %}
+  {% set postslist = collections.post %}
   {% include "posts-list.njk" %}
 
 </section>
-
-<a class="all-posts-link" href="{{ '/blog/' | url }}">View All Posts</a>
