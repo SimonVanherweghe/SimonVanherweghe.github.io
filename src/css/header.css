@@ -1,9 +1,10 @@
 .header {
   border-bottom: var(--border);
-  padding: var(--space-xs);
   padding-bottom: var(--space-s);
   margin-bottom: var(--space-m);
 }
+
+
 
 .header a:any-link {
   text-decoration: none;
@@ -19,6 +20,10 @@
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
+
+  padding: var(--space-xs);
+  margin: 0 auto;
+  max-width: var(--max-width);
 }
 
 
