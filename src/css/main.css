@@ -11,6 +11,7 @@
 @import 'blog.css';
 @import 'tags-list.css';
 @import 'archive.css';
+@import 'page.css';
 
 html {
   box-sizing: border-box;
