@@ -41,9 +41,9 @@
           "type": "image"
         },
         {
-          "title": "Is in draft",
-          "name": "draft",
-          "type": "boolean"
+          "title": "Preview alt",
+          "name": "alt",
+          "type": "string"
         },
         {
           "title": "Tags",
