@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href=https://donebysimon.be/2023/05/03/textivalkrant/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+
+    <title>
+      Textivalkrant
+      
+         | DoneBySimon
+      
+    </title>
+
+    
+
+    <link rel="icon" type= “image/x-icon” href="/images/favicon.ico">
+
+    <meta property="og:title" content="Textivalkrant">
+    <meta property="og:site_name" content="DoneBySimon"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://donebysimon.be/2023/05/03/textivalkrant/"/>
+    <meta name="twitter:card" content="summary_large_image">
+
+    
+      <meta name="twitter:creator" content="@donebysimon"/>
+    
+
+    
+    
+    
+      <meta name="description" content="A mobile program guide with a funny twist">
+      <meta property="og:description" content="A mobile program guide with a funny twist">
+      <meta name="description" content="A mobile program guide with a funny twist"/>
+    
+
+    
+      
+    
+    
+    <link rel="stylesheet" href="/assets/main-03c584e5.css">
+  </head>
+  <body>
+    <div class="layout-wrapper">
+
+      <header class="header">
+        <div class="header__content">
+          <h1 class="site-title">
+            <a href="/">
+              DoneBySimon
+            </a>
+          </h1>
+
+          
+            <nav class="nav">
+              <ul class="nav__list">
+                
+                  
+                  
+
+                  
+
+                  
+
+                  <li class="nav-item">
+                    <a href="/blog/"  >Blog</a>
+                  </li>
+                
+                  
+                  
+
+                  
+
+                  
+
+                  <li class="nav-item">
+                    <a href="/about/"  >About</a>
+                  </li>
+                
+              </ul>
+            </nav>
+
+          
+
+        </div>
+      </header>
+
+      <main class="main">
+        
+<article class="post">
+  <header class="post__header">
+
+    
+    <ul class="tags-list">
+  
+    
+
+    <li class="tags__item">
+      <a href="/tags/code/" class="tags__link">#code</a>
+    </li>
+
+  
+</ul>
+
+    <h1 class="post__title">Textivalkrant</h1>
+    <p class="post__desc">A mobile program guide with a funny twist</p>
+    <div class="post__details">
+      <time datetime="2023-05-03">
+        03 May 2023
+      </time>
+    </div>
+  </header>
+
+  <picture><source type="image/webp" srcset="/assets/LPrewSwubi-500-fa053914.webp 500w, /assets/LPrewSwubi-750-ab1c72ef.webp 750w, /assets/LPrewSwubi-1000-847a9268.webp 1000w" sizes="100vw"><source type="image/avif" srcset="/assets/LPrewSwubi-500-8d9fbb2c.avif 500w, /assets/LPrewSwubi-750-a7db3eae.avif 750w, /assets/LPrewSwubi-1000-d2864e3e.avif 1000w" sizes="100vw"><img loading="lazy" decoding="async" src="/assets/LPrewSwubi-500-fa053914.webp" alt="A screenshot of the Textivalkrant header consistiong of a menu and a rockstar construction worker on a wrecking ball." width="1000" height="543" class="post__img"></picture>
+  
+
+  <div class="post__content markdown">
+    <p>For a <a href="https://textival.be">local festival</a> I was asked to make some kind of digital program guide. There was a focus on reducing the amount of print, so a dedicated mobile site for the schedule and other useful information was a logical approach.</p>
+<p>To keep the sponsors happy, they also had to be given some exposure there. The problem was: how to display more than 20 sponsors on a mobile site? No one would sit back and swipe to a carousel of sponsors.</p>
+<h2>Butt crack</h2>
+<p>The theme of the festival was 'construction' and low hanging pants was already been mentioned a couple of times. So I came up with the idea of hacking the mobile page refresh. Instead of refreshing the page, one would pull down a construction workers pants and a new sponsor would pop up.</p>
+<p>The pull down hack was implemented quite easily. Off course there were some differences between Android and iOS, but they were easily resolved.</p>
+<h2>Probability</h2>
+<p>To decide which sponsor would pop up, I wrote a serverless function that returns a specific sponsor, the higher they sponsored, the bigger the chance they will be returned.</p>
+<p>I based the algorithm on this genius piece of code. I don't entirely grasp how it works, but it does…<br>
+<a href="https://gist.github.com/alesmenzel/6164543b3d018df7bcaf6c5f9e6a841e">https://gist.github.com/alesmenzel/6164543b3d018df7bcaf6c5f9e6a841e</a></p>
+<h2>Sponsor logos</h2>
+<p>Everyone that had to publish something with lots of sponsors on it gets it: all those logos with different colors, orientations, and dimensions are terrible to work with. I wanted them all to be at the bottom of the screen, like a banner. But that meant that I had to get them within the same dimension, pick a background color, center the logo and so on. And when it would turn out that they needed some more padding, I would have to do it all over again. I don't think there was any extra motivation necessary to script this job.</p>
+<p><a href="https://gist.github.com/SimonVanherweghe/a7d64572b0f27a665ab941df7c60e3ab">https://gist.github.com/SimonVanherweghe/a7d64572b0f27a665ab941df7c60e3ab</a></p>
+<h2>The result</h2>
+<p>You can have a look at <a href="textivalkrant.vercel.app">textivalkrant.vercel.app</a> but be aware it was meant to be viewed on a mobile device. People scanned QR codes that were on the tables.</p>
+<h2>Credits</h2>
+<p>I can't finish this post without giving credits to <a href="https://www.instagram.com/pieter.depoortere/">Pieter Depoortere</a> and <a href="https://www.agatasmok.be/">Agata Smok</a> for the graphics and style guidance. Go check them out.</p>
+
+  </div>
+
+  <aside class="post__aside">
+
+    <nav class="post__pagination">
+
+        <a href="/2023/04/27/shifts-planning/">
+          <span>Shifts planning</span>
+          <span>→</span>
+        </a>
+
+      
+    </nav>
+  </aside>
+
+</article>
+      </main>
+
+      <footer class="footer">
+        <div class="footer__content">
+          <p>DoneBySimon &copy; 2023</p>
+          <ul class="footer__links">
+            
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="https://www.instagram.com/donebysimon/" target="_blank" rel="noopener noreferrer" >Instagram</a>
+                </li>
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="https://github.com/simonvanherweghe" target="_blank" rel="noopener noreferrer" >GitHub</a>
+                </li>
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="https://twitter.com/donebysimon" target="_blank" rel="noopener noreferrer" >Twitter</a>
+                </li>
+              
+            
+
+            
+
+              
+                
+
+                
+                  
+                
+
+                <li>
+                  <a href="/feed.xml" target="_blank" rel="noopener noreferrer" >RSS</a>
+                </li>
+              
+                
+
+                
+
+                <li>
+                  <a href="/archive/"  >The archive</a>
+                </li>
+              
+            
+          </ul>
+        </div>
+      </div>
+
+    </footer>
+  </body>
+</html>
