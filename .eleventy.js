@@ -27,7 +27,10 @@ module.exports = function (eleventyConfig) {
         widths: [1500, 750, 350],
         urlPath: "/img/",
         outputDir: "./dist/img/",
-        formats: ["avif", "webp", "jpeg"],
+        formats: ["webp", "jpeg"],
+        sharpOptions: {
+          animated: true,
+        },
       },
       globalAttributes: {
         class: "markdown-image",
@@ -124,7 +127,7 @@ module.exports = function (eleventyConfig) {
   // Image plugin
   eleventyConfig.addPlugin(eleventyImagePlugin, {
     // Set global default options
-    formats: ["webp", "avif", "jpeg"],
+    formats: ["webp", "avif"],
     urlPath: "/img/",
 
     // Notably `outputDir` is resolved automatically
