@@ -7,7 +7,7 @@ Simon Vanherweghe is a lecturer who specializes in teaching web development and 
 
 In the kitchen he likes to try out new recipes and dive deep into specific dishes. Ramen, sourdough, pizza, bbq are just a few of his favorite things to make. He also loves to experiment with different ingredients and techniques.
 
-## Site
+## About the site
 
 Traditionally for a developer, this site is a victim of continuous overhauls, experiments and bugs.
 
