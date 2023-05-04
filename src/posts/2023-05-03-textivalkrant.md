@@ -28,17 +28,18 @@ The pull down hack was implemented quite easily. Off course there were some diff
 To decide which sponsor would pop up, I wrote a serverless function that returns a specific sponsor, the higher they sponsored, the bigger the chance they will be returned.
 
 I based the algorithm on this genius piece of code. I don't entirely grasp how it works, but it does…
-<https://gist.github.com/alesmenzel/6164543b3d018df7bcaf6c5f9e6a841e>
+
+<script src="https://gist.github.com/alesmenzel/6164543b3d018df7bcaf6c5f9e6a841e.js"></script>
 
 ## Sponsor logos
 
 Everyone that had to publish something with lots of sponsors on it gets it: all those logos with different colors, orientations, and dimensions are terrible to work with. I wanted them all to be at the bottom of the screen, like a banner. But that meant that I had to get them within the same dimension, pick a background color, center the logo and so on. And when it would turn out that they needed some more padding, I would have to do it all over again. I don't think there was any extra motivation necessary to script this job.
 
-<https://gist.github.com/SimonVanherweghe/a7d64572b0f27a665ab941df7c60e3ab>
+<script src="https://gist.github.com/SimonVanherweghe/a7d64572b0f27a665ab941df7c60e3ab.js"></script>
 
 ## The result
 
-You can have a look at [textivalkrant.vercel.app](textivalkrant.vercel.app) but be aware it was meant to be viewed on a mobile device. People scanned QR codes that were on the tables.
+You can have a look at [textivalkrant.vercel.app](https://textivalkrant.vercel.app) but be aware it was meant to be viewed on a mobile device. People scanned QR codes that were on the tables.
 
 ## Credits
 

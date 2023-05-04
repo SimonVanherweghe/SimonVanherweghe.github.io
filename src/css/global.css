@@ -25,3 +25,11 @@ a:hover{
   max-width: var(--max-width-content);
   margin: 0 auto;
 }
+
+.gist-data {
+  max-height: 15rem;
+}
+
+.gist-file {
+  max-width: 90vw;
+}
