@@ -9,10 +9,6 @@
     }
   ],
   "frontMatter.content.publicFolder": "[[workspace]]/src/",
-  "frontMatter.taxonomy.tags": [
-    "post",
-    "project"
-  ],
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
