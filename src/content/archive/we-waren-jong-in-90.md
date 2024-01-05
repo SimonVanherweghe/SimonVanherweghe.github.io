@@ -1,6 +1,6 @@
 ---
 title: "We waren jong in 90"
-date: "2008-03-13T19:24:15"
+date: 2008-03-13T19:24:15
 permalink: "2008/03/13/we-waren-jong-in-90/"
 tags: ["archive"]
 layout: "archive-post"

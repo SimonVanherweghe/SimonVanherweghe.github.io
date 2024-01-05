@@ -1,6 +1,6 @@
 ---
 title: "Eure zeekapiting"
-date: "2006-09-17T18:06:02"
+date: 2006-09-17T18:06:02
 permalink: "2006/09/17/eure-zeekapiting/"
 tags: ["archive"]
 layout: "archive-post"

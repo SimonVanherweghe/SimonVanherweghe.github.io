@@ -1,6 +1,6 @@
 ---
 title: "Can you digg it?"
-date: "2006-05-17T17:04:46"
+date: 2006-05-17T17:04:46
 permalink: "2006/05/17/can-you-digg-it/"
 tags: ["archive"]
 layout: "archive-post"

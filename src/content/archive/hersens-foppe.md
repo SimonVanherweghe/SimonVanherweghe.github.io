@@ -1,6 +1,6 @@
 ---
 title: "Hersens foppe"
-date: "2006-04-07T00:24:03"
+date: 2006-04-07T00:24:03
 permalink: "2006/04/07/hersens-foppe/"
 tags: ["archive"]
 layout: "archive-post"

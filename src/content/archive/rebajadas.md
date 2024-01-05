@@ -1,6 +1,6 @@
 ---
 title: "Rebajadas"
-date: "2007-10-23T23:45:56"
+date: 2007-10-23T23:45:56
 permalink: "2007/10/23/rebajadas/"
 tags: ["archive"]
 layout: "archive-post"

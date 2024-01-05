@@ -1,6 +1,6 @@
 ---
 title: "MusicMania gesloten?"
-date: "2007-04-10T20:54:01"
+date: 2007-04-10T20:54:01
 permalink: "2007/04/10/musicmania-gesloten/"
 tags: ["archive"]
 layout: "archive-post"

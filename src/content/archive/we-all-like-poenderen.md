@@ -1,6 +1,6 @@
 ---
 title: "We all like poenderen"
-date: "2006-09-21T22:02:20"
+date: 2006-09-21T22:02:20
 permalink: "2006/09/21/we-all-like-poenderen/"
 tags: ["archive"]
 layout: "archive-post"

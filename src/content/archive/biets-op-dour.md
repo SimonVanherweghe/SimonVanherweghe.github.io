@@ -1,6 +1,6 @@
 ---
 title: "Biets op Dour"
-date: "2008-07-22T00:10:46"
+date: 2008-07-22T00:10:46
 permalink: "2008/07/22/biets-op-dour/"
 tags: ["archive"]
 layout: "archive-post"

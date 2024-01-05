@@ -1,6 +1,6 @@
 ---
 title: "Ornamentalsinxen"
-date: "2007-05-29T19:14:06"
+date: 2007-05-29T19:14:06
 permalink: "2007/05/29/ornamentalsinxen/"
 tags: ["archive"]
 layout: "archive-post"

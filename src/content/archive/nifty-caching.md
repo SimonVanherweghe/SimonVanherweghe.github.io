@@ -1,6 +1,6 @@
 ---
 title: "Nifty caching"
-date: "2010-02-18T22:27:31"
+date: 2010-02-18T22:27:31
 permalink: "2010/02/18/nifty-caching/"
 tags: ["archive"]
 layout: "archive-post"

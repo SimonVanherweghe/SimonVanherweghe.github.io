@@ -1,6 +1,6 @@
 ---
 title: "Hello Simon"
-date: "2007-03-21T20:36:21"
+date: 2007-03-21T20:36:21
 permalink: "2007/03/21/hello-simon/"
 tags: ["archive"]
 layout: "archive-post"

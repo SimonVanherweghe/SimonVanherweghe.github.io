@@ -1,6 +1,6 @@
 ---
 title: "The Masterplan"
-date: "2007-02-20T20:42:00"
+date: 2007-02-20T20:42:00
 permalink: "2007/02/20/the-masterplan/"
 tags: ["archive"]
 layout: "archive-post"

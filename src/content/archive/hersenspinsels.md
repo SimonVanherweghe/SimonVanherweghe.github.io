@@ -1,6 +1,6 @@
 ---
 title: "Hersenspinsels"
-date: "2006-09-13T22:07:03"
+date: 2006-09-13T22:07:03
 permalink: "2006/09/13/hersenspinsels/"
 tags: ["archive"]
 layout: "archive-post"

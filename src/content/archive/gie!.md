@@ -1,6 +1,6 @@
 ---
 title: "Gie!"
-date: "2006-09-10T20:31:21"
+date: 2006-09-10T20:31:21
 permalink: "2006/09/10/gie/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Petrettetrekkerie"
-date: "2006-11-07T21:35:20"
+date: 2006-11-07T21:35:20
 permalink: "2006/11/07/petrettetrekkerie/"
 tags: ["archive"]
 layout: "archive-post"

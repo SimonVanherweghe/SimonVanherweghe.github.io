@@ -1,6 +1,6 @@
 ---
 title: "Its bien awaaijl"
-date: "2007-01-24T22:03:33"
+date: 2007-01-24T22:03:33
 permalink: "2007/01/24/its-bien-awaaijl/"
 tags: ["archive"]
 layout: "archive-post"

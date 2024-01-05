@@ -1,6 +1,6 @@
 ---
 title: "Kom ne keer af!"
-date: "2007-01-15T12:33:51"
+date: 2007-01-15T12:33:51
 permalink: "2007/01/15/kom-ne-keer-af/"
 tags: ["archive"]
 layout: "archive-post"

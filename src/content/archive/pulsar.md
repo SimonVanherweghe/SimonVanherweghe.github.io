@@ -1,6 +1,6 @@
 ---
 title: "Pulsar"
-date: "2006-05-17T09:49:45"
+date: 2006-05-17T09:49:45
 permalink: "2006/05/17/pulsar/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Wicked weekend"
-date: "2006-10-17T17:45:33"
+date: 2006-10-17T17:45:33
 permalink: "2006/10/17/wicked-weekend/"
 tags: ["archive"]
 layout: "archive-post"

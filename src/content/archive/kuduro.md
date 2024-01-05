@@ -1,6 +1,6 @@
 ---
 title: "Kuduro"
-date: "2007-02-26T22:37:18"
+date: 2007-02-26T22:37:18
 permalink: "2007/02/26/kuduro/"
 tags: ["archive"]
 layout: "archive-post"

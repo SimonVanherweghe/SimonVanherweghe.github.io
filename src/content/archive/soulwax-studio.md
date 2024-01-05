@@ -1,6 +1,6 @@
 ---
 title: "Soulwax studio"
-date: "2008-02-06T18:33:16"
+date: 2008-02-06T18:33:16
 permalink: "2008/02/06/soulwax-studio/"
 tags: ["archive"]
 layout: "archive-post"

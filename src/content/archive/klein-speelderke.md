@@ -1,6 +1,6 @@
 ---
 title: "Klein speelderke"
-date: "2006-10-09T23:37:54"
+date: 2006-10-09T23:37:54
 permalink: "2006/10/09/klein-speelderke/"
 tags: ["archive"]
 layout: "archive-post"

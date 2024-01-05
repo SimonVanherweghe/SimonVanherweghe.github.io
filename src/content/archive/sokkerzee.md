@@ -1,6 +1,6 @@
 ---
 title: "Sokkerzee"
-date: "2007-05-18T12:20:47"
+date: 2007-05-18T12:20:47
 permalink: "2007/05/18/sokkerzee/"
 tags: ["archive"]
 layout: "archive-post"

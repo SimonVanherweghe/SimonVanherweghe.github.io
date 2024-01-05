@@ -1,6 +1,6 @@
 ---
 title: "Brothers on the run"
-date: "2006-07-09T13:18:04"
+date: 2006-07-09T13:18:04
 permalink: "2006/07/09/brothers-on-the-run/"
 tags: ["archive"]
 layout: "archive-post"

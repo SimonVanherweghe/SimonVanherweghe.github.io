@@ -1,6 +1,6 @@
 ---
 title: "The History of Sampling"
-date: "2008-04-18T22:24:37"
+date: 2008-04-18T22:24:37
 permalink: "2008/04/18/the-history-of-sampling/"
 tags: ["archive"]
 layout: "archive-post"

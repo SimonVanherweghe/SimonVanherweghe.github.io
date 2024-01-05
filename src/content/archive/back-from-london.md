@@ -1,6 +1,6 @@
 ---
 title: "Back from London"
-date: "2009-03-01T22:55:07"
+date: 2009-03-01T22:55:07
 permalink: "2009/03/01/back-from-london/"
 tags: ["archive"]
 layout: "archive-post"

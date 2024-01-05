@@ -1,6 +1,6 @@
 ---
 title: "I’m off!"
-date: "2007-07-03T15:55:27"
+date: 2007-07-03T15:55:27
 permalink: "2007/07/03/im-off/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Herbruikbaar"
-date: "2006-10-12T22:59:20"
+date: 2006-10-12T22:59:20
 permalink: "2006/10/12/herbruikbaar/"
 tags: ["archive"]
 layout: "archive-post"

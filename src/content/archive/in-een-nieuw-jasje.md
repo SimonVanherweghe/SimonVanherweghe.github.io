@@ -1,6 +1,6 @@
 ---
 title: "In een nieuw jasje"
-date: "2007-09-25T21:57:15"
+date: 2007-09-25T21:57:15
 permalink: "2007/09/25/in-een-nieuw-jasje/"
 tags: ["archive"]
 layout: "archive-post"

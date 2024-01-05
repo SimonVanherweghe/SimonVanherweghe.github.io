@@ -1,6 +1,6 @@
 ---
 title: "Ik ben er even niet"
-date: "2006-07-14T22:43:12"
+date: 2006-07-14T22:43:12
 permalink: "2006/07/14/ik-ben-er-even-niet/"
 tags: ["archive"]
 layout: "archive-post"

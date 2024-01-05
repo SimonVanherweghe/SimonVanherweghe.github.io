@@ -1,6 +1,6 @@
 ---
 title: "Van GPS naar GeoTag"
-date: "2007-08-17T00:12:21"
+date: 2007-08-17T00:12:21
 permalink: "2007/08/17/van-gps-naar-geotag/"
 tags: ["archive"]
 layout: "archive-post"

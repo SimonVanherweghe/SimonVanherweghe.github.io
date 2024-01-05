@@ -1,6 +1,6 @@
 ---
 title: "Bent festival"
-date: "2006-04-17T20:40:10"
+date: 2006-04-17T20:40:10
 permalink: "2006/04/17/bent-festival/"
 tags: ["archive"]
 layout: "archive-post"

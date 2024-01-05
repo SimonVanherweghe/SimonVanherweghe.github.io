@@ -1,6 +1,6 @@
 ---
 title: "De wereld aan je voeten"
-date: "2007-03-14T21:56:24"
+date: 2007-03-14T21:56:24
 permalink: "2007/03/14/de-wereld-aan-je-voeten/"
 tags: ["archive"]
 layout: "archive-post"

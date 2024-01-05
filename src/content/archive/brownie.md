@@ -1,6 +1,6 @@
 ---
 title: "Brownie"
-date: "2006-08-28T19:40:52"
+date: 2006-08-28T19:40:52
 permalink: "2006/08/28/brownie/"
 tags: ["archive"]
 layout: "archive-post"

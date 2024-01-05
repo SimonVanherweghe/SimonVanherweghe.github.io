@@ -1,6 +1,6 @@
 ---
 title: "Op het podium"
-date: "2007-01-26T21:53:16"
+date: 2007-01-26T21:53:16
 permalink: "2007/01/26/op-het-podium/"
 tags: ["archive"]
 layout: "archive-post"

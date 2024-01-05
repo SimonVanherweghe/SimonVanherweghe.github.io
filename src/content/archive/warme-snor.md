@@ -1,6 +1,6 @@
 ---
 title: "Warme snor"
-date: "2007-11-20T22:44:18"
+date: 2007-11-20T22:44:18
 permalink: "2007/11/20/warme-snor/"
 tags: ["archive"]
 layout: "archive-post"

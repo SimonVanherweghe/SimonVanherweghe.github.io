@@ -1,6 +1,6 @@
 ---
 title: "Feeds"
-date: "2006-05-09T20:07:58"
+date: 2006-05-09T20:07:58
 permalink: "2006/05/09/feeds/"
 tags: ["archive"]
 layout: "archive-post"

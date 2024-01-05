@@ -1,6 +1,6 @@
 ---
 title: "Vanallesennogeentwa"
-date: "2006-11-28T23:42:29"
+date: 2006-11-28T23:42:29
 permalink: "2006/11/28/vanallesennogeentwa/"
 tags: ["archive"]
 layout: "archive-post"

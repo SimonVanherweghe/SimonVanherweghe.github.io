@@ -1,6 +1,6 @@
 ---
 title: "Het harmonium"
-date: "2007-05-27T16:33:34"
+date: 2007-05-27T16:33:34
 permalink: "2007/05/27/het-harmonium/"
 tags: ["archive"]
 layout: "archive-post"

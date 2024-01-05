@@ -1,6 +1,6 @@
 ---
 title: "Wereldkamp"
-date: "2006-10-10T20:21:13"
+date: 2006-10-10T20:21:13
 permalink: "2006/10/10/wereldkamp/"
 tags: ["archive"]
 layout: "archive-post"

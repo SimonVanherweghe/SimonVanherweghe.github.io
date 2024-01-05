@@ -1,6 +1,6 @@
 ---
 title: "A weekend of perfomances"
-date: "2008-09-19T00:56:51"
+date: 2008-09-19T00:56:51
 permalink: "2008/09/19/a-weekend-of-perfomances/"
 tags: ["archive"]
 layout: "archive-post"

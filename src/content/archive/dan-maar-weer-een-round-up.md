@@ -1,6 +1,6 @@
 ---
 title: "Dan maar weer een round-up"
-date: "2007-06-15T00:56:51"
+date: 2007-06-15T00:56:51
 permalink: "2007/06/15/dan-maar-weer-een-round-up/"
 tags: ["archive"]
 layout: "archive-post"

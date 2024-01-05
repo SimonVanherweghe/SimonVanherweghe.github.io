@@ -1,6 +1,6 @@
 ---
 title: "Sigur Poenderen"
-date: "2008-10-14T01:46:42"
+date: 2008-10-14T01:46:42
 permalink: "2008/10/14/sigur-poenderen/"
 tags: ["archive"]
 layout: "archive-post"

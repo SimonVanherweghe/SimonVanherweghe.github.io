@@ -1,6 +1,6 @@
 ---
 title: "Skrabbelzee"
-date: "2006-06-14T00:55:56"
+date: 2006-06-14T00:55:56
 permalink: "2006/06/14/skrabbelzee/"
 tags: ["archive"]
 layout: "archive-post"

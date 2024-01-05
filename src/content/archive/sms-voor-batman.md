@@ -1,6 +1,6 @@
 ---
 title: "Sms voor Batman"
-date: "2006-04-14T21:46:24"
+date: 2006-04-14T21:46:24
 permalink: "2006/04/14/sms-voor-batman/"
 tags: ["archive"]
 layout: "archive-post"

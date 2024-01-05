@@ -1,6 +1,6 @@
 ---
 title: "Digitaal kabaal"
-date: "2006-10-10T17:40:50"
+date: 2006-10-10T17:40:50
 permalink: "2006/10/10/digitaal-kabaal/"
 tags: ["archive"]
 layout: "archive-post"

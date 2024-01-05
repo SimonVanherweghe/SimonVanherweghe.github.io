@@ -1,6 +1,6 @@
 ---
 title: "Ooit uitverkoop"
-date: "2008-03-09T23:23:13"
+date: 2008-03-09T23:23:13
 permalink: "2008/03/09/ooit-uitverkoop/"
 tags: ["archive"]
 layout: "archive-post"

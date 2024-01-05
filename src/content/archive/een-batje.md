@@ -1,6 +1,6 @@
 ---
 title: "Een batje"
-date: "2007-01-23T22:52:21"
+date: 2007-01-23T22:52:21
 permalink: "2007/01/23/een-batje/"
 tags: ["archive"]
 layout: "archive-post"

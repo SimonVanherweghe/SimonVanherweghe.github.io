@@ -1,6 +1,6 @@
 ---
 title: "Go Berre!"
-date: "2008-07-08T23:11:53"
+date: 2008-07-08T23:11:53
 permalink: "2008/07/08/go-berre/"
 tags: ["archive"]
 layout: "archive-post"

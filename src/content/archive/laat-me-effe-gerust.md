@@ -1,6 +1,6 @@
 ---
 title: "Laat me effe gerust"
-date: "2007-06-11T19:32:59"
+date: 2007-06-11T19:32:59
 permalink: "2007/06/11/laat-me-effe-gerust/"
 tags: ["archive"]
 layout: "archive-post"

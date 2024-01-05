@@ -1,6 +1,6 @@
 ---
 title: "Nen dink"
-date: "2006-10-17T18:03:34"
+date: 2006-10-17T18:03:34
 permalink: "2006/10/17/nen-dink/"
 tags: ["archive"]
 layout: "archive-post"

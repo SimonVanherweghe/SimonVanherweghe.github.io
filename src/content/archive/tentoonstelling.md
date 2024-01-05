@@ -1,6 +1,6 @@
 ---
 title: "Tentoonstelling"
-date: "2009-04-17T12:35:38"
+date: 2009-04-17T12:35:38
 permalink: "2009/04/17/tentoonstelling/"
 tags: ["archive"]
 layout: "archive-post"

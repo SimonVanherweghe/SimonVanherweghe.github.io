@@ -1,6 +1,6 @@
 ---
 title: "Laser graffiti"
-date: "2007-02-20T20:47:29"
+date: 2007-02-20T20:47:29
 permalink: "2007/02/20/laser-graffiti/"
 tags: ["archive"]
 layout: "archive-post"

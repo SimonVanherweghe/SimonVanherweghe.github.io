@@ -1,6 +1,6 @@
 ---
 title: "Party Party"
-date: "2007-11-20T00:28:46"
+date: 2007-11-20T00:28:46
 permalink: "2007/11/20/party-party/"
 tags: ["archive"]
 layout: "archive-post"

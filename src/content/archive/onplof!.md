@@ -1,6 +1,6 @@
 ---
 title: "Onplof!"
-date: "2007-05-31T22:29:34"
+date: 2007-05-31T22:29:34
 permalink: "2007/05/31/onplof/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Cee-Lo Green is the soul machine!"
-date: "2006-07-09T11:25:11"
+date: 2006-07-09T11:25:11
 permalink: "2006/07/09/cee-lo-green-is-the-soul-machine/"
 tags: ["archive"]
 layout: "archive-post"

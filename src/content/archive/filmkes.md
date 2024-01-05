@@ -1,6 +1,6 @@
 ---
 title: "Filmkes"
-date: "2006-05-10T19:47:51"
+date: 2006-05-10T19:47:51
 permalink: "2006/05/10/filmkes/"
 tags: ["archive"]
 layout: "archive-post"

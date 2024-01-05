@@ -1,6 +1,6 @@
 ---
 title: "Een leuke"
-date: "2008-01-08T22:40:32"
+date: 2008-01-08T22:40:32
 permalink: "2008/01/08/een-leuke/"
 tags: ["archive"]
 layout: "archive-post"

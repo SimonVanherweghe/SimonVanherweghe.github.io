@@ -1,6 +1,6 @@
 ---
 title: "Stoute manieren?"
-date: "2007-11-12T22:49:32"
+date: 2007-11-12T22:49:32
 permalink: "2007/11/12/stoute-manieren/"
 tags: ["archive"]
 layout: "archive-post"

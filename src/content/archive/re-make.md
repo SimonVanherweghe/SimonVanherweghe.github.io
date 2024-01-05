@@ -1,6 +1,6 @@
 ---
 title: "Re-make"
-date: "2007-08-15T21:09:14"
+date: 2007-08-15T21:09:14
 permalink: "2007/08/15/re-make/"
 tags: ["archive"]
 layout: "archive-post"

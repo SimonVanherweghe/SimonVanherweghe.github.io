@@ -1,6 +1,6 @@
 ---
 title: "8mm &#8211; deel 2"
-date: "2009-04-19T15:40:21"
+date: 2009-04-19T15:40:21
 permalink: "2009/04/19/8mm-deel-2/"
 tags: ["archive"]
 layout: "archive-post"

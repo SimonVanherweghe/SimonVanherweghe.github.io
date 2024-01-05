@@ -1,6 +1,6 @@
 ---
 title: "Werchter"
-date: "2008-07-06T14:37:37"
+date: 2008-07-06T14:37:37
 permalink: "2008/07/06/werchter/"
 tags: ["archive"]
 layout: "archive-post"

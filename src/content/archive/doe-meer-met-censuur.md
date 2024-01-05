@@ -1,6 +1,6 @@
 ---
 title: "Doe méér met censuur"
-date: "2008-06-12T20:48:40"
+date: 2008-06-12T20:48:40
 permalink: "2008/06/12/doe-meer-met-censuur/"
 tags: ["archive"]
 layout: "archive-post"

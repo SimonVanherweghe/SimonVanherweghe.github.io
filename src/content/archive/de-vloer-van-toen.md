@@ -1,6 +1,6 @@
 ---
 title: "De vloer van toen"
-date: "2008-02-06T18:07:06"
+date: 2008-02-06T18:07:06
 permalink: "2008/02/06/de-vloer-van-toen/"
 tags: ["archive"]
 layout: "archive-post"

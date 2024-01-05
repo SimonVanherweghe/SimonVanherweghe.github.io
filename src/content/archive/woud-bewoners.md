@@ -1,6 +1,6 @@
 ---
 title: "Woud bewoners"
-date: "2007-02-20T20:26:41"
+date: 2007-02-20T20:26:41
 permalink: "2007/02/20/woud-bewoners/"
 tags: ["archive"]
 layout: "archive-post"

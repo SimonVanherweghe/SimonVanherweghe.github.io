@@ -1,6 +1,6 @@
 ---
 title: "Harelbeke blogt"
-date: "2008-12-31T12:33:33"
+date: 2008-12-31T12:33:33
 permalink: "2008/12/31/harelbeke-blogt/"
 tags: ["archive"]
 layout: "archive-post"

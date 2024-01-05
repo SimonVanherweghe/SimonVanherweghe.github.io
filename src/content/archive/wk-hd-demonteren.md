@@ -1,6 +1,6 @@
 ---
 title: "WK HD demonteren"
-date: "2006-11-02T01:08:21"
+date: 2006-11-02T01:08:21
 permalink: "2006/11/02/wk-hd-demonteren/"
 tags: ["archive"]
 layout: "archive-post"

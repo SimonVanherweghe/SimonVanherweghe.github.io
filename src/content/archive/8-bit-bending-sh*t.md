@@ -1,6 +1,6 @@
 ---
 title: "8-bit-bending-sh*t"
-date: "2008-09-05T01:22:42"
+date: 2008-09-05T01:22:42
 permalink: "2008/09/05/8-bit-bending-sht/"
 tags: ["archive"]
 layout: "archive-post"

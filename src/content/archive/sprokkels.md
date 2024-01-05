@@ -1,6 +1,6 @@
 ---
 title: "Sprokkels"
-date: "2008-07-16T11:08:17"
+date: 2008-07-16T11:08:17
 permalink: "2008/07/16/sprokkels/"
 tags: ["archive"]
 layout: "archive-post"

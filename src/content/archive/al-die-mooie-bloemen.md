@@ -1,6 +1,6 @@
 ---
 title: "Al die mooie bloemen"
-date: "2008-07-02T01:27:25"
+date: 2008-07-02T01:27:25
 permalink: "2008/07/02/al-die-mooie-bloemen/"
 tags: ["archive"]
 layout: "archive-post"

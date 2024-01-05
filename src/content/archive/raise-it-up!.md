@@ -1,6 +1,6 @@
 ---
 title: "Raise it up!"
-date: "2009-03-11T22:33:12"
+date: 2009-03-11T22:33:12
 permalink: "2009/03/11/raise-it-up/"
 tags: ["archive"]
 layout: "archive-post"

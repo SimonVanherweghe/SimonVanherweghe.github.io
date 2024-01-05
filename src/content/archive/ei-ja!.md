@@ -1,6 +1,6 @@
 ---
 title: "Ei ja!"
-date: "2007-09-26T23:49:38"
+date: 2007-09-26T23:49:38
 permalink: "2007/09/26/ei-ja/"
 tags: ["archive"]
 layout: "archive-post"

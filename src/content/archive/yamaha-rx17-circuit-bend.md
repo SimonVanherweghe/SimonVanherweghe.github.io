@@ -1,6 +1,6 @@
 ---
 title: "Yamaha RX17 circuit bend"
-date: "2006-05-06T01:59:13"
+date: 2006-05-06T01:59:13
 permalink: "2006/05/06/yamaha-rx17-circuit-bend/"
 tags: ["archive"]
 layout: "archive-post"

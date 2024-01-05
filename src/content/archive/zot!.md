@@ -1,6 +1,6 @@
 ---
 title: "Zot!"
-date: "2007-12-13T22:55:19"
+date: 2007-12-13T22:55:19
 permalink: "2007/12/13/zot/"
 tags: ["archive"]
 layout: "archive-post"

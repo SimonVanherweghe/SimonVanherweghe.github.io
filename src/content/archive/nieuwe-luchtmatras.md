@@ -1,6 +1,6 @@
 ---
 title: "Nieuwe luchtmatras"
-date: "2008-05-07T00:50:53"
+date: 2008-05-07T00:50:53
 permalink: "2008/05/07/nieuwe-luchtmatras/"
 tags: ["archive"]
 layout: "archive-post"

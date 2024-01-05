@@ -1,6 +1,6 @@
 ---
 title: "Veldcross"
-date: "2008-09-23T23:33:58"
+date: 2008-09-23T23:33:58
 permalink: "2008/09/23/veldcross/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Happy new ear!"
-date: "2006-09-06T21:15:07"
+date: 2006-09-06T21:15:07
 permalink: "2006/09/06/happy-new-ear/"
 tags: ["archive"]
 layout: "archive-post"

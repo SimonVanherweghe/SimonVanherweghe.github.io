@@ -1,6 +1,6 @@
 ---
 title: "Wordle"
-date: "2008-07-11T13:55:21"
+date: 2008-07-11T13:55:21
 permalink: "2008/07/11/wordle/"
 tags: ["archive"]
 layout: "archive-post"

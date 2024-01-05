@@ -1,6 +1,6 @@
 ---
 title: "FireWire"
-date: "2006-04-06T16:18:23"
+date: 2006-04-06T16:18:23
 permalink: "2006/04/06/firewire/"
 tags: ["archive"]
 layout: "archive-post"

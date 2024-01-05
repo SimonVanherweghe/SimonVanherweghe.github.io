@@ -1,6 +1,6 @@
 ---
 title: "De grote markt van Kortrijk"
-date: "2007-04-10T20:51:23"
+date: 2007-04-10T20:51:23
 permalink: "2007/04/10/de-grote-markt-van-kortrijk/"
 tags: ["archive"]
 layout: "archive-post"

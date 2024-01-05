@@ -1,6 +1,6 @@
 ---
 title: "Flickr fun"
-date: "2007-12-13T22:08:16"
+date: 2007-12-13T22:08:16
 permalink: "2007/12/13/flickr-fun/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "De buit"
-date: "2007-02-18T22:04:33"
+date: 2007-02-18T22:04:33
 permalink: "2007/02/18/de-buit/"
 tags: ["archive"]
 layout: "archive-post"

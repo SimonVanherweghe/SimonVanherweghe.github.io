@@ -1,6 +1,6 @@
 ---
 title: "Mis begrepen"
-date: "2008-02-28T13:43:47"
+date: 2008-02-28T13:43:47
 permalink: "2008/02/28/mis-begrepen/"
 tags: ["archive"]
 layout: "archive-post"

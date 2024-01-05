@@ -1,6 +1,6 @@
 ---
 title: "Kawai 100P"
-date: "2007-10-16T22:12:41"
+date: 2007-10-16T22:12:41
 permalink: "2007/10/16/kawai-100p/"
 tags: ["archive"]
 layout: "archive-post"

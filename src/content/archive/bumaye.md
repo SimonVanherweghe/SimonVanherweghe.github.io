@@ -1,6 +1,6 @@
 ---
 title: "Bumaye"
-date: "2007-01-30T21:23:23"
+date: 2007-01-30T21:23:23
 permalink: "2007/01/30/bumaye/"
 tags: ["archive"]
 layout: "archive-post"

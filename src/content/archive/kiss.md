@@ -1,6 +1,6 @@
 ---
 title: "KISS"
-date: "2007-08-09T23:52:28"
+date: 2007-08-09T23:52:28
 permalink: "2007/08/09/kiss/"
 tags: ["archive"]
 layout: "archive-post"

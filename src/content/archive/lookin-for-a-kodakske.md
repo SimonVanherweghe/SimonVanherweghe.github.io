@@ -1,6 +1,6 @@
 ---
 title: "Lookin for a kodakske"
-date: "2007-12-03T22:36:01"
+date: 2007-12-03T22:36:01
 permalink: "2007/12/03/lookin-for-a-kodakske/"
 tags: ["archive"]
 layout: "archive-post"

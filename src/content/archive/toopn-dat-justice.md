@@ -1,6 +1,6 @@
 ---
 title: "Toopn dat Justice"
-date: "2008-10-07T23:20:59"
+date: 2008-10-07T23:20:59
 permalink: "2008/10/07/toopn-dat-justice/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Fresh sh*t"
-date: "2006-06-28T19:05:59"
+date: 2006-06-28T19:05:59
 permalink: "2006/06/28/fresh-sht/"
 tags: ["archive"]
 layout: "archive-post"

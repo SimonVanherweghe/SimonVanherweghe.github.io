@@ -1,6 +1,6 @@
 ---
 title: "Diplo"
-date: "2007-09-06T22:09:36"
+date: 2007-09-06T22:09:36
 permalink: "2007/09/06/diplo/"
 tags: ["archive"]
 layout: "archive-post"

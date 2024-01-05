@@ -1,6 +1,6 @@
 ---
 title: "Wat gaan we doen vant weekend?"
-date: "2008-11-07T13:35:39"
+date: 2008-11-07T13:35:39
 permalink: "2008/11/07/wat-gaan-we-doen-vant-weekend/"
 tags: ["archive"]
 layout: "archive-post"

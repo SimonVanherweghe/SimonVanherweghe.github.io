@@ -1,6 +1,6 @@
 ---
 title: "Iksi"
-date: "2008-04-09T23:04:49"
+date: 2008-04-09T23:04:49
 permalink: "2008/04/09/iksi/"
 tags: ["archive"]
 layout: "archive-post"

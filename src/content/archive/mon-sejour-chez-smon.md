@@ -1,6 +1,6 @@
 ---
 title: "Mon séjour chez smon"
-date: "2008-12-27T12:40:26"
+date: 2008-12-27T12:40:26
 permalink: "2008/12/27/mon-sejour-chez-smon/"
 tags: ["archive"]
 layout: "archive-post"

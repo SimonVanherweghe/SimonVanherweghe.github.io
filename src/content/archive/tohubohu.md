@@ -1,6 +1,6 @@
 ---
 title: "Tohubohu"
-date: "2007-01-26T21:11:02"
+date: 2007-01-26T21:11:02
 permalink: "2007/01/26/tohubohu/"
 tags: ["archive"]
 layout: "archive-post"

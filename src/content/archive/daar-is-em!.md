@@ -1,6 +1,6 @@
 ---
 title: "Daar is em!"
-date: "2007-10-22T23:53:01"
+date: 2007-10-22T23:53:01
 permalink: "2007/10/22/daar-is-em/"
 tags: ["archive"]
 layout: "archive-post"

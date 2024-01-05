@@ -1,6 +1,6 @@
 ---
 title: "Verbonden"
-date: "2008-02-15T01:16:08"
+date: 2008-02-15T01:16:08
 permalink: "2008/02/15/verbonden/"
 tags: ["archive"]
 layout: "archive-post"

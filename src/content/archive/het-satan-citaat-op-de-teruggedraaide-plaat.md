@@ -1,6 +1,6 @@
 ---
 title: "Het satan citaat op de teruggedraaide plaat"
-date: "2007-05-23T21:35:53"
+date: 2007-05-23T21:35:53
 permalink: "2007/05/23/het-satan-citaat-op-de-teruggedraaide-plaat/"
 tags: ["archive"]
 layout: "archive-post"

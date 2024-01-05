@@ -1,6 +1,6 @@
 ---
 title: "Jukebox"
-date: "2008-09-01T22:12:49"
+date: 2008-09-01T22:12:49
 permalink: "2008/09/01/jukebox/"
 tags: ["archive"]
 layout: "archive-post"

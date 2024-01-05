@@ -1,6 +1,6 @@
 ---
 title: "In de categorie beeld"
-date: "2007-11-09T01:26:55"
+date: 2007-11-09T01:26:55
 permalink: "2007/11/09/in-de-categorie-beeld/"
 tags: ["archive"]
 layout: "archive-post"

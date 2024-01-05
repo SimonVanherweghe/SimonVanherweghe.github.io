@@ -1,6 +1,6 @@
 ---
 title: "Beep Beep"
-date: "2006-07-05T07:11:28"
+date: 2006-07-05T07:11:28
 permalink: "2006/07/05/beep-beep/"
 tags: ["archive"]
 layout: "archive-post"

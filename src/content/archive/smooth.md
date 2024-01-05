@@ -1,6 +1,6 @@
 ---
 title: "Smooth"
-date: "2007-08-23T18:06:39"
+date: 2007-08-23T18:06:39
 permalink: "2007/08/23/smooth/"
 tags: ["archive"]
 layout: "archive-post"

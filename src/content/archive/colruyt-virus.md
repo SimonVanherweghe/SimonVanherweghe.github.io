@@ -1,6 +1,6 @@
 ---
 title: "Colruyt virus"
-date: "2007-03-26T21:22:04"
+date: 2007-03-26T21:22:04
 permalink: "2007/03/26/colruyt-virus/"
 tags: ["archive"]
 layout: "archive-post"

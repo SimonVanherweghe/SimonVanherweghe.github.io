@@ -1,6 +1,6 @@
 ---
 title: "CanvascolLUCtie"
-date: "2008-04-30T18:38:01"
+date: 2008-04-30T18:38:01
 permalink: "2008/04/30/canvascolluctie/"
 tags: ["archive"]
 layout: "archive-post"

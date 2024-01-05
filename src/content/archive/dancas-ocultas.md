@@ -1,6 +1,6 @@
 ---
 title: "Danças Ocultas"
-date: "2006-04-23T01:14:23"
+date: 2006-04-23T01:14:23
 permalink: "2006/04/23/dancas-ocultas/"
 tags: ["archive"]
 layout: "archive-post"

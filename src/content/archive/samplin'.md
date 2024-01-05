@@ -1,6 +1,6 @@
 ---
 title: "Samplin’"
-date: "2006-09-28T17:28:50"
+date: 2006-09-28T17:28:50
 permalink: "2006/09/28/samplin/"
 tags: ["archive"]
 layout: "archive-post"

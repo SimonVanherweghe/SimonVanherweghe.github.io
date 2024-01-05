@@ -1,6 +1,6 @@
 ---
 title: "Gameswap"
-date: "2006-04-12T13:11:41"
+date: 2006-04-12T13:11:41
 permalink: "2006/04/12/gameswap/"
 tags: ["archive"]
 layout: "archive-post"

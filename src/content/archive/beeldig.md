@@ -1,6 +1,6 @@
 ---
 title: "Beeldig"
-date: "2007-12-12T20:29:24"
+date: 2007-12-12T20:29:24
 permalink: "2007/12/12/beeldig/"
 tags: ["archive"]
 layout: "archive-post"

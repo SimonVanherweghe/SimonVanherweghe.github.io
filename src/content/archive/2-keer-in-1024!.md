@@ -1,6 +1,6 @@
 ---
 title: "2 keer in 10/24!"
-date: "2008-01-23T13:08:59"
+date: 2008-01-23T13:08:59
 permalink: "2008/01/23/2-keer-in-1024/"
 tags: ["archive"]
 layout: "archive-post"

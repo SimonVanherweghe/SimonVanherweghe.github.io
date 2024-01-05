@@ -1,6 +1,6 @@
 ---
 title: "Tapekes"
-date: "2006-08-17T19:13:42"
+date: 2006-08-17T19:13:42
 permalink: "2006/08/17/tapekes/"
 tags: ["archive"]
 layout: "archive-post"

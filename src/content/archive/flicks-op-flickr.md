@@ -1,6 +1,6 @@
 ---
 title: "Flicks op Flickr"
-date: "2008-04-09T23:15:51"
+date: 2008-04-09T23:15:51
 permalink: "2008/04/09/flicks-op-flickr/"
 tags: ["archive"]
 layout: "archive-post"

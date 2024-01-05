@@ -1,6 +1,6 @@
 ---
 title: "Roeimantisch"
-date: "2006-06-07T21:15:39"
+date: 2006-06-07T21:15:39
 permalink: "2006/06/07/roeimantisch/"
 tags: ["archive"]
 layout: "archive-post"

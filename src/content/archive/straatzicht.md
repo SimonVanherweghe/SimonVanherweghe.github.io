@@ -1,6 +1,6 @@
 ---
 title: "Straatzicht"
-date: "2007-05-30T00:38:04"
+date: 2007-05-30T00:38:04
 permalink: "2007/05/30/straatzicht/"
 tags: ["archive"]
 layout: "archive-post"

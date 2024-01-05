@@ -1,6 +1,6 @@
 ---
 title: "Wies in Gries"
-date: "2006-06-30T18:42:14"
+date: 2006-06-30T18:42:14
 permalink: "2006/06/30/wies-in-gries/"
 tags: ["archive"]
 layout: "archive-post"

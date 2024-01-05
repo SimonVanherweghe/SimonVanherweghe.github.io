@@ -1,6 +1,6 @@
 ---
 title: "Touch me baby!"
-date: "2007-09-05T21:09:24"
+date: 2007-09-05T21:09:24
 permalink: "2007/09/05/touch-me-baby/"
 tags: ["archive"]
 layout: "archive-post"

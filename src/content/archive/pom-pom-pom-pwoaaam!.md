@@ -1,6 +1,6 @@
 ---
 title: "Pom pom pom pwoaaam!"
-date: "2008-04-11T18:42:34"
+date: 2008-04-11T18:42:34
 permalink: "2008/04/11/pom-pom-pom-pwoaaam/"
 tags: ["archive"]
 layout: "archive-post"

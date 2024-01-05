@@ -1,6 +1,6 @@
 ---
 title: "Bureaustoel"
-date: "2008-06-22T21:20:16"
+date: 2008-06-22T21:20:16
 permalink: "2008/06/22/bureaustoel/"
 tags: ["archive"]
 layout: "archive-post"

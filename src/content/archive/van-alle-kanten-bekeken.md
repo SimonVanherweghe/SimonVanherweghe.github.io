@@ -1,6 +1,6 @@
 ---
 title: "Van alle kanten bekeken"
-date: "2008-01-08T22:58:21"
+date: 2008-01-08T22:58:21
 permalink: "2008/01/08/van-alle-kanten-bekeken/"
 tags: ["archive"]
 layout: "archive-post"

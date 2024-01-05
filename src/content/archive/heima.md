@@ -1,6 +1,6 @@
 ---
 title: "Heima"
-date: "2008-03-08T01:41:05"
+date: 2008-03-08T01:41:05
 permalink: "2008/03/08/heima/"
 tags: ["archive"]
 layout: "archive-post"
@@ -9,4 +9,4 @@ Heh, [Heima](http://www.heima.co.uk/ "http://www.heima.co.uk/") ([die film van S
 
 Ik heb hem hier op dvd liggen. Je wil meteen de vlieger op naar Ijsland als je die gezien hebt. Wie wil kan hem hier ook komen bekijken, dan halen we wel een beamertje in huis en zetten we het volume op 11. Zal wat aangenamer zijn dan van op zo een computerscherm.
 
-\[youtube\]http://www.youtube.com/watch?v=lr4s7KeCbV8\[/youtube\]
+\[youtube\]<http://www.youtube.com/watch?v=lr4s7KeCbV8\[/youtube\>]

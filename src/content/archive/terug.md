@@ -1,6 +1,6 @@
 ---
 title: "Terug"
-date: "2007-08-06T22:16:39"
+date: 2007-08-06T22:16:39
 permalink: "2007/08/06/terug-2/"
 tags: ["archive"]
 layout: "archive-post"
@@ -12,7 +12,7 @@ Enfin, over ons prachtig avontuur in Afrika zal je nog nu en dan wel iets vernem
 De enorme hoop feeds leverde natuurlijk een hele boel op, veel te veel om al het leuke door te spelen, maar toch hier een greepje:
 
 * De [video](http://www.youtube.com/watch?v=qN3kC_4xURA "http://www.youtube.com/watch?v=qN3kC_4xURA") van de remix van Beggin’ is echt nice! Dat nummerke zelf ook trouwens. \[via [Nalden](http://www.nalden.net/?p=220 "http://www.nalden.net/?p=220")\]
-* We houden allemaal van stop-motion filmkes en van Polaroid, dus [de combo hiervan](http://www.youtube.com/watch?v=Tkq2Kq-LmJg "http://www.youtube.com/watch?v=Tkq2Kq-LmJg") kan niet anders dan super zijn! \[Via [On-Point](http://www.on-point.be/?p=796 "http://www.on-point.be/?p=796") via [Woostercollective](http://www.woostercollective.com/2007/08/process_enacted.html "http://www.woostercollective.com/2007/08/process_enacted.html")\]ye-fi-foto-s-on-the-fly "http://feeds.feedburner.com/~r/ICT_en_Onderwijs_weblog_FullPost/~3/178077266/eye-fi-foto-s-on-the-fly") enz…
+* We houden allemaal van stop-motion filmkes en van Polaroid, dus [de combo hiervan](http://www.youtube.com/watch?v=Tkq2Kq-LmJg "http://www.youtube.com/watch?v=Tkq2Kq-LmJg") kan niet anders dan super zijn! \[Via [On-Point](http://www.on-point.be/?p=796 "http://www.on-point.be/?p=796") via [Woostercollective](http://www.woostercollective.com/2007/08/process_enacted.html "http://www.woostercollective.com/2007/08/process_enacted.html")\]ye-fi-foto-s-on-the-fly "<http://feeds.feedburner.com/~r/ICT_en_Onderwijs_weblog_FullPost/~3/178077266/eye-fi-foto-s-on-the-fly>") enz…
 * Iemand die als vrijwilliger werkt voor een bib in gevangenissen, regelmatig tekeningen en briefjes in boeken aantreft en die dan op Flickr smijt. [Machtig vint!](http://www.flickr.com/photos/jumble/sets/72057594055928630/ "http://www.flickr.com/photos/jumble/sets/72057594055928630/") \[via [BoingBoing](http://feeds.feedburner.com/~r/boingboing/iBag/~3/177913869/stuff-found-in-jail.html "http://feeds.feedburner.com/~r/boingboing/iBag/~3/177913869/stuff-found-in-jail.html")\]
 * Het Timemachine vs AirPort Disk probleem mag dan wel te fixen zijn met [een of ander trucje](http://www.donebysimon.be/2007/10/27/105/#comment-5457 "http://www.donebysimon.be/2007/10/27/105/#comment-5457"), [zo iets zie ik liever komen](http://feeds.gawker.com/~r/gizmodo/full/~3/177932959/apple-hasnt-given-up-on-time-machine-airport-disk-support-317487.php "http://feeds.gawker.com/~r/gizmodo/full/~3/177932959/apple-hasnt-given-up-on-time-machine-airport-disk-support-317487.php")
 * [Dit](http://feeds.gawker.com/~r/gizmodo/full/~3/177368507/lex-led-illuminates-your-bike-wheels-with-custom-messages-316927.php "http://feeds.gawker.com/~r/gizmodo/full/~3/177368507/lex-led-illuminates-your-bike-wheels-with-custom-messages-316927.php") heeft een heel groot ‘Fout’ én ‘De max!’ gehalte… kweet niet waar ik het moet onder klasseren…

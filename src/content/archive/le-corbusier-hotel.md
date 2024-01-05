@@ -1,6 +1,6 @@
 ---
 title: "Le Corbusier hotel"
-date: "2006-04-13T00:06:38"
+date: 2006-04-13T00:06:38
 permalink: "2006/04/13/le-corbusier-hotel/"
 tags: ["archive"]
 layout: "archive-post"

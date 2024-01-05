@@ -1,6 +1,6 @@
 ---
 title: "Eindelijk"
-date: "2007-01-14T20:18:40"
+date: 2007-01-14T20:18:40
 permalink: "2007/01/14/eindelijk/"
 tags: ["archive"]
 layout: "archive-post"

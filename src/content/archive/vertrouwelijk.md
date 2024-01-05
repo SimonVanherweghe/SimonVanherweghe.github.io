@@ -1,6 +1,6 @@
 ---
 title: "Vertrouwelijk?"
-date: "2006-09-07T00:02:18"
+date: 2006-09-07T00:02:18
 permalink: "2006/09/07/vertrouwelijk/"
 tags: ["archive"]
 layout: "archive-post"

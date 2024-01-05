@@ -1,6 +1,6 @@
 ---
 title: "Tjappies en Mammies"
-date: "2007-01-28T03:21:07"
+date: 2007-01-28T03:21:07
 permalink: "2007/01/28/tjappies-en-mammies/"
 tags: ["archive"]
 layout: "archive-post"

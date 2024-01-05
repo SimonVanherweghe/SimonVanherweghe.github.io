@@ -1,6 +1,6 @@
 ---
 title: "Bluetooth log"
-date: "2007-11-13T01:53:28"
+date: 2007-11-13T01:53:28
 permalink: "2007/11/13/bluetooth-log/"
 tags: ["archive"]
 layout: "archive-post"

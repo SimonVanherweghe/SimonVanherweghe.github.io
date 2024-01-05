@@ -1,6 +1,6 @@
 ---
 title: "Handige dingskes"
-date: "2007-02-19T22:04:35"
+date: 2007-02-19T22:04:35
 permalink: "2007/02/19/handige-dingskes/"
 tags: ["archive"]
 layout: "archive-post"

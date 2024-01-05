@@ -1,6 +1,6 @@
 ---
 title: "Nou Breakt m’n klomp!"
-date: "2007-08-16T16:32:03"
+date: 2007-08-16T16:32:03
 permalink: "2007/08/16/nou-breakt-mn-klomp/"
 tags: ["archive"]
 layout: "archive-post"

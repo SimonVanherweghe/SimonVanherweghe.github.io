@@ -1,6 +1,6 @@
 ---
 title: "Geo-goodies"
-date: "2008-05-29T00:24:56"
+date: 2008-05-29T00:24:56
 permalink: "2008/05/29/geo-goodies/"
 tags: ["archive"]
 layout: "archive-post"

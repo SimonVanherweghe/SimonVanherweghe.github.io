@@ -1,6 +1,6 @@
 ---
 title: "Snail mail"
-date: "2007-08-12T18:40:22"
+date: 2007-08-12T18:40:22
 permalink: "2007/08/12/snail-mail/"
 tags: ["archive"]
 layout: "archive-post"

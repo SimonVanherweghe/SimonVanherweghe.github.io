@@ -1,6 +1,6 @@
 ---
 title: "2 ogen"
-date: "2007-04-18T21:32:47"
+date: 2007-04-18T21:32:47
 permalink: "2007/04/18/2-ogen/"
 tags: ["archive"]
 layout: "archive-post"

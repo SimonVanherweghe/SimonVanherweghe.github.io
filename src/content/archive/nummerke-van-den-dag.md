@@ -1,6 +1,6 @@
 ---
 title: "Nummerke van den dag"
-date: "2007-01-26T00:47:57"
+date: 2007-01-26T00:47:57
 permalink: "2007/01/26/nummerke-van-den-dag/"
 tags: ["archive"]
 layout: "archive-post"

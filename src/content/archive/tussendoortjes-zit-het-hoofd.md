@@ -1,6 +1,6 @@
 ---
 title: "Tussendoortjes zit het hoofd"
-date: "2007-01-11T00:03:13"
+date: 2007-01-11T00:03:13
 permalink: "2007/01/11/tussendoortjes-zit-het-hoofd/"
 tags: ["archive"]
 layout: "archive-post"

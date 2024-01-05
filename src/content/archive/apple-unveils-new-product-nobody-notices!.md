@@ -1,6 +1,6 @@
 ---
 title: "Apple unveils new product, nobody notices!"
-date: "2008-10-15T20:31:28"
+date: 2008-10-15T20:31:28
 permalink: "2008/10/15/apple-unveils-new-product-nobody-notices/"
 tags: ["archive"]
 layout: "archive-post"

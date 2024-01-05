@@ -1,6 +1,6 @@
 ---
 title: "Freddy op Nalden"
-date: "2007-04-01T20:26:39"
+date: 2007-04-01T20:26:39
 permalink: "2007/04/01/freddy-op-nalden/"
 tags: ["archive"]
 layout: "archive-post"

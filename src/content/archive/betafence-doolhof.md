@@ -1,6 +1,6 @@
 ---
 title: "Betafence Doolhof"
-date: "2008-08-26T20:28:50"
+date: 2008-08-26T20:28:50
 permalink: "2008/08/26/betafence-doolhof/"
 tags: ["archive"]
 layout: "archive-post"

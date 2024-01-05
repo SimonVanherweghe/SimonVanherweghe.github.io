@@ -1,6 +1,6 @@
 ---
 title: "Ibib"
-date: "2008-05-01T13:27:39"
+date: 2008-05-01T13:27:39
 permalink: "2008/05/01/ibib/"
 tags: ["archive"]
 layout: "archive-post"

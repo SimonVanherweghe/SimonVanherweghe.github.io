@@ -1,6 +1,6 @@
 ---
 title: "tadaaa"
-date: "2006-09-21T23:02:55"
+date: 2006-09-21T23:02:55
 permalink: "2006/09/21/tadaaa/"
 tags: ["archive"]
 layout: "archive-post"

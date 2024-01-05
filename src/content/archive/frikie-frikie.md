@@ -1,6 +1,6 @@
 ---
 title: "Frikie Frikie"
-date: "2007-03-25T16:51:49"
+date: 2007-03-25T16:51:49
 permalink: "2007/03/25/frikie-frikie/"
 tags: ["archive"]
 layout: "archive-post"

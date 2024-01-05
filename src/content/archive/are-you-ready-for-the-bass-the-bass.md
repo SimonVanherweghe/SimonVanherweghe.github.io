@@ -1,6 +1,6 @@
 ---
 title: "Are you ready for the bass, the bass?"
-date: "2007-03-27T20:32:40"
+date: 2007-03-27T20:32:40
 permalink: "2007/03/27/are-you-ready-for-the-bass-the-bass/"
 tags: ["archive"]
 layout: "archive-post"

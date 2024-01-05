@@ -1,6 +1,6 @@
 ---
 title: "De spanning stijgt"
-date: "2008-01-08T22:10:05"
+date: 2008-01-08T22:10:05
 permalink: "2008/01/08/de-spanning-stijgt/"
 tags: ["archive"]
 layout: "archive-post"

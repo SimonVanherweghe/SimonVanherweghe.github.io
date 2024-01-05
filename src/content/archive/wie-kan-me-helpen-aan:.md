@@ -1,6 +1,6 @@
 ---
 title: "Wie kan me helpen aan:"
-date: "2007-09-29T01:13:57"
+date: 2007-09-29T01:13:57
 permalink: "2007/09/29/wie-kan-me-helpen-aan/"
 tags: ["archive"]
 layout: "archive-post"

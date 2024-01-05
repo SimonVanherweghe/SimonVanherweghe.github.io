@@ -1,6 +1,6 @@
 ---
 title: "Dat was me het weekend wel"
-date: "2006-09-18T19:10:27"
+date: 2006-09-18T19:10:27
 permalink: "2006/09/18/dat-was-me-het-weekend-wel/"
 tags: ["archive"]
 layout: "archive-post"

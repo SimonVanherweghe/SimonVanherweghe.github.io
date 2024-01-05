@@ -1,6 +1,6 @@
 ---
 title: "Clipkes"
-date: "2006-06-21T01:51:26"
+date: 2006-06-21T01:51:26
 permalink: "2006/06/21/clipkes/"
 tags: ["archive"]
 layout: "archive-post"

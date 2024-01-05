@@ -1,6 +1,6 @@
 ---
 title: "Ik jeune mij hier é!"
-date: "2008-04-30T21:50:49"
+date: 2008-04-30T21:50:49
 permalink: "2008/04/30/ik-jeune-mij-hier-e/"
 tags: ["archive"]
 layout: "archive-post"

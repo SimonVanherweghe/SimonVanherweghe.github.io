@@ -1,6 +1,6 @@
 ---
 title: "Kantoor archeologie"
-date: "2008-04-02T23:47:07"
+date: 2008-04-02T23:47:07
 permalink: "2008/04/02/kantoor-archeologie/"
 tags: ["archive"]
 layout: "archive-post"

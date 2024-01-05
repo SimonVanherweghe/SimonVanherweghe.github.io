@@ -1,6 +1,6 @@
 ---
 title: "Wij zoeken werk!"
-date: "2007-01-11T00:40:01"
+date: 2007-01-11T00:40:01
 permalink: "2007/01/11/wij-zoeken-werk/"
 tags: ["archive"]
 layout: "archive-post"

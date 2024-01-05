@@ -1,6 +1,6 @@
 ---
 title: "Oorverdosis"
-date: "2007-12-07T02:53:49"
+date: 2007-12-07T02:53:49
 permalink: "2007/12/07/oorverdosis/"
 tags: ["archive"]
 layout: "archive-post"

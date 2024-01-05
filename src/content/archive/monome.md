@@ -1,6 +1,6 @@
 ---
 title: "Monome"
-date: "2006-04-13T18:55:14"
+date: 2006-04-13T18:55:14
 permalink: "2006/04/13/monome/"
 tags: ["archive"]
 layout: "archive-post"

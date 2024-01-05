@@ -1,6 +1,6 @@
 ---
 title: "Camera Obscura"
-date: "2006-05-23T01:36:27"
+date: 2006-05-23T01:36:27
 permalink: "2006/05/23/camera-obscura/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Pokevicemon"
-date: "2008-01-28T20:04:34"
+date: 2008-01-28T20:04:34
 permalink: "2008/01/28/pokevicemon/"
 tags: ["archive"]
 layout: "archive-post"

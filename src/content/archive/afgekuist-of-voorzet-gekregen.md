@@ -1,6 +1,6 @@
 ---
 title: "Afgekuist of voorzet gekregen?"
-date: "2008-06-08T13:01:31"
+date: 2008-06-08T13:01:31
 permalink: "2008/06/08/afgekuist-of-voorzet-gekregen/"
 tags: ["archive"]
 layout: "archive-post"

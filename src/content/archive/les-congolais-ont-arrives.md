@@ -1,6 +1,6 @@
 ---
 title: "Les Congolais ont arrivés"
-date: "2008-12-08T23:32:56"
+date: 2008-12-08T23:32:56
 permalink: "2008/12/08/les-congolais-ont-arrives/"
 tags: ["archive"]
 layout: "archive-post"

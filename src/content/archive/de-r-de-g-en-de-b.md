@@ -1,6 +1,6 @@
 ---
 title: "De R, de G en de B"
-date: "2006-09-27T01:01:56"
+date: 2006-09-27T01:01:56
 permalink: "2006/09/27/de-r-de-g-en-de-b/"
 tags: ["archive"]
 layout: "archive-post"

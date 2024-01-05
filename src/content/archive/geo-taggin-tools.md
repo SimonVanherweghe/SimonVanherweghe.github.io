@@ -1,6 +1,6 @@
 ---
 title: "Geo-taggin-tools"
-date: "2008-05-29T23:59:30"
+date: 2008-05-29T23:59:30
 permalink: "2008/05/29/geo-taggin-tools/"
 tags: ["archive"]
 layout: "archive-post"

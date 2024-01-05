@@ -1,6 +1,6 @@
 ---
 title: "Spannend"
-date: "2007-01-07T21:53:37"
+date: 2007-01-07T21:53:37
 permalink: "2007/01/07/spannend/"
 tags: ["archive"]
 layout: "archive-post"

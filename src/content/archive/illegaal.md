@@ -1,6 +1,6 @@
 ---
 title: "Illegaal"
-date: "2007-02-27T21:33:09"
+date: 2007-02-27T21:33:09
 permalink: "2007/02/27/illegaal/"
 tags: ["archive"]
 layout: "archive-post"

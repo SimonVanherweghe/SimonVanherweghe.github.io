@@ -1,6 +1,6 @@
 ---
 title: "What a beauty!"
-date: "2008-05-02T00:31:11"
+date: 2008-05-02T00:31:11
 permalink: "2008/05/02/what-a-beauty/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Terug uit pensioen"
-date: "2006-10-17T18:39:47"
+date: 2006-10-17T18:39:47
 permalink: "2006/10/17/terug-uit-pensioen/"
 tags: ["archive"]
 layout: "archive-post"

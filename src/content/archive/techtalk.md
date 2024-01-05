@@ -1,6 +1,6 @@
 ---
 title: "TechTalk"
-date: "2008-05-29T00:35:36"
+date: 2008-05-29T00:35:36
 permalink: "2008/05/29/techtalk/"
 tags: ["archive"]
 layout: "archive-post"

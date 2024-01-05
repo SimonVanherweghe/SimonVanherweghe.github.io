@@ -1,6 +1,6 @@
 ---
 title: "Op naar de cinema!"
-date: "2007-09-04T00:42:41"
+date: 2007-09-04T00:42:41
 permalink: "2007/09/04/op-naar-de-cinema/"
 tags: ["archive"]
 layout: "archive-post"

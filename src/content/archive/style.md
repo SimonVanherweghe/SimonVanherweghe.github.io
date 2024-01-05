@@ -1,6 +1,6 @@
 ---
 title: "Style"
-date: "2006-08-30T23:18:46"
+date: 2006-08-30T23:18:46
 permalink: "2006/08/30/style/"
 tags: ["archive"]
 layout: "archive-post"

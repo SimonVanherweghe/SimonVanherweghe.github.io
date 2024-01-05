@@ -1,6 +1,6 @@
 ---
 title: "Round up"
-date: "2007-01-03T23:42:53"
+date: 2007-01-03T23:42:53
 permalink: "2007/01/03/round-up-2/"
 tags: ["archive"]
 layout: "archive-post"

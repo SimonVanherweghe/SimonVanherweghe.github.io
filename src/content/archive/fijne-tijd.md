@@ -1,6 +1,6 @@
 ---
 title: "Fijne tijd"
-date: "2008-02-27T00:34:47"
+date: 2008-02-27T00:34:47
 permalink: "2008/02/27/fijne-tijd/"
 tags: ["archive"]
 layout: "archive-post"

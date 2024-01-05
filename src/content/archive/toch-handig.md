@@ -1,6 +1,6 @@
 ---
 title: "Toch handig"
-date: "2008-06-10T22:34:44"
+date: 2008-06-10T22:34:44
 permalink: "2008/06/10/toch-handig/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Een hele hoop"
-date: "2006-08-16T18:58:14"
+date: 2006-08-16T18:58:14
 permalink: "2006/08/16/een-hele-hoop/"
 tags: ["archive"]
 layout: "archive-post"

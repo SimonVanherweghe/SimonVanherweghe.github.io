@@ -1,6 +1,6 @@
 ---
 title: "Content Aware"
-date: "2008-09-25T23:57:49"
+date: 2008-09-25T23:57:49
 permalink: "2008/09/25/content-aware/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Opstand in de bib"
-date: "2008-04-25T10:10:01"
+date: 2008-04-25T10:10:01
 permalink: "2008/04/25/opstand-in-de-bib/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Jaws heeft er niks aan"
-date: "2006-05-14T12:13:31"
+date: 2006-05-14T12:13:31
 permalink: "2006/05/14/jaws-heeft-er-niks-aan/"
 tags: ["archive"]
 layout: "archive-post"

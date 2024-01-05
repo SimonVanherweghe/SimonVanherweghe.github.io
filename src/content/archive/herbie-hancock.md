@@ -1,6 +1,6 @@
 ---
 title: "Herbie Hancock"
-date: "2006-06-21T17:45:51"
+date: 2006-06-21T17:45:51
 permalink: "2006/06/21/herbie-hancock/"
 tags: ["archive"]
 layout: "archive-post"

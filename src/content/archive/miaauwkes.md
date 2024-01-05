@@ -1,6 +1,6 @@
 ---
 title: "Miaauwkes"
-date: "2006-12-11T23:56:38"
+date: 2006-12-11T23:56:38
 permalink: "2006/12/11/miaauwkes/"
 tags: ["archive"]
 layout: "archive-post"

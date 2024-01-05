@@ -1,6 +1,6 @@
 ---
 title: "Sweet!"
-date: "2007-11-30T23:40:04"
+date: 2007-11-30T23:40:04
 permalink: "2007/11/30/sweet/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Merrie X-mas"
-date: "2006-12-25T13:32:47"
+date: 2006-12-25T13:32:47
 permalink: "2006/12/25/merrie-x-mas/"
 tags: ["archive"]
 layout: "archive-post"

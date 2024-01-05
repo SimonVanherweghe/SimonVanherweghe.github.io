@@ -1,6 +1,6 @@
 ---
 title: "Meer stickers"
-date: "2006-05-28T01:01:56"
+date: 2006-05-28T01:01:56
 permalink: "2006/05/28/meer-stickers/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Meer videoots"
-date: "2008-05-18T22:00:07"
+date: 2008-05-18T22:00:07
 permalink: "2008/05/18/meer-videoots/"
 tags: ["archive"]
 layout: "archive-post"

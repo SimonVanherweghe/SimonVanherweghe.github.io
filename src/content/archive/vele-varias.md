@@ -1,6 +1,6 @@
 ---
 title: "Vele varias"
-date: "2008-05-29T01:50:30"
+date: 2008-05-29T01:50:30
 permalink: "2008/05/29/vele-varias/"
 tags: ["archive"]
 layout: "archive-post"

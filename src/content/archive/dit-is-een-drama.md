@@ -1,6 +1,6 @@
 ---
 title: "Dit is een drama"
-date: "2008-06-19T11:44:07"
+date: 2008-06-19T11:44:07
 permalink: "2008/06/19/dit-is-een-drama/"
 tags: ["archive"]
 layout: "archive-post"

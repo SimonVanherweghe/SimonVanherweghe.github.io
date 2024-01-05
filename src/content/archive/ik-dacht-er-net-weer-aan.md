@@ -1,6 +1,6 @@
 ---
 title: "Ik dacht er net weer aan"
-date: "2007-04-23T00:23:32"
+date: 2007-04-23T00:23:32
 permalink: "2007/04/23/ik-dacht-er-net-weer-aan/"
 tags: ["archive"]
 layout: "archive-post"

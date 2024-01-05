@@ -1,6 +1,6 @@
 ---
 title: "Zou handig zijn"
-date: "2007-02-18T21:58:38"
+date: 2007-02-18T21:58:38
 permalink: "2007/02/18/zou-handig-zijn/"
 tags: ["archive"]
 layout: "archive-post"

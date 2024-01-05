@@ -1,6 +1,6 @@
 ---
 title: "Wil je me nog eens zien?"
-date: "2008-04-07T22:20:57"
+date: 2008-04-07T22:20:57
 permalink: "2008/04/07/wil-je-me-nog-eens-zien/"
 tags: ["archive"]
 layout: "archive-post"

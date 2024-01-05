@@ -1,6 +1,6 @@
 ---
 title: "Reparations on My Soul"
-date: "2007-01-28T23:58:25"
+date: 2007-01-28T23:58:25
 permalink: "2007/01/28/reparations-on-my-soul/"
 tags: ["archive"]
 layout: "archive-post"

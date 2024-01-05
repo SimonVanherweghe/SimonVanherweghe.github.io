@@ -1,6 +1,6 @@
 ---
 title: "Ik moet vermageren deze week"
-date: "2007-01-28T03:44:46"
+date: 2007-01-28T03:44:46
 permalink: "2007/01/28/ik-moet-vermageren-deze-week/"
 tags: ["archive"]
 layout: "archive-post"

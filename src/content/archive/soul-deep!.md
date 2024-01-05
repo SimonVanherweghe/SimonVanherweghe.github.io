@@ -1,6 +1,6 @@
 ---
 title: "Soul Deep!"
-date: "2008-04-01T22:05:42"
+date: 2008-04-01T22:05:42
 permalink: "2008/04/01/soul-deep/"
 tags: ["archive"]
 layout: "archive-post"

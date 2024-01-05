@@ -1,6 +1,6 @@
 ---
 title: "Ornamentaal"
-date: "2006-08-29T21:52:53"
+date: 2006-08-29T21:52:53
 permalink: "2006/08/29/ornamentaal/"
 tags: ["archive"]
 layout: "archive-post"

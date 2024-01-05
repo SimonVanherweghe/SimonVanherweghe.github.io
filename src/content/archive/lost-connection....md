@@ -1,6 +1,6 @@
 ---
 title: "Lost connection…"
-date: "2008-01-21T17:58:13"
+date: 2008-01-21T17:58:13
 permalink: "2008/01/21/lost-connection/"
 tags: ["archive"]
 layout: "archive-post"

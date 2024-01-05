@@ -1,6 +1,6 @@
 ---
 title: "Rafiki Avond"
-date: "2007-11-15T01:22:55"
+date: 2007-11-15T01:22:55
 permalink: "2007/11/15/rafiki-avond/"
 tags: ["archive"]
 layout: "archive-post"

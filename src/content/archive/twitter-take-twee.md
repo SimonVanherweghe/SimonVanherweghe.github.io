@@ -1,6 +1,6 @@
 ---
 title: "Twitter take twee"
-date: "2008-05-13T23:22:36"
+date: 2008-05-13T23:22:36
 permalink: "2008/05/13/twitter-take-twee/"
 tags: ["archive"]
 layout: "archive-post"

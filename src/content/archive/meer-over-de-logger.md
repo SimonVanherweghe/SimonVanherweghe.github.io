@@ -1,6 +1,6 @@
 ---
 title: "Meer over de logger"
-date: "2007-06-17T22:09:35"
+date: 2007-06-17T22:09:35
 permalink: "2007/06/17/meer-over-de-logger/"
 tags: ["archive"]
 layout: "archive-post"

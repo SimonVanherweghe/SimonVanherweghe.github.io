@@ -1,6 +1,6 @@
 ---
 title: "Zotte Gnarls Barkley toestanden"
-date: "2008-10-31T00:34:12"
+date: 2008-10-31T00:34:12
 permalink: "2008/10/31/zotte-gnarls-barkley-toestanden/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "360° Pano film"
-date: "2006-12-28T15:39:28"
+date: 2006-12-28T15:39:28
 permalink: "2006/12/28/360-pano-film/"
 tags: ["archive"]
 layout: "archive-post"

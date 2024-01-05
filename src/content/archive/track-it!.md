@@ -1,6 +1,6 @@
 ---
 title: "Track it!"
-date: "2007-06-09T20:06:08"
+date: 2007-06-09T20:06:08
 permalink: "2007/06/09/track-it/"
 tags: ["archive"]
 layout: "archive-post"

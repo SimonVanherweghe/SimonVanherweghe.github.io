@@ -1,6 +1,6 @@
 ---
 title: "Frigoletterkes"
-date: "2006-10-19T16:23:58"
+date: 2006-10-19T16:23:58
 permalink: "2006/10/19/frigoletterkes/"
 tags: ["archive"]
 layout: "archive-post"

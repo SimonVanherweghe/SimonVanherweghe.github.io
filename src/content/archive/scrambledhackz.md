@@ -1,6 +1,6 @@
 ---
 title: "sCrAmBLEdHaCkZ"
-date: "2006-04-11T21:24:05"
+date: 2006-04-11T21:24:05
 permalink: "2006/04/11/scrambledhackz/"
 tags: ["archive"]
 layout: "archive-post"

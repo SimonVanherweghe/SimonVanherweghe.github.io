@@ -1,6 +1,6 @@
 ---
 title: "Fidgt"
-date: "2007-05-22T22:41:40"
+date: 2007-05-22T22:41:40
 permalink: "2007/05/22/fidgt/"
 tags: ["archive"]
 layout: "archive-post"

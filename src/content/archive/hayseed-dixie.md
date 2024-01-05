@@ -1,6 +1,6 @@
 ---
 title: "Hayseed Dixie"
-date: "2006-11-08T19:43:14"
+date: 2006-11-08T19:43:14
 permalink: "2006/11/08/hayseed-dixie/"
 tags: ["archive"]
 layout: "archive-post"

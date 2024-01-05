@@ -1,6 +1,6 @@
 ---
 title: "Cumbia!"
-date: "2008-10-30T23:27:35"
+date: 2008-10-30T23:27:35
 permalink: "2008/10/30/cumbia/"
 tags: ["archive"]
 layout: "archive-post"

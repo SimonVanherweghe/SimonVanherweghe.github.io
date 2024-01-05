@@ -1,6 +1,6 @@
 ---
 title: "Wacky Sound Generator"
-date: "2006-05-07T16:32:08"
+date: 2006-05-07T16:32:08
 permalink: "2006/05/07/wacky-sound-generator/"
 tags: ["archive"]
 layout: "archive-post"

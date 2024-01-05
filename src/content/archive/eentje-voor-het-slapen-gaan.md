@@ -1,6 +1,6 @@
 ---
 title: "Eentje voor het slapen gaan"
-date: "2008-01-13T03:29:52"
+date: 2008-01-13T03:29:52
 permalink: "2008/01/13/eentje-voor-het-slapen-gaan/"
 tags: ["archive"]
 layout: "archive-post"

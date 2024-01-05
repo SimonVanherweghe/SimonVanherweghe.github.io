@@ -1,6 +1,6 @@
 ---
 title: "James Whorty"
-date: "2008-10-25T13:48:45"
+date: 2008-10-25T13:48:45
 permalink: "2008/10/25/james-whorty/"
 tags: ["archive"]
 layout: "archive-post"

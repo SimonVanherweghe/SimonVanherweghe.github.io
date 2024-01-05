@@ -1,6 +1,6 @@
 ---
 title: "Is hot"
-date: "2007-02-23T20:21:56"
+date: 2007-02-23T20:21:56
 permalink: "2007/02/23/is-hot/"
 tags: ["archive"]
 layout: "archive-post"

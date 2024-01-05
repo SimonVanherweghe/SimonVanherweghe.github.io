@@ -1,6 +1,6 @@
 ---
 title: "Naar de maan"
-date: "2007-05-09T23:32:59"
+date: 2007-05-09T23:32:59
 permalink: "2007/05/09/naar-de-maan/"
 tags: ["archive"]
 layout: "archive-post"

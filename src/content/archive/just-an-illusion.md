@@ -1,6 +1,6 @@
 ---
 title: "Just an illusion"
-date: "2006-05-27T01:09:12"
+date: 2006-05-27T01:09:12
 permalink: "2006/05/27/just-an-illusion/"
 tags: ["archive"]
 layout: "archive-post"

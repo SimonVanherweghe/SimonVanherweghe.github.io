@@ -1,6 +1,6 @@
 ---
 title: "Miniscule MacBook Pro vibraties"
-date: "2008-06-03T23:40:18"
+date: 2008-06-03T23:40:18
 permalink: "2008/06/03/miniscule-macbook-pro-vibraties/"
 tags: ["archive"]
 layout: "archive-post"

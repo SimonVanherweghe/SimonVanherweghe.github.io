@@ -1,6 +1,6 @@
 ---
 title: "Stap 1"
-date: "2008-02-27T01:11:55"
+date: 2008-02-27T01:11:55
 permalink: "2008/02/27/stap-1/"
 tags: ["archive"]
 layout: "archive-post"

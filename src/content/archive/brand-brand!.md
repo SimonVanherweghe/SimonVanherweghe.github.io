@@ -1,6 +1,6 @@
 ---
 title: "Brand brand!"
-date: "2008-03-02T21:57:10"
+date: 2008-03-02T21:57:10
 permalink: "2008/03/02/brand-brand/"
 tags: ["archive"]
 layout: "archive-post"

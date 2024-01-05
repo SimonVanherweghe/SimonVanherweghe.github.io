@@ -1,6 +1,6 @@
 ---
 title: "Keelpastilles"
-date: "2006-11-03T18:49:37"
+date: 2006-11-03T18:49:37
 permalink: "2006/11/03/keelpastilles/"
 tags: ["archive"]
 layout: "archive-post"

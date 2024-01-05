@@ -1,6 +1,6 @@
 ---
 title: "Skrabbeln"
-date: "2006-06-28T18:08:52"
+date: 2006-06-28T18:08:52
 permalink: "2006/06/28/skrabbeln/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Stitchen"
-date: "2007-06-03T21:40:55"
+date: 2007-06-03T21:40:55
 permalink: "2007/06/03/stitchen/"
 tags: ["archive"]
 layout: "archive-post"

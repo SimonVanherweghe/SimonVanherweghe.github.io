@@ -1,6 +1,6 @@
 ---
 title: "Retrieving single cell values from a Google Spreadsheet XML/JSON feed"
-date: "2013-04-18T20:43:56"
+date: 2013-04-18T20:43:56
 permalink: "2013/04/18/retrieving-single-cell-values-from-a-google-spreadsheet-xmljson-feed/"
 tags: ["archive"]
 layout: "archive-post"

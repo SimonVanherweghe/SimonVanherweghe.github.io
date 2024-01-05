@@ -1,6 +1,6 @@
 ---
 title: "Dit is waarom"
-date: "2007-08-18T16:35:10"
+date: 2007-08-18T16:35:10
 permalink: "2007/08/18/dit-is-waarom/"
 tags: ["archive"]
 layout: "archive-post"

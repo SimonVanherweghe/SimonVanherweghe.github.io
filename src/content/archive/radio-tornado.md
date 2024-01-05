@@ -1,6 +1,6 @@
 ---
 title: "Radio Tornado"
-date: "2006-12-30T19:33:34"
+date: 2006-12-30T19:33:34
 permalink: "2006/12/30/radio-tornado/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "West Coast Rocks"
-date: "2009-02-08T23:31:45"
+date: 2009-02-08T23:31:45
 permalink: "2009/02/08/west-coast-rocks/"
 tags: ["archive"]
 layout: "archive-post"

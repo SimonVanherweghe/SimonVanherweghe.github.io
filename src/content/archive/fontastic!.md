@@ -1,6 +1,6 @@
 ---
 title: "Fontastic!"
-date: "2007-04-28T21:52:21"
+date: 2007-04-28T21:52:21
 permalink: "2007/04/28/fontastic/"
 tags: ["archive"]
 layout: "archive-post"

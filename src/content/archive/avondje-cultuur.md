@@ -1,6 +1,6 @@
 ---
 title: "Avondje cultuur"
-date: "2007-09-27T23:10:46"
+date: 2007-09-27T23:10:46
 permalink: "2007/09/27/avondje-cultuur/"
 tags: ["archive"]
 layout: "archive-post"

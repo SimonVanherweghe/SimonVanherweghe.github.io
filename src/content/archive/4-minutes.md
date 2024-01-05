@@ -1,6 +1,6 @@
 ---
 title: "4 minutes"
-date: "2008-04-29T23:35:53"
+date: 2008-04-29T23:35:53
 permalink: "2008/04/29/4-minutes/"
 tags: ["archive"]
 layout: "archive-post"

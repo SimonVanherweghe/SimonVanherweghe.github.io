@@ -1,6 +1,6 @@
 ---
 title: "Other colour like no other"
-date: "2006-10-18T18:00:09"
+date: 2006-10-18T18:00:09
 permalink: "2006/10/18/other-colour-like-no-other/"
 tags: ["archive"]
 layout: "archive-post"

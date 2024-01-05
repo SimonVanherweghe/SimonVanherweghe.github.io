@@ -1,6 +1,6 @@
 ---
 title: "Videoots"
-date: "2008-05-10T09:11:28"
+date: 2008-05-10T09:11:28
 permalink: "2008/05/10/videoots/"
 tags: ["archive"]
 layout: "archive-post"

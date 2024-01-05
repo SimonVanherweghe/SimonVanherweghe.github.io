@@ -1,6 +1,6 @@
 ---
 title: "Graffen met een beetje hulp"
-date: "2006-04-07T21:37:08"
+date: 2006-04-07T21:37:08
 permalink: "2006/04/07/graffen-met-een-beetje-hulp/"
 tags: ["archive"]
 layout: "archive-post"

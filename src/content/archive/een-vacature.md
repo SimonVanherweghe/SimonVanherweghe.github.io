@@ -1,6 +1,6 @@
 ---
 title: "Een vacature"
-date: "2007-05-18T12:25:00"
+date: 2007-05-18T12:25:00
 permalink: "2007/05/18/een-vacature/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Fijne mechaniek"
-date: "2006-03-26T11:01:09"
+date: 2006-03-26T11:01:09
 permalink: "2006/03/26/fijne-mechaniek/"
 tags: ["archive"]
 layout: "archive-post"

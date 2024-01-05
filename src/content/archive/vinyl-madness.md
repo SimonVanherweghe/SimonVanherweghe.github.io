@@ -1,6 +1,6 @@
 ---
 title: "Vinyl madness"
-date: "2008-09-30T01:04:53"
+date: 2008-09-30T01:04:53
 permalink: "2008/09/30/vinyl-madness/"
 tags: ["archive"]
 layout: "archive-post"

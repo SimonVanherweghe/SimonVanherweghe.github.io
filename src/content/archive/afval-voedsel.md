@@ -1,6 +1,6 @@
 ---
 title: "Afval = Voedsel"
-date: "2007-08-23T17:02:52"
+date: 2007-08-23T17:02:52
 permalink: "2007/08/23/afval-voedsel/"
 tags: ["archive"]
 layout: "archive-post"

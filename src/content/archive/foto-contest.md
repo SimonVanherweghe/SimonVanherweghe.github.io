@@ -1,6 +1,6 @@
 ---
 title: "Foto contest"
-date: "2006-07-03T07:32:43"
+date: 2006-07-03T07:32:43
 permalink: "2006/07/03/foto-contest/"
 tags: ["archive"]
 layout: "archive-post"

@@ -1,6 +1,6 @@
 ---
 title: "Mars Phoenix"
-date: "2008-11-03T21:56:49"
+date: 2008-11-03T21:56:49
 permalink: "2008/11/03/mars-phoenix/"
 tags: ["archive"]
 layout: "archive-post"

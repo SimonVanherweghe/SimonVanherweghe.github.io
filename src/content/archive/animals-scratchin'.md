@@ -1,6 +1,6 @@
 ---
 title: "Animals scratchin’"
-date: "2008-02-27T20:27:49"
+date: 2008-02-27T20:27:49
 permalink: "2008/02/27/animals-scratchin/"
 tags: ["archive"]
 layout: "archive-post"
