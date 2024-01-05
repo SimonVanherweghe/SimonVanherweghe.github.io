@@ -3,7 +3,7 @@ title: "Kawai 100P"
 date: 2007-10-16T22:12:41
 permalink: "2007/10/16/kawai-100p/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Ik heb hem hier al een tijdje staan, maar wegens de drukte van de laatste weken er nog niet echt de tijd voor gehad. Vanavond dus wel, en meteen maar een stukkie hier neerpoten.
 

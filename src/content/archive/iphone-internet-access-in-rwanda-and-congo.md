@@ -3,7 +3,7 @@ title: "iPhone internet access in Rwanda and Congo"
 date: 2010-08-04T15:07:31
 permalink: "2010/08/04/iphone-internet-access-in-rwanda-and-congo/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 It works, but you have to know how.
 

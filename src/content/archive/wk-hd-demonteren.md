@@ -3,7 +3,7 @@ title: "WK HD demonteren"
 date: 2006-11-02T01:08:21
 permalink: "2006/11/02/wk-hd-demonteren/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Gisteren met Briekske de nieuwe scouts pc in elkaar gestoken, uit een heleboel oude brokken een nieuwe machine gemaakt. We hadden uiteindelijk 8 harde schijven die weg mochten omdat ze 10 keer op één cd konden ofwel gewoon kapot waren.
 

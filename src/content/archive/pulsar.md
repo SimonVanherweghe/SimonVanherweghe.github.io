@@ -3,7 +3,7 @@ title: "Pulsar"
 date: 2006-05-17T09:49:45
 permalink: "2006/05/17/pulsar/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Gisternavond dan gaan kijken naar [Danças Ocultas.](http://dancasocultas.weblog.com.pt/ "http://dancasocultas.weblog.com.pt/") Mannekes, zijn hun albums goed, dan zijn hun optredens… onbeschrijfelijk! Formidabel hoe ze uit slechts 4 accordeons zo een klanken, sfeer, drama, bassen, ritme en passie halen. Jammer dat hun laatste album uitverkocht was, maar dat kon de boel niet verknallen.
 

@@ -3,7 +3,7 @@ title: "Toch handig"
 date: 2008-06-10T22:34:44
 permalink: "2008/06/10/toch-handig/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Een [tijdje geleden](http://www.donebysimon.be/2008/05/29/techtalk/ "http://www.donebysimon.be/2008/05/29/techtalk/") had ik het over [TinEye](http://tineye.com/ "http://tineye.com"), die service waarmee je naar een bepaalde afbeelding kan zoeken. Het zag er naar uit dat het gewoon bij een icoontje in firefox ging blijven. Mooi maar praktisch?
 

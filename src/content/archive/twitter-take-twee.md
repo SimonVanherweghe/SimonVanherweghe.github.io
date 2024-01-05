@@ -3,7 +3,7 @@ title: "Twitter take twee"
 date: 2008-05-13T23:22:36
 permalink: "2008/05/13/twitter-take-twee/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Ik kreeg vandaag op m’n oren van [nokel trend-kili-kili-watch-watch](http://nadekomma.wordpress.com/ "http://nadekomma.wordpress.com/") dat ik maar eens [Twitter](http://twitter.com/ "http://twitter.com/") moest gaan gebruiken ipv ouderwetse e-mails. Brave neef die ik ben besloot ik om het nog maar eens te proberen. Nog eens ja, reeds een hele tijd geleden had ik al eens een accountje aangemaakt, maar ik vond er toen niet veel aan. Nu moet je weten dat ik aanvankelijk ook hetzelfde dacht over [Last.fm](http://last.fm/ "Last.fm"), maar scrobbelen nu de normaalste zaak van de wereld is. (er is trouwens net iets nieuws: de [playground](http://playground.last.fm/ "http://playground.last.fm/"))
 

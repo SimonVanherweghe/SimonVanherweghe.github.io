@@ -3,7 +3,7 @@ title: "Radio Tornado"
 date: 2006-12-30T19:33:34
 permalink: "2006/12/30/radio-tornado/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Weet je nog dat ik [hier](http://www.donebysimon.be/2006/10/17/nen-dink/ "http://www.donebysimon.be/2006/10/17/nen-dink/") dat stukje zocht waarop Marcel uit Willys en Marjetten gebaseerd was?
 

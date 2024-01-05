@@ -3,7 +3,7 @@ title: "Feeds"
 date: 2006-05-09T20:07:58
 permalink: "2006/05/09/feeds/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Ik vang zo hier en daar op dat er velen niet goed weten waar te beginnen met al die feeds. Of ze hebben er gewoonweg nog nooit van gehoord. Laat mij jullie effe helpen dan.
 

@@ -3,7 +3,7 @@ title: "Data Clip"
 date: 2008-07-14T23:14:27
 permalink: "2008/07/14/data-clip/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 De nieuwe videoclip van Radiohead ‘House of Cards’ al gezien? Er kwam geen enkele camera aan te pas, enkel 3D scanner toestanden.
 

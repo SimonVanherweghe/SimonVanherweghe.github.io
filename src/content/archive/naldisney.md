@@ -3,7 +3,7 @@ title: "Naldisney"
 date: 2007-01-25T21:12:55
 permalink: "2007/01/25/naldisney/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Om het ietwat met zijn eigen vocabulaire te zeggen: Nalden komt weer hard met z’n updates:
 

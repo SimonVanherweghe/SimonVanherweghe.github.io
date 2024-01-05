@@ -3,7 +3,7 @@ title: "De grens"
 date: 2007-04-18T22:36:37
 permalink: "2007/04/18/de-grens/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 ongelooflijk…
 

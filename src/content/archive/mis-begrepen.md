@@ -3,7 +3,7 @@ title: "Mis begrepen"
 date: 2008-02-28T13:43:47
 permalink: "2008/02/28/mis-begrepen/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Ik ben hier net wat berichten op [de standaard](http://www.standaard.be/ "http://www.standaard.be") aan het doornemen en m’n oog valt op volgende kop:
 

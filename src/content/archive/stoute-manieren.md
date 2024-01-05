@@ -3,7 +3,7 @@ title: "Stoute manieren?"
 date: 2007-11-12T22:49:32
 permalink: "2007/11/12/stoute-manieren/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Bwa neen é, vergelijk het met een glas onder de kraan te houden ipv alles weg te laten lopen…
 

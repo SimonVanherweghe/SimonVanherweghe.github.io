@@ -3,7 +3,7 @@ title: "Dan maar weer een round-up"
 date: 2007-06-15T00:56:51
 permalink: "2007/06/15/dan-maar-weer-een-round-up/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Naast [ons kamp naar Afrika](http://www.zeescoutsjanbart.be/rafiki "http://www.zeescoutsjanbart.be/rafiki") dat nu wel heel snel dichterbij komt en de vele testen met m’n gps-loggertje ben ik ondertussen ook halftijds harmonium restaurateur.  
 Nu ja, het belangrijkste is al gedaan: alles afgestoft, toetsen gewassen, nieuw latje aangehangen, extra viltjes voorzien, toetsen er weer op, nieuwe vijzekes… Ik heb zelfs vandaag voor den eerste keer der wat op zitten spelen. Er is nog wel wat werk aan hoor. Sommige toetsen haperen nog ferm, sommige sluiten niet goed af wat dan weer een constante toon geeft. En héél het meubel zou ik willen hermaken, dat ik er tenminste onder kan met mijn knieën.  

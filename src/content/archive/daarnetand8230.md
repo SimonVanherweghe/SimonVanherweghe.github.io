@@ -3,7 +3,7 @@ title: "Daarnet&#8230;"
 date: 2007-09-13T00:07:18
 permalink: "2007/09/13/daarnet/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 – Goeie avond meneer, alcoholcontrole. Heeft u iets van alcoholische dranken gedronken?  
 – Nee, nog nooit.  

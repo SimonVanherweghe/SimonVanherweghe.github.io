@@ -3,7 +3,7 @@ title: "Rafiki Avond"
 date: 2007-11-15T01:22:55
 permalink: "2007/11/15/rafiki-avond/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Mocht je het nog niet weten: nu vrijdag Rafiki avond!
 

@@ -3,7 +3,7 @@ title: "Eentje voor het slapen gaan"
 date: 2008-01-13T03:29:52
 permalink: "2008/01/13/eentje-voor-het-slapen-gaan/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Een [foto printerke van Polaroid](http://www.core77.com/blog/events/ces_2008_polaroids_digital_instant_mobile_photo_printer_8663.asp "http://www.core77.com/blog/events/ces_2008_polaroids_digital_instant_mobile_photo_printer_8663.asp"), ziet er héél leuk uit. Zeker het filmpje checken, die presentator heeft idd wel nét iets te veel koffie op. 15 prints op één batterij en 60 seconden voor 1 foto zijn nu niet echt om gat in de lucht te springen, maar polaroid komt hiermee wel mooi terug aansluiten op het digitale pad.
 

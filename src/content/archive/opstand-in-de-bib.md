@@ -3,7 +3,7 @@ title: "Opstand in de bib"
 date: 2008-04-25T10:10:01
 permalink: "2008/04/25/opstand-in-de-bib/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Ja hallo, je gaat langs in de bib en je ziet lijstjes liggen van bv’s die boeken, films en muziek aanraden. Je denkt van “hmm, dat kunnen we beter” Je gaat thuis aan de slag, maakt je eigen lijstje. Compleet met dezelfde opmaak als de originele lijstjes. Daarna ga je terug naar de bib, je legt de bestaande lijstjes aan de kant, en je plaatst je eigen lijstjes in de plaats.
 

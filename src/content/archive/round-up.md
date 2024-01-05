@@ -3,7 +3,7 @@ title: "Round up"
 date: 2007-01-03T23:42:53
 permalink: "2007/01/03/round-up-2/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Dat reclame ook leuk kan zijn bewijzen de volgende 2 campagnes: eentje [iets over tanden](http://feeds.feedburner.com/~r/Neatorama/~3/68774801/ "http://feeds.feedburner.com/~r/Neatorama/~3/68774801/") en eentje in verband met [accordeons](http://feeds.feedburner.com/~r/Neatorama/~3/68650805/ "http://feeds.feedburner.com/~r/Neatorama/~3/68650805/"). Beiden komen via[Neatorama](http://www.neatorama.com/ "http://www.neatorama.com/").
 

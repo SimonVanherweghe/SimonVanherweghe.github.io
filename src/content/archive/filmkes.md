@@ -3,7 +3,7 @@ title: "Filmkes"
 date: 2006-05-10T19:47:51
 permalink: "2006/05/10/filmkes/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Laat ik maar beginnen met die schitterende [Gnarls Barkley](http://www.gnarlsbarkley.com/ "http://www.gnarlsbarkley.com/"), de [clip van Crazy](http://streamos.atlrec.com/wmedia/atlantic/gnarls_barkley/video/crazy/crazy-450.wvx "http://streamos.atlrec.com/wmedia/atlantic/gnarls_barkley/video/crazy/crazy-450.wvx") bijvoorbeeld. En check zeker ook [die live versie](http://www.youtube.com/watch?v=wcOabajz8I8 "http://www.youtube.com/watch?v=wcOabajz8I8") ook, damm die zonnebrillen zijn de max!
 

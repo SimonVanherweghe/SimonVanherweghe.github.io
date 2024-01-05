@@ -3,7 +3,7 @@ title: "Petrettetrekkerie"
 date: 2006-11-07T21:35:20
 permalink: "2006/11/07/petrettetrekkerie/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Deze ochtend wat filmpjes afgehaald die ontwikkeld zijn. Ik ben vooral content van het zwart wit filmpje. Meer van dadde!
 

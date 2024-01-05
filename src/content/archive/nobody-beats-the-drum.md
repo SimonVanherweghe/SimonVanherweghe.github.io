@@ -3,7 +3,7 @@ title: "Nobody beats the drum"
 date: 2008-11-30T23:27:33
 permalink: "2008/11/30/nobody-beats-the-drum/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 \[vimeo\]<http://vimeo.com/2099027\[/vimeo\>]
 

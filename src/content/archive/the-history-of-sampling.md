@@ -3,7 +3,7 @@ title: "The History of Sampling"
 date: 2008-04-18T22:24:37
 permalink: "2008/04/18/the-history-of-sampling/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Samples, het blijft me intrigeren. Vanuit de meest obscure tot de meest bekende muziek worden stukjes gebruikt en her-gebruikt. Plots ontdek je dat een bepaald nummer gewoon van een ander nummer komt. Fantastisch om te horen hoe de artiest in kwestie de sample gekneed heeft tot iets helemaal nieuw.
 

@@ -3,7 +3,7 @@ title: "Terug uit pensioen"
 date: 2006-10-17T18:39:47
 permalink: "2006/10/17/terug-uit-pensioen/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Je weet of je weet niet, maar [Jay-z](http://en.wikipedia.org/wiki/Jay-Z#_note-1 "http://en.wikipedia.org/wiki/Jay-Z#_note-1") kondigde met zijn laatste album ‘[The black album](http://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z) "http://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z)")‘ tevens zijn pensioen aan. Het zou gedaan zijn voor zijn part, hij had alles al gedaan.
 

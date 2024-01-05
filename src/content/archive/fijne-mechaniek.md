@@ -3,7 +3,7 @@ title: "Fijne mechaniek"
 date: 2006-03-26T11:01:09
 permalink: "2006/03/26/fijne-mechaniek/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Ik ben een grote [lomography](http://www.lomography.com/ "www.lomography.com") fan. Enkele jaren geleden heb ik samen met enkele andere een pak van 5 wegwerp toestelletjes gekocht. Het speciale er aan is dat elke foto opgesplitst is in 8 deeltjes. De 8 mini-fotootjes worden getrokken over een tijd van ongeveer 2 seconden, je krijgt dus een soort van fotostrip.
 

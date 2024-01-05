@@ -3,7 +3,7 @@ title: "Gear porn sales!"
 date: 2008-05-28T23:26:55
 permalink: "2008/05/28/gear-porn-sales/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Maar ik mag niet meer é!
 

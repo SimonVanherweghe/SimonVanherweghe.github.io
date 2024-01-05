@@ -3,7 +3,7 @@ title: "Retrieving single cell values from a Google Spreadsheet XML/JSON feed"
 date: 2013-04-18T20:43:56
 permalink: "2013/04/18/retrieving-single-cell-values-from-a-google-spreadsheet-xmljson-feed/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Je kan een Google Docs/Drive spreadsheet publiceren als rss feed via ‘bestand’ -> ‘publiceren op internet’ en dan voor RSS kiezen.
 

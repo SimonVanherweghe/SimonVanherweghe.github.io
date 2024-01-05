@@ -3,7 +3,7 @@ title: "Gameswap"
 date: 2006-04-12T13:11:41
 permalink: "2006/04/12/gameswap/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Was ik nu een verstokte gamer dan vloog ik hier meteen op. Helaas is de tijd waar ik dagenlang zat te gamen geleden van toen [Transport Tycoon](http://www.tycoongames.net/introduction.html "http://www.tycoongames.net/introduction.html") hip was. (ok, en examenperiodes ook).
 

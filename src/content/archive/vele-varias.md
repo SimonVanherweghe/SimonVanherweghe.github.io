@@ -3,7 +3,7 @@ title: "Vele varias"
 date: 2008-05-29T01:50:30
 permalink: "2008/05/29/vele-varias/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 * Wat ze zoal konden doen met een kleine [600 miljard dollar](http://www.antipope.org/charlie/blog-static/2008/05/alternative_boondoggles.html "http://www.antipope.org/charlie/blog-static/2008/05/alternative_boondoggles.html"). Slechte investering me dunkt… \[via [BoingBoing](http://feeds.feedburner.com/~r/boingboing/iBag/~3/299053248/we-could-have-coloni.html "http://feeds.feedburner.com/~r/boingboing/iBag/~3/299053248/we-could-have-coloni.html") (goeie samenvatting)\]
 * In 1975 hebben ze bij kodak een eerste digitale camera gemaakt. Die schreef de foto’s weg op tape. Op tape, op tape zeg ik! Zalig toch? Stel je voor dat je vakantiefoto’s op een cassette stonden. Of een walkman met een schermpje in. En dan verschillende stukjes tape aan elkaar plakken en zien wat er van komt.. \[via [Retro Thing](http://www.retrothing.com/2008/05/kodaks-first-di.html "http://www.retrothing.com/2008/05/kodaks-first-di.html")\]

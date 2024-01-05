@@ -3,7 +3,7 @@ title: "Miaauwkes"
 date: 2006-12-11T23:56:38
 permalink: "2006/12/11/miaauwkes/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Geef toe, we zijn allemaal weg van VJ Tony, en dan nog in het bijzonder van zijn cheape effectjes. Ik vroeg me af of ik met m’n iSight en het al even fantastische processing…
 

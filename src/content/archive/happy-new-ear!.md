@@ -3,7 +3,7 @@ title: "Happy new ear!"
 date: 2006-09-06T21:15:07
 permalink: "2006/09/06/happy-new-ear/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Net de site gezien voor de [Happy New Ears](http://www.happynewears.be/ "http://www.happynewears.be") van dit jaar. Een jaarlijks terugkerend festival voor de nieuwe muziek. I like! En dan in het bijzonder: Audioframes, zotte klank en beeld installaties.  
 Dit jaar gaan er enkele studenten de Heilig Hart fabriek inpalmen om er hun ding te doen. Zaterdag 30 september gaan de deuren dan open, ben benieuwd!

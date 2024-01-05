@@ -3,7 +3,7 @@ title: "DBSTV 2: Gène Waterzooi"
 date: 2008-07-19T12:13:41
 permalink: "2008/07/19/dbstv-2-gene-waterzooi/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Voila, de tweede aflevering van dbstv is een feit: Gène Waterzooi. ‘Gène’ omdat het geen waterzooi is én voor Gène natuurlijk… Ik kan jullie al gerust stellen: de zangscene in de auto hebben we overgeslaan.
 

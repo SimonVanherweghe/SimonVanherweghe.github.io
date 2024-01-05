@@ -3,7 +3,7 @@ title: "Colruyt virus"
 date: 2007-03-26T21:22:04
 permalink: "2007/03/26/colruyt-virus/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Ik loop vrijdag door de Colruyt (waar ze me trouwens té veel aangerekend hebben voor ne synth, maar das een ander verhaal) en aan de kassa zie ik op m’n gsm staan dat ik een nieuw bestand heb ontvangen. Tiens, nooit geweten dat ik iets heb gekregen, en ik kan het niet openen. Soit, is voor later dan eens…
 

@@ -3,7 +3,7 @@ title: "Rebajadas"
 date: 2007-10-23T23:45:56
 permalink: "2007/10/23/rebajadas/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Telkens als die mix voorbijkomt in iTunes valt het me op hoe speciaal die is. Ik weet bijgod niet meer waar ik hem vandaan gehaald heb, dat komt er van als er massa’s muziekblogs dagelijks muziek in je schoot gooien.
 

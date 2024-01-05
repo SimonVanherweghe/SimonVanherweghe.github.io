@@ -3,7 +3,7 @@ title: "CanvascolLUCtie"
 date: 2008-04-30T18:38:01
 permalink: "2008/04/30/canvascolluctie/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Er zitten nogal wat bloggers in de familie. We hebben [nadekomma](http://nadekomma.wordpress.com/ "http://nadekomma.wordpress.com/"), [pokevicemon](http://pokevicemon.wordpress.com/ "http://pokevicemon.wordpress.com/") (pokke-vikke voor de vrienden), [Luc Vandromme](http://www.lucvandromme.be/blog/ "http://www.lucvandromme.be/blog/"), [Jana](http://janavandromme.blogspot.com/ "http://janavandromme.blogspot.com/") die zich helemaal smeet in Thailand maar nu effe op rust is. En[denboulevard](http://denboulevard.wordpress.com/ "http://denboulevard.wordpress.com/") is ook in opmars. Zo komt het voor dat het op familiefeesten gaat over [WordPress](http://wordpress.com/ "http://wordpress.com/") versus [Blogspot](https://www.blogger.com/start "https://www.blogger.com/start") of [Flickr](http://www.flickr.com/ "http://www.flickr.com") versus [Picasa](http://picasa.google.com/ "http://picasa.google.com/"). Voor de meer gevorderde mag ik al eens uitleggen wat een pingback nu precies is. Ik ben er wel gerust in, het zal nooit zo zijn dat we pakweg kerstmis gaan vieren via skype of zo. We zouden de pistolets met paardengehakt te veel missen.
 

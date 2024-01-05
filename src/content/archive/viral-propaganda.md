@@ -3,7 +3,7 @@ title: "Viral propaganda"
 date: 2008-06-17T22:00:55
 permalink: "2008/06/17/viral-propaganda/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Vreemd, ik dacht dat ik al véél eerder eens iets over reverse graffiti had gepost, dat is nu niks nieuws meer. Als je helemaal uit de lucht valt: bij reverse graffiti gaat men een vuile muur reinigen ipv er verf op te zetten.
 

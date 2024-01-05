@@ -3,7 +3,7 @@ title: "Bent festival"
 date: 2006-04-17T20:40:10
 permalink: "2006/04/17/bent-festival/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 In New York loopt deze week het [Circuit Bending Festival](http://www.bentfestival.org/ "http://www.bentfestival.org/"). Als je langs geen kanten weet wat circuitbenden wil zeggen, dan kan je de [Wiki](http://en.wikipedia.org/wiki/Circuit_bending "http://en.wikipedia.org/wiki/Circuit_bending") eens checken voor uitleg, [Get LoFi](http://www.getlofi.com/ "http://www.getlofi.com/") om wat voorbeeldjes te zien, of misschien weet je genoeg als ik zeg dat het allemaal rond zotte geluidjes draait. Deze[mooie handleiding](http://www-us.flickr.com/photos/papelcontinuo/62134040/in/set-1342224/ "http://www-us.flickr.com/photos/papelcontinuo/62134040/in/set-1342224/") kan je misschien zelf warm maken om je eerste stapjes te zetten.
 

@@ -3,7 +3,7 @@ title: "De spanning stijgt"
 date: 2008-01-08T22:10:05
 permalink: "2008/01/08/de-spanning-stijgt/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Het stond al een tijdje in de agenda: 15 januari is het keynote van op [MacWorld](http://www.macworldexpo.com/ "http://www.macworldexpo.com/")…
 

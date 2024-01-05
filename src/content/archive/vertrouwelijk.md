@@ -3,7 +3,7 @@ title: "Vertrouwelijk?"
 date: 2006-09-07T00:02:18
 permalink: "2006/09/07/vertrouwelijk/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Dit is toch wel straf wat je met een zoekterm als [confidential “do not distribute”](http://www.google.com/search?hl=en&q=confidential+%22do+not+distribute%22 "http://www.google.com/search?hl=en&q=confidential+%22do+not+distribute%22") kan vinden… \[via [Boing Boing](http://www.boingboing.net/2006/09/06/how_to_find_confiden.html "http://www.boingboing.net/2006/09/06/how_to_find_confiden.html")\]
 

@@ -3,7 +3,7 @@ title: "Its bien awaaijl"
 date: 2007-01-24T22:03:33
 permalink: "2007/01/24/its-bien-awaaijl/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Terug naar 50 jaar geleden met het opgraven van [deze tijdscapsule](http://www.neatorama.com/2007/01/24/buried-car-1957-plymouth-belvedere-buried-as-time-capsule-for-50-years/ "http://www.neatorama.com/2007/01/24/buried-car-1957-plymouth-belvedere-buried-as-time-capsule-for-50-years/")
 

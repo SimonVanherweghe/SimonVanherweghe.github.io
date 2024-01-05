@@ -3,7 +3,7 @@ title: "Groot gat"
 date: 2007-03-26T21:06:52
 permalink: "2007/03/26/groot-gat/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Niks geen vuile manieren, wel een handige tip voor de pinhole fanaten onder ons:
 

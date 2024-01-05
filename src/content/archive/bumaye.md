@@ -3,7 +3,7 @@ title: "Bumaye"
 date: 2007-01-30T21:23:23
 permalink: "2007/01/30/bumaye/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Vandaag ‘Bumaye’ van ‘Typhoon’, weer nen Ollander die ik heb leren kennen door nen anderen Ollander: [The Flexican](http://www.theflexican.com/ "http://www.theflexican.com/").  
 En omdat ik gisteren ziek te bed lag en niks kon posten doen we er vandaag meteen twee. Wat dacht je van het nummer waaruit de sample van vandaag komt?

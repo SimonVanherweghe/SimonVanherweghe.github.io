@@ -3,7 +3,7 @@ title: "Digitaal kabaal"
 date: 2006-10-10T17:40:50
 permalink: "2006/10/10/digitaal-kabaal/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Hehe, blijkt dat [Torq/Connective](http://www.m-audio.com/products/en_us/Conectiv-main.html "http://www.m-audio.com/products/en_us/Conectiv-main.html") eindelijk in de rekken ligt. De eerste [besprekingen](http://createdigitalmusic.com/2006/10/09/m-audio-torqconectiv-dj-early-adopters-share-tips-and-reviews/ "http://createdigitalmusic.com/2006/10/09/m-audio-torqconectiv-dj-early-adopters-share-tips-and-reviews/") komen beetje per beetje online en blijkbaar is de ontbrekende -afgedrukte- handleiding de grootste ergernis… Blijft er alvast veelbelovend uitzien en iets wat redelijk bovenaan m’n lijstje staat.
 

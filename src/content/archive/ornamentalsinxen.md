@@ -3,7 +3,7 @@ title: "Ornamentalsinxen"
 date: 2007-05-29T19:14:06
 permalink: "2007/05/29/ornamentalsinxen/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Het duurde een tijdje, maar is er dan uiteindelijk toch van gekomen, we hebben met de Ornamentalisten weer eens wat nieuw werk opgenomen. Natuurlijk ben je hier op de de juiste plek om als eerste het resultaat te horen van deze ‘Ornamentalsinxen’ ep. Denk er aan: alles is in één keer opgenomen, geen vooraf ingestudeerde partituren of drumpartijen. We zijn nog steeds te boeken voor live al uw feesten en partijen te komen opluisteren, vraag ons echter niet om een bepaald nummer eens opnieuw te spelen, want dat gaat gewoonweg niet.
 

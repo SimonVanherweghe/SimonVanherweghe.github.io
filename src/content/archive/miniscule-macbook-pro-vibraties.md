@@ -3,7 +3,7 @@ title: "Miniscule MacBook Pro vibraties"
 date: 2008-06-03T23:40:18
 permalink: "2008/06/03/miniscule-macbook-pro-vibraties/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Het is heel raar, het is soms alsof m’n MacBook lichtjes trilt. Je kan het nauwelijks trillen noemen. Ik had het ook al eens vroeger gehad, toen ik er een extra beeldscherm aan hing, en de adapter niet aangesloten was. Maar nu komt het meer en meer voor. Hmmm, even [googlen](http://www.google.be/search?q=vibrating+macbook "http://www.google.be/search?q=vibrating+macbook") dus…
 

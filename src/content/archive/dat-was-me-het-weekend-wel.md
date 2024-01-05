@@ -3,7 +3,7 @@ title: "Dat was me het weekend wel"
 date: 2006-09-18T19:10:27
 permalink: "2006/09/18/dat-was-me-het-weekend-wel/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Het begon al goed met de telefoonhoorn van uit den Blokker die je aan je gsm kan hangen. Zo krijgt het begrip draadloze telefoon terug een andere wending. Helaas kan mijn reserve mobieltje het blijkbaar niet echt aan. We wachten effe tot de ouwe trug is.
 

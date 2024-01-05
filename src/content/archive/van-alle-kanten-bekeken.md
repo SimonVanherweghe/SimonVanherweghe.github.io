@@ -3,7 +3,7 @@ title: "Van alle kanten bekeken"
 date: 2008-01-08T22:58:21
 permalink: "2008/01/08/van-alle-kanten-bekeken/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Woew: VideoTrace, je maakt een filmpje van een of ander object waar je rond loopt, binnen trekken in dat programma, her en der wat lijnen zetten, en huppe: je hebt een 3D object. Zotjes, [check het filmpje](http://www.acvt.com.au/research/videotrace/ "http://www.acvt.com.au/research/videotrace/")
 

@@ -3,7 +3,7 @@ title: "The odd Couple|elpuoC ddo ehT"
 date: 2008-04-19T01:36:36
 permalink: "2008/04/19/the-odd-coupleelpuoc-ddo-eht/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Dat de nieuwe album van Gnarls Barkley steengoed is, weten we al een tijdje, moet je zeker checken.
 

@@ -3,7 +3,7 @@ title: "Sprokkels"
 date: 2008-07-16T11:08:17
 permalink: "2008/07/16/sprokkels/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Enkele opmerkelijke items bij het doornemen van m’n feeds vandaag:
 

@@ -3,7 +3,7 @@ title: "Online tools"
 date: 2008-03-07T01:37:59
 permalink: "2008/03/07/online-tools/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Holala, er zijn leuke dingen te vinden:
 

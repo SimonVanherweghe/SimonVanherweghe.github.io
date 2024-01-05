@@ -3,7 +3,7 @@ title: "Camera Obscura"
 date: 2006-05-23T01:36:27
 permalink: "2006/05/23/camera-obscura/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Je weet wel, een donker doosje met langs de ene kant film en langs de andere kant een klein speldeprikje.
 

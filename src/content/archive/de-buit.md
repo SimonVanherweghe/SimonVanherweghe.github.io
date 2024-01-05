@@ -3,7 +3,7 @@ title: "De buit"
 date: 2007-02-18T22:04:33
 permalink: "2007/02/18/de-buit/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 We gaan dit jaar [met de Loodsen op kamp naar Afrika](http://zeescoutsjanbart.be/rafiki/ "http://zeescoutsjanbart.be/rafiki/"). Om dit te bekostigen doen we her en der werkjes. Zo zijn we zaterdag terug naar de Pih geweest om de kelders op te ruimen.
 

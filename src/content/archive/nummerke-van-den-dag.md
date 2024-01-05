@@ -3,7 +3,7 @@ title: "Nummerke van den dag"
 date: 2007-01-26T00:47:57
 permalink: "2007/01/26/nummerke-van-den-dag/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Iederen dag koop ik een nummerke via de iTunes store. Omdat het een mooike is, omdat ik het effe wil aanhalen, omdat ik er mee in mijn kop zit of onder het motto van ‘Legalize it’ Enfin, eender wat.
 

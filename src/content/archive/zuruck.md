@@ -3,7 +3,7 @@ title: "Zurück"
 date: 2006-08-02T18:55:31
 permalink: "2006/08/02/zuruck/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Kom je terug van kamp en is de modem toch wel kapot zeker! Nujagow, na 2 weken konden enkele dagen er nog wel bij.
 

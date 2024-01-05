@@ -3,7 +3,7 @@ title: "Platial"
 date: 2006-06-18T18:45:46
 permalink: "2006/06/18/platial/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Nou, dit is leuk zeg:
 

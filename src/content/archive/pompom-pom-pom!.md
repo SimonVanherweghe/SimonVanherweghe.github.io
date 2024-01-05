@@ -3,7 +3,7 @@ title: "Pompom-pom-pom!"
 date: 2007-02-02T00:48:25
 permalink: "2007/02/02/pompom-pom-pom/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Blogging live from de city of Gent van deze keer.
 

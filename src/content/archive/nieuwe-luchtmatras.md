@@ -3,7 +3,7 @@ title: "Nieuwe luchtmatras"
 date: 2008-05-07T00:50:53
 permalink: "2008/05/07/nieuwe-luchtmatras/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 hoofdkussen. Ja, ik heb nog een goeie ouwe luchtmatras, die ik zelf moet opblazen voor het slapen gaan. Geen fancy zelfopblaasbare matjes voor mij, geef me maar gewoon de basis blauw-rode luchtmatras van in de Supra.
 

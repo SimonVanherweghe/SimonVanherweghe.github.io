@@ -3,7 +3,7 @@ title: "Kuduro"
 date: 2007-02-26T22:37:18
 permalink: "2007/02/26/kuduro/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Ik ben op zoek naar uptempo zuiderse muziek, beetje Fanfare Ciocarlia, maar dan minder Balkan achtig.  
 Enfin, viavia kwam ik uit bij [Kuduro](http://en.wikipedia.org/wiki/Kuduro "http://en.wikipedia.org/wiki/Kuduro"), een uit Angola afkomstige stijl, bestaande uit een mengeling van Afrikaanse ritmes, hiphop, ragga, reggaeton… een hele boel invloeden eigenlijk.  

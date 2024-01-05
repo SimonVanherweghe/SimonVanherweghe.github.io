@@ -3,7 +3,7 @@ title: "Tools tools tools"
 date: 2008-03-13T23:29:26
 permalink: "2008/03/13/tools-tools-tools/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Dit zal waarschijnlijk nét weer iets te technisch worden. Geen nood, ik ben met m’n handjes aan het draaien. Bij deze een overzicht van een hoop tools die ik gebruik. Je weet maar nooit dat er iets tussen zit dat je misschien ook wel kan gebruiken.
 

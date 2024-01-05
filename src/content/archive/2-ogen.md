@@ -3,7 +3,7 @@ title: "2 ogen"
 date: 2007-04-18T21:32:47
 permalink: "2007/04/18/2-ogen/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Helemaal de schuld van [1983](http://www.1983.be/2007/03/het-rolleiflex-verhaal/ "http://www.1983.be/2007/03/het-rolleiflex-verhaal/") dat ik er dan uiteindelijk op ebay eentje gekocht heb. Had da al langer in het snotje via de [lomo shop](http://shop.lomography.com/shop/main.php?cat=Premium_Cameras&pro=sea "http://shop.lomography.com/shop/main.php?cat=Premium_Cameras&pro=sea"), maar 225 euroots, ik bedoel…
 

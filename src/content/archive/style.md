@@ -3,7 +3,7 @@ title: "Style"
 date: 2006-08-30T23:18:46
 permalink: "2006/08/30/style/"
 tags: ["archive"]
-layout: "archive-post"
+
 ---
 Eventjes aanhalen dat deze [gids voor elektronische muziek](http://www.di.fm/edmguide/edmguide.html "http://www.di.fm/edmguide/edmguide.html") het checken waard is. Oerlelijke interface weliswaar, maar doe gewoon je ogen toe.
 
