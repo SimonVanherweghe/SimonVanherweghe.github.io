@@ -1,0 +1,33 @@
+---
+const { posts } = Astro.props;
+
+const dateOptions = {
+  year: "numeric",
+  month: "short",
+  day: "numeric",
+};
+---
+
+<ul class="archivelist">
+  {
+    posts.map((post) => (
+      <li>
+        <time datetime={post.data.date.toISOString()}>
+          {post.data.date.toLocaleDateString("EN", dateOptions)}
+        </time>
+        <a href={post.data.permalink} class="postlist-link">
+          {post.data.title}
+        </a>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  li {
+    display: grid;
+    grid-template-columns: 15ch auto;
+    font-variant-numeric: tabular-nums;
+    margin-bottom: var(--space-3xs);
+  }
+</style>

@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import TagsList from "./TagsList.astro";
+import { fade } from "astro:transitions";
 const { post } = Astro.props;
 
 const images = import.meta.glob("/src/images/posts/*/*/*.{jpeg,jpg,png,gif}");
@@ -15,7 +16,9 @@ const images = import.meta.glob("/src/images/posts/*/*/*.{jpeg,jpg,png,gif}");
       alt={post.data.title}
     />
 
-    <TagsList tags={post.data.tags} />
+    <div class="tagslist">
+      <TagsList tags={post.data.tags} isLink={false} />
+    </div>
 
     <h3>{post.data.title}</h3>
 
@@ -30,6 +33,10 @@ const images = import.meta.glob("/src/images/posts/*/*/*.{jpeg,jpg,png,gif}");
 </article>
 
 <style>
+  .tagslist {
+    grid-area: tags;
+  }
+
   a {
     text-decoration: none;
     color: inherit;
