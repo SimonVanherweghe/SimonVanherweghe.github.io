@@ -1,0 +1,22 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "./BaseLayout.astro";
+import PostsList from "../components/PostsList.astro";
+const allPosts = await getCollection("posts");
+allPosts.reverse();
+---
+
+<BaseLayout>
+  <header class="hero">
+    <div class="hero-content">
+      <div class="intro">
+        <slot />
+      </div>
+    </div>
+  </header>
+
+  <section class="home">
+    <h2 class="post-list__heading visually-hidden">Recent stuff</h2>
+    <PostsList posts={allPosts} />
+  </section>
+</BaseLayout>

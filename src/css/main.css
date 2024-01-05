@@ -2,9 +2,7 @@
 @import 'tokens.css';
 @import 'typo.css';
 @import 'global.css';
-@import 'header.css';
 @import 'home.css';
-@import 'post-list.css';
 @import 'footer.css';
 @import 'post.css';
 @import 'markdown.css';
@@ -38,13 +36,4 @@ img {
 
 body {
   background-color: var(--color-bg);
-}
-
-picture {
-  display: block;
-}
-
-picture img {
-  display: block;
-  margin: 0 auto;
 }

@@ -6,7 +6,7 @@ tags:
   - post
   - project
   - crafting
-preview: /images/blog/2023/04/disco.png
+preview: /src/images/posts/2023/04/disco.png
 description: When the theme for a party is 'disco'
 ---
 

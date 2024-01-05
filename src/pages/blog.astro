@@ -1,0 +1,14 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+const allPosts = await getCollection("posts");
+allPosts.reverse();
+
+const allTags = [...new Set(allPosts.flatMap((post) => post.data.tags))];
+---
+
+<BaseLayout>
+  <section>
+    <h2>All blogposts</h2>
+  </section>
+</BaseLayout>

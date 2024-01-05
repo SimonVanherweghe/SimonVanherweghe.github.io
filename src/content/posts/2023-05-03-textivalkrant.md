@@ -2,7 +2,7 @@
 title: Textivalkrant
 description: A mobile program guide with a funny twist
 date: 2023-05-03T19:58:30.566Z
-preview: /images/blog/2023/05/textivalkrant.png
+preview: /src/images/posts/2023/05/textivalkrant.png
 alt: "A screenshot of the Textivalkrant header consistiong of a menu and a rockstar construction worker on a wrecking ball."
 draft: false
 tags:
@@ -21,7 +21,7 @@ The theme of the festival was 'construction' and low hanging pants was already b
 
 The pull down hack was implemented quite easily. Off course there were some differences between Android and iOS, but they were easily resolved.
 
-![A screenrecording of a mobile site where pants are pulled down via the refresh guesture](/images/blog/2023/05/textpull.webp)
+![A screenrecording of a mobile site where pants are pulled down via the refresh guesture](/src/images/posts/2023/05/textpull.webp)
 
 ## Probability
 

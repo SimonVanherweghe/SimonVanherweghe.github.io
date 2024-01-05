@@ -1,0 +1,58 @@
+<header>
+  <div>
+    <h1>
+      <a href="/"> DONEBYSIMON</a>
+    </h1>
+
+    <nav>
+      <ul>
+        <li>
+          <a href="/blog">Blog</a>
+        </li>
+        <li>
+          <a href="/about">About</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  header {
+    border-bottom: var(--border);
+    padding-bottom: var(--space-s);
+    margin-bottom: var(--space-m);
+  }
+
+  a:any-link {
+    text-decoration: none;
+    color: var(--color-text);
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+
+    padding: var(--space-xs);
+    margin: 0 auto;
+    max-width: var(--max-width);
+  }
+
+  h1 {
+    font-size: var(--step-2);
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: var(--space-m) 0;
+  }
+
+  ul {
+    display: flex;
+    gap: var(--space-s);
+  }
+</style>

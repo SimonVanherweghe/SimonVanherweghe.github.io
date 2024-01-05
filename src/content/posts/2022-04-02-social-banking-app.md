@@ -2,13 +2,13 @@
 title: Social Banking App
 description: A fake banking app to reward participants for completing challenges.
 date: 2022-04-02T14:58:06.272Z
-preview: /images/blog/2022/04/logo.png
+preview: /src/images/posts/2022/04/logo.png
 draft: false
 tags:
   - post
   - code
 categories: []
-permalink: /2022/04/02/social-banking-app/
+permalink: 2022/04/02/social-banking-app/
 alt: "A stock exchange icon"
 slug: social-banking-app
 ---
@@ -24,7 +24,7 @@ For a bachelor party where the groom happens to be a banker, we've decided it wo
 - Live chat
 - FAQ section
 
-![Screenshot of an investment](/images/blog/2022/04/kompromat.png)
+![Screenshot of an investment](/src/images/posts/2022/04/kompromat.png)
 
 ## Tech stack used
 

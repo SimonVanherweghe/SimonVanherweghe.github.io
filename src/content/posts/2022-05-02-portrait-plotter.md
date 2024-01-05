@@ -2,7 +2,7 @@
 title: Portrait plotter
 description: "A plotter that draws a picture of you"
 date: 2022-05-02T21:01:00.198Z
-preview: "/images/blog/2022/05/plotter.jpg"
+preview: "/src/images/posts/2022/05/plotter.jpg"
 draft: false
 tags: ["code", "play", "post"]
 permalink: 2022/05/02/portrait-plotter/
@@ -14,7 +14,7 @@ I wanted to present something interactive, and I had a pen plotter available, so
 
 It had some attention, people tried it and were happily surprised with the result.
 
-![A plotter viewed through a rainy window](/images/blog/2022/05/firstportraitplotter.jpg)
+![A plotter viewed through a rainy window](/src/images/posts/2022/05/firstportraitplotter.jpg)
 
 ## Next iteration
 

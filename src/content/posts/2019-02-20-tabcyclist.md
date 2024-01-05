@@ -6,7 +6,7 @@ tags:
   - post
   - project
   - code
-preview: /images/blog/2023/04/tabcyclist.png
+preview: /src/images/posts/2023/04/tabcyclist.png
 description: Cycle through your open tabs
 ---
 [Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=donebysimon.tabcyclist) that lets you cycle through your open tabs like a slideshow.

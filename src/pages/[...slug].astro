@@ -1,0 +1,128 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TagsList from "../components/TagsList.astro";
+import { Image } from "astro:assets";
+
+const images = import.meta.glob("/src/images/posts/*/*/*.{jpeg,jpg,png,gif}");
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection("posts");
+
+  return allPosts.map((post, i) => ({
+    params: { slug: post.data.permalink },
+    props: {
+      post,
+      next: i < allPosts.length - 1 ? allPosts[i + 1] : null,
+      prev: i > 0 ? allPosts[i - 1] : null,
+    },
+  }));
+}
+
+const { post, next, prev } = Astro.props;
+const { Content } = await post.render();
+---
+
+<BaseLayout>
+  <article class="post">
+    <header>
+      <TagsList tags={post.data.tags} />
+      <h1 class="title">{post.data.title}</h1>
+      <p class="desc">{post.data.description}</p>
+      <div class="details">
+        <time datetime={post.data.date.toISOString()}>
+          {post.data.date.toLocaleDateString()}
+        </time>
+      </div>
+    </header>
+    <Image
+      src={images[post.data.preview]()}
+      widths={[500, 750, 1000, 1500]}
+      sizes="100vw"
+      alt={post.data.title}
+      class="headerimg"
+    />
+
+    <div class="markdown">
+      <Content />
+    </div>
+
+    <aside>
+      <nav class="pagination">
+        {
+          next && (
+            <a href={`/${next.data.permalink}`}>
+              <span>←</span>
+              <span>{next.data.title}</span>
+            </a>
+          )
+        }
+        {
+          prev && (
+            <a href={`/${prev.data.permalink}`}>
+              <span>{prev.data.title}</span>
+              <span>→</span>
+            </a>
+          )
+        }
+      </nav>
+    </aside>
+  </article>
+
+  <style>
+    header {
+      max-width: var(--max-width-content);
+      margin: 0 auto;
+    }
+
+    div.markdown {
+      max-width: var(--max-width-content);
+      margin: 0 auto;
+      padding-bottom: var(--space-xl);
+
+      border-bottom: var(--border);
+    }
+
+    .title {
+      font-size: var(--step-4);
+      font-weight: 400;
+      margin-bottom: var(--space-m);
+    }
+
+    .desc {
+      font-size: var(--step-1);
+      margin-bottom: var(--space-s);
+    }
+
+    .details {
+      font-size: var(--step--1);
+      color: var(--color-grey);
+      margin-bottom: var(--space-s);
+    }
+
+    .headerimg {
+      aspect-ratio: 16/8;
+      object-fit: cover;
+      margin-bottom: var(--space-l);
+    }
+
+    aside {
+      max-width: var(--max-width-content);
+      margin: var(--space-xl) auto;
+    }
+
+    .pagination {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+    }
+
+    .pagination > * {
+      flex: 1;
+    }
+
+    .pagination > *:last-child {
+      text-align: right;
+    }
+  </style>
+</BaseLayout>
