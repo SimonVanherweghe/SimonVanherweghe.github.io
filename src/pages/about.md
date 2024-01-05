@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: ../layouts/PageLayout.astro
 title: 'About Simon'
 ---
 
@@ -11,4 +11,4 @@ In the kitchen he likes to try out new recipes and dive deep into specific dishe
 
 Traditionally for a developer, this site is a victim of continuous overhauls, experiments and bugs.
 
-It is build with [11ty](https://www.11ty.dev/), initially based on [Eleventy duo](https://github.com/yinkakun/eleventy-duo) and sprinkled with some [Ghost](https://ghost.org/) flavours for the styling. If you want to have a look at the code, you can find it on [GitHub](https://github.com/SimonVanherweghe/SimonVanherweghe.github.io)
+As for now, the site is built with [Astro](https://astro.build/), previously with [11ty](https://www.11ty.dev/), based on a JSON export of a WordPress blog. If you want to have a look at the code, you can find it on [GitHub](https://github.com/SimonVanherweghe/SimonVanherweghe.github.io)
