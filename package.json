@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@astrojs/rss": "^4.0.1",
+    "@astrojs/sitemap": "^3.0.4",
     "astro": "^3.4.3",
     "luxon": "^3.3.0",
     "markdown-it": "^14.0.0",
