@@ -1,2 +1,4 @@
 User-agent: *
-Sitemap: https://donebysimon.be/sitemap.xml
+Allow: /
+
+Sitemap: https://donebysimon.be/sitemap-index.xml

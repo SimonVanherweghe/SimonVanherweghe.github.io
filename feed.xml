@@ -1,320 +1,136 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>DoneBySimon</title>
-  <subtitle></subtitle>
-  <link href="https://donebysimon.be/public/feed.xml" rel="self"/>
-  <link href="https://donebysimon.be/"/>
-  
-    <updated>2023-05-03T19:58:30Z</updated>
-  
-  <id>https://donebysimon.be</id>
-  <author>
-    <name>Simon Vanherweghe</name>
-    <email>simon.vanherweghe@gmail.com</email>
-  </author>
-  
-    
-    <entry>
-      <title>Kortrijk 14-18</title>
-      <link href="https://donebysimon.be/2013/11/01/kortrijk-14-18/"/>
-      <updated>2013-11-01T05:23:41Z</updated>
-      <id>https://donebysimon.be/2013/11/01/kortrijk-14-18/</id>
-      <content type="html">
-        <![CDATA[
-      <p>I had the idea to revive the first world war in Kortrijk via Twitter. This way, a tweet would pop up in your timeline and would make you think about it for a minute.</p>
-<p>It turned out that <a href="https://www.google.be/books/edition/Kortrijk_14_18/Bn4dAQAAMAAJ?hl=nl&amp;gbpv=0&amp;bsq=kortrijk%2014%2018">Egied van Hoonacker wrote a book about the day-by-day events in Kortrijk</a> during that period of time. This was a goldmine to say the least. I used the book as a source for the tweets.</p>
-<p><a href="https://twitter.com/Kortrijk1418/">https://twitter.com/Kortrijk1418/</a></p>
-<blockquote>
-<p>Het station en stationsplein worden door bommen beschadigd, alle ruiten op het plein zijn kapot. 2 soldaten en een burger overlijden. <a href="https://t.co/gRri6vyl5f">pic.twitter.com/gRri6vyl5f</a></p>
-<p>— Kortrijk 14-18 (@Kortrijk1418) <a href="https://twitter.com/Kortrijk1418/status/924176431608889344?ref_src=twsrc%5Etfw">October 28, 2017</a></p>
-</blockquote>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>BudaBeachBot</title>
-      <link href="https://donebysimon.be/2017/05/01/budabeachbot/"/>
-      <updated>2017-05-01T05:18:43Z</updated>
-      <id>https://donebysimon.be/2017/05/01/budabeachbot/</id>
-      <content type="html">
-        <![CDATA[
-      <p>At the Buda Beach in Kortrijk, there is a webcam looking at the Leie. I made a bot that tweets a picture of every boat that passes by.</p>
-<p><a href="https://twitter.com/budabeachbot">https://twitter.com/budabeachbot</a></p>
-<p><a href="https://twitter.com/budabeachbot/status/1101166241908178944">https://twitter.com/budabeachbot/status/1101166241908178944</a></p>
-<h2>Materials used</h2>
-<ul>
-<li>A bunch of hacky scripts, really...</li>
-</ul>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Een Tesla voor Simon</title>
-      <link href="https://donebysimon.be/2017/09/19/een-tesla-voor-simon/"/>
-      <updated>2017-09-19T05:34:35Z</updated>
-      <id>https://donebysimon.be/2017/09/19/een-tesla-voor-simon/</id>
-      <content type="html">
-        <![CDATA[
-      <p>When browsing to <a href="https://eenteslavoorsimon.be/">eenteslavoorsimon.be</a>, the visitor helps mining Monero cryptocurrency for me. This way I could become immeasurable rich. The only concern I would have is to pick the color of the Tesla.</p>
-<p><a href="https://web.archive.org/web/20170921124423/https://eenteslavoorsimon.be/"><picture><source type="image/webp" srcset="/img/h2VLoygrhj-350.webp 350w, /img/h2VLoygrhj-750.webp 750w" sizes="100vw"><source type="image/jpeg" srcset="/img/h2VLoygrhj-350.jpeg 350w, /img/h2VLoygrhj-750.jpeg 750w" sizes="100vw"><img class="markdown-image" decoding="async" alt="Screenshot of the webpage eenteslavoorsimon.be" src="/img/h2VLoygrhj-350.jpeg" width="750" height="564"></picture></a></p>
-<h2>Media attention</h2>
-<ul>
-<li><a href="https://www.demorgen.be/economie/simon-wil-graag-een-tesla-en-u-kunt-hem-daarbij-helpen-b123f36e/">De Morgen</a></li>
-<li><a href="https://kw.knack.be/west-vlaanderen/nieuws/onderwijs-en-jeugd/docent-howest-wil-tesla-verdienen-met-jouw-computer/article-normal-279253.html">Krant van West-Vlaanderen</a></li>
-</ul>
-<h2>Update</h2>
-<blockquote>
-<p>Coinhive (de dienst achter <a href="https://t.co/AFeBrQJXSB">https://t.co/AFeBrQJXSB</a>) is gestopt. We kloppen of op 197 226 752 hashes (<a href="https://twitter.com/hashtag/merci?src=hash&amp;ref_src=twsrc%5Etfw">#merci</a>) goed voor 0,02561 XMR. Met een transaction fee van 0,005 XMR heeft dit 0,02060 XMR opgebracht. 1 XMR is op dit moment €44.12<br>
-Still, totally worth it 🤑</p>
-<p>— Simon Vanherweghe (@donebysimon) <a href="https://twitter.com/donebysimon/status/1106099705237393408?ref_src=twsrc%5Etfw">March 14, 2019</a></p>
-</blockquote>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Everywhere I go, it&#39;s disco</title>
-      <link href="https://donebysimon.be/2018/01/27/everywhere-i-go-its-disco/"/>
-      <updated>2018-01-27T05:54:24Z</updated>
-      <id>https://donebysimon.be/2018/01/27/everywhere-i-go-its-disco/</id>
-      <content type="html">
-        <![CDATA[
-      <p>One could dress up like a real disco star, or one could just wear a disco ball on their back. I chose the latter. This way I could provide the stars...</p>
-<p><a href="https://www.instagram.com/p/BecZ-DjhC58">https://www.instagram.com/p/BecZ-DjhC58</a></p>
-<h2>Materials used</h2>
-<ul>
-<li>wood</li>
-<li>disco ball</li>
-<li>flashlight</li>
-<li>shoulder straps</li>
-</ul>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>TabCyclist</title>
-      <link href="https://donebysimon.be/2019/02/20/tabcyclist/"/>
-      <updated>2019-02-20T05:50:16Z</updated>
-      <id>https://donebysimon.be/2019/02/20/tabcyclist/</id>
-      <content type="html">
-        <![CDATA[
-      <p><a href="https://marketplace.visualstudio.com/items?itemName=donebysimon.tabcyclist">Extension for VS Code</a> that lets you cycle through your open tabs like a slideshow.</p>
-<p><img src="https://github.com/SimonVanherweghe/TabCyclist/raw/master/images/cyclistdemo.gif" alt="Animated GIF that shows how tabs are cycled"></p>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Buda Kitchen Bot</title>
-      <link href="https://donebysimon.be/2019/06/18/buda-kitchen-bot/"/>
-      <updated>2019-06-18T19:47:28Z</updated>
-      <id>https://donebysimon.be/2019/06/18/buda-kitchen-bot/</id>
-      <content type="html">
-        <![CDATA[
-      <p>A <a href="https://assistant.google.com/services/a/uid/0000004f817c7aef?hl=nl">Google Assistant action</a> you can ask what's on the menu today at <a href="http://budakitchen.be">Buda Kitchen Kortrijk.</a></p>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Vloryan</title>
-      <link href="https://donebysimon.be/2021/12/26/vloryan/"/>
-      <updated>2021-12-26T19:40:06Z</updated>
-      <id>https://donebysimon.be/2021/12/26/vloryan/</id>
-      <content type="html">
-        <![CDATA[
-      <p>There is a quite famous IKEA hack out there called a <a href="https://www.exploringlife.be/ikea-hack-learning-tower/">learning tower</a>. It consists out of two IKEA items, an <a href="https://www.ikea.com/be/en/p/oddvar-stool-pine-20249330/">ODDVAR stool</a> and a <a href="https://www.ikea.com/be/en/p/bekvaem-step-stool-aspen-10225589/">BEKVAM stepstool</a> that you attach to each other.</p>
-<p>When this item appeared on a gift list, we had a couple of options. We could buy both and just hand over the boxes, we could give it already assembled, or we could present it like an IKEA product as if we took it off the shelf. Off course, I went for the last option. I even painted some parts, so they would match the already existing furniture in the house it would end up.</p>
-<h2>The manual</h2>
-<p>With a mix of Illustrator, InDesign and Sketchup I created <a href="/images/blog/2022/12/vloryanmanual.pdf">a manual completely in the IKEA style.</a> I've updated the screws needed and made sure the renderings reflected the actual product.</p>
-<h2>The box</h2>
-<p>It was a bit of a puzzle to pack all the items as tight as possible. Luckily, we had some cardboard boxes lying around that were the perfect size. I've added some extra cardboard to the sides to make sure the parts wouldn't move around. Since I almost surgically opened the plastic bags with the screws, I was able to fill them with the correct amount of screws and seal them again with my vacuum sealer from in the kitchen.</p>
-<p><picture><source type="image/webp" srcset="/img/hEQVmsHxdN-350.webp 350w, /img/hEQVmsHxdN-750.webp 750w, /img/hEQVmsHxdN-1500.webp 1500w" sizes="100vw"><source type="image/jpeg" srcset="/img/hEQVmsHxdN-350.jpeg 350w, /img/hEQVmsHxdN-750.jpeg 750w, /img/hEQVmsHxdN-1500.jpeg 1500w" sizes="100vw"><img class="markdown-image" decoding="async" alt="The box with all the parts, right before it was closed" src="/img/hEQVmsHxdN-350.jpeg" width="1500" height="1992"></picture></p>
-<h2>The result</h2>
-<p>It couldn't be better, since the first reaction I heard was &quot;I didn't know they sell them like that&quot;</p>
-<p>Mission succeeded!</p>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Waldschattenspiel</title>
-      <link href="https://donebysimon.be/2021/12/27/waldschattenspiel/"/>
-      <updated>2021-12-27T20:15:25Z</updated>
-      <id>https://donebysimon.be/2021/12/27/waldschattenspiel/</id>
-      <content type="html">
-        <![CDATA[
-      <p>It was when we were visiting <a href="https://www.manufactum.de/">Manufactum</a> that I discovered <a href="https://de.wikipedia.org/wiki/Waldschattenspiel">Waldschattenspiel</a>. It is a game you play in the dark with a little candle. The goal is to hide your pawns in the shadows of the trees.</p>
-<p>For a gift, I decided to make a version of this game myself. I had some old veneer lying around, this seemed like the perfect opportunity to see what was possible with that material and a laser cutter. After some tests, I was able to create a mosaic for the playing field. The main difficulty here was that the veneer was warped. I tried some different techniques to flatten it out, but in the end I had to settle with a little bit of deformation in the circles that were cut.</p>
-<p><picture><source type="image/webp" srcset="/img/EYZT9rY0Bl-350.webp 350w, /img/EYZT9rY0Bl-750.webp 750w, /img/EYZT9rY0Bl-1500.webp 1500w" sizes="100vw"><source type="image/jpeg" srcset="/img/EYZT9rY0Bl-350.jpeg 350w, /img/EYZT9rY0Bl-750.jpeg 750w, /img/EYZT9rY0Bl-1500.jpeg 1500w" sizes="100vw"><img class="markdown-image" decoding="async" alt="The two halves of the box, varnished" src="/img/EYZT9rY0Bl-350.jpeg" width="1500" height="1129"></picture></p>
-<p>Instead of making a board and a case, I made a case with the board on the back, you've probably seen this before with chess boards. I've lined the inside with felt to give it a nice finish. There are even magnets to keep the board close, but this didn't work out as well as I hoped.</p>
-<p><picture><source type="image/webp" srcset="/img/gKocKpye-M-350.webp 350w, /img/gKocKpye-M-750.webp 750w, /img/gKocKpye-M-1500.webp 1500w" sizes="100vw"><source type="image/jpeg" srcset="/img/gKocKpye-M-350.jpeg 350w, /img/gKocKpye-M-750.jpeg 750w, /img/gKocKpye-M-1500.jpeg 1500w" sizes="100vw"><img class="markdown-image" decoding="async" alt="The inside of the box" src="/img/gKocKpye-M-350.jpeg" width="1500" height="1129"></picture></p>
-<p>The gift was received with a lot of enthusiasm, but it turned out I forgot to mention something in the game rules...</p>
-<p><picture><source type="image/webp" srcset="/img/hqPhSwOS6a-350.webp 350w, /img/hqPhSwOS6a-750.webp 750w" sizes="100vw"><source type="image/jpeg" srcset="/img/hqPhSwOS6a-350.jpeg 350w, /img/hqPhSwOS6a-750.jpeg 750w" sizes="100vw"><img class="markdown-image" decoding="async" alt="The game in action" src="/img/hqPhSwOS6a-350.jpeg" width="750" height="562"></picture></p>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Social Banking App</title>
-      <link href="https://donebysimon.be/2022/04/02/social-banking-app/"/>
-      <updated>2022-04-02T14:58:06Z</updated>
-      <id>https://donebysimon.be/2022/04/02/social-banking-app/</id>
-      <content type="html">
-        <![CDATA[
-      <p>For a bachelor party where the groom happens to be a banker, we've decided it would be nice to get things started a couple of weeks before the event. This way, all the participants got a chance to get to know each other in advance. So we came up with the idea of a banking app with some extra features. By fulfilling all kinds of challenges with the groom (without his knowledge) participants could earn virtual money.</p>
-<h2>Features</h2>
-<ul>
-<li>An overview of a user his bank account</li>
-<li>Transfer money to other users (hey, it was a banking app after all)</li>
-<li>An overview of all the investments to make (the challenges)</li>
-<li>News section</li>
-<li>Live chat</li>
-<li>FAQ section</li>
-</ul>
-<p><picture><source type="image/webp" srcset="/img/O4zPM76pgm-350.webp 350w, /img/O4zPM76pgm-750.webp 750w" sizes="100vw"><source type="image/jpeg" srcset="/img/O4zPM76pgm-350.jpeg 350w, /img/O4zPM76pgm-750.jpeg 750w" sizes="100vw"><img class="markdown-image" decoding="async" alt="Screenshot of an investment" src="/img/O4zPM76pgm-350.jpeg" width="750" height="365"></picture></p>
-<h2>Tech stack used</h2>
-<ul>
-<li><a href="https://nextjs.org/">Next.js</a></li>
-<li><a href="https://fauna.com/">FaunaDB</a> for the database</li>
-<li><a href="https://www.pubnub.com/">Pubnub</a> for the chat</li>
-<li><a href="https://mantine.dev/">Mantine</a> for the UI</li>
-</ul>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Portrait plotter</title>
-      <link href="https://donebysimon.be/2022/05/02/portrait-plotter/"/>
-      <updated>2022-05-02T21:01:00Z</updated>
-      <id>https://donebysimon.be/2022/05/02/portrait-plotter/</id>
-      <content type="html">
-        <![CDATA[
-      <p>It all started with a note in our mailbox during corona: &quot;Present yourself, your hobbies, via the front window of your house&quot;.</p>
-<p>I wanted to present something interactive, and I had a pen plotter available, so I decided to make a little site where neighbors could upload a picture and get a plotter drawing of it.</p>
-<p>It had some attention, people tried it and were happily surprised with the result.</p>
-<p><picture><source type="image/webp" srcset="/img/whvOULcfQC-350.webp 350w, /img/whvOULcfQC-750.webp 750w, /img/whvOULcfQC-1500.webp 1500w" sizes="100vw"><source type="image/jpeg" srcset="/img/whvOULcfQC-350.jpeg 350w, /img/whvOULcfQC-750.jpeg 750w, /img/whvOULcfQC-1500.jpeg 1500w" sizes="100vw"><img class="markdown-image" decoding="async" alt="A plotter viewed through a rainy window" src="/img/whvOULcfQC-350.jpeg" width="1500" height="944"></picture></p>
-<h2>Next iteration</h2>
-<p>When we saw the call for makers for the <a href="https://www.makerfairegent.be/">Maker Faire</a> at the office, I talked about this project and suggested we could use our <a href="https://axidraw.com/">AxiDraw</a> to create something similar.</p>
-<p>We decided to ditch the app and let people queue to let their picture get taken. You can <a href="https://github.com/devinekask/postcard-portrait-plotter">take a look at the code</a> yourself, but this is how it works:</p>
-<ul>
-<li>There is an Arduino micro hooked up to two buttons. The Arduino can act like a keyboard, so when you press a button, it will send a keystroke to the computer.</li>
-<li>The whole thing runs in Node.js using <a href="https://github.com/google/zx">zx</a>, it is like bash scripting, but then in node. I like it.</li>
-<li>When the command to take a picture is received, the native photo booth app is opened and a picture is taken. By running AppleScript from the Node.js script... An approach <a href="aboutme.be">Wouter</a> came up with, nice one!</li>
-<li>When the command to plot a new picture from the queue, the picture goes through a couple of steps:
-<ul>
-<li>The picture is cropped to a postcard-ratio, taking the position of one or more faces into account. <a href="https://github.com/jwagner/smartcrop-sharp">Smartcrop</a></li>
-<li>A Python script then transforms the cropped picture into a line drawing (SVG) <a href="https://github.com/LingDong-/linedraw">Linedraw</a></li>
-<li>The SVG gets simplified and optimized for plotting with <a href="https://vpype.readthedocs.io/en/latest/">vpype</a></li>
-</ul>
-</li>
-<li>Finally, the optimized SVG is then plotted with the <a href="https://axidraw.com/">AxiDraw</a></li>
-</ul>
-<h2>Results</h2>
-<p>During the <a href="https://www.makerfairegent.be/">Maker Faire</a>, we had a lot of visitors who were intrigued by the plotter and wanted to let their picture get drawn. We ran into a queue of multiple hours, so we had to refuse people at some point. The algorithm that translates a picture into a line drawing can bring surprising results now and then, but overall, people were happy with the result.</p>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Sleep trainer</title>
-      <link href="https://donebysimon.be/2022/09/01/sleeptrainer/"/>
-      <updated>2022-09-01T06:12:25Z</updated>
-      <id>https://donebysimon.be/2022/09/01/sleeptrainer/</id>
-      <content type="html">
-        <![CDATA[
-      <p>Kids and sleep, it takes some time to get these two in harmony, to say the least. There are things called a 'sleep trainer' that let your child know when it's okay to get out of bed. Some of these are clocks which will open their eyes when it's time to get up. Others have lights in them. They come in all kinds of shapes and sizes. We've tried a couple of them, but we (and they...) were never really happy with them. The light is too bright, another light starts to shine a half hour before it's time to get up, or they simply figured out how to open the eyes by themselves...</p>
-<p>At one point we were playing with old Lego bricks (they were left behind when we bought our house) making a tower. Since we had some transparent bricks, the tower evolved into a lighthouse. So the idea came up to add a light to it and turn it into a sleep trainer.</p>
-<h2>Materials used</h2>
-<p>I've used an ESP32 for this. It's a small board, something like an Arduino, but it comes with Wi-Fi out of the box. Normally, it's a bit more of a low-level approach since I'm running <a href="https://www.home-assistant.io/">Home Assistant</a> here, I decided to use <a href="https://esphome.io/">ESPHome.</a> This framework allows you to configure the ESP32 in a yaml file, and it will generate the code for you.</p>
-<p><picture><source type="image/webp" srcset="/img/NLVHPsylws-350.webp 350w, /img/NLVHPsylws-750.webp 750w, /img/NLVHPsylws-1500.webp 1500w" sizes="100vw"><source type="image/jpeg" srcset="/img/NLVHPsylws-350.jpeg 350w, /img/NLVHPsylws-750.jpeg 750w, /img/NLVHPsylws-1500.jpeg 1500w" sizes="100vw"><img class="markdown-image" decoding="async" alt="An ESP32 on a breadboard with an RGB LED" src="/img/NLVHPsylws-350.jpeg" width="1500" height="1393"></picture></p>
-<p>All I've needed was an RGB LED and some resistors, so this was a good starting project.</p>
-<p>It was <a href="aboutme.be">Wouter</a> who mentioned a <a href="https://www.adafruit.com/product/571">'perma-proto'</a> board to me. It's a step in between a breadboard and a prototype board. These things are great to use. They don't require that much soldering.</p>
-<h2>Automation</h2>
-<p>The integration with Home Assistant is pretty straight forward. I have an 'sleep trainer' entity which I can use within an automation. I have one running for the weekdays and one for the weekends (where they can sleep in a bit longer...)</p>
-<p>Via the Home Assistant app, I can turn the light on or off and even change the color.</p>
-<h2>Result</h2>
-<p>Do they stay in bed longer? Sometimes they do, sometimes they don't, but they can explain the concept very well ;-)</p>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Shifts planning</title>
-      <link href="https://donebysimon.be/2023/04/27/shifts-planning/"/>
-      <updated>2023-04-27T18:48:14Z</updated>
-      <id>https://donebysimon.be/2023/04/27/shifts-planning/</id>
-      <content type="html">
-        <![CDATA[
-      <p>As a volunteer for a <a href="https://textival.be">local festival</a>, I was looked in my direction for an overhaul of the shifts planning process. In the preceding years, people saw a public spreadsheet and mailed their preferred shifts to the organizers. The organizers then had to manually add the shifts to the spreadsheet. This was a lot of work, and vulnerable to errors.</p>
-<p>The goal was to make it easier for the volunteers to sign up for shifts, and to make it easier for the organizers to manage the shifts.</p>
-<p>The first thing that came to mind was the use of so called no-code tools. These are tools that allow you to create applications without writing code. After gaining some more information with my colleagues, I decided to use <a href="https://airtable.com">Airtable</a>. I've signed up for Airtable since it was more or less a layer on top of Google Sheets, but now it has grown into a full-fledged database application.</p>
-<h2>The process</h2>
-<p>What I feared came true, I soon hit the limits of Airtable. The main thing I wanted, was the user to be able to filter the shifts based on the type or moment. This was simply impossible, Airtable provided simply straight forward forms inputs.</p>
-<p>The way Airtable lets you connect multiple spreadsheets was still a big plus, and I decided to use it as a backend. I created a front-end with React and MUI for the interface.</p>
-<h2>Update</h2>
-<p>After some tests, it came clear I overlooked an important advantage of the public spreadsheet: people saw with which other volunteers they could do a shift. This is a critical thing to convince people, so I made an update to the application.</p>
-<p>I listed all the names of the people who already signed up for the shift, and I made it clear where we still needed some folks.</p>
-<p>The whole project involved some other screens to gain some more information about the volunteers, but in the end the process went smooth.</p>
-
-    ]]>
-      </content>
-    </entry>
-  
-    
-    <entry>
-      <title>Textivalkrant</title>
-      <link href="https://donebysimon.be/2023/05/03/textivalkrant/"/>
-      <updated>2023-05-03T19:58:30Z</updated>
-      <id>https://donebysimon.be/2023/05/03/textivalkrant/</id>
-      <content type="html">
-        <![CDATA[
-      <p>For a <a href="https://textival.be">local festival</a> I was asked to make some kind of digital program guide. There was a focus on reducing the amount of print, so a dedicated mobile site for the schedule and other useful information was a logical approach.</p>
-<p>To keep the sponsors happy, they also had to be given some exposure there. The problem was: how to display more than 20 sponsors on a mobile site? No one would sit back and swipe to a carousel of sponsors.</p>
-<h2>Butt crack</h2>
-<p>The theme of the festival was 'construction' and low hanging pants was already been mentioned a couple of times. So I came up with the idea of hacking the mobile page refresh. Instead of refreshing the page, one would pull down a construction workers pants and a new sponsor would pop up.</p>
-<p>The pull down hack was implemented quite easily. Off course there were some differences between Android and iOS, but they were easily resolved.</p>
-<p><picture><source type="image/webp" srcset="/img/46q3yhaNxx-295.webp 295w" sizes="100vw"><img class="markdown-image" decoding="async" alt="A screenrecording of a mobile site where pants are pulled down via the refresh guesture" src="/img/46q3yhaNxx-295.jpeg" width="295" height="555"></picture></p>
-<h2>Probability</h2>
-<p>To decide which sponsor would pop up, I wrote a serverless function that returns a specific sponsor, the higher they sponsored, the bigger the chance they will be returned.</p>
-<p>I based the algorithm on this genius piece of code. I don't entirely grasp how it works, but it does…</p>
-<script src="https://gist.github.com/alesmenzel/6164543b3d018df7bcaf6c5f9e6a841e.js"></script>
-<h2>Sponsor logos</h2>
-<p>Everyone that had to publish something with lots of sponsors on it gets it: all those logos with different colors, orientations, and dimensions are terrible to work with. I wanted them all to be at the bottom of the screen, like a banner. But that meant that I had to get them within the same dimension, pick a background color, center the logo and so on. And when it would turn out that they needed some more padding, I would have to do it all over again. I don't think there was any extra motivation necessary to script this job.</p>
-<script src="https://gist.github.com/SimonVanherweghe/a7d64572b0f27a665ab941df7c60e3ab.js"></script>
-<h2>The result</h2>
-<p>You can have a look at <a href="https://textivalkrant.vercel.app">textivalkrant.vercel.app</a> but be aware it was meant to be viewed on a mobile device. People scanned QR codes that were on the tables.</p>
-<h2>Credits</h2>
-<p>I can't finish this post without giving credits to <a href="https://www.instagram.com/pieter.depoortere/">Pieter Depoortere</a> and <a href="https://www.agatasmok.be/">Agata Smok</a> for the graphics and style guidance. Go check them out.</p>
-
-    ]]>
-      </content>
-    </entry>
-  
-</feed>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>DoneBySimon</title><description>Things done, by Simon.</description><link>https://donebysimon.be/</link><item><title>Textivalkrant</title><link>https://donebysimon.be/2023/05/03/textivalkrant/</link><guid isPermaLink="true">https://donebysimon.be/2023/05/03/textivalkrant/</guid><description>A mobile program guide with a funny twist</description><pubDate>Wed, 03 May 2023 19:58:30 GMT</pubDate><content:encoded>&lt;p&gt;For a &lt;a href=&quot;https://textival.be&quot;&gt;local festival&lt;/a&gt; I was asked to make some kind of digital program guide. There was a focus on reducing the amount of print, so a dedicated mobile site for the schedule and other useful information was a logical approach.&lt;/p&gt;
+&lt;p&gt;To keep the sponsors happy, they also had to be given some exposure there. The problem was: how to display more than 20 sponsors on a mobile site? No one would sit back and swipe to a carousel of sponsors.&lt;/p&gt;
+&lt;h2&gt;Butt crack&lt;/h2&gt;
+&lt;p&gt;The theme of the festival was &apos;construction&apos; and low hanging pants was already been mentioned a couple of times. So I came up with the idea of hacking the mobile page refresh. Instead of refreshing the page, one would pull down a construction workers pants and a new sponsor would pop up.&lt;/p&gt;
+&lt;p&gt;The pull down hack was implemented quite easily. Off course there were some differences between Android and iOS, but they were easily resolved.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Probability&lt;/h2&gt;
+&lt;p&gt;To decide which sponsor would pop up, I wrote a serverless function that returns a specific sponsor, the higher they sponsored, the bigger the chance they will be returned.&lt;/p&gt;
+&lt;p&gt;I based the algorithm on this genius piece of code. I don&apos;t entirely grasp how it works, but it does…&lt;/p&gt;
+&lt;p&gt;&amp;lt;script src=&quot;https://gist.github.com/alesmenzel/6164543b3d018df7bcaf6c5f9e6a841e.js&quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/p&gt;
+&lt;h2&gt;Sponsor logos&lt;/h2&gt;
+&lt;p&gt;Everyone that had to publish something with lots of sponsors on it gets it: all those logos with different colors, orientations, and dimensions are terrible to work with. I wanted them all to be at the bottom of the screen, like a banner. But that meant that I had to get them within the same dimension, pick a background color, center the logo and so on. And when it would turn out that they needed some more padding, I would have to do it all over again. I don&apos;t think there was any extra motivation necessary to script this job.&lt;/p&gt;
+&lt;p&gt;&amp;lt;script src=&quot;https://gist.github.com/SimonVanherweghe/a7d64572b0f27a665ab941df7c60e3ab.js&quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/p&gt;
+&lt;h2&gt;The result&lt;/h2&gt;
+&lt;p&gt;You can have a look at &lt;a href=&quot;https://textivalkrant.vercel.app&quot;&gt;textivalkrant.vercel.app&lt;/a&gt; but be aware it was meant to be viewed on a mobile device. People scanned QR codes that were on the tables.&lt;/p&gt;
+&lt;h2&gt;Credits&lt;/h2&gt;
+&lt;p&gt;I can&apos;t finish this post without giving credits to &lt;a href=&quot;https://www.instagram.com/pieter.depoortere/&quot;&gt;Pieter Depoortere&lt;/a&gt; and &lt;a href=&quot;https://www.agatasmok.be/&quot;&gt;Agata Smok&lt;/a&gt; for the graphics and style guidance. Go check them out.&lt;/p&gt;
+</content:encoded></item><item><title>Shifts planning</title><link>https://donebysimon.be/2023/04/27/shifts-planning/</link><guid isPermaLink="true">https://donebysimon.be/2023/04/27/shifts-planning/</guid><description>An update to the shift filling process</description><pubDate>Thu, 27 Apr 2023 18:48:14 GMT</pubDate><content:encoded>&lt;p&gt;As a volunteer for a &lt;a href=&quot;https://textival.be&quot;&gt;local festival&lt;/a&gt;, I was looked in my direction for an overhaul of the shifts planning process. In the preceding years, people saw a public spreadsheet and mailed their preferred shifts to the organizers. The organizers then had to manually add the shifts to the spreadsheet. This was a lot of work, and vulnerable to errors.&lt;/p&gt;
+&lt;p&gt;The goal was to make it easier for the volunteers to sign up for shifts, and to make it easier for the organizers to manage the shifts.&lt;/p&gt;
+&lt;p&gt;The first thing that came to mind was the use of so called no-code tools. These are tools that allow you to create applications without writing code. After gaining some more information with my colleagues, I decided to use &lt;a href=&quot;https://airtable.com&quot;&gt;Airtable&lt;/a&gt;. I&apos;ve signed up for Airtable since it was more or less a layer on top of Google Sheets, but now it has grown into a full-fledged database application.&lt;/p&gt;
+&lt;h2&gt;The process&lt;/h2&gt;
+&lt;p&gt;What I feared came true, I soon hit the limits of Airtable. The main thing I wanted, was the user to be able to filter the shifts based on the type or moment. This was simply impossible, Airtable provided simply straight forward forms inputs.&lt;/p&gt;
+&lt;p&gt;The way Airtable lets you connect multiple spreadsheets was still a big plus, and I decided to use it as a backend. I created a front-end with React and MUI for the interface.&lt;/p&gt;
+&lt;h2&gt;Update&lt;/h2&gt;
+&lt;p&gt;After some tests, it came clear I overlooked an important advantage of the public spreadsheet: people saw with which other volunteers they could do a shift. This is a critical thing to convince people, so I made an update to the application.&lt;/p&gt;
+&lt;p&gt;I listed all the names of the people who already signed up for the shift, and I made it clear where we still needed some folks.&lt;/p&gt;
+&lt;p&gt;The whole project involved some other screens to gain some more information about the volunteers, but in the end the process went smooth.&lt;/p&gt;
+</content:encoded></item><item><title>Sleep trainer</title><link>https://donebysimon.be/2022/09/01/sleeptrainer/</link><guid isPermaLink="true">https://donebysimon.be/2022/09/01/sleeptrainer/</guid><description>A custom-made sleep trainer made out of Lego</description><pubDate>Thu, 01 Sep 2022 06:12:25 GMT</pubDate><content:encoded>&lt;p&gt;Kids and sleep, it takes some time to get these two in harmony, to say the least. There are things called a &apos;sleep trainer&apos; that let your child know when it&apos;s okay to get out of bed. Some of these are clocks which will open their eyes when it&apos;s time to get up. Others have lights in them. They come in all kinds of shapes and sizes. We&apos;ve tried a couple of them, but we (and they...) were never really happy with them. The light is too bright, another light starts to shine a half hour before it&apos;s time to get up, or they simply figured out how to open the eyes by themselves...&lt;/p&gt;
+&lt;p&gt;At one point we were playing with old Lego bricks (they were left behind when we bought our house) making a tower. Since we had some transparent bricks, the tower evolved into a lighthouse. So the idea came up to add a light to it and turn it into a sleep trainer.&lt;/p&gt;
+&lt;h2&gt;Materials used&lt;/h2&gt;
+&lt;p&gt;I&apos;ve used an ESP32 for this. It&apos;s a small board, something like an Arduino, but it comes with Wi-Fi out of the box. Normally, it&apos;s a bit more of a low-level approach since I&apos;m running &lt;a href=&quot;https://www.home-assistant.io/&quot;&gt;Home Assistant&lt;/a&gt; here, I decided to use &lt;a href=&quot;https://esphome.io/&quot;&gt;ESPHome.&lt;/a&gt; This framework allows you to configure the ESP32 in a yaml file, and it will generate the code for you.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;All I&apos;ve needed was an RGB LED and some resistors, so this was a good starting project.&lt;/p&gt;
+&lt;p&gt;It was &lt;a href=&quot;aboutme.be&quot;&gt;Wouter&lt;/a&gt; who mentioned a &lt;a href=&quot;https://www.adafruit.com/product/571&quot;&gt;&apos;perma-proto&apos;&lt;/a&gt; board to me. It&apos;s a step in between a breadboard and a prototype board. These things are great to use. They don&apos;t require that much soldering.&lt;/p&gt;
+&lt;h2&gt;Automation&lt;/h2&gt;
+&lt;p&gt;The integration with Home Assistant is pretty straight forward. I have an &apos;sleep trainer&apos; entity which I can use within an automation. I have one running for the weekdays and one for the weekends (where they can sleep in a bit longer...)&lt;/p&gt;
+&lt;p&gt;Via the Home Assistant app, I can turn the light on or off and even change the color.&lt;/p&gt;
+&lt;h2&gt;Result&lt;/h2&gt;
+&lt;p&gt;Do they stay in bed longer? Sometimes they do, sometimes they don&apos;t, but they can explain the concept very well ;-)&lt;/p&gt;
+</content:encoded></item><item><title>Portrait plotter</title><link>https://donebysimon.be/2022/05/02/portrait-plotter/</link><guid isPermaLink="true">https://donebysimon.be/2022/05/02/portrait-plotter/</guid><description>A plotter that draws a picture of you</description><pubDate>Mon, 02 May 2022 21:01:00 GMT</pubDate><content:encoded>&lt;p&gt;It all started with a note in our mailbox during corona: &quot;Present yourself, your hobbies, via the front window of your house&quot;.&lt;/p&gt;
+&lt;p&gt;I wanted to present something interactive, and I had a pen plotter available, so I decided to make a little site where neighbors could upload a picture and get a plotter drawing of it.&lt;/p&gt;
+&lt;p&gt;It had some attention, people tried it and were happily surprised with the result.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Next iteration&lt;/h2&gt;
+&lt;p&gt;When we saw the call for makers for the &lt;a href=&quot;https://www.makerfairegent.be/&quot;&gt;Maker Faire&lt;/a&gt; at the office, I talked about this project and suggested we could use our &lt;a href=&quot;https://axidraw.com/&quot;&gt;AxiDraw&lt;/a&gt; to create something similar.&lt;/p&gt;
+&lt;p&gt;We decided to ditch the app and let people queue to let their picture get taken. You can &lt;a href=&quot;https://github.com/devinekask/postcard-portrait-plotter&quot;&gt;take a look at the code&lt;/a&gt; yourself, but this is how it works:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There is an Arduino micro hooked up to two buttons. The Arduino can act like a keyboard, so when you press a button, it will send a keystroke to the computer.&lt;/li&gt;
+&lt;li&gt;The whole thing runs in Node.js using &lt;a href=&quot;https://github.com/google/zx&quot;&gt;zx&lt;/a&gt;, it is like bash scripting, but then in node. I like it.&lt;/li&gt;
+&lt;li&gt;When the command to take a picture is received, the native photo booth app is opened and a picture is taken. By running AppleScript from the Node.js script... An approach &lt;a href=&quot;aboutme.be&quot;&gt;Wouter&lt;/a&gt; came up with, nice one!&lt;/li&gt;
+&lt;li&gt;When the command to plot a new picture from the queue, the picture goes through a couple of steps:
+&lt;ul&gt;
+&lt;li&gt;The picture is cropped to a postcard-ratio, taking the position of one or more faces into account. &lt;a href=&quot;https://github.com/jwagner/smartcrop-sharp&quot;&gt;Smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A Python script then transforms the cropped picture into a line drawing (SVG) &lt;a href=&quot;https://github.com/LingDong-/linedraw&quot;&gt;Linedraw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The SVG gets simplified and optimized for plotting with &lt;a href=&quot;https://vpype.readthedocs.io/en/latest/&quot;&gt;vpype&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finally, the optimized SVG is then plotted with the &lt;a href=&quot;https://axidraw.com/&quot;&gt;AxiDraw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;During the &lt;a href=&quot;https://www.makerfairegent.be/&quot;&gt;Maker Faire&lt;/a&gt;, we had a lot of visitors who were intrigued by the plotter and wanted to let their picture get drawn. We ran into a queue of multiple hours, so we had to refuse people at some point. The algorithm that translates a picture into a line drawing can bring surprising results now and then, but overall, people were happy with the result.&lt;/p&gt;
+</content:encoded></item><item><title>Social Banking App</title><link>https://donebysimon.be/2022/04/02/social-banking-app/</link><guid isPermaLink="true">https://donebysimon.be/2022/04/02/social-banking-app/</guid><description>A fake banking app to reward participants for completing challenges.</description><pubDate>Sat, 02 Apr 2022 14:58:06 GMT</pubDate><content:encoded>&lt;p&gt;For a bachelor party where the groom happens to be a banker, we&apos;ve decided it would be nice to get things started a couple of weeks before the event. This way, all the participants got a chance to get to know each other in advance. So we came up with the idea of a banking app with some extra features. By fulfilling all kinds of challenges with the groom (without his knowledge) participants could earn virtual money.&lt;/p&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An overview of a user his bank account&lt;/li&gt;
+&lt;li&gt;Transfer money to other users (hey, it was a banking app after all)&lt;/li&gt;
+&lt;li&gt;An overview of all the investments to make (the challenges)&lt;/li&gt;
+&lt;li&gt;News section&lt;/li&gt;
+&lt;li&gt;Live chat&lt;/li&gt;
+&lt;li&gt;FAQ section&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Tech stack used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://nextjs.org/&quot;&gt;Next.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fauna.com/&quot;&gt;FaunaDB&lt;/a&gt; for the database&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.pubnub.com/&quot;&gt;Pubnub&lt;/a&gt; for the chat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mantine.dev/&quot;&gt;Mantine&lt;/a&gt; for the UI&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded></item><item><title>Waldschattenspiel</title><link>https://donebysimon.be/2021/12/27/waldschattenspiel/</link><guid isPermaLink="true">https://donebysimon.be/2021/12/27/waldschattenspiel/</guid><description>A board game in the dark</description><pubDate>Mon, 27 Dec 2021 20:15:25 GMT</pubDate><content:encoded>&lt;p&gt;It was when we were visiting &lt;a href=&quot;https://www.manufactum.de/&quot;&gt;Manufactum&lt;/a&gt; that I discovered &lt;a href=&quot;https://de.wikipedia.org/wiki/Waldschattenspiel&quot;&gt;Waldschattenspiel&lt;/a&gt;. It is a game you play in the dark with a little candle. The goal is to hide your pawns in the shadows of the trees.&lt;/p&gt;
+&lt;p&gt;For a gift, I decided to make a version of this game myself. I had some old veneer lying around, this seemed like the perfect opportunity to see what was possible with that material and a laser cutter. After some tests, I was able to create a mosaic for the playing field. The main difficulty here was that the veneer was warped. I tried some different techniques to flatten it out, but in the end I had to settle with a little bit of deformation in the circles that were cut.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Instead of making a board and a case, I made a case with the board on the back, you&apos;ve probably seen this before with chess boards. I&apos;ve lined the inside with felt to give it a nice finish. There are even magnets to keep the board close, but this didn&apos;t work out as well as I hoped.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The gift was received with a lot of enthusiasm, but it turned out I forgot to mention something in the game rules...&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+</content:encoded></item><item><title>Vloryan</title><link>https://donebysimon.be/2021/12/26/vloryan/</link><guid isPermaLink="true">https://donebysimon.be/2021/12/26/vloryan/</guid><description>A disguised IKEA hack</description><pubDate>Sun, 26 Dec 2021 19:40:06 GMT</pubDate><content:encoded>&lt;p&gt;There is a quite famous IKEA hack out there called a &lt;a href=&quot;https://www.exploringlife.be/ikea-hack-learning-tower/&quot;&gt;learning tower&lt;/a&gt;. It consists out of two IKEA items, an &lt;a href=&quot;https://www.ikea.com/be/en/p/oddvar-stool-pine-20249330/&quot;&gt;ODDVAR stool&lt;/a&gt; and a &lt;a href=&quot;https://www.ikea.com/be/en/p/bekvaem-step-stool-aspen-10225589/&quot;&gt;BEKVAM stepstool&lt;/a&gt; that you attach to each other.&lt;/p&gt;
+&lt;p&gt;When this item appeared on a gift list, we had a couple of options. We could buy both and just hand over the boxes, we could give it already assembled, or we could present it like an IKEA product as if we took it off the shelf. Off course, I went for the last option. I even painted some parts, so they would match the already existing furniture in the house it would end up.&lt;/p&gt;
+&lt;h2&gt;The manual&lt;/h2&gt;
+&lt;p&gt;With a mix of Illustrator, InDesign and Sketchup I created &lt;a href=&quot;/src/images/posts/2022/12/vloryanmanual.pdf&quot;&gt;a manual completely in the IKEA style.&lt;/a&gt; I&apos;ve updated the screws needed and made sure the renderings reflected the actual product.&lt;/p&gt;
+&lt;h2&gt;The box&lt;/h2&gt;
+&lt;p&gt;It was a bit of a puzzle to pack all the items as tight as possible. Luckily, we had some cardboard boxes lying around that were the perfect size. I&apos;ve added some extra cardboard to the sides to make sure the parts wouldn&apos;t move around. Since I almost surgically opened the plastic bags with the screws, I was able to fill them with the correct amount of screws and seal them again with my vacuum sealer from in the kitchen.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;The result&lt;/h2&gt;
+&lt;p&gt;It couldn&apos;t be better, since the first reaction I heard was &quot;I didn&apos;t know they sell them like that&quot;&lt;/p&gt;
+&lt;p&gt;Mission succeeded!&lt;/p&gt;
+</content:encoded></item><item><title>Buda Kitchen Bot</title><link>https://donebysimon.be/2019/06/18/buda-kitchen-bot/</link><guid isPermaLink="true">https://donebysimon.be/2019/06/18/buda-kitchen-bot/</guid><description>Ask your Google assistant for the menu</description><pubDate>Tue, 18 Jun 2019 19:47:28 GMT</pubDate><content:encoded>&lt;p&gt;A &lt;a href=&quot;https://assistant.google.com/services/a/uid/0000004f817c7aef?hl=nl&quot;&gt;Google Assistant action&lt;/a&gt; you can ask what&apos;s on the menu today at &lt;a href=&quot;http://budakitchen.be&quot;&gt;Buda Kitchen Kortrijk.&lt;/a&gt;&lt;/p&gt;
+</content:encoded></item><item><title>TabCyclist</title><link>https://donebysimon.be/2019/02/20/tabcyclist/</link><guid isPermaLink="true">https://donebysimon.be/2019/02/20/tabcyclist/</guid><description>Cycle through your open tabs</description><pubDate>Wed, 20 Feb 2019 05:50:16 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=donebysimon.tabcyclist&quot;&gt;Extension for VS Code&lt;/a&gt; that lets you cycle through your open tabs like a slideshow.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+</content:encoded></item><item><title>Everywhere I go, it&apos;s disco</title><link>https://donebysimon.be/2018/01/27/everywhere-i-go-its-disco/</link><guid isPermaLink="true">https://donebysimon.be/2018/01/27/everywhere-i-go-its-disco/</guid><description>When the theme for a party is &apos;disco&apos;</description><pubDate>Sat, 27 Jan 2018 05:54:24 GMT</pubDate><content:encoded>&lt;p&gt;One could dress up like a real disco star, or one could just wear a disco ball on their back. I chose the latter. This way I could provide the stars...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/BecZ-DjhC58&quot;&gt;https://www.instagram.com/p/BecZ-DjhC58&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Materials used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;wood&lt;/li&gt;
+&lt;li&gt;disco ball&lt;/li&gt;
+&lt;li&gt;flashlight&lt;/li&gt;
+&lt;li&gt;shoulder straps&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded></item><item><title>Een Tesla voor Simon</title><link>https://donebysimon.be/2017/09/19/een-tesla-voor-simon/</link><guid isPermaLink="true">https://donebysimon.be/2017/09/19/een-tesla-voor-simon/</guid><description>Mine me monero for a Tesla</description><pubDate>Tue, 19 Sep 2017 05:34:35 GMT</pubDate><content:encoded>&lt;p&gt;When browsing to &lt;a href=&quot;https://eenteslavoorsimon.be/&quot;&gt;eenteslavoorsimon.be&lt;/a&gt;, the visitor helps mining Monero cryptocurrency for me. This way I could become immeasurable rich. The only concern I would have is to pick the color of the Tesla.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://web.archive.org/web/20170921124423/https://eenteslavoorsimon.be/&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Media attention&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.demorgen.be/economie/simon-wil-graag-een-tesla-en-u-kunt-hem-daarbij-helpen-b123f36e/&quot;&gt;De Morgen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kw.knack.be/west-vlaanderen/nieuws/onderwijs-en-jeugd/docent-howest-wil-tesla-verdienen-met-jouw-computer/article-normal-279253.html&quot;&gt;Krant van West-Vlaanderen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Update&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Coinhive (de dienst achter &lt;a href=&quot;https://t.co/AFeBrQJXSB&quot;&gt;https://t.co/AFeBrQJXSB&lt;/a&gt;) is gestopt. We kloppen of op 197 226 752 hashes (&lt;a href=&quot;https://twitter.com/hashtag/merci?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#merci&lt;/a&gt;) goed voor 0,02561 XMR. Met een transaction fee van 0,005 XMR heeft dit 0,02060 XMR opgebracht. 1 XMR is op dit moment €44.12&lt;br /&gt;
+Still, totally worth it 🤑&lt;/p&gt;
+&lt;p&gt;— Simon Vanherweghe (@donebysimon) &lt;a href=&quot;https://twitter.com/donebysimon/status/1106099705237393408?ref_src=twsrc%5Etfw&quot;&gt;March 14, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded></item><item><title>BudaBeachBot</title><link>https://donebysimon.be/2017/05/01/budabeachbot/</link><guid isPermaLink="true">https://donebysimon.be/2017/05/01/budabeachbot/</guid><description>When a boat passes by, a picture is taken and tweeted.</description><pubDate>Mon, 01 May 2017 05:18:43 GMT</pubDate><content:encoded>&lt;p&gt;At the Buda Beach in Kortrijk, there is a webcam looking at the Leie. I made a bot that tweets a picture of every boat that passes by.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/budabeachbot&quot;&gt;https://twitter.com/budabeachbot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/budabeachbot/status/1101166241908178944&quot;&gt;https://twitter.com/budabeachbot/status/1101166241908178944&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Materials used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A bunch of hacky scripts, really...&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded></item><item><title>Kortrijk 14-18</title><link>https://donebysimon.be/2013/11/01/kortrijk-14-18/</link><guid isPermaLink="true">https://donebysimon.be/2013/11/01/kortrijk-14-18/</guid><description>Kortrijk in the first world war, day by day, 100 years ago.</description><pubDate>Fri, 01 Nov 2013 05:23:41 GMT</pubDate><content:encoded>&lt;p&gt;I had the idea to revive the first world war in Kortrijk via Twitter. This way, a tweet would pop up in your timeline and would make you think about it for a minute.&lt;/p&gt;
+&lt;p&gt;It turned out that &lt;a href=&quot;https://www.google.be/books/edition/Kortrijk_14_18/Bn4dAQAAMAAJ?hl=nl&amp;amp;gbpv=0&amp;amp;bsq=kortrijk%2014%2018&quot;&gt;Egied van Hoonacker wrote a book about the day-by-day events in Kortrijk&lt;/a&gt; during that period of time. This was a goldmine to say the least. I used the book as a source for the tweets.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Kortrijk1418/&quot;&gt;https://twitter.com/Kortrijk1418/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Het station en stationsplein worden door bommen beschadigd, alle ruiten op het plein zijn kapot. 2 soldaten en een burger overlijden. &lt;a href=&quot;https://t.co/gRri6vyl5f&quot;&gt;pic.twitter.com/gRri6vyl5f&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;— Kortrijk 14-18 (@Kortrijk1418) &lt;a href=&quot;https://twitter.com/Kortrijk1418/status/924176431608889344?ref_src=twsrc%5Etfw&quot;&gt;October 28, 2017&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded></item></channel></rss>
