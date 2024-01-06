@@ -1,6 +1,0 @@
-.archivelist .postlist-item {
-  display: grid;
-  grid-template-columns: 15ch auto;
-  font-variant-numeric: tabular-nums;
-  margin-bottom: var(--space-3xs);
-}

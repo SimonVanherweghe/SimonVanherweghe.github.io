@@ -1,0 +1,25 @@
+---
+const { pageTitle, frontmatter } = Astro.props;
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import "/src/css/main.css";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="canonical" href={Astro.url} />
+    <title>{pageTitle || frontmatter?.title}</title>
+  </head>
+  <body>
+    <div class="layout-wrapper">
+      <Header />
+      <main class="main">
+        <slot />
+      </main>
+      <Footer />
+    </div>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+---
+const { tags, isLink = true } = Astro.props;
+---
+
+<ul>
+  {
+    tags.map((tag) => (
+      <li>{isLink ? <a href={`/tags/${tag}`}>#{tag}</a> : "#" + tag}</li>
+    ))
+  }
+</ul>
+
+<style>
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+    font-size: var(--step--1);
+    color: var(--color-grey);
+    margin-bottom: var(--space-xs);
+  }
+
+  a {
+    text-decoration: none;
+    padding: var(--space-3xs) var(--space-2xs);
+    border-radius: 0.5em;
+  }
+
+  a:hover {
+    background-color: var(--color-accent);
+    color: var(--color-bg);
+  }
+</style>

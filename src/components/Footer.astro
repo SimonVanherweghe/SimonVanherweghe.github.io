@@ -1,0 +1,68 @@
+<footer>
+  <div>
+    <p>DoneBySimon &copy; 2024</p>
+    <ul class="footer__links">
+      <li>
+        <a
+          href="https://www.instagram.com/donebysimon/"
+          target="_blank"
+          rel="noopener noreferrer">Instagram</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://github.com/simonvanherweghe"
+          target="_blank"
+          rel="noopener noreferrer">GitHub</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://twitter.com/donebysimon"
+          target="_blank"
+          rel="noopener noreferrer">X</a
+        >
+      </li>
+      <li>
+        <a href="/feed.xml">RSS</a>
+      </li>
+
+      <li>
+        <a href="/archive">The Archive</a>
+      </li>
+    </ul>
+  </div>
+</footer>
+
+<style>
+  footer {
+    background-color: var(--color-text);
+    padding: var(--space-l) var(--space-xs);
+
+    color: var(--color-bg);
+  }
+
+  div {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    gap: var(--space-l);
+  }
+
+  a:any-link {
+    color: inherit;
+  }
+
+  ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
+  li:has(+ li)::after {
+    content: "\2022";
+    display: inline-block;
+    width: 2ch;
+    text-align: center;
+  }
+</style>

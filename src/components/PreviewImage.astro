@@ -1,0 +1,22 @@
+---
+import { Image } from "astro:assets";
+
+const images = import.meta.glob("/src/images/posts/**/*.{jpeg,jpg,png,gif}");
+
+const { src, widths, sizes, alt, className = "" } = Astro.props;
+
+if (!images[src]) throw new Error(`"${src}" does not exist in glob`);
+
+const path = images[src]();
+---
+
+<Image src={path} widths={widths} sizes={sizes} alt={alt} class={className} />
+
+<style>
+  img {
+    aspect-ratio: 16/8;
+    object-fit: cover;
+    margin-bottom: var(--space-xs);
+    grid-area: img;
+  }
+</style>

@@ -1,0 +1,76 @@
+---
+import PreviewImage from "./PreviewImage.astro";
+import TagsList from "./TagsList.astro";
+const { post } = Astro.props;
+---
+
+<article>
+  <a href={`/${post.data.permalink}`}>
+    <PreviewImage
+      src={post.data.preview}
+      widths={[300, 500, 750, 1000]}
+      sizes="33vw"
+      alt={post.data.title}
+    />
+    <div class="tagslist">
+      <TagsList tags={post.data.tags} isLink={false} />
+    </div>
+    <h3>{post.data.title}</h3>
+    <p>{post.data.description}</p>
+    <div class="meta">
+      <time datetime={post.date}>
+        {post.date}
+      </time>
+    </div>
+  </a>
+</article>
+
+<style>
+  .tagslist {
+    grid-area: tags;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  a:hover h3 {
+    text-decoration: underline;
+  }
+
+  @container (min-width: 700px) {
+    a {
+      display: grid;
+      gap: 0 var(--space-m);
+      align-items: start;
+      grid-template-columns: 2.1fr 1fr;
+      grid-template-rows: repeat(3, min-content) 1fr;
+      grid-template-areas:
+        "img tags"
+        "img title"
+        "img excerpt"
+        "img meta";
+    }
+  }
+
+
+
+  h3 {
+    font-size: var(--step-2);
+    font-weight: 400;
+    margin-bottom: var(--space-xs);
+    grid-area: title;
+  }
+
+  p {
+    margin-bottom: var(--space-s);
+    grid-area: excerpt;
+  }
+
+  .meta {
+    color: var(--color-grey);
+    font-size: var(--step--1);
+    grid-area: meta;
+  }
+</style>

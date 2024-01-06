@@ -1,0 +1,27 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TagsList from "../components/TagsList.astro";
+import ArchiveList from "../components/ArchiveList.astro";
+const allPosts = await getCollection("posts");
+allPosts.reverse();
+
+const allTags = [...new Set(allPosts.flatMap((post) => post.data.tags))];
+---
+
+<BaseLayout pageTitle="All blogposts">
+  <section class="page">
+    <h2>All blogposts</h2>
+    <TagsList tags={allTags} />
+    <ArchiveList posts={allPosts} />
+  </section>
+</BaseLayout>
+
+<style>
+  h2 {
+    font-size: var(--step-3);
+    font-weight: 400;
+    margin-bottom: var(--space-s);
+    margin-top: var(--space-l);
+  }
+</style>

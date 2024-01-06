@@ -1,0 +1,10 @@
+---
+title: "CanvascolLUCtie"
+date: 2008-04-30T18:38:01
+permalink: "2008/04/30/canvascolluctie/"
+tags: []
+
+---
+Er zitten nogal wat bloggers in de familie. We hebben [nadekomma](http://nadekomma.wordpress.com/ "http://nadekomma.wordpress.com/"), [pokevicemon](http://pokevicemon.wordpress.com/ "http://pokevicemon.wordpress.com/") (pokke-vikke voor de vrienden), [Luc Vandromme](http://www.lucvandromme.be/blog/ "http://www.lucvandromme.be/blog/"), [Jana](http://janavandromme.blogspot.com/ "http://janavandromme.blogspot.com/") die zich helemaal smeet in Thailand maar nu effe op rust is. En[denboulevard](http://denboulevard.wordpress.com/ "http://denboulevard.wordpress.com/") is ook in opmars. Zo komt het voor dat het op familiefeesten gaat over [WordPress](http://wordpress.com/ "http://wordpress.com/") versus [Blogspot](https://www.blogger.com/start "https://www.blogger.com/start") of [Flickr](http://www.flickr.com/ "http://www.flickr.com") versus [Picasa](http://picasa.google.com/ "http://picasa.google.com/"). Voor de meer gevorderde mag ik al eens uitleggen wat een pingback nu precies is. Ik ben er wel gerust in, het zal nooit zo zijn dat we pakweg kerstmis gaan vieren via skype of zo. We zouden de pistolets met paardengehakt te veel missen.
+
+Soit, maar dit wil dus wel zeggen dat je ferm je best moet doen wanneer er iemand iets interessants post om dat dan als eerste te vermelden. Zo zag ik gisteren avond dat Luc [een artikel van uit de krant gepost had](http://www.lucvandromme.be/blog/index.php/2008/04/28/yes/ "http://www.lucvandromme.be/blog/index.php/2008/04/28/yes/"). Héél fijn, hij is geselecteerd voor de Canvascollectie met zijn 100 vuurkruisers met een snor. Ik dacht van “dat posten we morgen dan wel”, helaas, bij het lezen van m’n feeds zag ik dat [nadekomma](http://nadekomma.wordpress.com/ "http://nadekomma.wordpress.com/") me al voor was. En ja, eigenlijk heb ik er niet veel meer aan toe te voegen. Bij deze verwijs ik u dus gewoon door, [huppe](http://nadekomma.wordpress.com/2008/04/29/de-canvascollectie/ "http://nadekomma.wordpress.com/2008/04/29/de-canvascollectie/")!

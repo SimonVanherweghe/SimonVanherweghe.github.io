@@ -1,18 +1,14 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
-  "frontMatter.framework.id": "11ty",
-  "frontMatter.preview.host": "http://localhost:8080",
+  "frontMatter.framework.id": "astro",
+  "frontMatter.preview.host": "http://localhost:4321",
   "frontMatter.content.pageFolders": [
     {
       "title": "posts",
-      "path": "[[workspace]]/src/posts"
+      "path": "[[workspace]]/src/content/posts"
     }
   ],
-  "frontMatter.content.publicFolder": "[[workspace]]/src/",
-  "frontMatter.taxonomy.tags": [
-    "post",
-    "project"
-  ],
+  "frontMatter.content.publicFolder": "[[workspace]]/src/images/posts",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
