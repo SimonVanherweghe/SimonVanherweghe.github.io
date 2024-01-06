@@ -7,17 +7,8 @@ allPosts.sort((a, b) => +b.data.date - +a.data.date);
 ---
 
 <BaseLayout>
-  <section>
+  <section class="home">
     <h2>The archive</h2>
     <ArchiveList posts={allPosts} />
   </section>
 </BaseLayout>
-
-<style>
-  h2 {
-    font-size: var(--step-3);
-    font-weight: 400;
-    margin-bottom: var(--space-s);
-    margin-top: var(--space-l);
-  }
-</style>

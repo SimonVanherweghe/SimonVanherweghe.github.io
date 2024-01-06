@@ -1,12 +1,7 @@
 @import 'reset.css';
 @import 'tokens.css';
 @import 'typo.css';
-@import 'global.css';
-@import 'home.css';
-@import 'footer.css';
-@import 'post.css';
 @import 'markdown.css';
-@import 'page.css';
 
 html {
   box-sizing: border-box;
@@ -33,4 +28,41 @@ img {
 
 body {
   background-color: var(--color-bg);
+}
+
+main {
+  padding: var(--space-xs);
+  margin: 0 auto;
+  max-width: var(--max-width);
+  width: 100%;
+}
+
+a:any-link {
+  color: inherit;
+}
+
+a:hover{
+  color: inherit;
+  text-decoration-color:var(--color-accent);
+  text-decoration-style: double;
+}
+
+.layout-wrapper {
+  min-height: 100vh; 
+  display: grid;
+  grid-template-rows: auto 1fr auto; 
+}
+
+.page {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+}
+
+
+.gist-data {
+  max-height: 15rem;
+}
+
+.gist-file {
+  max-width: 90vw;
 }

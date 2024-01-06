@@ -7,16 +7,20 @@ allPosts.reverse();
 ---
 
 <BaseLayout>
-  <header class="hero">
-    <div class="hero-content">
-      <div class="intro">
-        <slot />
-      </div>
-    </div>
+  <header>
+    <slot />
   </header>
 
   <section class="home">
-    <h2 class="post-list__heading visually-hidden">Recent stuff</h2>
+    <h2 class="visually-hidden">Recent stuff</h2>
     <PostsList posts={allPosts} />
   </section>
 </BaseLayout>
+
+<style>
+  header {
+    margin-bottom: var(--space-xl);
+    font-size: var(--step-2);
+    font-weight: 400;
+  }
+</style>
