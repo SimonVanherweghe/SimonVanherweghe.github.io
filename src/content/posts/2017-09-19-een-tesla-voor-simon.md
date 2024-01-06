@@ -8,7 +8,7 @@ description: "Mine me monero for a Tesla"
 ---
 When browsing to [eenteslavoorsimon.be](https://eenteslavoorsimon.be/), the visitor helps mining Monero cryptocurrency for me. This way I could become immeasurable rich. The only concern I would have is to pick the color of the Tesla.
 
-[![Screenshot of the webpage eenteslavoorsimon.be](/src/images/posts/2017/09/tesla-screenshot.png)](https://web.archive.org/web/20170921124423/https://eenteslavoorsimon.be/)
+[![Screenshot of the webpage eenteslavoorsimon.be](@images/posts/2017/09/tesla-screenshot.png)](https://web.archive.org/web/20170921124423/https://eenteslavoorsimon.be/)
 
 ## Media attention
 

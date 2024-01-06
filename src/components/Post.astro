@@ -1,29 +1,22 @@
 ---
-import { Image } from "astro:assets";
+import PreviewImage from "./PreviewImage.astro";
 import TagsList from "./TagsList.astro";
-import { fade } from "astro:transitions";
 const { post } = Astro.props;
-
-const images = import.meta.glob("/src/images/posts/*/*/*.{jpeg,jpg,png,gif}");
 ---
 
 <article>
   <a href={`/${post.data.permalink}`}>
-    <Image
-      src={images[post.data.preview]()}
+    <PreviewImage
+      src={post.data.preview}
       widths={[300, 500, 750, 1000]}
       sizes="33vw"
       alt={post.data.title}
     />
-
     <div class="tagslist">
       <TagsList tags={post.data.tags} isLink={false} />
     </div>
-
     <h3>{post.data.title}</h3>
-
     <p>{post.data.description}</p>
-
     <div class="meta">
       <time datetime={post.date}>
         {post.date}
@@ -61,12 +54,7 @@ const images = import.meta.glob("/src/images/posts/*/*/*.{jpeg,jpg,png,gif}");
     }
   }
 
-  img {
-    margin-bottom: var(--space-xs);
-    grid-area: img;
-    aspect-ratio: 16/8;
-    object-fit: cover;
-  }
+
 
   h3 {
     font-size: var(--step-2);

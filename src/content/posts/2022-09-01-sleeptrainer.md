@@ -5,7 +5,7 @@ permalink: 2022/09/01/sleeptrainer/
 tags:
   - code
   - play
-preview: "/src/images/posts/2022/09/installed.jpg"
+preview: /src/images/posts/2022/09/installed.jpg
 alt: a view inside a lego tower with an electronics board and an RGB LED
 description: A custom-made sleep trainer made out of Lego
 ---

@@ -9,7 +9,7 @@ Naast [ons kamp naar Afrika](http://www.zeescoutsjanbart.be/rafiki "http://www.z
 Nu ja, het belangrijkste is al gedaan: alles afgestoft, toetsen gewassen, nieuw latje aangehangen, extra viltjes voorzien, toetsen er weer op, nieuwe vijzekes… Ik heb zelfs vandaag voor den eerste keer der wat op zitten spelen. Er is nog wel wat werk aan hoor. Sommige toetsen haperen nog ferm, sommige sluiten niet goed af wat dan weer een constante toon geeft. En héél het meubel zou ik willen hermaken, dat ik er tenminste onder kan met mijn knieën.  
 En dan zou ik het moeilijkste nog vergeten: het moet nog gestemd worden…
 
-![toetsen](/images/blog/2007/06/toetsen.jpg)
+![toetsen](@images/posts/2007/06/toetsen.jpg)
 
 Niet veel tijd dus om veel te bloggen, maar ik heb wel wat te tonen. Dat zie ik aan de vele [clippings](http://www.bloglines.com/help/faq#saveditems "http://www.bloglines.com/help/faq#saveditems") die zich in m’n bloglines beginnen op te stapelen. Here we go:
 

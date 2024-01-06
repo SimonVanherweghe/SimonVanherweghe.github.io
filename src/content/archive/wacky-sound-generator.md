@@ -7,7 +7,7 @@ tags: []
 ---
 Vooraleer jullie denken dat ik hele dagen niks anders doe dan dingen elkaar knutselen, nee dus. Deze heb ik al een tijdje maar kon niet achterblijven na m’n rx176 bend. Voor alle duidelijkheid: dit heeft [Briekske](http://briekske.deviantart.com/ "http://briekske.deviantart.com/") voor mij in elkaar gestoken. Ik kwam gewoon terecht op de uitleg van[musicfromouterspace](http://www.musicfromouterspace.com/analogsynth/YOUR_FIRST_SYNTH/YOUR_FIRST_SYNTH.html#PHILLIPMILLERTATE "http://www.musicfromouterspace.com/analogsynth/YOUR_FIRST_SYNTH/YOUR_FIRST_SYNTH.html#PHILLIPMILLERTATE") en heb hem de componentjes geleverd.
 
-![front](/images/blog/2006/05/P1010540.jpg)
+![front](@images/posts/2006/05/P1010540.jpg)
 
 Dit ding doet dus niets anders dan, eu, piepen. Alsof het een op hol geslagen ambulance is. [Luister zelf maar. (1,7 MB)  
 ](http://www.donebysimon.be/download/audio/wsg1.mp3 "http://www.donebysimon.be/download/audio/wsg1.mp3")
@@ -16,7 +16,7 @@ Briekske zag het zitten om het geheel in te bouwen in mijn kapotte digitale came
 
 Het werkt op een 9V batterij of via adapter. Ik kan kiezen om de luidspreker te gebruiken of de cinch aansluiting.
 
-![back](/images/blog/2006/05/P1010549.jpg)
+![back](@images/posts/2006/05/P1010549.jpg)
 
 Langs de achterkant zitten de swichkes. De power switch doet wat ie moet doen, de lcd switch is voor adapter/batterij en de menu switch is voor luidspreker/cinch. De zwarte stokjes zijn om een ander geluid te bekomen.
 

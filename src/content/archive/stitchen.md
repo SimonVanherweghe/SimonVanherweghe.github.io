@@ -7,4 +7,4 @@ tags: []
 ---
 Weet er iemand een goed (freeware) mac programma om deftig nen pano te kunnen stitchen? Tis lijk niet al dat…
 
-[![Stitchen](/images/blog/2007/06/stitchen.jpg)](/images/blog/2007/06/stitchen.jpg "Stitchen")
+[![Stitchen](@images/posts/2007/06/stitchen.jpg)](@images/posts/2007/06/stitchen.jpg "Stitchen")

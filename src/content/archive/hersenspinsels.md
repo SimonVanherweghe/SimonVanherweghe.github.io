@@ -11,4 +11,4 @@ Via een van mijn feeds kwam ik op het volgende terecht:
 
 Een opgezette vogel, met zijn bek in de groeven van de plaat, waar denk jij dat het geluid zou uitkomen denk je? Geniaal!
 
-En zo is de rest van [Jeroen Diepenmaat](http://www.jeroendiepenmaat.nl/nederlands/index.html "http://www.jeroendiepenmaat.nl/nederlands/index.html") zijn werk, dat is nu eens iets wat ik graag bezie. Draaitafels, mixers, bandopnemers, opengesmeten toestanden… En ie heeft zelf dingen die ook in mijn schetsboekje staan! Damm, wie kan mij helpen aan nen atelier ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+En zo is de rest van [Jeroen Diepenmaat](http://www.jeroendiepenmaat.nl/nederlands/index.html "http://www.jeroendiepenmaat.nl/nederlands/index.html") zijn werk, dat is nu eens iets wat ik graag bezie. Draaitafels, mixers, bandopnemers, opengesmeten toestanden… En ie heeft zelf dingen die ook in mijn schetsboekje staan! Damm, wie kan mij helpen aan nen atelier 😀

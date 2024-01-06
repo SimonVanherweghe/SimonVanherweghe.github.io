@@ -13,4 +13,4 @@ Het deed me een beetje denken aan deze [GraffitiWriter](http://www.appliedautono
 
 Die gasten van [Random-International](http://random-international.squarespace.com/ "http://random-international.squarespace.com/") zijn trouwens goed bezig. Je moet maar eens rondkijken. Hebben die maffe dingen zeg, de [Sunlight table](http://random-international.squarespace.com/sunlight-table/ "http://random-international.squarespace.com/sunlight-table/") is er maar één van.
 
-Zo, en nu ben ik Ice-T’s gaan kappen in de sala ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Zo, en nu ben ik Ice-T’s gaan kappen in de sala 😀

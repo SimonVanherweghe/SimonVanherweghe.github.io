@@ -10,4 +10,4 @@ tags: []
 [![](http://farm4.static.flickr.com/3203/2304687059_b83a8f9b6e.jpg)](http://www.flickr.com/photos/simonvanherweghe/2304687059/ "<a mce_thref=")
 
 Deze ochtend was het hier een en al brandweer. Brandslangen, ladderwagens, slachtoffers…  
-Geen nood hoor, twas maar een oefening ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Geen nood hoor, twas maar een oefening 😀

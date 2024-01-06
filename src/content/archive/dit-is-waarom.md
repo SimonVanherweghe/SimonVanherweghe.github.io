@@ -25,4 +25,4 @@ Dit is waarom ik foto’s trek op film, op aftandse lomo achtige toestellen:
 
 Getrokken met m’n [seagull TLR](http://www.donebysimon.be/2007/04/18/2-ogen/ "http://www.donebysimon.be/2007/04/18/2-ogen/") op [Agfa RSX II 200 film](http://www.lomography.com/filmshop/agfa/rsx_ii_200 "http://www.lomography.com/filmshop/agfa/rsx_ii_200"). Het is dia-film die ik laat ontwikkelen als gewone negatief film. Dit is met andere chemicaliën waardoor de kleuren er ietwat anders gaan uitzien, crossprocessen noemen ze dat.
 
-Enfin, het was een avond op kamp, en het was weer zo een mooi avondlicht. Ik was niet te houden, ik moest er naar toe ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif) Check die wit-oranje kleur van die wieken, die wolken, die vignetting, die lichtinval, dit is waarom!
+Enfin, het was een avond op kamp, en het was weer zo een mooi avondlicht. Ik was niet te houden, ik moest er naar toe 😀 Check die wit-oranje kleur van die wieken, die wolken, die vignetting, die lichtinval, dit is waarom!

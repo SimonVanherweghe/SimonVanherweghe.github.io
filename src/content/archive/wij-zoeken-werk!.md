@@ -7,4 +7,4 @@ tags: []
 ---
 Je wist het misschien nog niet, maar de plannen zijn er om dit jaar met de loodsen naar Afrika te gaan. Je zal hier later ongetwijfeld nog meer over lezen..
 
-![Wij zoeken werk](/images/blog/2007/01/wijzoeken.jpg)
+![Wij zoeken werk](@images/posts/2007/01/wijzoeken.jpg)

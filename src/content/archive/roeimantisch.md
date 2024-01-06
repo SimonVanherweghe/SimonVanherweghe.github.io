@@ -5,6 +5,6 @@ permalink: "2006/06/07/roeimantisch/"
 tags: []
 
 ---
-Dames: aarzel niet te lang! ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Dames: aarzel niet te lang! 😀
 
-![Roeimantisch](/images/blog/2006/06/roeimantisch.jpg)
+![Roeimantisch](@images/posts/2006/06/roeimantisch.jpg)

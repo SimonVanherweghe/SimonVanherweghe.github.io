@@ -9,4 +9,4 @@ Omg, het is idd een pracht van een poster. Een mega collage uit font letterproev
 
 [![cum*](http://www.fontshop.be/upload/BM5YPZZF.jpg "cum*")](http://www.fontshop.be/details.php?entry=155 "http://www.fontshop.be/details.php?entry=155")
 
-Nolf: Go and get it! ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Nolf: Go and get it! 😀

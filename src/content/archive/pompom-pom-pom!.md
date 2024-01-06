@@ -7,7 +7,7 @@ tags: []
 ---
 Blogging live from de city of Gent van deze keer.
 
-![Ticket op tram](/images/blog/2007/02/foto-76.jpg)
+![Ticket op tram](@images/posts/2007/02/foto-76.jpg)
 
 Net terug van Danças Ocultas, en twas weer de moeite zenne. Al moet ik zeggen dat het die keer in Brugge intiemer was. Het blijft ongelooflijk welke sfeer ze kunnen ze oproepen met gewoon 4 accordeons, echt speciaal.
 

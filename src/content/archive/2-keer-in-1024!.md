@@ -16,4 +16,4 @@ Het gaat om de volgende foto’s:
 
 [![Zelfde als die van vorig jaar](http://farm3.static.flickr.com/2280/2006653604_e05aa216e8_m.jpg)](http://www.flickr.com/photos/simonvanherweghe/2006653604/ "Zelfde als die van vorig jaar by Simon Vanherweghe, on Flickr")
 
-Het zijn niet de 2 meest fantastische foto’s die ik ooit getrokken heb, maar het feit dat “_we received over 570 images from some 50 photographers in 17 countries._” zal er wel wat mee te maken hebben zeker ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Het zijn niet de 2 meest fantastische foto’s die ik ooit getrokken heb, maar het feit dat “_we received over 570 images from some 50 photographers in 17 countries._” zal er wel wat mee te maken hebben zeker 😀

@@ -13,4 +13,4 @@ Naast het feit dat er nu in Google Earth een [vliegsimulator](http://earth.googl
 
 En voor de [Last.Fm’ers](http://www.last.fm/user/Habbakuk3/friends/ "http://www.last.fm/user/Habbakuk3/friends/") onder ons: al jullie collectie laten [fingerprinten](http://blog.last.fm/2007/08/29/audio-fingerprinting-for-clean-metadata "http://blog.last.fm/2007/08/29/audio-fingerprinting-for-clean-metadata")? Om er dan uiteindelijk voor te zorgen dat we dan allemaal deftige metadata in ons tracks kunnen zetten.
 
-En oewie, woensdag zou er Apple special event zijn. Nen fullscreen, multi touch, OS X-draaiende, WiFi, digitale radio – iPod? I’m in! ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+En oewie, woensdag zou er Apple special event zijn. Nen fullscreen, multi touch, OS X-draaiende, WiFi, digitale radio – iPod? I’m in! 😀

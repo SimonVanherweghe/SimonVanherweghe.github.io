@@ -21,4 +21,4 @@ Je kan telkens kiezen of hij de dichtste log (qua tijd) neemt, of het gemiddelde
 Dan is er ook nog -het betalende- [HoudahGeo](http://www.houdah.com/houdahGeo/ "http://www.houdah.com/houdahGeo/") Die doet min of meer het zelfde als de vorige, maar heeft als extra functie dat je al die fotos meteen kan exporteren naar Google Earth om ze daar -op de juiste plaats- te bekijken, dolletjes!  
 Ik vrees dat ik voor dit laatste toch de programmeer toer zal op moeten, want ik kan nergens hiervoor een goeie freeware oplossing vinden. Eens met Applescript of AIR proberen dan maar.
 
-Enfin, de dag dat ik in de finder op een knopje ‘foto’s sorteren op plaats’ kan klikken komt stillekesaan dichterbij ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Enfin, de dag dat ik in de finder op een knopje ‘foto’s sorteren op plaats’ kan klikken komt stillekesaan dichterbij 😀

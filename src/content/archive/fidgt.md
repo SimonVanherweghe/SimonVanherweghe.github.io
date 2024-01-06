@@ -13,9 +13,9 @@ En dat is nu net wat Fidgt doet. Dankzij [Infostethics](http://infosthetics.com/
 
 Dan open je de visualiser, en drop je her en der wat tags. De nodes (uw maten) verschuiven dan ten opzichte van waar die tags staan. Nice!
 
-![fidgt](/images/blog/2007/05/fidgt.jpg)
+![fidgt](@images/posts/2007/05/fidgt.jpg)
 
-Nujagow, het is nog in zijn vroege beta, de mogelijkheden zijn nogal beperkt momenteel… Zo ontbreekt er nog de mogelijkheid om bijvoorbeeld meer dan één flickr account aan een persoon te koppelen. (En er zijn er zijn zo van die mensen é Briekske…) Maar ik heb hiervoor gemaild, ze vonden dat ik een punt had, en ze gingen het bekijken ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)  
+Nujagow, het is nog in zijn vroege beta, de mogelijkheden zijn nogal beperkt momenteel… Zo ontbreekt er nog de mogelijkheid om bijvoorbeeld meer dan één flickr account aan een persoon te koppelen. (En er zijn er zijn zo van die mensen é Briekske…) Maar ik heb hiervoor gemaild, ze vonden dat ik een punt had, en ze gingen het bekijken 😀  
 Ook de implementatie van oa del.icio.us en zo zou wel leuk zijn.
 
 Enfin, iets om in de gaten te houden.

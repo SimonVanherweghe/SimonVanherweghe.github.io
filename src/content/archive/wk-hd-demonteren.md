@@ -7,7 +7,7 @@ tags: []
 ---
 Gisteren met Briekske de nieuwe scouts pc in elkaar gestoken, uit een heleboel oude brokken een nieuwe machine gemaakt. We hadden uiteindelijk 8 harde schijven die weg mochten omdat ze 10 keer op één cd konden ofwel gewoon kapot waren.
 
-![HD speakers](/images/blog/2006/11/hdspeakers.jpg)
+![HD speakers](@images/posts/2006/11/hdspeakers.jpg)
 
 Dan maar getraind voor het wereldkampioenschap harde schijven demonteren. Een bezigheid die ik al van kleins af niet kan weerstaan. En je kan daar precies nog leuke dingen mee doen. Check maar eens [het filmpje van mijn HD-speakers](http://www.donebysimon.be/download/video/hdspeaker.mov "http://www.donebysimon.be/download/video/hdspeaker.mov"), en ze zien er nog slick uit ook.
 

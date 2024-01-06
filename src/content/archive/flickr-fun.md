@@ -14,4 +14,4 @@ Je moet naar een van jouw foto’s gaan, en daar kiezen voor ‘Photo stats’
 
 Hij doet dan wat rekenwerk, en even later kan je beschikken over een heleboel gegevens.
 
-[![Stats](/images/blog/2007/12/afbeelding-5.png)](/images/blog/2007/12/afbeelding-5.png "Stats")
+[![Stats](@images/posts/2007/12/afbeelding-5.png)](@images/posts/2007/12/afbeelding-5.png "Stats")

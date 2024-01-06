@@ -11,8 +11,8 @@ Maar hij deed me aan iets denken, je moet geen groot licht zijn om door te hebbe
 
 _“Hallo kindjes, tot u spreekt Satan. Eet mjér groensele. En ort olsan skwonne naar uwe skoolmjistere en uw memmatje en uw peppatjeu…”_
 
-Enfin ja, luister vooral zelf, kan ook wat mis verstaan hebben of zo ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Enfin ja, luister vooral zelf, kan ook wat mis verstaan hebben of zo 😀
 
-[normaal](/images/blog/2007/05/normaal.mp3) [omgekeerd](/images/blog/2007/05/omgekeerd.mp3)
+[normaal](@images/posts/2007/05/normaal.mp3) [omgekeerd](@images/posts/2007/05/omgekeerd.mp3)
 
 By the way, ik heb een klein oud [harmoniumke](http://nl.wikipedia.org/wiki/Harmonium "http://nl.wikipedia.org/wiki/Harmonium") op de kop kunnen tikken, gaat er zaterdag ochtend iemand mee om naar Doornik?

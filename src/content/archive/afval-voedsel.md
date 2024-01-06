@@ -9,4 +9,4 @@ Afgelopen zondag ook naar Panorama gekeken? Er was een interessante reportage ov
 
 Check gewoon de reportage, voor Canvas is het te laat, gelukkig hebben de mannen van [tegenlicht](http://www.vpro.nl/programma/tegenlicht/afleveringen/35180292/ "http://www.vpro.nl/programma/tegenlicht/afleveringen/35180292/") ze nog staan. Rechts bovenaan staat de link naar [de video](http://cgi.omroep.nl/cgi-bin/streams?/tv/vpro/tegenlicht/bb.20061002.asf?title=Tegenlicht%20-%20Afval%20voedsel;embed=1 "http://cgi.omroep.nl/cgi-bin/streams?/tv/vpro/tegenlicht/bb.20061002.asf?title=Tegenlicht%20-%20Afval%20voedsel;embed=1").
 
-Ghoh, was ik ontwerper, ik had mijn visie gevonden hoor ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Ghoh, was ik ontwerper, ik had mijn visie gevonden hoor 😀

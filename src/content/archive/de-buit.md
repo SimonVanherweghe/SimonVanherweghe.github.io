@@ -18,6 +18,6 @@ Nu mochten we alles wat we naar buiten droegen ook zelf meenemen, de buit van za
 * 2 deftige stoelen voor Plets
 * 3 [letterborden](http://static.manutangroup.com/OIN/picts/zo/9/zo_98634_1.jpg "http://static.manutangroup.com/OIN/picts/zo/9/zo_98634_1.jpg") mét extra letterkes
 
-Ik ben er nog altijd niet uit wat de buit van de vorige keer precies is… Ik zie dingen staan als ‘Function’ en zo, hopelijk krijg ik er vette bassen uit ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Ik ben er nog altijd niet uit wat de buit van de vorige keer precies is… Ik zie dingen staan als ‘Function’ en zo, hopelijk krijg ik er vette bassen uit 😀
 
-![wtf](/images/blog/2007/02/wtf.jpg)
+![wtf](@images/posts/2007/02/wtf.jpg)

@@ -10,4 +10,4 @@ tags: []
 – Ah, err… Ik zal u toch moeten vragen om ne keer te blazen  
 – (yes!)
 
-Héhé, mijnen eerste keer is een feit ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Héhé, mijnen eerste keer is een feit 😀

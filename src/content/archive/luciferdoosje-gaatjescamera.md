@@ -16,14 +16,14 @@ Dit is een groep waar iedereen foto’s mag aan toevoegen, als ze maar met een m
 
 Wil je enkel de mijne zien (of toch een deel van) dan kan dat in m’n [matchbox pinhole set](http://www.flickr.com/photos/simonvanherweghe/sets/72157594183417534/ "http://www.flickr.com/photos/simonvanherweghe/sets/72157594183417534/"). Je kan er ook de eerste resultaten zien van de ‘matchbox pinhole triple’. Een camera met 3 gaatjes!
 
-![Matchbox pinhole triple](/images/blog/2006/12/p1050611.jpg)
+![Matchbox pinhole triple](@images/posts/2006/12/p1050611.jpg)
 
 Afscheidingen zijn nodig, omdat de beelden van de verschillende gaatjes elkaar zouden overlappen
 
-![Advandced triple shutter system](/images/blog/2006/12/p1050616.jpg)
+![Advandced triple shutter system](@images/posts/2006/12/p1050616.jpg)
 
-Het ‘Advanced Triple Shutter System’ ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Het ‘Advanced Triple Shutter System’ 😀
 
-![Matchbox pinhole triple](/images/blog/2006/12/p1050624.jpg)
+![Matchbox pinhole triple](@images/posts/2006/12/p1050624.jpg)
 
 Alles gemonteerd

@@ -9,4 +9,4 @@ Oké, niet dat ik hiermee nu onder mijn stoel lig van het lachen, maar het is we
 
 Kwam ergens deze week toe in nen mailbox:
 
-![Bllind](/images/blog/2007/04/bllind.jpg)
+![Bllind](@images/posts/2007/04/bllind.jpg)

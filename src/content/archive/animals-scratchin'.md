@@ -5,6 +5,6 @@ permalink: "2008/02/27/animals-scratchin/"
 tags: []
 
 ---
-Ghoh man, zo zalig ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Ghoh man, zo zalig 😀
 
 [http://www.youtube.com/watch?v=YzoOJxHZRJ8](http://www.youtube.com/watch?v=YzoOJxHZRJ8)

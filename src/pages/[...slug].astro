@@ -2,9 +2,7 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import TagsList from "../components/TagsList.astro";
-import { Image } from "astro:assets";
-
-const images = import.meta.glob("/src/images/posts/*/*/*.{jpeg,jpg,png,gif}");
+import PreviewImage from "../components/PreviewImage.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection("posts");
@@ -41,12 +39,12 @@ const { Content } = await post.render();
     </header>
     {
       post.data.preview && (
-        <Image
-          src={images[post.data.preview]()}
+        <PreviewImage
+          src={post.data.preview}
           widths={[500, 750, 1000, 1500]}
           sizes="100vw"
           alt={post.data.title}
-          class="headerimg"
+          className="headerimg"
         />
       )
     }
@@ -106,12 +104,6 @@ const { Content } = await post.render();
       font-size: var(--step--1);
       color: var(--color-grey);
       margin-bottom: var(--space-s);
-    }
-
-    .headerimg {
-      aspect-ratio: 16/8;
-      object-fit: cover;
-      margin-bottom: var(--space-l);
     }
 
     aside {

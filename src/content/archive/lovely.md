@@ -13,4 +13,4 @@ We mogen dan wel de slechtste foetbollers zijn van heel Harelbeke en omstreken, 
 
 The Pigs die waardig openden, Blues in Bombay met hun prachtige ‘Like a ghost’ (opnemen die handel!), The brothers on the run met dé muziek der muziek. En dan Corry Rotn ond en zijn preutekopn die er -tussen alle vuile teksten door- nog even ferm een gezellige boel van maakte.
 
-![corry](/images/blog/2007/05/corry.jpg)
+![corry](@images/posts/2007/05/corry.jpg)

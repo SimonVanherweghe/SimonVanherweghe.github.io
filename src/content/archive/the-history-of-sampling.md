@@ -9,7 +9,7 @@ Samples, het blijft me intrigeren. Vanuit de meest obscure tot de meest bekende 
 
 Check dan ook eventjes [dit overzicht](http://jklabs.net/projects/samplinghistory/ "http://jklabs.net/projects/samplinghistory/"), prachtig toch!
 
-[![](/images/blog/2008/04/afbeelding-11.png "History of Sampling")](http://jklabs.net/projects/samplinghistory/ "http://jklabs.net/projects/samplinghistory/")
+[![](@images/posts/2008/04/afbeelding-11.png "History of Sampling")](http://jklabs.net/projects/samplinghistory/ "http://jklabs.net/projects/samplinghistory/")
 
 Gevonden via [Visual Scratch](http://jklabs.net/projects/visualscratch/description.html "http://jklabs.net/projects/visualscratch/description.html"), wat op zich dan weer van de [Makezine](http://blog.makezine.com/archive/2008/04/visual_scratch_turntablis.html?CMP=OTC-0D6B48984890 "http://blog.makezine.com/archive/2008/04/visual_scratch_turntablis.html?CMP=OTC-0D6B48984890") komt
 

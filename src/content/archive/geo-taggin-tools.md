@@ -16,4 +16,4 @@ Ik begin een deftige workflow te creëren voor het geo-taggen van m’n fotos.
 
 En dan kwam Briekske net aandraven met het volgende: [uTrack](http://utrack.crempa.net/ "http://utrack.crempa.net/"). Hier krijg je bij het uploaden van een GPX bestand een rapportje waarop je hoogte en snelheid in grafiekvorm kan bekijken, leuk!
 
-[![](/images/blog/2008/05/afbeelding-1.png "Report")](/images/blog/2008/05/afbeelding-1.png)
+[![](@images/posts/2008/05/afbeelding-1.png "Report")](@images/posts/2008/05/afbeelding-1.png)

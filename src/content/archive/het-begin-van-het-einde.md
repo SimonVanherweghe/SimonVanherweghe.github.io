@@ -6,4 +6,4 @@ tags: []
 
 ---
 Lap…  
-![Lap](/images/blog/2009/01/3201241241_6c4c493b1a_b.jpg)
+![Lap](@images/posts/2009/01/3201241241_6c4c493b1a_b.jpg)

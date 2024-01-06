@@ -9,7 +9,7 @@ Mannekes, is dit de max:
 
 In plaats van een foto gewoon te gaan verschalen of bij te knippen, worden pixels die niet belangrijk zijn weggelaten. Je krijgt dan zoiets als onderstaande foto:
 
-![Robbie zijn seam gecarved](/images/blog/2007/09/robbieseam.jpg)
+![Robbie zijn seam gecarved](@images/posts/2007/09/robbieseam.jpg)
 
 Ok, ik heb het een beetje overdreven, maar je ziet dat ons proefkonijn even groot blijft. De stoelen, lamp, dakgoot blijft allemaal zichtbaar, maar de afbeelding is een stuk kleiner
 

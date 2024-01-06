@@ -21,7 +21,7 @@ The theme of the festival was 'construction' and low hanging pants was already b
 
 The pull down hack was implemented quite easily. Off course there were some differences between Android and iOS, but they were easily resolved.
 
-![A screenrecording of a mobile site where pants are pulled down via the refresh guesture](/src/images/posts/2023/05/textpull.webp)
+![A screenrecording of a mobile site where pants are pulled down via the refresh guesture](@images/posts/2023/05/textpull.webp)
 
 ## Probability
 

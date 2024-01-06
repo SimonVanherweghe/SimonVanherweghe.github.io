@@ -7,7 +7,7 @@ tags: []
 ---
 Ik weet niet hoe je dit moet noemen, maar feit is: het is de max! Bij de opbouw van een tentoonstelling stond er in het midden van de zaal een camera die om de 20 seconden een panorma foto nam. Het resultaat is een [interactief filmpje.](http://redbullartbeat.com/index.html "http://redbullartbeat.com/index.html") Skiterrend!
 
-[![ArtBeat](/images/blog/2006/12/artbeat.jpg)](http://redbullartbeat.com/index.html "http://redbullartbeat.com/index.html")
+[![ArtBeat](@images/posts/2006/12/artbeat.jpg)](http://redbullartbeat.com/index.html "http://redbullartbeat.com/index.html")
 
 \[via [Woostercollective](http://www.woostercollective.com/2006/12/best_documentation_of_an_art_event_ever.html "http://www.woostercollective.com/2006/12/best_documentation_of_an_art_event_ever.html")\]
 

@@ -5,9 +5,9 @@ permalink: "2006/09/17/eure-zeekapiting/"
 tags: []
 
 ---
-Manman, was me dat gisteren een belevenis… Dikken ambi, met als apotheose nen zotten medley. Tis nen aanrader ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)
+Manman, was me dat gisteren een belevenis… Dikken ambi, met als apotheose nen zotten medley. Tis nen aanrader 😀
 
-![lucy loes](/images/blog/2006/09/lucy.gif)
+![lucy loes](@images/posts/2006/09/lucy.gif)
 
 Gudder zit de beste die der zin!
 

@@ -12,4 +12,4 @@ Ook goed nieuws is dat [Danças Ocultas](http://dancasocultas.weblog.com.pt/ "ht
 In de categorie ‘zotte petretten’ maakt onderstaande foto toch wel veel kans om in de prijzen te vallen. Damm is die goed gevonden en gelukt zeg. En kben blijkbaar de enigste niet met die mening, je moet maar ne keer [de comments](http://www.airliners.net/open.file/0925096/M/ "http://www.airliners.net/open.file/0925096/M/") checken. \[[via](http://www.makezine.com/blog/archive/2006/10/time_lapse_phot.html "http://www.makezine.com/blog/archive/2006/10/time_lapse_phot.html")\]  
 [](http://www.donebysimon.be/2006/10/10/digitaal-kabaal/tafe-off/ "http://www.airliners.net/open.file/0925096/M/")
 
-[![Tafe-off](/images/blog/2006/10/takeof.jpg)](http://www.donebysimon.be/2006/10/10/digitaal-kabaal/tafe-off/ "http://www.airliners.net/open.file/0925096/M/")
+[![Tafe-off](@images/posts/2006/10/takeof.jpg)](http://www.donebysimon.be/2006/10/10/digitaal-kabaal/tafe-off/ "http://www.airliners.net/open.file/0925096/M/")

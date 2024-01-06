@@ -9,4 +9,4 @@ Vant weekend niks te doen? Nee toch! Zaterdag avond is het in de [Keet](http://w
 
 Met The Pigs, [Blues in Bombay](http://www.flickr.com/photos/simonvanherweghe/370106625/ "http://www.flickr.com/photos/simonvanherweghe/370106625/"), [Brothers on The Run](http://www.donebysimon.be/?s=brothers+on+the+run "http://www.donebysimon.be/?s=brothers+on+the+run"), en Corry Rotn Ond & de Preutekopn
 
-![Affiche sokkerzee](/images/blog/2007/05/sokkerzee.gif)
+![Affiche sokkerzee](@images/posts/2007/05/sokkerzee.gif)

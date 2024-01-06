@@ -9,15 +9,15 @@ Yesterday Apple released [a video](http://www.youtube.com/watch?v=9QvbKSg1EqQ "h
 
 By examining the video closely we can get some specs:
 
-[![](/images/blog/2008/10/itable.png "table")](/images/blog/2008/10/itable.png)
+[![](@images/posts/2008/10/itable.png "table")](@images/posts/2008/10/itable.png)
 
 It seems that they use the same aluminium for the sides of this table like the MacBook, maybe they recycle the leftovers from the unibody to produce the frame of the table. We can clearly see that the whole surface is a display, a glossy one. No clues about multitouch, but the absence of any mouse/keyboard suggests this. Also, there must be a new sort of collaboration with Starbucks. Maybe these tables will first be introduced at Starbucks, where it lets you place your order right at your table, using the multitouch interface on the table.
 
-[![](/images/blog/2008/10/itable-status-led.png "Status indicator")](/images/blog/2008/10/itable-status-led.png)
+[![](@images/posts/2008/10/itable-status-led.png "Status indicator")](@images/posts/2008/10/itable-status-led.png)
 
 Here we can see a status led or battery indicator. This explains why the display is black in the video: the table is not active! Because a table is not that portable at all, a battery would be a rather strange option, so this must be the status indicator.
 
-[![](/images/blog/2008/10/itable-earbuds.png "Earbuds")](/images/blog/2008/10/itable-earbuds.png)
+[![](@images/posts/2008/10/itable-earbuds.png "Earbuds")](@images/posts/2008/10/itable-earbuds.png)
 
 Here we see something strange: there is a ear bud in the girl’s ear, there is a wire at her elbow, but we cannot clearly see it is plugged into the iPhone… So there must be headphone minijack on this table. This can comes in handy when watching a movie during your meal.
 

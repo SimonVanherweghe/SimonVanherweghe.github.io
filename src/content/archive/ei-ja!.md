@@ -7,13 +7,13 @@ tags: []
 ---
 Soms zie je iets dat wel ergens blijft hangen. Een beetje later zie je er nog iets van. Dan weer, en een beetje later nog eens.
 
-![riool](/images/blog/2007/09/riool.jpg)
+![riool](@images/posts/2007/09/riool.jpg)
 
 Het was pas bij het zien van bovenstaande foto dat ik er weer aan dacht, het werk van Roadsworth!
 
 Lovely gewoon, mijn persoonlijke favo zijn deze: simpel maar geniaal!
 
-![Roadsworth](/images/blog/2007/09/roadeurope1.jpg)
+![Roadsworth](@images/posts/2007/09/roadeurope1.jpg)
 
 Er is nog héél wat meer over te vinden, check zeker onderstaande links:
 

@@ -9,6 +9,6 @@ Men neme ene [Stylocam](http://www.typhoon.de/de/art.php?p=959 "http://www.typho
 
 Stel de boel in op filmen, liefst met een zelfontspanner, steek het in het flesje en draai den dop er (goed) op. We plaatsen het geheel in de vijver en tadaaa: [een onderwaterfilmke!](http://www.donebysimon.be/download/video/vissen.mov "http://www.donebysimon.be/download/video/vissen.mov")
 
-![jaws.jpg](/images/blog/2006/05/jaws.jpg)
+![jaws.jpg](@images/posts/2006/05/jaws.jpg)
 
 Ok ja, de kleuren flippen wat, en het was misschien beter geweest als ik eerst eens goed had gekeken waar de lens precies zat, maar is eigenlijk best wel leuk toch?

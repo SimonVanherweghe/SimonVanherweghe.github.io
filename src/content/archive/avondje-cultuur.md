@@ -19,4 +19,4 @@ De eervolle vermelding is voor [The Fabulous Flea Circus](http://www.happynewear
 En dan het filmpje  
 Nuja, filmpje… [Control](http://www.controlthemovie.com/ "http://www.controlthemovie.com/") mag voor mijn part bij het zwaardere werk gerekend worden. Fiew, dat was efkes weer op adem komen bij het naar buiten gaan, pakkend. En prachtige beelden! mannekes… zeker nog gaan checken die handel. En wie heeft [24hour Party people](http://www.partypeoplemovie.com/ "http://www.partypeoplemovie.com/") in zijn bezit?
 
-![Control](/images/blog/2007/09/control.jpg)
+![Control](@images/posts/2007/09/control.jpg)

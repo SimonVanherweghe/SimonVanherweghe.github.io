@@ -9,7 +9,7 @@ Kom je terug van kamp en is de modem toch wel kapot zeker! Nujagow, na 2 weken k
 
 Kijk eens waarmee sony nu afkomt de gps-cs1. Een gps ontvangertje dat je gewoon naast je camera hangt. Achteraf zet ie met behulp van de tijdscode in je foto’s de coördinaten er bij. Eindelijk zal de functie waar ik al zolang achter verlang mogelijk worden ’sorteren volgens… Plaats’
 
-![cs1](/images/blog/2006/08/GPS-CS1_with_cara_med.JPG)
+![cs1](@images/posts/2006/08/GPS-CS1_with_cara_med.JPG)
 
 Ik snap trouwens niet waarom de camera’s de dag van vandaag hiermee niet standaard uitgerust zijn (buiten enkele uitzonderingen, I know) Dat kost toch ook de werled niet meer zo een ontvangertje. En het enige wat ie moet doen is de lat en long in de exif data wegschrijven.
 

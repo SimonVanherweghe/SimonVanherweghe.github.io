@@ -7,7 +7,7 @@ tags: []
 ---
 Op mijn [werk](http://www.eekhoutcentrum.be/ "http://www.eekhoutcentrum.be") moest ik wat dingen op een laptop installeren. Plots kwam ik iets tegen dat precies niet helemaal juist is…
 
-![illegaal](/images/blog/2007/02/illegaal.jpg)
+![illegaal](@images/posts/2007/02/illegaal.jpg)
 
 Voordelen van illegale software? Bwa: je moet er geen geld aan geven, je kan de boel eens testen…
 

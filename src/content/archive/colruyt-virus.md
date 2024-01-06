@@ -13,4 +13,4 @@ Daarnet sluns ik dat bestandje door naar m’n laptop en bekijk de boel in textw
 Voor zover ik weet kan ik niet mms’en met mijn huidig abonnement, we zullen eens zien op het einde van de maand…
 
 Voor de liefhebbers, het bestandje dat ik kreeg heet ‘t\_ilwm58f0.sis’ en heb ik via bluetooth gekregen. Het is ondertussen al van mijn mobieltje. Toch effe die overdracht instellingen checken…  
-Deze week ga ik terug naar de Colruyt voor nen retour van diene synth, eens zien of ik het bestandje weer krijg, Het Colruyt virus ![;-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_wink.gif)
+Deze week ga ik terug naar de Colruyt voor nen retour van diene synth, eens zien of ik het bestandje weer krijg, Het Colruyt virus 😉
