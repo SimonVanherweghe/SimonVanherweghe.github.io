@@ -18,7 +18,7 @@ At one point we were playing with old Lego bricks (they were left behind when we
 
 I've used an ESP32 for this. It's a small board, something like an Arduino, but it comes with Wi-Fi out of the box. Normally, it's a bit more of a low-level approach since I'm running [Home Assistant](https://www.home-assistant.io/) here, I decided to use [ESPHome.](https://esphome.io/) This framework allows you to configure the ESP32 in a yaml file, and it will generate the code for you.
 
-![An ESP32 on a breadboard with an RGB LED](/src/images/posts/2022/09/breadboard.jpg)
+![An ESP32 on a breadboard with an RGB LED](@images/posts/2022/09/breadboard.jpg)
 
 All I've needed was an RGB LED and some resistors, so this was a good starting project.
 
