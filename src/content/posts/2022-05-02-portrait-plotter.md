@@ -14,7 +14,7 @@ I wanted to present something interactive, and I had a pen plotter available, so
 
 It had some attention, people tried it and were happily surprised with the result.
 
-![A plotter viewed through a rainy window](/src/images/posts/2022/05/firstportraitplotter.jpg)
+![A plotter viewed through a rainy window](@images/posts/2022/05/firstportraitplotter.jpg)
 
 ## Next iteration
 

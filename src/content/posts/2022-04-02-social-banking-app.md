@@ -24,7 +24,7 @@ For a bachelor party where the groom happens to be a banker, we've decided it wo
 - Live chat
 - FAQ section
 
-![Screenshot of an investment](/src/images/posts/2022/04/kompromat.png)
+![Screenshot of an investment](@images/posts/2022/04/kompromat.png)
 
 ## Tech stack used
 

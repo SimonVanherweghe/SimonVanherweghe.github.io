@@ -15,7 +15,7 @@ const dateOptions = {
         <time datetime={post.data.date.toISOString()}>
           {post.data.date.toLocaleDateString("EN", dateOptions)}
         </time>
-        <a href={post.data.permalink} class="postlist-link">
+        <a href={`/${post.data.permalink}`} class="postlist-link">
           {post.data.title}
         </a>
       </li>
