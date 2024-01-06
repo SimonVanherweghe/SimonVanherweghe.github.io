@@ -2,7 +2,7 @@
 title: "Een batje"
 date: 2007-01-23T22:52:21
 permalink: "2007/01/23/een-batje/"
-tags: ["archive"]
+tags: []
 
 ---
 Ik zaterdagochtend naar den Occasion, het is daar uitverkoop (hij gaat verhuizen en meer antiek en brocante doen: jammer) en we nemen daar sowieso graag eens een kijkje. Mijn oog viel op een flits die daar lag, aan 7 euro -50% = 3 euro nalf: kon der niet aan gerekkerd zijn é.

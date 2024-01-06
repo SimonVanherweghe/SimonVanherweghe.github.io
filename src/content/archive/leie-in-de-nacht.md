@@ -2,7 +2,7 @@
 title: "Leie in de nacht"
 date: 2006-06-10T02:21:13
 permalink: "2006/06/10/leie-in-de-nacht/"
-tags: ["archive"]
+tags: []
 
 ---
 ![Leie in de nacht](/images/blog/2006/06/leienight.jpg)

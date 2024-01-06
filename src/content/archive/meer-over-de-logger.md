@@ -2,7 +2,7 @@
 title: "Meer over de logger"
 date: 2007-06-17T22:09:35
 permalink: "2007/06/17/meer-over-de-logger/"
-tags: ["archive"]
+tags: []
 
 ---
 Ik had het [voorheen](http://www.donebysimon.be/2007/06/09/track-it/ "http://www.donebysimon.be/2007/06/09/track-it/") al wat gedropt, bij deze wat meer uitleg over mijn GPS-loggerke. Het betreft een klein apparaatje dat werkt op 4 reuze AA batterijen (in vergelijking dan). Het doet in feite niks anders dan met een bepaald interval (bijvoorbeeld om de 10 seconden) mijn positie wegschrijven op een sd kaartje (zo van die zukke dat je in uwen kodak steekt).

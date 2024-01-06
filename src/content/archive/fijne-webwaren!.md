@@ -2,7 +2,7 @@
 title: "Fijne webwaren!"
 date: 2010-02-17T23:13:53
 permalink: "2010/02/17/fijne-webwaren/"
-tags: ["archive"]
+tags: []
 
 ---
 Dit is het dan: mijn comeback! De laatste post is van april 2009, het gaat snel.

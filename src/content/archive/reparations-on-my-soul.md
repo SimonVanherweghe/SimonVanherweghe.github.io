@@ -2,7 +2,7 @@
 title: "Reparations on My Soul"
 date: 2007-01-28T23:58:25
 permalink: "2007/01/28/reparations-on-my-soul/"
-tags: ["archive"]
+tags: []
 
 ---
 Dit nummerke heb ik leren kennen via een [postje van Djef.](http://www.nalden.net/comments.php?id=781_0_1_0_C "http://www.nalden.net/comments.php?id=781_0_1_0_C") Viel me meteen op, heeft iets speciaals, kan niet uitleggen. Interessante gast ook om verder uit te spitten.

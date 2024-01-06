@@ -2,7 +2,7 @@
 title: "Wacky Sound Generator"
 date: 2006-05-07T16:32:08
 permalink: "2006/05/07/wacky-sound-generator/"
-tags: ["archive"]
+tags: []
 
 ---
 Vooraleer jullie denken dat ik hele dagen niks anders doe dan dingen elkaar knutselen, nee dus. Deze heb ik al een tijdje maar kon niet achterblijven na m’n rx176 bend. Voor alle duidelijkheid: dit heeft [Briekske](http://briekske.deviantart.com/ "http://briekske.deviantart.com/") voor mij in elkaar gestoken. Ik kwam gewoon terecht op de uitleg van[musicfromouterspace](http://www.musicfromouterspace.com/analogsynth/YOUR_FIRST_SYNTH/YOUR_FIRST_SYNTH.html#PHILLIPMILLERTATE "http://www.musicfromouterspace.com/analogsynth/YOUR_FIRST_SYNTH/YOUR_FIRST_SYNTH.html#PHILLIPMILLERTATE") en heb hem de componentjes geleverd.

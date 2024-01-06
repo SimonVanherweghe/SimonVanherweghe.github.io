@@ -2,7 +2,7 @@
 title: "Touch me baby!"
 date: 2007-09-05T21:09:24
 permalink: "2007/09/05/touch-me-baby/"
-tags: ["archive"]
+tags: []
 
 ---
 Als echte Apple Fanboys keken we er weer vol spanning naar uit, het Apple Media Event van vandaag.

@@ -2,7 +2,7 @@
 title: "Heima"
 date: 2008-03-08T01:41:05
 permalink: "2008/03/08/heima/"
-tags: ["archive"]
+tags: []
 
 ---
 Heh, [Heima](http://www.heima.co.uk/ "http://www.heima.co.uk/") ([die film van Sigur Ros](http://www.donebysimon.be/2007/09/04/op-naar-de-cinema/ "http://www.donebysimon.be/2007/09/04/op-naar-de-cinema/")) staat online te bezichtigen op tjoetjoebe. Integraal en in goeie kwaliteit. (97 minuten) \[via [The Fader](http://www.thefader.com/articles/2008/3/7/entire-sigur-rs-film-for-free-online "http://www.thefader.com/articles/2008/3/7/entire-sigur-rs-film-for-free-online")\]

@@ -2,7 +2,7 @@
 title: "Soul Deep!"
 date: 2008-04-01T22:05:42
 permalink: "2008/04/01/soul-deep/"
-tags: ["archive"]
+tags: []
 
 ---
 Nu donderdag start canvas [een reeks over soulmuziek.](http://http//www.canvas.be/extra/html/programmas/c_docu_souldeep_programma.shtml "http://www.canvas.be/extra/html/programmas/c_docu_souldeep_programma.shtml") En laat er nu net een genre dé muziek zijn, dan zal het wel soul zijn en alles wat er uit voort gekomen is.

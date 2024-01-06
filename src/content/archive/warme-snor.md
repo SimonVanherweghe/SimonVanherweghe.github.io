@@ -2,7 +2,7 @@
 title: "Warme snor"
 date: 2007-11-20T22:44:18
 permalink: "2007/11/20/warme-snor/"
-tags: ["archive"]
+tags: []
 
 ---
 Echt, die is té zalig toch? Krijg er zo spontaan een communistisch gevoel bij…

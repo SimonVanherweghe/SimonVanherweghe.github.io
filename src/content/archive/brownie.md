@@ -2,7 +2,7 @@
 title: "Brownie"
 date: 2006-08-28T19:40:52
 permalink: "2006/08/28/brownie/"
-tags: ["archive"]
+tags: []
 
 ---
 Neen geen koekies, maar een kodak, een [Brownie](http://members.home.nl/brownies/ "http://members.home.nl/brownies/") Junior Six-16. Het maffe hieraan zijn de 2 “kijkgaatjes” eentje voor als je hem rechtop zet, en eentje voor als ie plat ligt. Door middel van een spiegeltje krijg je het beeld op een melkglasplaatje te zien. Ik had al iets in dienen aard, maar zonder die kijkgaatjes dan.

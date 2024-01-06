@@ -2,7 +2,7 @@
 title: "Ik moet vermageren deze week"
 date: 2007-01-28T03:44:46
 permalink: "2007/01/28/ik-moet-vermageren-deze-week/"
-tags: ["archive"]
+tags: []
 
 ---
 Want dat optreden van Goose daarnet in den trap was véél te vet! [Teisco](http://en.wikipedia.org/wiki/Teisco "http://en.wikipedia.org/wiki/Teisco") power!

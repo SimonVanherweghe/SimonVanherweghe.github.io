@@ -2,7 +2,7 @@
 title: "Van noord naar zuid"
 date: 2007-03-27T20:32:29
 permalink: "2007/03/27/van-noord-naar-zuid/"
-tags: ["archive"]
+tags: []
 
 ---
 it moest ik eigenlijk al veel langer eens aangehaald hebben:

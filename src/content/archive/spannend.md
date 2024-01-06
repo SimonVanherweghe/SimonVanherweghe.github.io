@@ -2,7 +2,7 @@
 title: "Spannend"
 date: 2007-01-07T21:53:37
 permalink: "2007/01/07/spannend/"
-tags: ["archive"]
+tags: []
 
 ---
 Spannende daagskes zijn het. Wat voor nieuws krijgen we met [MacWorld 2007](http://waffle.wootest.net/2007/01/01/mwsf2007countdown/ "http://waffle.wootest.net/2007/01/01/mwsf2007countdown/")? De lang verwachte mac telefoon? Als dat nu eens een deftige, min-of-meer-betaalbare combo van GSM, iPod en agenda kon zijn…

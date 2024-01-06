@@ -2,7 +2,7 @@
 title: "Monome"
 date: 2006-04-13T18:55:14
 permalink: "2006/04/13/monome/"
-tags: ["archive"]
+tags: []
 
 ---
 De simpelste dingen zijn dikwijls nog de beste. Wat ben ik weg van de [Monome](http://monome.org/ "http://monome.org/") zeg! 8×8 knopjes en spelen maar! Arg, geen uitleg voor dit, check gewoon da [filmke](http://146.186.186.101/~bcrabtree/monome40h.mov "http://146.186.186.101/~bcrabtree/monome40h.mov")!

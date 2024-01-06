@@ -2,7 +2,7 @@
 title: "Can you digg it?"
 date: 2006-05-17T17:04:46
 permalink: "2006/05/17/can-you-digg-it/"
-tags: ["archive"]
+tags: []
 
 ---
 Afgelopen zaterdag was ik vroeg wakker. Ideaal om die plaat van [Mo&Grazz](http://www.mograzz.com/ "http://www.mograzz.com/") te halen. Ik zat de vrijdag voortdurend met die snippets in mijn hoofd van [dit audio-interview](http://www.cuttingedge.be/audio/interviews/mograzz060508.html "http://www.cuttingedge.be/audio/interviews/mograzz060508.html"). [\[via aight.be\]](http://www.aight.be/ "http://www.aight.be") Helaas, ie was nog niet uit op vinyl. Geen nood, dan ging ik maar de lokale kringloop en 2dehands zaak checken op sintezaizers en wat door de platen snuffelen.

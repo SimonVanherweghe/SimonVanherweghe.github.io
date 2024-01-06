@@ -2,7 +2,7 @@
 title: "Seam carving"
 date: 2007-09-25T23:05:44
 permalink: "2007/09/25/seam-carving/"
-tags: ["archive"]
+tags: []
 
 ---
 Mannekes, is dit de max:

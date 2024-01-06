@@ -2,7 +2,7 @@
 title: "Videoots"
 date: 2008-05-10T09:11:28
 permalink: "2008/05/10/videoots/"
-tags: ["archive"]
+tags: []
 
 ---
 Net in de mailbox: “NEW GNARLS VIDEO (Going On) !!!” Het nummer is schitterend (net zoals de rest van het album) de clip staat er ook!

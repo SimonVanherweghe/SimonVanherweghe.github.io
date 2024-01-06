@@ -2,7 +2,7 @@
 title: "Skrabbeln"
 date: 2006-06-28T18:08:52
 permalink: "2006/06/28/skrabbeln/"
-tags: ["archive"]
+tags: []
 
 ---
 Zaterdag laatstleden was het dus Skrabbelzee. We hadden die naam gekozen omdat ie redelijk trok op het eigenlijke ‘rammelzee’. Niet dat we de hele avond van jetje zouden geven, maar een skrabbelke mocht wel eens. Toen kwam Jorre binnen en vroeg of hij eventjes zijn gang mocht gaan, tuurlijk da. Khad het al snel door dat ik me beter tot het draaien van instrumentalkes zou houden die avond…

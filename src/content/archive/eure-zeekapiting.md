@@ -2,7 +2,7 @@
 title: "Eure zeekapiting"
 date: 2006-09-17T18:06:02
 permalink: "2006/09/17/eure-zeekapiting/"
-tags: ["archive"]
+tags: []
 
 ---
 Manman, was me dat gisteren een belevenis… Dikken ambi, met als apotheose nen zotten medley. Tis nen aanrader ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)

@@ -2,7 +2,7 @@
 title: "KISS"
 date: 2007-08-09T23:52:28
 permalink: "2007/08/09/kiss/"
-tags: ["archive"]
+tags: []
 
 ---
 Onder het motto van “Keep It Simple, Stupid” 2 kleine ingreepjes die de dingen stukken gemakkelijker maken. That’s how we like it!

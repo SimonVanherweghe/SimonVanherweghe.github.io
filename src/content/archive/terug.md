@@ -2,7 +2,7 @@
 title: "Terug"
 date: 2007-08-06T22:16:39
 permalink: "2007/08/06/terug-2/"
-tags: ["archive"]
+tags: []
 
 ---
 Na 2 kampen, talloze mails en een kleine 6000 feed-items zijn we terug present. M’n batterij was zondag helemaal plat, maar tegelijkertijd helemaal terug op geladen voor weer een jaar ver ![:-)](http://www.donebysimon.be/blog/wp-includes/images/smilies/icon_smile.gif)

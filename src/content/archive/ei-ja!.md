@@ -2,7 +2,7 @@
 title: "Ei ja!"
 date: 2007-09-26T23:49:38
 permalink: "2007/09/26/ei-ja/"
-tags: ["archive"]
+tags: []
 
 ---
 Soms zie je iets dat wel ergens blijft hangen. Een beetje later zie je er nog iets van. Dan weer, en een beetje later nog eens.

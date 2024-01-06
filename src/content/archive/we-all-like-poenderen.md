@@ -2,7 +2,7 @@
 title: "We all like poenderen"
 date: 2006-09-21T22:02:20
 permalink: "2006/09/21/we-all-like-poenderen/"
-tags: ["archive"]
+tags: []
 
 ---
 Wij dus gisteren naar de [Maker Fest](http://www.makezine.com/blog/archive/2006/09/makers_at_eurooscon.html "http://www.makezine.com/blog/archive/2006/09/makers_at_eurooscon.html") in Brussel. In het Plaza hotel stonden er een hoop tafeltjes met ‘makers’ achter, niet echt een mega beurs, maar genoeg om ons ogen de kost te geven. Het eerste wat ons echt opviel (buiten de free drinks en hapjes) was een madamke dat daar stond met een gsm en een oud telefoontoestel. Hé, spookte dat niet al heel de week door onze kop? Goed afkijken en vragen stellen dus… Blijkbaar was het zelf goed mogelijk om zo een “draad” van een gsm schermpje te verlengen met simpele computerdraad. Onthouden die handel!

@@ -2,7 +2,7 @@
 title: "Sweet!"
 date: 2007-11-30T23:40:04
 permalink: "2007/11/30/sweet/"
-tags: ["archive"]
+tags: []
 
 ---
 Woh, [Ableton Live 7](http://www.ableton.com/ "http://www.ableton.com") is uit, en het is zotjes!

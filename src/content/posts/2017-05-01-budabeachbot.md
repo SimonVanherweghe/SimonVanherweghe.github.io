@@ -3,8 +3,6 @@ title: BudaBeachBot
 date: 2017-05-01T05:18:43
 permalink: 2017/05/01/budabeachbot/
 tags:
-  - post
-  - project
   - machine learning
   - code
 description: When a boat passes by, a picture is taken and tweeted.

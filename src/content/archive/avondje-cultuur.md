@@ -2,7 +2,7 @@
 title: "Avondje cultuur"
 date: 2007-09-27T23:10:46
 permalink: "2007/09/27/avondje-cultuur/"
-tags: ["archive"]
+tags: []
 
 ---
 Net terug van een avondje Kortrijk, Happy New Ears stond op het programma en dan maar meteen een filmpje meegepikt ook.

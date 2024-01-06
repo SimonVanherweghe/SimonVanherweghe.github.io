@@ -2,7 +2,7 @@
 title: "Kantoor archeologie"
 date: 2008-04-02T23:47:07
 permalink: "2008/04/02/kantoor-archeologie/"
-tags: ["archive"]
+tags: []
 
 ---
 Als ik ’s middags mijn potje koffie zet, maak ik dikwijls een korte wandeling door het gebouw. Snel eventjes rondkijken of alles nog in orde is. Tijdens deze doelloze tripjes kom je op plaatsen waar je al talloze keren bent voorbij gelopen en je de boel al lang gezien hebt. Enfin, dat dacht ik toch. Nu ik alles al wel gezien heb, begin ik blijkbaar echt te _kijken_, of toch anders te kijken. Ik loop te zoeken.

@@ -2,7 +2,7 @@
 title: "Keelpastilles"
 date: 2006-11-03T18:49:37
 permalink: "2006/11/03/keelpastilles/"
-tags: ["archive"]
+tags: []
 
 ---
 Lang geleden hadden we eens een ruiltocht op groespweekend, we kregen van nen oude meneer een grote zak met snoepjes in. Iedereen vloog er op, maar er waren er maar weinigen die ze graag aten, het waren dropmentjes. Enkele -waaronder ikzelf- konden die wel best apprecieren, de andere werden precies al slecht van de geur alleen.

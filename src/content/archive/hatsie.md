@@ -2,7 +2,7 @@
 title: "Hatsie"
 date: 2007-03-21T20:22:36
 permalink: "2007/03/21/hatsie/"
-tags: ["archive"]
+tags: []
 
 ---
 Dit heb ik al bijna aan iedereen laten zien, kan hier dus niet ontbreken.

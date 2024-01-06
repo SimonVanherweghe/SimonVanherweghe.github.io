@@ -2,7 +2,7 @@
 title: "Flickr fun"
 date: 2007-12-13T22:08:16
 permalink: "2007/12/13/flickr-fun/"
-tags: ["archive"]
+tags: []
 
 ---
 De places functie van Flickr is wel leuk, alleen raar dat ze namen van steden niet juist weergeven. Zo ben ik niet content over wat je krijgt bij een zoekopdracht naar [Kuurne](http://www.flickr.com/places/Belgium/West-Vlaanderen/Cuerne "http://www.flickr.com/places/Belgium/West-Vlaanderen/Cuerne") of [Harelbeke](http://www.flickr.com/places/Belgium/West-Vlaanderen/Hailebeke "http://www.flickr.com/places/Belgium/West-Vlaanderen/Hailebeke"), hail! Het zal wel iets met[Yahoo](http://upcoming.yahoo.com/place/kA.W_8iQBpwLyao "http://upcoming.yahoo.com/place/kA.W_8iQBpwLyao") te maken hebben.

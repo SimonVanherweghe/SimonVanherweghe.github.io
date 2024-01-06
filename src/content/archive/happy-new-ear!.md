@@ -2,7 +2,7 @@
 title: "Happy new ear!"
 date: 2006-09-06T21:15:07
 permalink: "2006/09/06/happy-new-ear/"
-tags: ["archive"]
+tags: []
 
 ---
 Net de site gezien voor de [Happy New Ears](http://www.happynewears.be/ "http://www.happynewears.be") van dit jaar. Een jaarlijks terugkerend festival voor de nieuwe muziek. I like! En dan in het bijzonder: Audioframes, zotte klank en beeld installaties.  

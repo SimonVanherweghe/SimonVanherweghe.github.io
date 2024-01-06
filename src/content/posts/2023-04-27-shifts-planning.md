@@ -6,8 +6,8 @@ preview: /src/images/posts/2023/04/textival_medewerkers.png
 alt: A screenshot of the shifts planning application
 draft: false
 tags:
-- code
-- post
+  - code
+  - web
 permalink: 2023/04/27/shifts-planning/
 ---
 

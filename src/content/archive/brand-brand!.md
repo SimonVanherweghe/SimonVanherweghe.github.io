@@ -2,7 +2,7 @@
 title: "Brand brand!"
 date: 2008-03-02T21:57:10
 permalink: "2008/03/02/brand-brand/"
-tags: ["archive"]
+tags: []
 
 ---
 [![](http://farm3.static.flickr.com/2235/2305485834_c334e9f44a.jpg)](http://www.flickr.com/photos/simonvanherweghe/2305485834/ "<a mce_thref=")

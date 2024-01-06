@@ -2,7 +2,7 @@
 title: "Apple unveils new product, nobody notices!"
 date: 2008-10-15T20:31:28
 permalink: "2008/10/15/apple-unveils-new-product-nobody-notices/"
-tags: ["archive"]
+tags: []
 
 ---
 Yesterday Apple released [a video](http://www.youtube.com/watch?v=9QvbKSg1EqQ "http://www.youtube.com/watch?v=9QvbKSg1EqQ") to demonstrate the new MacBook. We can see the production process and get some general information on the new MacBooks. But we also get a glimpse of a new product. No word about it during the keynote, did Apple accidentally showed too much?

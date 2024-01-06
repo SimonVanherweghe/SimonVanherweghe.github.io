@@ -2,7 +2,7 @@
 title: "Luciferdoosje gaatjescamera"
 date: 2006-12-26T12:13:06
 permalink: "2006/12/26/luciferdoosje-gaatjescamera/"
-tags: ["archive"]
+tags: []
 
 ---
 Dit is zowat de bijhorende syllabus voor de workshop van gisteren…

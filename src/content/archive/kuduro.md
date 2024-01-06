@@ -2,7 +2,7 @@
 title: "Kuduro"
 date: 2007-02-26T22:37:18
 permalink: "2007/02/26/kuduro/"
-tags: ["archive"]
+tags: []
 
 ---
 Ik ben op zoek naar uptempo zuiderse muziek, beetje Fanfare Ciocarlia, maar dan minder Balkan achtig.  

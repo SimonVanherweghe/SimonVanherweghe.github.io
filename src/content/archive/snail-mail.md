@@ -2,7 +2,7 @@
 title: "Snail mail"
 date: 2007-08-12T18:40:22
 permalink: "2007/08/12/snail-mail/"
-tags: ["archive"]
+tags: []
 
 ---
 Ook al lang geleden dat je nog eens een gewoon briefje op de post gedaan hebt? Doe anders eens mijn nichtje een plezierke…

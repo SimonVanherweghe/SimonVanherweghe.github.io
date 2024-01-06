@@ -2,7 +2,7 @@
 title: "Frikie Frikie"
 date: 2007-03-25T16:51:49
 permalink: "2007/03/25/frikie-frikie/"
-tags: ["archive"]
+tags: []
 
 ---
 Op 3 april komt de nieuwe album uit van Timbaland, je weet wel, die gast die oa Nelly haar laatste album heeft geproduced. Je hebt verzeker wel ‘Give it To me’ gehoord? Maf hoe dat refrein de boel openbreekt. En de echte pappies weten wel waar ze meer materiaal kunnen vinden… Klinkt veelbelovend. Check [In the studio](http://www.timbalandmusic.com/news/default.aspx/nid/7592 "http://www.timbalandmusic.com/news/default.aspx/nid/7592")  

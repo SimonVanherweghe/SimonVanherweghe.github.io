@@ -2,7 +2,7 @@
 title: "Fidgt"
 date: 2007-05-22T22:41:40
 permalink: "2007/05/22/fidgt/"
-tags: ["archive"]
+tags: []
 
 ---
 Ik heb een zwak voor datavisualisatie. Allemaal getallekes en gegevens op een grafische manier voorstellen: lovely

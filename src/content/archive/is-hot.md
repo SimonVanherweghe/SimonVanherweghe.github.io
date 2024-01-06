@@ -2,7 +2,7 @@
 title: "Is hot"
 date: 2007-02-23T20:21:56
 permalink: "2007/02/23/is-hot/"
-tags: ["archive"]
+tags: []
 
 ---
 Weer een hele boel, klaar om het weekend in te duiken of zo…

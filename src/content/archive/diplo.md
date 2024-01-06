@@ -2,7 +2,7 @@
 title: "Diplo"
 date: 2007-09-06T22:09:36
 permalink: "2007/09/06/diplo/"
-tags: ["archive"]
+tags: []
 
 ---
 Liefhebbers van het genre zullen misschien wel tevreden zijn met de [pitchfork mix](http://downloads.pitchforkmedia.com/Diplo%20-%20Pitchfork%20Mix%2002.zip "http://downloads.pitchforkmedia.com/Diplo%20-%20Pitchfork%20Mix%2002.zip") van Diplo. Minder baile funk dan dat we zouden verwachten, maar met sommige stukken kan ie me wel krijgen… enfin ja…

@@ -2,7 +2,7 @@
 title: "Geo-goodies"
 date: 2008-05-29T00:24:56
 permalink: "2008/05/29/geo-goodies/"
-tags: ["archive"]
+tags: []
 
 ---
 * Bam, deze is net binnen: [GPS Info CCM](http://http//www.cdfinder.de/en/en/en/gpsinfo.html "http://www.cdfinder.de/en/en/en/gpsinfo.html") ofwel een contextmenu voor op de mac (natuurlijk) bij foto’s die een [geo-tag](http://en.wikipedia.org/wiki/Geotagging "http://en.wikipedia.org/wiki/Geotagging") hebben (hoe vervoeg je geo-taggen eigenlijk ?) Je ziet meteen de coördinaten staan, maar wat pas écht leuk is: je kan [Flickr](http://www.flickr.com/ "www.flickr.com") of [Google Earth](http://earth.google.com/intl/nl/ "http://earth.google.com/intl/nl/") op die locatie openen, bere \[via [Ogle Earth](http://www.ogleearth.com/2008/05/gps_info_cmm_co.html "http://www.ogleearth.com/2008/05/gps_info_cmm_co.html")\]

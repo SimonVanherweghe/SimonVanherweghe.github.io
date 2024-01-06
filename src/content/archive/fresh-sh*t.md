@@ -2,7 +2,7 @@
 title: "Fresh sh*t"
 date: 2006-06-28T19:05:59
 permalink: "2006/06/28/fresh-sht/"
-tags: ["archive"]
+tags: []
 
 ---
 Hiephoi, vandaag twee bestellingen vinyl toegekomen, één met onder andere “Ice Cream Man” van dj Green Lantern ft Pherell. Komt van de Alive on Arrival, echt een lekker nummertje.

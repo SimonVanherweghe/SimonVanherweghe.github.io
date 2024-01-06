@@ -2,7 +2,7 @@
 title: "Ornamentaal"
 date: 2006-08-29T21:52:53
 permalink: "2006/08/29/ornamentaal/"
-tags: ["archive"]
+tags: []
 
 ---
 Duive liet me vandaag weten dat ik hem kon tovoegen bij ‘Ken ik u?’ Voor oa zotte besprekingen van nog veel zottere muziek kan je vanaf heden op[zijn stekkie](http://duivvv.wordpress.com/ "http://duivvv.wordpress.com/") terecht.

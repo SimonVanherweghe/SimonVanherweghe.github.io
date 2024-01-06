@@ -3,8 +3,6 @@ title: Buda Kitchen Bot
 date: 2019-06-18T19:47:28
 permalink: 2019/06/18/buda-kitchen-bot/
 tags:
-  - post
-  - project
   - code
 preview: /src/images/posts/2023/04/Screenshot 2023-04-14 at 13.02.44.png
 description: Ask your Google assistant for the menu

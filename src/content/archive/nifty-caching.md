@@ -2,7 +2,7 @@
 title: "Nifty caching"
 date: 2010-02-18T22:27:31
 permalink: "2010/02/18/nifty-caching/"
-tags: ["archive"]
+tags: []
 
 ---
 De beginpagina bestaat uit content die van op verschillende plaatsten komt. Die telkens te gaan ophalen en verwerken zou te veel tijd in beslag nemen en de server onnodig bezig houden. Ik moest dus wel wat aandacht aan de performantie wijden, gewoon voor jullie, dat jullie niet telkens te lang moeten wachten. Ik heb dit op verschillende niveau’s aangepakt:

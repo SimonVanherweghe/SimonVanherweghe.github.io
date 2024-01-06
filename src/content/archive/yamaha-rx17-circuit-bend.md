@@ -2,7 +2,7 @@
 title: "Yamaha RX17 circuit bend"
 date: 2006-05-06T01:59:13
 permalink: "2006/05/06/yamaha-rx17-circuit-bend/"
-tags: ["archive"]
+tags: []
 
 ---
 Via e-bay heb ik een drumpcomputer gekocht, een yamaha RX17. Goede marchandise dat wel, maar het geluid mocht wel wat voller/vetter. Daar ik nu toch helemaal into circuitbenden ben, besloot ik maar om em eens onder handen te nemen. Ik dacht aanvankelijk om wat potetiometers en zo er op te zetten, maar toen kwam ik op de webstek van [anoderecords](http://www.anoderecords.com/machines/rx17mods.html "http://www.anoderecords.com/machines/rx17mods.html"). Bleek dat er ietske meer mogelijk was…

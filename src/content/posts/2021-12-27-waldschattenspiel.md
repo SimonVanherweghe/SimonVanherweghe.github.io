@@ -5,7 +5,7 @@ date: 2021-12-27T20:15:25.007Z
 preview: /src/images/posts/2022/12/mosaic.jpg
 draft: false
 tags:
-  - post
+  - play
   - crafting
 categories: []
 permalink: 2021/12/27/waldschattenspiel/

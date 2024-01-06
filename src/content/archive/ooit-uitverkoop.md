@@ -2,7 +2,7 @@
 title: "Ooit uitverkoop"
 date: 2008-03-09T23:23:13
 permalink: "2008/03/09/ooit-uitverkoop/"
-tags: ["archive"]
+tags: []
 
 ---
 Je bent vast en zeker nog wel eens naar het Land van Ooit geweest. [Judith](http://www.jdth.nl/ "http://www.jdth.nl/") wist me te melden dat dit recent failliet gegaan is, en er nu een uitverkoop is. Van attracties tot kostuums, alles gaat de deur uit.

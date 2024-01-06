@@ -2,7 +2,7 @@
 title: "Den drummer is de mol!"
 date: 2007-11-15T01:23:19
 permalink: "2007/11/15/den-drummer-is-de-mol/"
-tags: ["archive"]
+tags: []
 
 ---
 Ik heb 2 filmpjes voor je:

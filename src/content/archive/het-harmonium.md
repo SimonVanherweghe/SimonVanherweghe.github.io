@@ -2,7 +2,7 @@
 title: "Het harmonium"
 date: 2007-05-27T16:33:34
 permalink: "2007/05/27/het-harmonium/"
-tags: ["archive"]
+tags: []
 
 ---
 Zaterdag ochtend dus naar Doornik geweest om het Harmonium. Doornik lijkt me maar een grauwe stad eigenlijk, maar de winkel waar ik het ging ophalen was wel de moeite. Alles stond uitgestald in kamers van verschillende huizen, die je via trapjes en gangetjes kon bereiken. Vooral meubelen eigenlijk, maar vol met van die leuke prullaria.

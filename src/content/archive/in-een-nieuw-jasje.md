@@ -2,7 +2,7 @@
 title: "In een nieuw jasje"
 date: 2007-09-25T21:57:15
 permalink: "2007/09/25/in-een-nieuw-jasje/"
-tags: ["archive"]
+tags: []
 
 ---
 Als zelf ‘t baguetje in Harelbeke een nieuw uitzicht krijgt, dan kan ik moeilijk achter blijven. Hun broodjes blijven even slecht, mijn content blijft even goed…

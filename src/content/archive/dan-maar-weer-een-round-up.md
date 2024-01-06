@@ -2,7 +2,7 @@
 title: "Dan maar weer een round-up"
 date: 2007-06-15T00:56:51
 permalink: "2007/06/15/dan-maar-weer-een-round-up/"
-tags: ["archive"]
+tags: []
 
 ---
 Naast [ons kamp naar Afrika](http://www.zeescoutsjanbart.be/rafiki "http://www.zeescoutsjanbart.be/rafiki") dat nu wel heel snel dichterbij komt en de vele testen met m’n gps-loggertje ben ik ondertussen ook halftijds harmonium restaurateur.  

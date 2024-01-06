@@ -2,7 +2,7 @@
 title: "Dit is waarom"
 date: 2007-08-18T16:35:10
 permalink: "2007/08/18/dit-is-waarom/"
-tags: ["archive"]
+tags: []
 
 ---
 Dit is waarom ik foto’s trek op film, op aftandse lomo achtige toestellen:

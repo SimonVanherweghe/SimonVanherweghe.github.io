@@ -2,7 +2,7 @@
 title: "Van GPS naar GeoTag"
 date: 2007-08-17T00:12:21
 permalink: "2007/08/17/van-gps-naar-geotag/"
-tags: ["archive"]
+tags: []
 
 ---
 Wat zie ik daarnet op [Flickr](http://www.flickr.com/photos/simonvanherweghe/ "http://www.flickr.com/photos/simonvanherweghe/"), dat er nu onderaan de pagina een [KML bestand](http://api.flickr.com/services/feeds/geo/?id=40396650@N00&lang=en-us&format=kml_nl "http://api.flickr.com/services/feeds/geo/?id=40396650@N00&lang=en-us&format=kml_nl") beschikbaar is met daarin de laatste 20 foto’s die je hebt gegeotagged (er is daar zeker een andere, correcte, schrijfwijze voor) Lovely!

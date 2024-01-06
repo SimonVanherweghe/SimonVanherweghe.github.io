@@ -2,7 +2,7 @@
 title: "Bumaye"
 date: 2007-01-30T21:23:23
 permalink: "2007/01/30/bumaye/"
-tags: ["archive"]
+tags: []
 
 ---
 Vandaag ‘Bumaye’ van ‘Typhoon’, weer nen Ollander die ik heb leren kennen door nen anderen Ollander: [The Flexican](http://www.theflexican.com/ "http://www.theflexican.com/").  

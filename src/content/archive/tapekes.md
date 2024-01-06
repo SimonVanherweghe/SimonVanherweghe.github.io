@@ -2,7 +2,7 @@
 title: "Tapekes"
 date: 2006-08-17T19:13:42
 permalink: "2006/08/17/tapekes/"
-tags: ["archive"]
+tags: []
 
 ---
 Kben dus de enige niet da nog iets heeft voor tapekes: [tapedeck.org](http://www.tapedeck.org/ "http://www.tapedeck.org/") \[via [recordbrother](http://recordbrother.typepad.com/imagesilike/2006/08/dog_days_dog_ye.html "http://recordbrother.typepad.com/imagesilike/2006/08/dog_days_dog_ye.html")\]

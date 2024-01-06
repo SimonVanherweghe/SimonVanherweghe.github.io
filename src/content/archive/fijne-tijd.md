@@ -2,7 +2,7 @@
 title: "Fijne tijd"
 date: 2008-02-27T00:34:47
 permalink: "2008/02/27/fijne-tijd/"
-tags: ["archive"]
+tags: []
 
 ---
 Enkele weken terug kreeg ik plots van Robbie onderstaande foto in de mailbox.

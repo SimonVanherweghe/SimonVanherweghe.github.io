@@ -2,7 +2,7 @@
 title: "Water surface music controller"
 date: 2008-05-15T13:01:28
 permalink: "2008/05/15/water-surface-music-controller/"
-tags: ["archive"]
+tags: []
 
 ---
 Veel te zalig, we hebben een nieuw projectje!

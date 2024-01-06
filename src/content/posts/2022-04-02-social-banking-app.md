@@ -5,8 +5,8 @@ date: 2022-04-02T14:58:06.272Z
 preview: /src/images/posts/2022/04/logo.png
 draft: false
 tags:
-  - post
   - code
+  - web
 categories: []
 permalink: 2022/04/02/social-banking-app/
 alt: "A stock exchange icon"

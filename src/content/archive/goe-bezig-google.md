@@ -2,7 +2,7 @@
 title: "Goe bezig Google"
 date: 2007-01-25T20:44:19
 permalink: "2007/01/25/goe-bezig-google/"
-tags: ["archive"]
+tags: []
 
 ---
 Wat is dat toch met Google de laatsten tijd, moet je horen:

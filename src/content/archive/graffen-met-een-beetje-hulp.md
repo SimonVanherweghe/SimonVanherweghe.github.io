@@ -2,7 +2,7 @@
 title: "Graffen met een beetje hulp"
 date: 2006-04-07T21:37:08
 permalink: "2006/04/07/graffen-met-een-beetje-hulp/"
-tags: ["archive"]
+tags: []
 
 ---
 Toeval of niet, hier komt weer een stukkie over muren volzetten.

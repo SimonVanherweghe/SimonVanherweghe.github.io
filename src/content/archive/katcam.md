@@ -2,7 +2,7 @@
 title: "KatCam"
 date: 2007-06-04T22:12:32
 permalink: "2007/06/04/katcam/"
-tags: ["archive"]
+tags: []
 
 ---
 Je kat een digitale camera ombinden die op geregelde tijdstippen een foto neemt: geniaal!

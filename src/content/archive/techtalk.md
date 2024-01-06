@@ -2,7 +2,7 @@
 title: "TechTalk"
 date: 2008-05-29T00:35:36
 permalink: "2008/05/29/techtalk/"
-tags: ["archive"]
+tags: []
 
 ---
 * Wtf is dat met [Twitter](http://www.twitter.com/donebysimon "http://www.twitter.com/donebysimon")? Net nu ik m’n draai had gevonden om via [IM](http://blog.twitter.com/2006/10/use-twitter-by-instant-message.html "http://blog.twitter.com/2006/10/use-twitter-by-instant-message.html") te Twitteren, ligt da spel lam. Nuja, blijkbaar komt dat wel meer voor. Maak het [vrij](http://www.techcrunch.com/2008/05/05/twitter-can-be-liberated-heres-how/ "http://www.techcrunch.com/2008/05/05/twitter-can-be-liberated-heres-how/")!

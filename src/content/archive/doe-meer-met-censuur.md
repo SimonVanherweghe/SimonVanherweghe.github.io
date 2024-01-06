@@ -2,7 +2,7 @@
 title: "Doe méér met censuur"
 date: 2008-06-12T20:48:40
 permalink: "2008/06/12/doe-meer-met-censuur/"
-tags: ["archive"]
+tags: []
 
 ---
 [http://www.youtube.com/watch?v=5NlNQBK4QFc](http://www.youtube.com/watch?v=5NlNQBK4QFc)

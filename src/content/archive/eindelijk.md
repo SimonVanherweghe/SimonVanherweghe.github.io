@@ -2,7 +2,7 @@
 title: "Eindelijk"
 date: 2007-01-14T20:18:40
 permalink: "2007/01/14/eindelijk/"
-tags: ["archive"]
+tags: []
 
 ---
 De afgelopen week zijn er enkele muzikale dingen opgeklaard.

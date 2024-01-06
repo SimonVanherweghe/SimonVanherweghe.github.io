@@ -2,7 +2,7 @@
 title: "Haha en Hoho!"
 date: 2007-12-17T22:43:37
 permalink: "2007/12/17/haha-en-hoho/"
-tags: ["archive"]
+tags: []
 
 ---
 Terug 2 filmkes, het ene om te lachen, het andere om van omver te vallen:

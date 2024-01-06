@@ -2,7 +2,7 @@
 title: "Re-make"
 date: 2007-08-15T21:09:14
 permalink: "2007/08/15/re-make/"
-tags: ["archive"]
+tags: []
 
 ---
 Dit ziet me er nu wel eens een leuk filmje uit se: [Be Kind Rewind](http://www.movieweb.com/video/V07H7amDHILQRV "http://www.movieweb.com/video/V07H7amDHILQRV") Over gasten die een videotheek uitbaten en noodgedwongen besluiten om de films zelf opnieuw te maken… \[via [NewWork](http://www.ilovenewwork.com/2007/08/14/be-kind-rewind/ "http://www.ilovenewwork.com/2007/08/14/be-kind-rewind/")\]

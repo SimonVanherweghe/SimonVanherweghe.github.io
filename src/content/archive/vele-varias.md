@@ -2,7 +2,7 @@
 title: "Vele varias"
 date: 2008-05-29T01:50:30
 permalink: "2008/05/29/vele-varias/"
-tags: ["archive"]
+tags: []
 
 ---
 * Wat ze zoal konden doen met een kleine [600 miljard dollar](http://www.antipope.org/charlie/blog-static/2008/05/alternative_boondoggles.html "http://www.antipope.org/charlie/blog-static/2008/05/alternative_boondoggles.html"). Slechte investering me dunkt… \[via [BoingBoing](http://feeds.feedburner.com/~r/boingboing/iBag/~3/299053248/we-could-have-coloni.html "http://feeds.feedburner.com/~r/boingboing/iBag/~3/299053248/we-could-have-coloni.html") (goeie samenvatting)\]

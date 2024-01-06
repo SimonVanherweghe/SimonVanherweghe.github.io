@@ -3,8 +3,6 @@ title: Everywhere I go, it's disco
 date: 2018-01-27T05:54:24
 permalink: 2018/01/27/everywhere-i-go-its-disco/
 tags:
-  - post
-  - project
   - crafting
 preview: /src/images/posts/2023/04/disco.png
 description: When the theme for a party is 'disco'

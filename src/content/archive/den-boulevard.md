@@ -2,7 +2,7 @@
 title: "Den Boulevard"
 date: 2006-12-07T20:04:33
 permalink: "2006/12/07/den-boulevard/"
-tags: ["archive"]
+tags: []
 
 ---
 Kreeg ik vandaag in m’n mailbox:

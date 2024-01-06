@@ -2,7 +2,7 @@
 title: "Handige dingskes"
 date: 2007-02-19T22:04:35
 permalink: "2007/02/19/handige-dingskes/"
-tags: ["archive"]
+tags: []
 
 ---
 I Like Google Calendar en iCal. Jammer dat je maar in één richting kon syncen. Dat is nu gelukkig voorbij met [Spanning Sync](http://blog.spanningsync.com/ "http://blog.spanningsync.com/")

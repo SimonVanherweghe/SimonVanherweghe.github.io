@@ -2,7 +2,7 @@
 title: "Lost connection…"
 date: 2008-01-21T17:58:13
 permalink: "2008/01/21/lost-connection/"
-tags: ["archive"]
+tags: []
 
 ---
 In m’n nieuwe stekkie is er voorlopig nog geen internet. Ik zal dus wat moeilijker te bereiken zijn via de digitale snelweg.

@@ -2,7 +2,7 @@
 title: "Beeldig"
 date: 2007-12-12T20:29:24
 permalink: "2007/12/12/beeldig/"
-tags: ["archive"]
+tags: []
 
 ---
 Na een post rond alles wat met geluid te maken heeft, eentje rond beeld. Enfin, met nen cross-over her en der.

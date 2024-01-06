@@ -2,7 +2,7 @@
 title: "Gevonden!"
 date: 2007-04-25T23:51:48
 permalink: "2007/04/25/gevonden/"
-tags: ["archive"]
+tags: []
 
 ---
 Hupla, zo gaat dat:

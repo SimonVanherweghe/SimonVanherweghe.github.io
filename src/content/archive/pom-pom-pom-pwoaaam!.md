@@ -2,7 +2,7 @@
 title: "Pom pom pom pwoaaam!"
 date: 2008-04-11T18:42:34
 permalink: "2008/04/11/pom-pom-pom-pwoaaam/"
-tags: ["archive"]
+tags: []
 
 ---
 Eindelijk! Straks gaan we de nodige stoom afblazen in [Roeselare](http://www.despil.be/index.php/templates/podium/626 "http://www.despil.be/index.php/templates/podium/626") met [Fanfare Ciocărlia!](http://www.asphalt-tango.de/fanfare/artist.html "http://www.asphalt-tango.de/fanfare/artist.html")

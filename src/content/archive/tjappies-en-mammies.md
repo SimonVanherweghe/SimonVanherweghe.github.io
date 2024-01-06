@@ -2,7 +2,7 @@
 title: "Tjappies en Mammies"
 date: 2007-01-28T03:21:07
 permalink: "2007/01/28/tjappies-en-mammies/"
-tags: ["archive"]
+tags: []
 
 ---
 We schrijven oudejaarsdag 2003, ik was in Genk om op Robbie zijn kot de overgang te vieren. Bij de lokale platenboer zag ik Voeistof liggen, terug op tkot wat zitten googlen, en met die beat (ik denk dat die toen als instrumental op een of andere site stond) kreeg ‘nederhop’ meteen een nieuwe betekenis voor mij, nieuwe deuren gingen open.  

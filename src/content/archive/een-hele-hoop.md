@@ -2,7 +2,7 @@
 title: "Een hele hoop"
 date: 2006-08-16T18:58:14
 permalink: "2006/08/16/een-hele-hoop/"
-tags: ["archive"]
+tags: []
 
 ---
 Er is een hele tijd voorbij sinds mijn laatste post. Ik had het dan ook redelijk druk met het herschilderen van de plafond in de Keet, stoelgangen in liters, eindelijk effectief starten met de [sala-site](http://www.jhsalamander.be/ "www.jhsalamander.be") en overdag werken natuurlijk.

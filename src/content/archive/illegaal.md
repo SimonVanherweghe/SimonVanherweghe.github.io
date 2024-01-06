@@ -2,7 +2,7 @@
 title: "Illegaal"
 date: 2007-02-27T21:33:09
 permalink: "2007/02/27/illegaal/"
-tags: ["archive"]
+tags: []
 
 ---
 Op mijn [werk](http://www.eekhoutcentrum.be/ "http://www.eekhoutcentrum.be") moest ik wat dingen op een laptop installeren. Plots kwam ik iets tegen dat precies niet helemaal juist is…

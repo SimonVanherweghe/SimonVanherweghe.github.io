@@ -2,7 +2,7 @@
 title: "Nou Breakt m’n klomp!"
 date: 2007-08-16T16:32:03
 permalink: "2007/08/16/nou-breakt-mn-klomp/"
-tags: ["archive"]
+tags: []
 
 ---
 Ik sta er telkens weer versteld van als ik plots de original van een sample hoor. Vooral als je het helemaal niet verwacht dat het nummer in kwestie een sample gebruikt.

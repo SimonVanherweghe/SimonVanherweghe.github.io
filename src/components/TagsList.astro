@@ -5,7 +5,7 @@ const { tags, isLink = true } = Astro.props;
 <ul>
   {
     tags.map((tag) => (
-      <li>{isLink ? <a href={`/tag/${tag}`}>#{tag}</a> : "#" + tag}</li>
+      <li>{isLink ? <a href={`/tags/${tag}`}>#{tag}</a> : "#" + tag}</li>
     ))
   }
 </ul>

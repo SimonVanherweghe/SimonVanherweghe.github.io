@@ -3,8 +3,6 @@ title: TabCyclist
 date: 2019-02-20T05:50:16
 permalink: 2019/02/20/tabcyclist/
 tags:
-  - post
-  - project
   - code
 preview: /src/images/posts/2023/04/tabcyclist.png
 description: Cycle through your open tabs

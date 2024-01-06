@@ -2,7 +2,7 @@
 title: "Cee-Lo Green is the soul machine!"
 date: 2006-07-09T11:25:11
 permalink: "2006/07/09/cee-lo-green-is-the-soul-machine/"
-tags: ["archive"]
+tags: []
 
 ---
 Gisteren het Cactusfestival in Brugge gedaan. Met Gnarls Barkley op het programma kon ik dit onmogelijk laten passeren.

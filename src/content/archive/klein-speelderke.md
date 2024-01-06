@@ -2,7 +2,7 @@
 title: "Klein speelderke"
 date: 2006-10-09T23:37:54
 permalink: "2006/10/09/klein-speelderke/"
-tags: ["archive"]
+tags: []
 
 ---
 De laatste tijd kwam ik meer en meer dingen tegen over [secondlife.](http://secondlife.com/ "http://secondlife.com/") Een soort online mix tussen chatten en de sims, al is dit wel heel snel omschreven. Niet dat ik stond te popelen om virtueel ergens rond te hangen, maar toch best maar eens checken dacht ik.  

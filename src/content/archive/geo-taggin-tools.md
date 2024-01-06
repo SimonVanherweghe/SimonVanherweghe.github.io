@@ -2,7 +2,7 @@
 title: "Geo-taggin-tools"
 date: 2008-05-29T23:59:30
 permalink: "2008/05/29/geo-taggin-tools/"
-tags: ["archive"]
+tags: []
 
 ---
 Ik begin een deftige workflow te creëren voor het geo-taggen van m’n fotos.

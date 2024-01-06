@@ -2,7 +2,7 @@
 title: "Op naar de cinema!"
 date: 2007-09-04T00:42:41
 permalink: "2007/09/04/op-naar-de-cinema/"
-tags: ["archive"]
+tags: []
 
 ---
 Naast het feit dat er nu in Google Earth een [vliegsimulator](http://earth.google.com/intl/en/userguide/v4/flightsim/index.html "http://earth.google.com/intl/en/userguide/v4/flightsim/index.html") zit, werden er vooral veel filmpjes aangehaald vandaag in blogland.

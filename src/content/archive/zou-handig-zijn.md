@@ -2,7 +2,7 @@
 title: "Zou handig zijn"
 date: 2007-02-18T21:58:38
 permalink: "2007/02/18/zou-handig-zijn/"
-tags: ["archive"]
+tags: []
 
 ---
 Zou dit [de oplossing](http://67.18.248.210/van/ "http://67.18.248.210/van/") kunnen zijn voor het kabel-oerwoud op mijn bureau?
