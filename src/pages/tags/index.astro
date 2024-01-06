@@ -9,7 +9,7 @@ const posts = await getCollection("posts");
 const tags = [...new Set(posts.flatMap((post) => post.data.tags))];
 ---
 
-<BaseLayout>
+<BaseLayout pageTitle="All the tags">
   <section>
     <h2>All tags</h2>
     <TagsList tags={tags} />

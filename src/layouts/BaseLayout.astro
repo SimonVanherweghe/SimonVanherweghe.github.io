@@ -11,49 +11,8 @@ import "/src/css/main.css";
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="canonical" href={Astro.url} />
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link
-      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap"
-      rel="stylesheet"
-    />
-
     <title>{pageTitle || frontmatter?.title}</title>
-
-    <link rel="icon" type="“image/x-icon”" href="/images/favicon.ico" />
-
-    <meta property="og:title" content="{{  title or site.name | escape }}" />
-    <meta property="og:site_name" content="{{ site.name }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{ site.url + page.url }}" />
-    <meta name="twitter:card" content="summary_large_image" />
   </head>
-  <!-- //TODO: metatags -->
-  <!--  {site.author.twitterHandle && <meta name="twitter:creator" content="@{{ site.author.twitterHandle | replace('@', '') }}"/>}
- -->
-  <!-- {% if title %}
-      <meta name="twitter:title" content="{{ title | escape }}">
-    {% else %}
-      <meta name="twitter:title" content="{{ site.name | escape }}">
-    {% endif %} -->
-
-  <!--     {% set desc = description %}
-    {% if not desc %}
-      {% set desc = content | striptags | truncate(140) %}
-    {% endif %}
-    {% if desc %}
-      <meta name="description" content="{{ desc | escape  }}">
-      <meta property="og:description" content="{{ desc | escape }}">
-      <meta name="description" content="{{ desc | escape }}"/>
-    {% endif %} -->
-  <!-- 
-    {% if not socialImage %}
-      {% set socialImage = site.defaultSocialImage %}
-    {% endif %} -->
-  <!--     {% if socialImage %}
-      <meta property="og:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
-      <meta name="twitter:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
-    {% endif %} -->
-
   <body>
     <div class="layout-wrapper">
       <Header />

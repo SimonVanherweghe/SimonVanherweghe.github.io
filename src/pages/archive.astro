@@ -6,7 +6,7 @@ const allPosts = await getCollection("archive");
 allPosts.sort((a, b) => +b.data.date - +a.data.date);
 ---
 
-<BaseLayout>
+<BaseLayout pageTitle="The archive">
   <section class="home">
     <h2>The archive</h2>
     <ArchiveList posts={allPosts} />

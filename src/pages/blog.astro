@@ -9,7 +9,7 @@ allPosts.reverse();
 const allTags = [...new Set(allPosts.flatMap((post) => post.data.tags))];
 ---
 
-<BaseLayout>
+<BaseLayout pageTitle="All blogposts">
   <section class="page">
     <h2>All blogposts</h2>
     <TagsList tags={allTags} />

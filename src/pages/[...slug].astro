@@ -27,7 +27,7 @@ const { post, next, prev } = Astro.props;
 const { Content } = await post.render();
 ---
 
-<BaseLayout>
+<BaseLayout pageTitle={post.data.title}>
   <article class="post">
     <header>
       <TagsList tags={post.data.tags} />
