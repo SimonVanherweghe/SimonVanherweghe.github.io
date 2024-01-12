@@ -7,7 +7,7 @@
   & h2{
     font-size: var(--step-3);
     font-weight: 400;
-    margin-bottom: var(--space-s);
+    margin-bottom: var(--space-3xs);
     margin-top: var(--space-l)
   }
 
@@ -47,5 +47,16 @@
   & code {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
+  }
+
+  & em {
+    font-style: italic;
+  }
+
+  & img + em {
+    display: block;
+    text-align: center;
+    font-size: smaller;
+    margin-top: 0.7em;
   }
 }
