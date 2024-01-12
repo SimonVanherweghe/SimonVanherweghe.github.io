@@ -20,7 +20,7 @@ I think I technically could have made use of p5 to generate those SVG's, but I w
 
 ## A crossword algorithm
 
-I couldn't imagine I was the first one who would like to make a crossword in JavaScript, the language I'm most familiar with. I had some extra requirements that I should be able to implement afterwards. The one that popped out was written in JS, but clearly of [a Spanish speaking developer](https://github.com/fabnun/conwords-generator). With the help of some AI, it was quite easily translated tot English, so I could start adopting it to my needs.
+I couldn't imagine I was the first one who would like to make a crossword in JavaScript, the language I'm most familiar with. I had some extra requirements that I should be able to implement afterwards. The one that popped out was written in JS, but clearly of [a Spanish-speaking developer](https://github.com/fabnun/conwords-generator). With the help of some AI, it was quite easily translated tot English, so I could start adopting it to my needs.
 
 The first requirement was that it must contain certain words, I wanted to include the names of the addressed. In a rather cheesy way, we would like to wish they found the happiness inside them...
 
