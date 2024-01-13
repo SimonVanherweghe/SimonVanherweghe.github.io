@@ -63,3 +63,7 @@ I made a conveyor belt script that plots the grid, the clues in sequence. Betwee
 Since I was already plotting, I decided to also write the addresses on the envelopes with the plotter and include them in the conveyor. Those came out really well.
 
 ![The plotter, plotting](@images/posts/2024/01/plotting.gif)
+
+## The code
+
+If you're interested, the whole thing is open source. You can find it on [GitHub](https://github.com/SimonVanherweghe/crossword-cards), have fun with it, and a happy New Year!
