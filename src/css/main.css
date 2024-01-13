@@ -38,11 +38,11 @@ main {
 }
 
 a:any-link {
-  color: inherit;
+  color: var(--color-accent);
 }
 
 a:hover{
-  color: inherit;
+  color: var(--color-accent);
   text-decoration-color:var(--color-accent);
   text-decoration-style: double;
 }
