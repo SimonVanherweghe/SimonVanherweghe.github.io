@@ -1,7 +1,8 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, render } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import TagsList from "../components/TagsList.astro";
+import Metadata from "../components/Metadata.astro";
 import PreviewImage from "../components/PreviewImage.astro";
 
 export async function getStaticPaths() {
@@ -22,8 +23,17 @@ export async function getStaticPaths() {
 }
 
 const { post, next, prev } = Astro.props;
-const { Content } = await post.render();
+const { Content } = await render(post);
 ---
+
+<Metadata
+  slot="head"
+  title={post.data.title}
+  description={post.data.description}
+  image={`${import.meta.env.SITE}/og/${post.id}.png`}
+  publishedTime={post.data.date.toISOString()}
+  type="article"
+/>
 
 <BaseLayout pageTitle={post.data.title}>
   <article class="post">

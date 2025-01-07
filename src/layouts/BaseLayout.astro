@@ -12,6 +12,7 @@ import "/src/css/main.css";
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="canonical" href={Astro.url} />
     <title>{pageTitle || frontmatter?.title}</title>
+    <slot name="head" />
   </head>
   <body>
     <div class="layout-wrapper">
