@@ -40,7 +40,7 @@ I created three different sizes for the characters to balance their scale: large
 
 ## Generating SVGs with D3 and Node.js
 
-Once the “2025” path was finalized, I needed to convert it into an SVG for plotting. This is where [D3.js](https://d3js.org/), a powerful visualization library, came into play. Maybe not the perfect tool for the job, but I wanted to learn it anyhow. Although D3 is typically used in the browser, I needed to run in a Node.js environment to automate the process.
+Once the “2025” path was finalized, I needed to convert it into an SVG for plotting. This is where [D3.js](https://d3js.org/), a powerful visualization library, came into play. Maybe not the perfect tool for the job, but I was keen to have more experience with it. Although D3 is typically used in the browser, I needed to run in a Node.js environment to automate the process.
 
 D3 requires a [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) to manipulate SVGs, but Node.js doesn’t have a built-in DOM parser. Initially, I used [JSDOM](https://github.com/jsdom/jsdom), but it was painfully slow, taking minutes to generate a single SVG. After some research, I switched to a faster solution: combining [linkedom](https://github.com/WebReflection/linkedom) with [d3-no-dom](https://github.com/neg4n/d3-no-dom), which reduced the generation time to just a few seconds.
 
