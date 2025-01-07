@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 import BaseLayout from "./BaseLayout.astro";
 import PostsList from "../components/PostsList.astro";
 const allPosts = await getCollection("posts");
-allPosts.reverse();
+allPosts.sort((a, b) => +b.data.date - +a.data.date);
 
 const { frontmatter } = Astro.props;
 ---
