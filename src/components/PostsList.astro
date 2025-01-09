@@ -5,9 +5,9 @@ const { posts } = Astro.props;
 
 <ul class="post-list">
   {
-    posts.map((post) => (
+    posts.map((post, index) => (
       <li>
-        <Post post={post} />
+        <Post post={post} index={index} />
       </li>
     ))
   }

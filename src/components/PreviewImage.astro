@@ -10,7 +10,14 @@ if (!images[src]) throw new Error(`"${src}" does not exist in glob`);
 const path = images[src]();
 ---
 
-<Image src={path} widths={widths} sizes={sizes} alt={alt} class={className} />
+<Image
+  src={path}
+  widths={widths}
+  sizes={sizes}
+  alt={alt}
+  class={className}
+  format="avif"
+/>
 
 <style>
   img {
