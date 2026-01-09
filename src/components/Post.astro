@@ -42,8 +42,8 @@ const getWidths = (index) => {
     <h3>{post.data.title}</h3>
     <p>{post.data.description}</p>
     <div class="meta">
-      <time datetime={post.date}>
-        {post.date}
+      <time datetime={post.data.date.toISOString()}>
+        {post.data.date.toLocaleDateString()}
       </time>
     </div>
   </a>
