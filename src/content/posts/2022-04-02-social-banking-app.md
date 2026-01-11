@@ -2,7 +2,7 @@
 title: Social Banking App
 description: A fake banking app to reward participants for completing challenges.
 date: 2022-04-02T14:58:06.272Z
-preview: /src/images/posts/2022/04/logo.png
+preview: ../../images/posts/2022/04/logo.png
 draft: false
 tags:
   - code

@@ -2,7 +2,7 @@
 title: New year's cards
 description: Personalized New Year's crosswords cards made with the plotter.
 date: 2024-01-12T21:00:30.566Z
-preview: /src/images/posts/2024/01/plotter-result.jpg
+preview: ../../images/posts/2024/01/plotter-result.jpg
 alt: A screenshot of the Textivalkrant header consistiong of a menu and a rockstar construction worker on a wrecking ball.
 draft: false
 tags:

@@ -2,7 +2,7 @@
 title: Shifts planning
 description: An update to the shift filling process
 date: 2023-04-27T18:48:14.393Z
-preview: /src/images/posts/2023/04/textival_medewerkers.png
+preview: ../../images/posts/2023/04/textival_medewerkers.png
 alt: A screenshot of the shifts planning application
 draft: false
 tags:

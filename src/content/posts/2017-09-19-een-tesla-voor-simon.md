@@ -3,7 +3,7 @@ title: "Een Tesla voor Simon"
 date: 2017-09-19T05:34:35
 permalink: 2017/09/19/een-tesla-voor-simon/
 tags: [ "code", "web"]
-preview: /src/images/posts/2017/09/krant.jpg
+preview: ../../images/posts/2017/09/krant.jpg
 description: "Mine me monero for a Tesla"
 ---
 When browsing to [eenteslavoorsimon.be](https://eenteslavoorsimon.be/), the visitor helps mining Monero cryptocurrency for me. This way I could become immeasurable rich. The only concern I would have is to pick the color of the Tesla.

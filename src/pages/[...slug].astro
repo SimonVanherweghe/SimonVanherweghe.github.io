@@ -43,16 +43,14 @@ const { Content } = await render(post);
       {post.data.description && <p class="desc">{post.data.description}</p>}
       <div class="details">
         <time datetime={post.data.date.toISOString()}>
-          {post.data.date.toLocaleDateString()}
+          {post.data.date.toLocaleDateString("nl-BE")}
         </time>
       </div>
     </header>
     {
       post.data.preview && (
         <PreviewImage
-          src={post.data.preview}
-          widths={[500, 750, 1000, 1500]}
-          sizes="100vw"
+          image={post.data.preview}
           alt={post.data.title}
           className="headerimg"
         />

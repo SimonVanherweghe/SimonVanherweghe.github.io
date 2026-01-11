@@ -1,19 +1,13 @@
 ---
 import { Image } from "astro:assets";
 
-const images = import.meta.glob("/src/images/posts/**/*.{jpeg,jpg,png,gif}");
-
-const { src, widths, sizes, alt, className = "" } = Astro.props;
-
-if (!images[src]) throw new Error(`"${src}" does not exist in glob`);
-
-const path = images[src]();
+const { alt, className = "", image } = Astro.props;
 ---
 
 <Image
-  src={path}
-  widths={widths}
-  sizes={sizes}
+  src={image}
+  sizes={"auto"}
+  inferSize
   alt={alt}
   class={className}
   format="avif"

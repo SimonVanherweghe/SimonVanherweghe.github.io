@@ -2,7 +2,7 @@
 title: Waldschattenspiel
 description: A board game in the dark
 date: 2021-12-27T20:15:25.007Z
-preview: /src/images/posts/2022/12/mosaic.jpg
+preview: ../../images/posts/2022/12/mosaic.jpg
 draft: false
 tags:
   - play

@@ -2,7 +2,7 @@
 title: A-maze-ing new year
 description: "A new year, a new card. This year I've made everyone a unique maze to solve, with a hidden message included."
 date: 2025-01-06T19:49:57.417Z
-preview: /src/images/posts/2025/01/previewmaze.jpg
+preview: ../../images/posts/2025/01/previewmaze.jpg
 alt: ""
 tags: 
   - code
