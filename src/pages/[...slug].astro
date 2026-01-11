@@ -50,9 +50,7 @@ const { Content } = await render(post);
     {
       post.data.preview && (
         <PreviewImage
-          src={post.data.preview}
-          widths={[500, 750, 1000, 1500]}
-          sizes="100vw"
+          image={post.data.preview}
           alt={post.data.title}
           className="headerimg"
         />

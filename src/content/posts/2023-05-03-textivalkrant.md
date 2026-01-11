@@ -2,7 +2,7 @@
 title: Textivalkrant
 description: A mobile program guide with a funny twist
 date: 2023-05-03T19:58:30.566Z
-preview: /src/images/posts/2023/05/textivalkrant.png
+preview: ../../images/posts/2023/05/textivalkrant.png
 alt: "A screenshot of the Textivalkrant header consistiong of a menu and a rockstar construction worker on a wrecking ball."
 draft: false
 tags:

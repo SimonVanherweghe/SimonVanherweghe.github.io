@@ -6,7 +6,7 @@ tags:
   - machine learning
   - code
 description: When a boat passes by, a picture is taken and tweeted.
-preview: /src/images/posts/2017/05/bbb.jpg
+preview: ../../images/posts/2017/05/bbb.jpg
 ---
 
 At the Buda Beach in Kortrijk, there is a webcam looking at the Leie. I made a bot that tweets a picture of every boat that passes by.

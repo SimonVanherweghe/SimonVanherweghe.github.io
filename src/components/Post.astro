@@ -3,7 +3,7 @@ import PreviewImage from "./PreviewImage.astro";
 import TagsList from "./TagsList.astro";
 const { post, index } = Astro.props;
 
-const sizes = [
+/* const sizes = [
   "(min-width: 1280px) 772px, (min-width: 740px) calc(59.42vw + 23px), (min-width: 540px) 99.44vw, 92.73vw",
   "(min-width: 1280px) 562px, (min-width: 640px) 43.55vw, (min-width: 540px) 98.75vw, 92.73vw",
   "(min-width: 1280px) 370px, (min-width: 960px) calc(26.33vw + 38px), (min-width: 640px) calc(49.67vw - 26px), (min-width: 540px) 98.75vw, 92.73vw",
@@ -25,17 +25,12 @@ const getWidths = (index) => {
   if (index === 0) return widths[0];
   if (index === 1 || index === 2) return widths[1];
   return widths[2];
-};
+}; */
 ---
 
 <article>
   <a href={`/${post.data.permalink}`}>
-    <PreviewImage
-      src={post.data.preview}
-      widths={getWidths(index)}
-      sizes={getSize(index)}
-      alt={post.data.title}
-    />
+    <PreviewImage image={post.data.preview} alt={post.data.title} />
     <div class="tagslist">
       <TagsList tags={post.data.tags} isLink={false} />
     </div>
