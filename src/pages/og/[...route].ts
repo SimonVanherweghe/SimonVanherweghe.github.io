@@ -8,7 +8,7 @@ const collectionEntries = await getCollection('posts');
 // to { 'post.md': { title: 'Example', description: '' } }
 const pages = Object.fromEntries(collectionEntries.map(({ id, data }) => [id, data]));
 
-export const { getStaticPaths, GET } = OGImageRoute({
+export const { getStaticPaths, GET } = await OGImageRoute({
   // Tell us the name of your dynamic route segment.
   // In this case it’s `route`, because the file is named `[...route].ts`.
   param: 'route',
