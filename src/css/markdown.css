@@ -59,4 +59,26 @@
     font-size: smaller;
     margin-top: 0.7em;
   }
+
+/*   & img + img {
+    width: 45%;
+    display: inline;
+    
+  }
+
+
+  & img:has(+ img) {
+    width: 45%;
+    display: inline;
+    margin-left: 5%;
+  } */
+
+  & p:has(img + img) {
+    display: flex;
+    justify-content: center;
+
+    & img {
+      width: 45%;
+    }
+  }
 }
