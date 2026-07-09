@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&display=swap');
-
+/* Font is self-hosted via @fontsource-variable/roboto-slab, imported in BaseLayout.astro. */
 body {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab Variable', serif;
   font-weight: 300;
   line-height: 1.7;
   color: var(--color-text);
