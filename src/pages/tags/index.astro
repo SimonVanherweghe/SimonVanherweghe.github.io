@@ -10,7 +10,7 @@ const tags = [...new Set(posts.flatMap((post) => post.data.tags))];
 
 <BaseLayout pageTitle="All the tags">
   <section>
-    <h2>All tags</h2>
+    <h1>All tags</h1>
     <TagsList tags={tags} />
   </section>
 </BaseLayout>

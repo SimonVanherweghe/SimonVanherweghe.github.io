@@ -10,6 +10,9 @@ const postCollection = defineCollection({
       tags: z.array(z.string()),
       description: z.string(),
       preview: image(),
+      // Describes the preview image. Omit it when the image only restates the title —
+      // the components fall back to an empty alt, which is correct for decorative art.
+      alt: z.string().optional(),
       date: z.date(),
     }),
 });
