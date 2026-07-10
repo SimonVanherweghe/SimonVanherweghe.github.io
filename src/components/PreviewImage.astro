@@ -1,16 +1,25 @@
 ---
 import { Image } from "astro:assets";
 
-const { alt, className = "", image } = Astro.props;
+const {
+  alt,
+  className,
+  image,
+  priority = false,
+  // `width` caps the largest srcset candidate; `sizes` tells the browser which one to pick.
+  // Defaults suit a full-bleed image in the 75rem site container.
+  width = 1200,
+  sizes = "(min-width: 75rem) 75rem, 100vw",
+} = Astro.props;
 ---
 
 <Image
   src={image}
-  sizes={"auto"}
-  inferSize
   alt={alt}
   class={className}
-  format="avif"
+  width={width}
+  sizes={sizes}
+  priority={priority}
 />
 
 <style>

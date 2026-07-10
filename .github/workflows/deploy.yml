@@ -7,19 +7,31 @@ on:
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
+# peaceiris/actions-gh-pages pushes the build to the `gh-pages` branch.
+permissions:
+  contents: write
+
+# A push that lands while an earlier deploy is still running should win, not race it.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 22
           cache: npm
 
       - name: Install dependencies
         run: npm ci
+      - name: Type check
+        run: npm run check
+      # The OG image route downloads fonts from api.fontsource.org, so this step needs network.
       - name: Build website
         run: npm run build
 

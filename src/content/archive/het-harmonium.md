@@ -15,28 +15,18 @@ Helaas, een foto van het harmonium in zijn geheel heb ik niet genomen want ik be
 
 Het was niet echt moeilijk om de boel los te krijgen, het bestaat uit 2 grote delen: de toetsen met blaasbalgen en de houder eigenlijk.
 
-[](@images/posts/2007/05/p1070547.jpg "Toetsen")
-
-[![Toetsen](@images/posts/2007/05/p1070547.jpg)](@images/posts/2007/05/p1070547.jpg "Toetsen")
+![Toetsen](@images/posts/2007/05/p1070547.jpg)
 
 Ik heb sjans met de toetsen die niet meer omhoog komen, gewoon een ijzerke weer goed zetten, en dat komt in orde. Maar omdat er tussen de toetsen allemaal stof en vuiligheid zit, heb ik die er allemaal van gehaald.
 
-[](@images/posts/2007/05/p1070550.jpg "ijzerkers")
-
-[![ijzerkers](@images/posts/2007/05/p1070550.jpg)](@images/posts/2007/05/p1070550.jpg "ijzerkers")
+![ijzerkers](@images/posts/2007/05/p1070550.jpg)
 
 Toen ik bijna aan de laatste toetsen was, zag ik 2 briefkes er onder zitten. Dat is weer de max natuurlijk, waarom en hoe zijn die daar geraakt? Gewoon om nen toets omhoog te houden? Of een geheime boodschap die vlug verstopt moest worden?
 
-[](@images/posts/2007/05/p1070556.jpg "ontdekking")
-
-[![ontdekking](@images/posts/2007/05/p1070556.jpg)](@images/posts/2007/05/p1070556.jpg "ontdekking")
+![ontdekking](@images/posts/2007/05/p1070556.jpg)
 
 Ik kan er veel uit opmaken, maar ik ga voor het ‘geheime boodschap’ verhaal. Jammer dat er geen jaartal bijstaat. Op heel dat harmonium trouwens nog niks gevonden van jaartal.
 
-[](@images/posts/2007/05/memento1.jpg "memento 1")
+![memento 1](@images/posts/2007/05/memento1.jpg)
 
-[![memento 1](@images/posts/2007/05/memento1.jpg)](@images/posts/2007/05/memento1.jpg "memento 1")
-
-[](@images/posts/2007/05/memento2.jpg "memento 2")
-
-[![memento 2](@images/posts/2007/05/memento2.jpg)](@images/posts/2007/05/memento2.jpg "memento 2")
+![memento 2](@images/posts/2007/05/memento2.jpg)

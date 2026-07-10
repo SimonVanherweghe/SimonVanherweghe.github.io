@@ -2,11 +2,23 @@
 import PreviewImage from "./PreviewImage.astro";
 import TagsList from "./TagsList.astro";
 const { post, index } = Astro.props;
+
+// The first card spans the full grid and is the homepage LCP element. The rest sit below the
+// fold in narrower columns, so they can be fetched lazily at a smaller size.
+const isLead = index === 0;
 ---
 
 <article>
   <a href={`/${post.data.permalink}`}>
-    <PreviewImage image={post.data.preview} alt={post.data.title} />
+    <PreviewImage
+      image={post.data.preview}
+      alt={post.data.alt ?? ""}
+      priority={isLead}
+      width={isLead ? 1200 : 700}
+      sizes={isLead
+        ? "(min-width: 950px) 66vw, 100vw"
+        : "(min-width: 950px) 30vw, (min-width: 700px) 45vw, 100vw"}
+    />
     <div class="tagslist">
       <TagsList tags={post.data.tags} isLink={false} />
     </div>

@@ -24,18 +24,31 @@ export async function getStaticPaths() {
 
 const { post, next, prev } = Astro.props;
 const { Content } = await render(post);
+
+// OG images are only generated for the `posts` collection (see src/pages/og/[...route].ts).
+const ogImage =
+  post.collection === "posts"
+    ? `${import.meta.env.SITE}/og/${post.id}.png`
+    : undefined;
+
+// `alt` only exists on the `posts` schema. Archive previews carry no caption, and an empty
+// alt is correct for an image whose adjacent heading already names it.
+const previewAlt =
+  post.collection === "posts" ? (post.data.alt ?? "") : "";
 ---
 
-<Metadata
-  slot="head"
-  title={post.data.title}
-  description={post.data.description}
-  image={`${import.meta.env.SITE}/og/${post.id}.png`}
-  publishedTime={post.data.date.toISOString()}
-  type="article"
-/>
-
-<BaseLayout pageTitle={post.data.title}>
+<BaseLayout
+  pageTitle={post.data.title}
+  lang={post.collection === "archive" ? "nl" : "en"}
+>
+  <Metadata
+    slot="head"
+    title={post.data.title}
+    description={post.data.description}
+    image={ogImage}
+    publishedTime={post.data.date.toISOString()}
+    type="article"
+  />
   <article class="post">
     <header>
       <TagsList tags={post.data.tags} />
@@ -51,8 +64,9 @@ const { Content } = await render(post);
       post.data.preview && (
         <PreviewImage
           image={post.data.preview}
-          alt={post.data.title}
+          alt={previewAlt}
           className="headerimg"
+          priority
         />
       )
     }

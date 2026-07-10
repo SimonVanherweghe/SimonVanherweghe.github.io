@@ -9,7 +9,7 @@ export async function getStaticPaths() {
 
   const tags = [...new Set(posts.flatMap((post) => post.data.tags))];
 
-  return tags.map((tag, i) => ({
+  return tags.map((tag) => ({
     params: { tag: tag },
     props: {
       tag,
@@ -23,7 +23,7 @@ const { tag, posts } = Astro.props;
 
 <BaseLayout pageTitle={`Posts tagged with ${tag}`}>
   <section>
-    <h2>Posts tagged with <span>'{tag}'</span></h2>
+    <h1>Posts tagged with <span>'{tag}'</span></h1>
     <PostsList posts={posts} />
   </section>
 </BaseLayout>

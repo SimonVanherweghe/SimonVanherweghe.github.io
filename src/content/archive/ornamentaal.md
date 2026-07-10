@@ -11,7 +11,7 @@ Dat deed me denken aan de tijd van de Ornamentalisten. Gegroeid uit het feit dat
 
 ![Ornos](@images/posts/2006/08/ornos.jpg)
 
-Het eerste nummer was al meteen goed voor een echte hit in selecte scene. [Wallpapers](@images/posts/2006/08/ornamentalistwallpaper.jpg "@images/posts/2006/08/ornamentalistwallpaper.jpg") werden spontaan aangemaakt en hé, we haalden het zelf tot op de [radio](http://rapidshare.de/files/31228648/ornaradio.mp3.html "http://rapidshare.de/files/31228648/ornaradio.mp3.html") (16:32 | 15,11MB)
+Het eerste nummer was al meteen goed voor een echte hit in selecte scene. [Wallpapers](/media/posts/2006/08/ornamentalistwallpaper.jpg) werden spontaan aangemaakt en hé, we haalden het zelf tot op de [radio](http://rapidshare.de/files/31228648/ornaradio.mp3.html "http://rapidshare.de/files/31228648/ornaradio.mp3.html") (16:32 | 15,11MB)
 
 Voor wie niet langer kan wachten: hier kan je ons tweede -en voorlopig laatste- nummer afhalen: [De boom heeft een Heercomplex](http://rapidshare.de/files/31226706/De_boom_heeft_een_Heer_complex.mp3.html "http://rapidshare.de/files/31226706/De_boom_heeft_een_Heer_complex.mp3.html") (5:35 | 5,1MB)
 

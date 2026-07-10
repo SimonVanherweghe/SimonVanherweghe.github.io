@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    rect { fill: #292929; }
+    text { fill: #fffffe; }
+    @media (prefers-color-scheme: dark) {
+      rect { fill: #fffffe; }
+      text { fill: #292929; }
+    }
+  </style>
+  <rect width="32" height="32" rx="6" />
+  <text
+    x="16"
+    y="16"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-family="'Roboto Slab', Rockwell, Georgia, serif"
+    font-size="22"
+    font-weight="400"
+  >S</text>
+</svg>
