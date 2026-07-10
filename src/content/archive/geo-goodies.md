@@ -20,6 +20,6 @@ tags: []
 
 ![](@images/posts/2008/05/portrait_small.jpg "portrait_small")
 
-![](@images/posts/2008/05/theprojeckt-300x262.jpg "theprojeckt")
+![](@images/posts/2008/05/theprojeckt.jpg "theprojeckt")
 
 * Wil je zelf aan de slag met al dat geo-taggen en loggen? Briekske wees me er op dat ze in de carrefour nu een [klein loggerke](http://global.mobileaction.com/product/product_i-gotU_USB.jsp "http://global.mobileaction.com/product/product_i-gotU_USB.jsp") verkopen. Compleet met crappy software er bij om je foto’s te geo-taggen. Maar je kan blijkbaar exporteren naar [GPX](http://en.wikipedia.org/wiki/GPX_%28data_transfer%29 "http://en.wikipedia.org/wiki/GPX_%28data_transfer%29"), das een goeie zaak. Voor een euro of 50 is da zeker. Al blijf ik toch [m’n loggerke](http://www.sparkfun.com/commerce/product_info.php?products_id=8237 "http://www.sparkfun.com/commerce/product_info.php?products_id=8237") verkiezen 😀

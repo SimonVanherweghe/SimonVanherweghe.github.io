@@ -20,3 +20,9 @@ Nee ik kan helemaal geen piano spelen, ik heb gewoon een zwak voor alles wat vee
 [](http://www.donebysimon.be/?attachment_id=333 "kawai 100p 2")
 
 [](http://www.donebysimon.be/?attachment_id=333 "kawai 100p 2")
+
+![](@images/posts/2007/10/p1100085.jpg)
+
+![](@images/posts/2007/10/p1100088.jpg)
+
+![](@images/posts/2007/10/p1100097.jpg)

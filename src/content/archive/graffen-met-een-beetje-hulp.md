@@ -14,3 +14,15 @@ Het deed me een beetje denken aan deze [GraffitiWriter](http://www.appliedautono
 Die gasten van [Random-International](http://random-international.squarespace.com/ "http://random-international.squarespace.com/") zijn trouwens goed bezig. Je moet maar eens rondkijken. Hebben die maffe dingen zeg, de [Sunlight table](http://random-international.squarespace.com/sunlight-table/ "http://random-international.squarespace.com/sunlight-table/") is er maar één van.
 
 Zo, en nu ben ik Ice-T’s gaan kappen in de sala 😀
+
+![](@images/posts/2006/04/rts01.jpg)
+
+![](@images/posts/2006/04/rts02.jpg)
+
+![](@images/posts/2006/04/rts03.jpg)
+
+![](@images/posts/2006/04/rts04.jpg)
+
+![](@images/posts/2006/04/rts05.jpg)
+
+![](@images/posts/2006/04/rts06.jpg)
