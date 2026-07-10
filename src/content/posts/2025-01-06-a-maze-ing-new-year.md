@@ -54,4 +54,4 @@ Happy New Year!
 
 ![The card being plotted](@images/posts/2025/01/plotting.gif)
 
-![](/media/posts/2025/01/stuck.gif)
+![Animation of a maze solver tracing a pink path through the 2025 maze, advancing and backtracking without finding a way out](/media/posts/2025/01/stuck.gif)
