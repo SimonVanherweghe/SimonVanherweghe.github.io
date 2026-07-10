@@ -54,7 +54,7 @@ I wanted to share the solution in some way, so a website was the most logical st
 The URL had to be something short, easy and linked to the project. Terms like 'word' and 'luck' were some keywords I searched for, but I eventually settled with `oploss.in/g` (Dutch for `solut.io/n`, which was already taken)
 The generation of the site was a breeze with Astro, but the domain name kept on failing to resolve. As it turned out, it was listed as 'serverHold'. As for today, this isn't resolved... This really is a bummer, I postponed the sending of the cards for a couple of weeks because of this. Eventually I decided to just to hand them out, or it would be too late.
 
-![The domain in a 'Server hold' status](@images/posts/2024/01/serverhold.png)
+![The domain in a ‘Server hold’ status](@images/posts/2024/01/serverhold.png)
 
 ## Conveyor
 

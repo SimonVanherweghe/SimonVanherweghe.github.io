@@ -7,4 +7,4 @@ tags: []
 ---
 Vanavond vliegen we er in met de Pimps And Bitches, allen naar de sala zou ik zeggen. Vergeet je gouden kettingen, baggy pants en bontjas niet aan te doen. Fo chizzle! En dan ben ik morgen de roadie van Penguins Know Why. Ze spelen in de Vera in Groningen, noord Nederland. Rock!
 
-![](@images/posts/2008/11/pb.jpg)
+![Geel-rode affiche voor Pimps and Bitches, Tha Notorious Crackalack, vrijdag 7 november in Jeugdhuis De Salamander](@images/posts/2008/11/pb.jpg)

@@ -11,4 +11,4 @@ Ik was pizzadeeg aan het maken op het Scheepsmakkerskamp, een pizzabodem van een
 
 ![Pizza](@images/posts/2008/02/pizza.jpg)
 
-![](@images/posts/2008/02/dsc08900.jpg)
+![Een jongen met een pet rolt onder een legertent een groot vel deeg uit met een fles](@images/posts/2008/02/dsc08900.jpg)

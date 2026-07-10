@@ -21,8 +21,8 @@ Nee ik kan helemaal geen piano spelen, ik heb gewoon een zwak voor alles wat vee
 
 [](http://www.donebysimon.be/?attachment_id=333 "kawai 100p 2")
 
-![](@images/posts/2007/10/p1100085.jpg)
+![Het opengemaakte Kawai-orgel met een printplaat rechtop, de toetscontacten en een bos gekleurde draden](@images/posts/2007/10/p1100085.jpg)
 
-![](@images/posts/2007/10/p1100088.jpg)
+![Close-up van een groene printplaat vol weerstanden en condensatoren in rijen](@images/posts/2007/10/p1100088.jpg)
 
-![](@images/posts/2007/10/p1100097.jpg)
+![Detail in het orgel: een metalen plaatje met het opschrift HOKUSEI DENKI, tussen veren en gekleurde bedrading](@images/posts/2007/10/p1100097.jpg)

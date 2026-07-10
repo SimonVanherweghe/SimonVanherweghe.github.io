@@ -15,14 +15,14 @@ Die gasten van [Random-International](http://random-international.squarespace.co
 
 Zo, en nu ben ik Ice-T’s gaan kappen in de sala 😀
 
-![](@images/posts/2006/04/rts01.jpg)
+![Een gespoten stencil van een man met bril en krullend haar op een lichte muur](@images/posts/2006/04/rts01.jpg)
 
-![](@images/posts/2006/04/rts02.jpg)
+![Een vaag stencil van een figuur met een bos haar op een ruwe kiezelmuur, met blauwe verfvlekken](@images/posts/2006/04/rts02.jpg)
 
-![](@images/posts/2006/04/rts03.jpg)
+![Stencil van een figuur met stofbril en muts, met een tekstballon waarin MJAM! staat](@images/posts/2006/04/rts03.jpg)
 
-![](@images/posts/2006/04/rts04.jpg)
+![Muur vol stencils: een gezicht met snor, een groot zwart kruis, de tekst I WILL NOT DRAW AS I AM TOLD en daaronder ARE YOU A LUCKY BASTARD](@images/posts/2006/04/rts04.jpg)
 
-![](@images/posts/2006/04/rts05.jpg)
+![Een witte plaksticker met het logo Tag allemaal op een metalen paal](@images/posts/2006/04/rts05.jpg)
 
-![](@images/posts/2006/04/rts06.jpg)
+![Een rode brievenbus volgeplakt met stickers van straatartiesten, in een winkelstraat](@images/posts/2006/04/rts06.jpg)

@@ -7,4 +7,4 @@ tags: []
 ---
 Vandalisme of goeie reclame? Het is niet echt duidelijk, maar wel nice! \[via Neatorama\]
 
-![](@images/posts/2008/11/kungfupanda.jpg)
+![Een bushokje met een affiche van Kung Fu Panda waarvan de ruit is ingeslagen; het glas ligt in scherven op de stoep](@images/posts/2008/11/kungfupanda.jpg)
