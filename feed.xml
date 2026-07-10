@@ -58,6 +58,7 @@
 &lt;p&gt;The back of the card featured our New Year’s wishes and our names. I reused last year’s script to plot all the addresses on the envelopes.&lt;/p&gt;
 &lt;p&gt;Happy New Year!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://donebysimon.be/_astro/plotting.C6uOwKfc.gif&quot; alt=&quot;The card being plotted&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/posts/2025/01/stuck.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content:encoded></item><item><title>New year&apos;s cards</title><link>https://donebysimon.be/2024/01/12/new-years-cards/</link><guid isPermaLink="true">https://donebysimon.be/2024/01/12/new-years-cards/</guid><description>Personalized New Year&apos;s crosswords cards made with the plotter.</description><pubDate>Fri, 12 Jan 2024 21:00:30 GMT</pubDate><content:encoded>&lt;p&gt;For our new year&apos;s cards, I wanted to make use of my pen plotter. I&apos;ve had that goal since a couple of years, but I never really found a good concept. This year I came up with the idea of a crossword about all those little enjoyable things in life. We would like to wish you a lot of those moments.&lt;/p&gt;
 &lt;p&gt;With the concept clear, Lotte and I began to collect a list of those moments. We quickly found around 15 of them, so I went on and started to focus on the crossword algorithm and the drawing of it.&lt;/p&gt;
 &lt;p&gt;To make use of the plotter, I need vector files. Preferably SVG because they are easily to transform to gcode, the language that a CNC, the plotter can understand.
