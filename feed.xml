@@ -58,7 +58,7 @@
 &lt;p&gt;The back of the card featured our New Year’s wishes and our names. I reused last year’s script to plot all the addresses on the envelopes.&lt;/p&gt;
 &lt;p&gt;Happy New Year!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://donebysimon.be/_astro/plotting.C6uOwKfc.gif&quot; alt=&quot;The card being plotted&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/posts/2025/01/stuck.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/posts/2025/01/stuck.gif&quot; alt=&quot;Animation of a maze solver tracing a pink path through the 2025 maze, advancing and backtracking without finding a way out&quot; /&gt;&lt;/p&gt;
 </content:encoded></item><item><title>New year&apos;s cards</title><link>https://donebysimon.be/2024/01/12/new-years-cards/</link><guid isPermaLink="true">https://donebysimon.be/2024/01/12/new-years-cards/</guid><description>Personalized New Year&apos;s crosswords cards made with the plotter.</description><pubDate>Fri, 12 Jan 2024 21:00:30 GMT</pubDate><content:encoded>&lt;p&gt;For our new year&apos;s cards, I wanted to make use of my pen plotter. I&apos;ve had that goal since a couple of years, but I never really found a good concept. This year I came up with the idea of a crossword about all those little enjoyable things in life. We would like to wish you a lot of those moments.&lt;/p&gt;
 &lt;p&gt;With the concept clear, Lotte and I began to collect a list of those moments. We quickly found around 15 of them, so I went on and started to focus on the crossword algorithm and the drawing of it.&lt;/p&gt;
 &lt;p&gt;To make use of the plotter, I need vector files. Preferably SVG because they are easily to transform to gcode, the language that a CNC, the plotter can understand.
@@ -84,7 +84,7 @@ But then I still had some crosswords with quite empty areas. So I asked GitHub C
 &lt;p&gt;I wanted to share the solution in some way, so a website was the most logical step for me. I provided a solution SVG, created a unique code based on the addressed (which I also use for the file naming)
 The URL had to be something short, easy and linked to the project. Terms like &apos;word&apos; and &apos;luck&apos; were some keywords I searched for, but I eventually settled with &lt;code&gt;oploss.in/g&lt;/code&gt; (Dutch for &lt;code&gt;solut.io/n&lt;/code&gt;, which was already taken)
 The generation of the site was a breeze with Astro, but the domain name kept on failing to resolve. As it turned out, it was listed as &apos;serverHold&apos;. As for today, this isn&apos;t resolved... This really is a bummer, I postponed the sending of the cards for a couple of weeks because of this. Eventually I decided to just to hand them out, or it would be too late.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://donebysimon.be/_astro/serverhold.B3Wg8Mp5_ZCUwjj.webp&quot; alt=&quot;The domain in a &apos;Server hold&apos; status&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://donebysimon.be/_astro/serverhold.B3Wg8Mp5_ZCUwjj.webp&quot; alt=&quot;The domain in a ‘Server hold’ status&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;Conveyor&lt;/h2&gt;
 &lt;p&gt;I made a conveyor belt script that plots the grid, the clues in sequence. Between every step it waits for a key press, so I can switch papers.&lt;/p&gt;
 &lt;p&gt;Since I was already plotting, I decided to also write the addresses on the envelopes with the plotter and include them in the conveyor. Those came out really well.&lt;/p&gt;
