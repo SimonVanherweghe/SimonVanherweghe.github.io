@@ -6,3 +6,5 @@ tags: []
 
 ---
 Op mars zitten er robotjes die wat bodemstalen en zo nemen. Eentje daarvan, de ‘Mars Phoenix’, zit met een platte batterij. Blijkbaar door ouderdom, de zon die nu minder lang schijnt op mars waardoor hij niet genoeg kan opladen, en wat stof en zo. Dat spel zit nu blijbaar in een soort van “low-energy-modus” waarbij \[…\]
+
+![](@images/posts/2008/11/sm_139.jpg)

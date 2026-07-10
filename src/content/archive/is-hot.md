@@ -17,3 +17,5 @@ Weer een hele boel, klaar om het weekend in te duiken of zo…
     Jij wist het al eerder [hier](http://www.donebysimon.be/2007/02/16/sample-shit/ "http://www.donebysimon.be/2007/02/16/sample-shit/")
 * Goeie mixke? [hier](http://www.nalden.net/comments.php?id=886_0_1_0_C "http://www.nalden.net/comments.php?id=886_0_1_0_C") (zot!)
 * En wie het bij het horen van ‘J Dilla’ nu nog hoort donderen checkt beter hier [deel 1](http://lloyd.blogsome.com/2007/02/16/on-point-podcast-on-national-radio-baby-sns-dilla-tribute-mix/ "http://lloyd.blogsome.com/2007/02/16/on-point-podcast-on-national-radio-baby-sns-dilla-tribute-mix/") en [deel 2](http://lloyd.blogsome.com/2007/02/18/on-point-podcast-sns-dilla-mix-part-two/ "http://lloyd.blogsome.com/2007/02/18/on-point-podcast-sns-dilla-mix-part-two/") van nen schone Dilla Tribute
+
+![](@images/posts/2009/02/dilla2.jpg)

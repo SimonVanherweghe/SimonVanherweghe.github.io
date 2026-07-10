@@ -6,3 +6,5 @@ tags: []
 
 ---
 Vandalisme of goeie reclame? Het is niet echt duidelijk, maar wel nice! \[via Neatorama\]
+
+![](@images/posts/2008/11/kungfupanda.jpg)

@@ -53,3 +53,5 @@ The back of the card featured our New Year’s wishes and our names. I reused la
 Happy New Year!
 
 ![The card being plotted](@images/posts/2025/01/plotting.gif)
+
+![](/media/posts/2025/01/stuck.gif)
