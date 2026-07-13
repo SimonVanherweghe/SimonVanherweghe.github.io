@@ -4,7 +4,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import TagsList from "../components/TagsList.astro";
 import ArchiveList from "../components/ArchiveList.astro";
 const allPosts = await getCollection("posts");
-allPosts.reverse();
+allPosts.sort((a, b) => +b.data.date - +a.data.date);
 
 const allTags = [...new Set(allPosts.flatMap((post) => post.data.tags))];
 ---

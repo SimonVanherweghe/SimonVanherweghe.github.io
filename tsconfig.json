@@ -2,6 +2,9 @@
   "extends": "astro/tsconfigs/base",
   "compilerOptions": {
     "strictNullChecks": true,
+    // TypeScript 6 turns this on by default; the .astro components are deliberately
+    // untyped JS-style, so keep the pre-upgrade checking level.
+    "noImplicitAny": false,
     "allowJs": true,
     "baseUrl": ".",
     "paths": {
