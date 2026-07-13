@@ -6,6 +6,11 @@ on:
       - main
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+  # Daily rebuild so freshly received webmentions show up without a push.
+  # Note: GitHub disables scheduled workflows after 60 days without repo activity.
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
 
 # peaceiris/actions-gh-pages pushes the build to the `gh-pages` branch.
 permissions:
@@ -32,8 +37,11 @@ jobs:
       - name: Type check
         run: npm run check
       # The OG image route downloads fonts from api.fontsource.org, so this step needs network.
+      # The token fetches webmentions from webmention.io; the build tolerates it being absent.
       - name: Build website
         run: npm run build
+        env:
+          WEBMENTION_IO_TOKEN: ${{ secrets.WEBMENTION_IO_TOKEN }}
 
       # Popular action to deploy to GitHub Pages:
       - name: Deploy to GitHub Pages

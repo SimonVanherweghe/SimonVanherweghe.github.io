@@ -1,8 +1,10 @@
 ---
+// `me` marks rel="me" identity links used for IndieAuth/Bridgy.
 const links = [
   { label: "Instagram", href: "https://www.instagram.com/donebysimon/", external: true },
-  { label: "GitHub", href: "https://github.com/simonvanherweghe", external: true },
-  { label: "Bluesky", href: "https://bsky.app/profile/donebysimon.be", external: true },
+  { label: "GitHub", href: "https://github.com/simonvanherweghe", external: true, me: true },
+  { label: "Bluesky", href: "https://bsky.app/profile/donebysimon.be", external: true, me: true },
+  { label: "Mastodon", href: "https://mastodon.social/@donebysimon", external: true, me: true },
   { label: "RSS", href: "/feed.xml", external: false },
   { label: "The Archive", href: "/archive", external: false },
 ];
@@ -24,7 +26,12 @@ const links = [
                 <a
                   href={link.href}
                   {...(link.external
-                    ? { target: "_blank", rel: "noopener noreferrer" }
+                    ? {
+                        target: "_blank",
+                        rel: link.me
+                          ? "me noopener noreferrer"
+                          : "noopener noreferrer",
+                      }
                     : {})}
                 >
                   {link.label}
