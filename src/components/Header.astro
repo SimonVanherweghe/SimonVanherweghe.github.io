@@ -1,58 +1,87 @@
-<header>
-  <div>
-    <p class="sitetitle">
-      <a href="/"> DONEBYSIMON</a>
-    </p>
+---
+import ThemeToggle from "./ThemeToggle.astro";
+---
 
-    <nav aria-label="Main">
+<header class="masthead">
+  <div class="masthead__inner">
+    <a class="wordmark" href="/">
+      donebysimon<span class="wordmark__dot" aria-hidden="true">.</span>
+    </a>
+
+    <nav class="mainnav" aria-label="Main">
       <ul>
-        <li>
-          <a href="/blog">Blog</a>
-        </li>
-        <li>
-          <a href="/about">About</a>
-        </li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/about">About</a></li>
       </ul>
+      <ThemeToggle />
     </nav>
   </div>
+  <hr class="masthead__rule" />
 </header>
 
 <style>
-  header {
-    border-bottom: var(--border);
-    padding-bottom: var(--space-s);
-    margin-bottom: var(--space-m);
+  .masthead {
+    padding-inline: var(--space-xs);
   }
 
-  a:any-link {
-    text-decoration: none;
-    color: var(--color-text);
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
-  div {
+  .masthead__inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
+    gap: var(--space-s) var(--space-m);
+    padding-block: var(--space-m) var(--space-s);
+  }
 
-    padding: var(--space-xs);
-    margin: 0 auto;
+  .masthead__rule {
     max-width: var(--max-width);
+    margin: 0 auto;
   }
 
-  .sitetitle {
+  .wordmark {
+    font-family: var(--font-display);
+    font-weight: 800;
     font-size: var(--step-2);
-    font-weight: 400;
-    text-transform: uppercase;
-    margin: var(--space-m) 0;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    color: var(--color-text);
+    text-decoration: none;
+    font-variation-settings: 'opsz' 24;
+  }
+  .wordmark__dot {
+    color: var(--blue);
+  }
+  .wordmark:hover .wordmark__dot {
+    color: var(--ink-soft);
   }
 
-  ul {
+  .mainnav {
     display: flex;
+    align-items: center;
     gap: var(--space-s);
+  }
+
+  .mainnav ul {
+    display: flex;
+    gap: var(--space-xs);
+  }
+
+  .mainnav a {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: var(--step--1);
+    letter-spacing: 0.02em;
+    color: var(--ink-soft);
+    text-decoration: none;
+    padding: var(--space-3xs) var(--space-2xs);
+  }
+  .mainnav a:hover {
+    color: var(--color-text);
+    text-decoration: underline;
+    text-decoration-color: var(--color-spark);
+    text-underline-offset: 0.25em;
+    text-decoration-thickness: 2px;
   }
 </style>

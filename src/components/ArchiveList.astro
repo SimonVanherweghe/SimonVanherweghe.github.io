@@ -24,10 +24,38 @@ const dateOptions = {
 </ul>
 
 <style>
+  .archivelist {
+    max-width: var(--max-width-content);
+  }
+
   li {
     display: grid;
-    grid-template-columns: 15ch auto;
+    grid-template-columns: 12ch auto;
+    gap: var(--space-s);
+    align-items: baseline;
+    padding-block: var(--space-2xs);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  time {
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
     font-variant-numeric: tabular-nums;
-    margin-bottom: var(--space-3xs);
+  }
+
+  .postlist-link {
+    color: var(--color-text);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .postlist-link:hover {
+    color: var(--blue-ink);
+    text-decoration: underline;
+    text-decoration-color: var(--blue);
+    text-underline-offset: 0.2em;
   }
 </style>

@@ -6,24 +6,47 @@ const allPosts = await getCollection("posts");
 allPosts.sort((a, b) => +b.data.date - +a.data.date);
 
 const { frontmatter } = Astro.props;
+const heading = frontmatter?.heading ?? "Things done, by Simon.";
 ---
 
 <BaseLayout frontmatter={frontmatter}>
-  <header>
-    <h1 class="visually-hidden">{frontmatter.title}</h1>
-    <slot />
-  </header>
+  <section class="hero" aria-labelledby="hero-title">
+    <h1 class="hero__title" id="hero-title">{heading}</h1>
+  </section>
 
-  <section class="home">
-    <h2 class="visually-hidden">Recent stuff</h2>
+  <section class="index" aria-label="All posts">
+    <hr class="index__rule" />
     <PostsList posts={allPosts} />
   </section>
 </BaseLayout>
 
 <style>
-  header {
+  .hero {
+    background: var(--blue);
+    color: var(--on-blue);
+    padding: var(--space-xl) var(--space-l);
+    margin-block: var(--space-xs) var(--space-xl);
+    animation: hero-in var(--dur-slow) var(--ease-out-quint) both;
+  }
+
+  .hero__title {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: var(--step-6);
+    line-height: 0.94;
+    letter-spacing: -0.035em;
+    max-width: 15ch;
+    color: var(--on-blue);
+    margin: 0;
+    font-variation-settings: 'opsz' 48;
+  }
+
+  .index__rule {
     margin-bottom: var(--space-xl);
-    font-size: var(--step-2);
-    font-weight: 400;
+  }
+
+  @keyframes hero-in {
+    from { opacity: 0; transform: translateY(12px); }
+    to   { opacity: 1; transform: translateY(0); }
   }
 </style>
