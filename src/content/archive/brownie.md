@@ -5,13 +5,13 @@ permalink: "2006/08/28/brownie/"
 tags: []
 
 ---
-Neen geen koekies, maar een kodak, een [Brownie](http://members.home.nl/brownies/ "http://members.home.nl/brownies/") Junior Six-16. Het maffe hieraan zijn de 2 “kijkgaatjes” eentje voor als je hem rechtop zet, en eentje voor als ie plat ligt. Door middel van een spiegeltje krijg je het beeld op een melkglasplaatje te zien. Ik had al iets in dienen aard, maar zonder die kijkgaatjes dan.
+Neen geen koekies, maar een kodak, een [Brownie](http://members.home.nl/brownies/) Junior Six-16. Het maffe hieraan zijn de 2 “kijkgaatjes” eentje voor als je hem rechtop zet, en eentje voor als ie plat ligt. Door middel van een spiegeltje krijg je het beeld op een melkglasplaatje te zien. Ik had al iets in dienen aard, maar zonder die kijkgaatjes dan.
 
 ![brownie](@images/posts/2006/08/P1030698.jpg)
 
 ![kijkgaatje](@images/posts/2006/08/P1030694.jpg)
 
-Vadre had er eentje zien liggen op een rommelmarkt en die meegedaan voor 2 euro. Helaas heeft de vorige eigenaar het ding vreselijk mishandeld. Had die nu eventjes de moeite gedaan om te zoeken op “Kodak Brownie manual” dan had hij zeker en vast deze [schitterende oldskool handleiding](http://www.brownie-camera.com/manuals/six20andsix16bjunior/index.shtml "http://www.brownie-camera.com/manuals/six20andsix16bjunior/index.shtml")[(pdf)](http://www.brownie-camera.com/manuals/six20andsix16bjunior.pdf "http://www.brownie-camera.com/manuals/six20andsix16bjunior.pdf") gevonden en gezien dat je simpelweg het doordraai hendelke moet uittrekken om het ding uit elkaar te schuiven. Nu heeft hij waarschijnlijk met een schroevendraaier de voorkant getracht open te krijgen. Met resultaat dat het sluitersmechanisme een beetje ferm heeft afgezien. Maar ik krijg het wel weer goed.
+Vadre had er eentje zien liggen op een rommelmarkt en die meegedaan voor 2 euro. Helaas heeft de vorige eigenaar het ding vreselijk mishandeld. Had die nu eventjes de moeite gedaan om te zoeken op “Kodak Brownie manual” dan had hij zeker en vast deze [schitterende oldskool handleiding](http://www.brownie-camera.com/manuals/six20andsix16bjunior/index.shtml)[(pdf)](http://www.brownie-camera.com/manuals/six20andsix16bjunior.pdf) gevonden en gezien dat je simpelweg het doordraai hendelke moet uittrekken om het ding uit elkaar te schuiven. Nu heeft hij waarschijnlijk met een schroevendraaier de voorkant getracht open te krijgen. Met resultaat dat het sluitersmechanisme een beetje ferm heeft afgezien. Maar ik krijg het wel weer goed.
 
 ![open](@images/posts/2006/08/P1030707.jpg)
 

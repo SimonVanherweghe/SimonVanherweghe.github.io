@@ -5,9 +5,9 @@ permalink: "2008/06/08/afgekuist-of-voorzet-gekregen/"
 tags: []
 
 ---
-Wie er bij was van in den beginne zal zich mss wel m’n [eerste echte circuit-bend](http://www.donebysimon.be/2006/05/06/yamaha-rx17-circuit-bend/ "http://www.donebysimon.be/2006/05/06/yamaha-rx17-circuit-bend/") herinneren.
+Wie er bij was van in den beginne zal zich mss wel m’n [eerste echte circuit-bend](http://www.donebysimon.be/2006/05/06/yamaha-rx17-circuit-bend/) herinneren.
 
-Nu staat het volgende op [GetLoFI.com](http://www.getlofi.com/?p=1090 "http://www.getlofi.com/?p=1090")
+Nu staat het volgende op [GetLoFI.com](http://www.getlofi.com/?p=1090)
 
 ![ymh_rx17_circuitbending-1](@images/posts/2008/06/ymh_rx17_circuitbending-1.jpg)
 

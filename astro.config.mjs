@@ -1,11 +1,15 @@
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
-import { rehypeAccessibleEmojis } from "rehype-accessible-emojis";
+import { satteri } from "@astrojs/markdown-satteri";
+import { accessibleEmojis } from "./src/lib/satteri-accessible-emojis.mjs";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://donebysimon.be",
   integrations: [sitemap()],
+  // Astro 7's 'jsx' default strips the space between adjacent inline elements; the
+  // templates rely on inline links inside prose, so keep the HTML-aware compression.
+  compressHTML: true,
   // Generates srcset/sizes for <Image> and for markdown images alike.
   image: {
     layout: "constrained",
@@ -15,6 +19,8 @@ export default defineConfig({
     breakpoints: [480, 720, 960, 1280, 1600],
   },
   markdown: {
-    rehypePlugins: [rehypeAccessibleEmojis],
+    processor: satteri({
+      hastPlugins: [accessibleEmojis()],
+    }),
   },
 });

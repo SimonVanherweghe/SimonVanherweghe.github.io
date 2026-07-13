@@ -7,4 +7,4 @@ tags: []
 ---
 Mocht je het nog niet weten: nu vrijdag Rafiki avond!
 
-[![uitnodiging](@images/posts/2007/11/uitnodiging.jpg)](http://www.zeescoutsjanbart.be/2007/11/15/rafiki-avond/ "http://www.zeescoutsjanbart.be/2007/11/15/rafiki-avond/")
+[![uitnodiging](@images/posts/2007/11/uitnodiging.jpg)](http://www.zeescoutsjanbart.be/2007/11/15/rafiki-avond/)

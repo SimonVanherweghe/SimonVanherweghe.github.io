@@ -5,7 +5,7 @@ permalink: "2006/04/14/sms-voor-batman/"
 tags: []
 
 ---
-Een soort draagbare beamer voor een gsm. Met een lichtbron, gsm en een lens maakten de gasten van [Troikart](http://www.troika.uk.com/troikart%20index.htm "http://www.troika.uk.com/troikart%20index.htm") de [SMS Guerrilla Projector.](http://www.troika.uk.com/sms-guerrilla-projector.htm "http://www.troika.uk.com/sms-guerrilla-projector.htm")
+Een soort draagbare beamer voor een gsm. Met een lichtbron, gsm en een lens maakten de gasten van [Troikart](http://www.troika.uk.com/troikart%20index.htm) de [SMS Guerrilla Projector.](http://www.troika.uk.com/sms-guerrilla-projector.htm)
 
 ![smsgun](@images/posts/2006/04/what-are-you-waiting-for.jpg)
 

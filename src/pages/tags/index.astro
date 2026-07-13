@@ -4,6 +4,9 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 
 const posts = await getCollection("posts");
+// Tags appear in the order of their first (oldest) tagged post; the loader
+// doesn't guarantee entry order, so sort explicitly.
+posts.sort((a, b) => +a.data.date - +b.data.date);
 
 const tags = [...new Set(posts.flatMap((post) => post.data.tags))];
 ---

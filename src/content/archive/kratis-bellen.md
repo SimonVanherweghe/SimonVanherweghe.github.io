@@ -7,4 +7,4 @@ tags: []
 ---
 Werkt da bij iemand? Ziet er weer wreed cool uit, maar ik krijg geen verbinding…
 
-[https://www.gizmocall.com/](https://www.gizmocall.com/ "https://www.gizmocall.com/")
+[https://www.gizmocall.com/](https://www.gizmocall.com/)

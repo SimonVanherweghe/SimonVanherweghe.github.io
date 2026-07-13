@@ -8,7 +8,7 @@ tags: []
 Je kan een Google Docs/Drive spreadsheet publiceren als rss feed via ‘bestand’ -> ‘publiceren op internet’ en dan voor RSS kiezen.
 
 Lijkt handig, maar in de praktijk maakt Google hier een feed van met per rij 2 items: een titel en een description.  
-Dit staat ook zo in de [docs](https://developers.google.com/google-apps/spreadsheets/#working_with_list-based_feeds "https://developers.google.com/google-apps/spreadsheets/#working_with_list-based_feeds"):
+Dit staat ook zo in de [docs](https://developers.google.com/google-apps/spreadsheets/#working_with_list-based_feeds):
 
 > Each entry represents a row in the worksheet. The `title` element contains the contents of the first cell in the row, and the `content` element contains a textual representation of the data from all the other cells in the row.
 

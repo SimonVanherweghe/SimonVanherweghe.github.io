@@ -7,4 +7,4 @@ tags: []
 ---
 Donderdag afstemmen op Koppen!
 
-**update**: we staan [op de website](http://www.een.be/televisie1_master/programmas/e_kopp_r2008_a045_item2/index.shtml "http://www.een.be/televisie1_master/programmas/e_kopp_r2008_a045_item2/index.shtml") man!
+**update**: we staan [op de website](http://www.een.be/televisie1_master/programmas/e_kopp_r2008_a045_item2/index.shtml) man!

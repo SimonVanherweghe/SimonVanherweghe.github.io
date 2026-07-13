@@ -9,4 +9,4 @@ De nieuwe videoclip van Radiohead ‘House of Cards’ al gezien? Er kwam geen e
 
 \[youtube\]<http://www.youtube.com/watch?v=8nTFjVm9sTQ\[/youtube\>]
 
-Alle verdere info is te vinden op [http://code.google.com/creative/radiohead/](http://code.google.com/creative/radiohead/ "http://code.google.com/creative/radiohead/") Jup, dat is google code inderdaad. Het leuke is namelijk dat de broncode publiek beschikbaar is. Elke frame is een bestand waarin elk puntje beschreven staat \[…\]
+Alle verdere info is te vinden op [http://code.google.com/creative/radiohead/](http://code.google.com/creative/radiohead/) Jup, dat is google code inderdaad. Het leuke is namelijk dat de broncode publiek beschikbaar is. Elke frame is een bestand waarin elk puntje beschreven staat \[…\]

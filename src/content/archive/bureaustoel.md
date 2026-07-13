@@ -9,4 +9,4 @@ Iedere deftige studio heeft wel zo een ferme leren bureaustoel staan. Dit mocht 
 
 ![Bureaustoel](@images/posts/2008/06/stoel.jpg)
 
-Zo, en nu ben ik gaan tukken, dat ik morgen fris ben voor onze [teambuilding](http://teambuildingec.blogspot.com/ "http://teambuildingec.blogspot.com/") 😀
+Zo, en nu ben ik gaan tukken, dat ik morgen fris ben voor onze [teambuilding](http://teambuildingec.blogspot.com/) 😀

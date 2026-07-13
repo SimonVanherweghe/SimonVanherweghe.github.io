@@ -5,7 +5,7 @@ permalink: "2006/05/06/yamaha-rx17-circuit-bend/"
 tags: []
 
 ---
-Via e-bay heb ik een drumpcomputer gekocht, een yamaha RX17. Goede marchandise dat wel, maar het geluid mocht wel wat voller/vetter. Daar ik nu toch helemaal into circuitbenden ben, besloot ik maar om em eens onder handen te nemen. Ik dacht aanvankelijk om wat potetiometers en zo er op te zetten, maar toen kwam ik op de webstek van [anoderecords](http://www.anoderecords.com/machines/rx17mods.html "http://www.anoderecords.com/machines/rx17mods.html"). Bleek dat er ietske meer mogelijk was…
+Via e-bay heb ik een drumpcomputer gekocht, een yamaha RX17. Goede marchandise dat wel, maar het geluid mocht wel wat voller/vetter. Daar ik nu toch helemaal into circuitbenden ben, besloot ik maar om em eens onder handen te nemen. Ik dacht aanvankelijk om wat potetiometers en zo er op te zetten, maar toen kwam ik op de webstek van [anoderecords](http://www.anoderecords.com/machines/rx17mods.html). Bleek dat er ietske meer mogelijk was…
 
 ![klaar](@images/posts/2006/05/klaar.jpg)
 
@@ -13,7 +13,7 @@ Dit is wat het uiteindelijk geworden is. Een heuse patch-bay. Het onderste deel 
 
 ![los](@images/posts/2006/05/los.jpg)
 
-Wat ik er nu precies mee kan doen? Bekijk het [filmpje](http://www.donebysimon.be/download/video/rx17dbs.mov "http://www.donebysimon.be/download/video/rx17dbs.mov"). (3,1 MB .mov) Ik laat telkens een standaard song afspelen. Om te begrijpen hoe alles in zijn werk gaat en hoe ik de boel in elkaar stak lees je gewoon verder.Bon, ik moest hem natuurlijk eerst openvijzen, de binnenkant ziet er zo uit:
+Wat ik er nu precies mee kan doen? Bekijk het [filmpje](http://www.donebysimon.be/download/video/rx17dbs.mov). (3,1 MB .mov) Ik laat telkens een standaard song afspelen. Om te begrijpen hoe alles in zijn werk gaat en hoe ik de boel in elkaar stak lees je gewoon verder.Bon, ik moest hem natuurlijk eerst openvijzen, de binnenkant ziet er zo uit:
 
 ![origineel](@images/posts/2006/05/orig.jpg)
 

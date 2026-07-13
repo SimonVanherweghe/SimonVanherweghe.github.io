@@ -9,4 +9,4 @@ Zaterdag 24 juni is er in de Keet ‘Skrabbelzee’, de vervanger van Rammelzee.
 
 ![Skrabbelzee](@images/posts/2006/06/skrabbelzee_small.jpg)
 
-Praiter en Daan (aka [DollPopp](http://www.dollpopp.be/ "http://www.dollpopp.be/")) zullen alvast de boel doen rocken, ik draai als Kompost Meister ook mijn ding in elkaar. Komt dat zien!
+Praiter en Daan (aka [DollPopp](http://www.dollpopp.be/)) zullen alvast de boel doen rocken, ik draai als Kompost Meister ook mijn ding in elkaar. Komt dat zien!

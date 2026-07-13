@@ -9,4 +9,4 @@ Mijn laptop heeft het dus begeven en voor 460 euro herstellingskosten pas ik lie
 
 ![externe hd](@images/posts/2006/10/externehd.jpg)
 
-Als ik je meedeel dat ik morgen met mijn moeder en twee van haar vriendinnen naar Brussel ga, is dat vast niet goed voor mijn street-credibility. But who cares, zo effe een concertje van [Gotan Project](http://www.gotanproject.com/ "http://www.gotanproject.com/") mag je gewoon niet missen toch?
+Als ik je meedeel dat ik morgen met mijn moeder en twee van haar vriendinnen naar Brussel ga, is dat vast niet goed voor mijn street-credibility. But who cares, zo effe een concertje van [Gotan Project](http://www.gotanproject.com/) mag je gewoon niet missen toch?

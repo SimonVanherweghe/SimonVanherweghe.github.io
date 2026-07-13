@@ -11,4 +11,4 @@ Plots ging het goed mis, ik was er eventjes niet goed van. Gelukkig is het allem
 
 _noot: blijkbaar is een wmv filmpje niet ideaal om hier te posten. Als je niks ziet bewegen, klik er dan eens op en geef een mep op je spatiebalk…_
 
-Check [de sporza pagina](http://www.sporza.be/cm/sporza.be/wielrennen/ProTour/fietserke%2BProTour/1.326592# "http://www.sporza.be/cm/sporza.be/wielrennen/ProTour/fietserke%2BProTour/1.326592#") voor meer info.
+Check [de sporza pagina](http://www.sporza.be/cm/sporza.be/wielrennen/ProTour/fietserke%2BProTour/1.326592#) voor meer info.

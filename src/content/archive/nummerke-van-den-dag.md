@@ -9,4 +9,4 @@ Iederen dag koop ik een nummerke via de iTunes store. Omdat het een mooike is, o
 
 Hier gaan we:  
 Ik heb dit nummerke ooit eens gehoord in een machtige documentaire over een of ander gratis concert bij nen boer waar de Stones optraden. Heeft een heel ende door mijn hoofd zitten spoken, en gistern weer…  
-001: [Under My Thumb – The Rolling Stones – Still Life – American Concert 1981 – Rock](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=17642520&s=143446&i=17642472 "http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=17642520&s=143446&i=17642472")
+001: [Under My Thumb – The Rolling Stones – Still Life – American Concert 1981 – Rock](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=17642520&s=143446&i=17642472)

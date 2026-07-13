@@ -11,4 +11,4 @@ De échte iPhone is nog straffer dan wat we verlangden. Mannekes, wat voor een b
 Komt hier uit in het vierde kwartaal, en met een prijskaartje van 599 voor de 8gb versie is sparen doenbaar é 😀
 
 De iPhone is hot news voor de moment, je zal wel de nodige info kunnen vinden.  
-Anders kan je [hier foto’s bekijken](http://gizmodo.com/gadgets/macworld2007/exclusive-apple-iphone-360-degree-gallery-50-photos-of-the-jesus-phone-227486.php "http://gizmodo.com/gadgets/macworld2007/exclusive-apple-iphone-360-degree-gallery-50-photos-of-the-jesus-phone-227486.php"), [bij apple zelf wat checken](http://www.apple.com/iphone/ "http://www.apple.com/iphone/") of [de keynote bekijken](http://www.apple.com/iphone/keynote/ "http://www.apple.com/iphone/keynote/") (ne keer dat de server het aankan toch…)
+Anders kan je [hier foto’s bekijken](http://gizmodo.com/gadgets/macworld2007/exclusive-apple-iphone-360-degree-gallery-50-photos-of-the-jesus-phone-227486.php), [bij apple zelf wat checken](http://www.apple.com/iphone/) of [de keynote bekijken](http://www.apple.com/iphone/keynote/) (ne keer dat de server het aankan toch…)

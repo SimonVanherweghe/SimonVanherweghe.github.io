@@ -9,7 +9,7 @@ Gisteren het Cactusfestival in Brugge gedaan. Met Gnarls Barkley op het programm
 
 En wat een vet optreden was dat zeg! Een bom van energie! Cee-lo is echt ne zotten. Iedereen op het podium smeet em helemaal, er stond eigenlijk nooit iemand stil. Als de strijkers eens eventjes niks te doen hadden waren er telkens silly danskes voorzien. En dit alles sloeg zeker over op het publiek.
 
-[![Cee-Lo](http://www.antoncoene.be/cactusfestival/dag2/7/8.jpg "Cee-Lo")](http://www.antoncoene.be/cactusfestival/dag2/7/index.html "http://www.antoncoene.be/cactusfestival/dag2/7/index.html") \[foto: [Anton Coene](http://www.antoncoene.be/cactusfestival/dag2/7/index.html "http://www.antoncoene.be/cactusfestival/dag2/7/index.html")\]
+[![Cee-Lo](http://www.antoncoene.be/cactusfestival/dag2/7/8.jpg "Cee-Lo")](http://www.antoncoene.be/cactusfestival/dag2/7/index.html) \[foto: [Anton Coene](http://www.antoncoene.be/cactusfestival/dag2/7/index.html)\]
 
 Deze keer waren ze in een judo/karate outfit. Cee-lo en Dangermouse in het rood, de rest van de live groep in het wit. Dangermouse zat trug achter een resem synths. Best wel leuk om dat gesampelde werk eens live te horen.
 

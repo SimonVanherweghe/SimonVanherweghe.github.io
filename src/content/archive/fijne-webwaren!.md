@@ -27,8 +27,8 @@ Op de vraag: Wat is er eigenlijk gebeurd?
 * Blijkbaar had ik de backup overschreven met de blog van de scouts, merde
 * Nog een paar keer gepolst bij m’n vorige host, helaas, die konden me ook geen backup van de database bezorgen.
 * Eigenlijk is dat wel jammer, al die gegenereerde content, zo maar weg?
-* Bleek dat er nog redelijk wat terug te vinden is op [The Wayback Machine](http://web.archive.org/web/20061130201527/http://www.donebysimon.be/ "http://web.archive.org/web/20061130201527/http://www.donebysimon.be/") Ik vermoed dat ik hiermee 70% kan recoveren.
-* [](http://web.archive.org/web/20061130201527/http://www.donebysimon.be/ "http://web.archive.org/web/20061130201527/http://www.donebysimon.be/")Copy-pasten dan maar…
+* Bleek dat er nog redelijk wat terug te vinden is op [The Wayback Machine](http://web.archive.org/web/20061130201527/http://www.donebysimon.be/) Ik vermoed dat ik hiermee 70% kan recoveren.
+* [](http://web.archive.org/web/20061130201527/http://www.donebysimon.be/)Copy-pasten dan maar…
 * Voor de een of andere reden waren er geen items meer te bespeuren na juni 2008…
-* Na wat googlen bleek dat ik als [een bron op nieuws.be](http://www.nieuws.be/bron/donebysimon.aspx "http://www.nieuws.be/bron/donebysimon.aspx") aanzien was.
+* Na wat googlen bleek dat ik als [een bron op nieuws.be](http://www.nieuws.be/bron/donebysimon.aspx) aanzien was.
 * Slechts een korte inleiding op de artikels, maar enfin, het is al iets. Merci [Nieuws.be](http://www.nieuws.be "www.nieuws.be")

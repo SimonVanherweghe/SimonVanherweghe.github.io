@@ -6,6 +6,6 @@ tags: []
 
 ---
 En meer van die prachtige woordspelingen op: [litenatuurtjes.net  
-](http://www.litenatuurtjes.net/ "http://www.litenatuurtjes.net/")
+](http://www.litenatuurtjes.net/)
 
 Staat her en der rond de kulak, en is fantastisch voor de literaire bioloog. Alhoewel ik verre van één van beiden ben, zijn ze voor mij echt prachtig.

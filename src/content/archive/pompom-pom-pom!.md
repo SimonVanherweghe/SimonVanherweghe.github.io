@@ -14,5 +14,5 @@ Net terug van Danças Ocultas, en twas weer de moeite zenne. Al moet ik zeggen d
 En oew ik moet oppassen, was ik zowaar vergeten nen tune te posten gisteren…  
 Dan maar terug twee.  
 Fanfare Ciocarlia, wat kan ik zeggen, feestfanfare op zijn best, Pompom-pom-pom!  
-007 [Sandala – Fanfare Ciocarlia – Gili Garabdi](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=68776808&s=143446&i=68776294 "http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=68776808&s=143446&i=68776294")  
-008 [Hurichestra – Fanfare Ciocarlia – Iag Bari](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=75762883&s=143446&i=75762793 "http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=75762883&s=143446&i=75762793")
+007 [Sandala – Fanfare Ciocarlia – Gili Garabdi](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=68776808&s=143446&i=68776294)  
+008 [Hurichestra – Fanfare Ciocarlia – Iag Bari](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=75762883&s=143446&i=75762793)
