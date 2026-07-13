@@ -57,8 +57,10 @@ function authorName(mention) {
 }
 ---
 
-<section class="webmentions">
-  <h2>Reactions</h2>
+{
+  faces.length + replies.length > 0 && (
+    <section class="webmentions">
+      <h2>Reactions</h2>
 
   {
     faces.length > 0 && (
@@ -139,13 +141,15 @@ function authorName(mention) {
     )
   }
 
-  <p class="invite">
-    Liked this? Reply on
-    <a href="https://bsky.app/profile/donebysimon.be">Bluesky</a> or
-    <a href="https://mastodon.social/@donebysimon">Mastodon</a>, or send a
-    webmention from your own site.
-  </p>
-</section>
+      <p class="invite">
+        Liked this? Reply on
+        <a href="https://bsky.app/profile/donebysimon.be">Bluesky</a> or
+        <a href="https://mastodon.social/@donebysimon">Mastodon</a>, or send a
+        webmention from your own site.
+      </p>
+    </section>
+  )
+}
 
 <style>
   .webmentions {
