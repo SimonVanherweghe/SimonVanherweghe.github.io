@@ -1,0 +1,251 @@
+---
+import sanitizeHtml from "sanitize-html";
+import {
+  getWebmentionsForUrl,
+  mentionDate,
+  sourceNetwork,
+} from "../lib/webmentions.js";
+
+const { url } = Astro.props;
+const mentions = await getWebmentionsForUrl(url);
+
+const likes = mentions.filter((m) => m["wm-property"] === "like-of");
+const reposts = mentions.filter((m) => m["wm-property"] === "repost-of");
+const replies = mentions
+  .filter((m) =>
+    ["in-reply-to", "mention-of", "bookmark-of"].includes(m["wm-property"]),
+  )
+  .sort((a, b) => +mentionDate(a) - +mentionDate(b));
+
+const faces = [...likes, ...reposts];
+
+const counts = [
+  likes.length && `${likes.length} ${likes.length === 1 ? "like" : "likes"}`,
+  reposts.length &&
+    `${reposts.length} ${reposts.length === 1 ? "repost" : "reposts"}`,
+]
+  .filter(Boolean)
+  .join(" · ");
+
+const MAX_CHARS = 500;
+
+// Bluesky replies via Bridgy often carry only content.text; only the html
+// branch goes through set:html, and always sanitized.
+function replyBody(mention) {
+  const content = mention.content;
+  if (!content) return null;
+  const text = content.text ?? "";
+  if (!content.html || text.length > MAX_CHARS) {
+    return {
+      text:
+        text.length > MAX_CHARS ? `${text.slice(0, MAX_CHARS).trimEnd()}…` : text,
+    };
+  }
+  return {
+    html: sanitizeHtml(content.html, {
+      allowedTags: ["a", "p", "em", "strong", "br", "code", "blockquote"],
+      allowedAttributes: { a: ["href"] },
+      transformTags: {
+        a: sanitizeHtml.simpleTransform("a", { rel: "nofollow noopener" }),
+      },
+    }),
+  };
+}
+
+function authorName(mention) {
+  return mention.author?.name || "Someone";
+}
+---
+
+<section class="webmentions">
+  <h2>Reactions</h2>
+
+  {
+    faces.length > 0 && (
+      <div class="facepile">
+        <ul>
+          {faces.map((m) => (
+            <li>
+              <a href={m.author?.url || m.url} title={authorName(m)}>
+                {m.author?.photo ? (
+                  <img
+                    src={m.author.photo}
+                    alt={authorName(m)}
+                    width="48"
+                    height="48"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                ) : (
+                  <span class="avatar-fallback" aria-hidden="true">
+                    {authorName(m).charAt(0)}
+                  </span>
+                )}
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p class="counts">{counts}</p>
+      </div>
+    )
+  }
+
+  {
+    replies.length > 0 && (
+      <ol class="replies">
+        {replies.map((m) => {
+          const body = replyBody(m);
+          const date = mentionDate(m);
+          return (
+            <li>
+              <article>
+                <header>
+                  {m.author?.photo && (
+                    <img
+                      src={m.author.photo}
+                      alt=""
+                      width="32"
+                      height="32"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  )}
+                  <a href={m.author?.url || m.url}>{authorName(m)}</a>
+                  <span class="meta">
+                    via {sourceNetwork(m)} ·{" "}
+                    <time datetime={date.toISOString()}>
+                      {date.toLocaleDateString("nl-BE")}
+                    </time>
+                  </span>
+                </header>
+                {body?.html ? (
+                  <div class="reply-content" set:html={body.html} />
+                ) : body?.text ? (
+                  <div class="reply-content">
+                    <p>{body.text}</p>
+                  </div>
+                ) : (
+                  <div class="reply-content">
+                    <p>
+                      <a href={m.url}>mentioned this</a>
+                    </p>
+                  </div>
+                )}
+              </article>
+            </li>
+          );
+        })}
+      </ol>
+    )
+  }
+
+  <p class="invite">
+    Liked this? Reply on
+    <a href="https://bsky.app/profile/donebysimon.be">Bluesky</a> or
+    <a href="https://mastodon.social/@donebysimon">Mastodon</a>, or send a
+    webmention from your own site.
+  </p>
+</section>
+
+<style>
+  .webmentions {
+    max-width: var(--max-width-content);
+    margin: 0 auto;
+    padding: var(--space-l) 0 var(--space-xl);
+
+    border-bottom: var(--border);
+  }
+
+  h2 {
+    font-size: var(--step-1);
+    font-weight: 400;
+    margin-bottom: var(--space-s);
+  }
+
+  .facepile {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    gap: var(--space-2xs) var(--space-s);
+    margin-bottom: var(--space-m);
+  }
+
+  .facepile ul {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .facepile li:not(:first-child) {
+    margin-left: -0.5rem;
+  }
+
+  .facepile img,
+  .avatar-fallback {
+    display: block;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    border: 2px solid var(--color-bg);
+    object-fit: cover;
+    background-color: var(--color-mid);
+  }
+
+  .avatar-fallback {
+    display: grid;
+    place-items: center;
+    color: var(--color-bg);
+    text-transform: uppercase;
+  }
+
+  .counts {
+    font-size: var(--step--1);
+    color: var(--color-grey);
+  }
+
+  .replies {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-m);
+  }
+
+  .replies li + li {
+    margin-top: var(--space-s);
+  }
+
+  .replies header {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    gap: var(--space-2xs);
+    margin-bottom: var(--space-3xs);
+  }
+
+  .replies header img {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    object-fit: cover;
+    background-color: var(--color-mid);
+  }
+
+  .meta {
+    font-size: var(--step--1);
+    color: var(--color-grey);
+  }
+
+  .reply-content {
+    font-size: var(--step--1);
+  }
+
+  .reply-content :global(p + p) {
+    margin-top: var(--space-3xs);
+  }
+
+  .invite {
+    font-size: var(--step--1);
+    color: var(--color-grey);
+  }
+</style>

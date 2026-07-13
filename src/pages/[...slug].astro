@@ -4,6 +4,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import TagsList from "../components/TagsList.astro";
 import Metadata from "../components/Metadata.astro";
 import PreviewImage from "../components/PreviewImage.astro";
+import Webmentions from "../components/Webmentions.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection("posts");
@@ -49,15 +50,25 @@ const previewAlt =
     publishedTime={post.data.date.toISOString()}
     type="article"
   />
-  <article class="post">
+  <article class="post h-entry">
     <header>
       <TagsList tags={post.data.tags} />
-      <h1 class="title">{post.data.title}</h1>
-      {post.data.description && <p class="desc">{post.data.description}</p>}
+      <h1 class="title p-name">{post.data.title}</h1>
+      {
+        post.data.description && (
+          <p class="desc p-summary">{post.data.description}</p>
+        )
+      }
       <div class="details">
-        <time datetime={post.data.date.toISOString()}>
-          {post.data.date.toLocaleDateString("nl-BE")}
-        </time>
+        <a class="u-url" href={Astro.url}>
+          <time class="dt-published" datetime={post.data.date.toISOString()}>
+            {post.data.date.toLocaleDateString("nl-BE")}
+          </time>
+        </a>
+        —
+        <a class="p-author h-card" href="https://donebysimon.be/" rel="author">
+          Simon Vanherweghe
+        </a>
       </div>
     </header>
     {
@@ -71,9 +82,15 @@ const previewAlt =
       )
     }
 
-    <div class="markdown">
+    <div class="markdown e-content">
       <Content />
     </div>
+
+    {
+      post.collection === "posts" && (
+        <Webmentions url={new URL(`/${post.data.permalink}`, Astro.site).href} />
+      )
+    }
 
     <aside>
       <nav class="pagination">
@@ -136,6 +153,10 @@ const previewAlt =
       text-transform: uppercase;
       color: var(--ink-faint);
       margin-bottom: var(--space-s);
+    }
+
+    .details a:any-link {
+      color: inherit;
     }
 
     aside {
