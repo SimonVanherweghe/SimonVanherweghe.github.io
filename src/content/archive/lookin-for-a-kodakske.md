@@ -10,4 +10,4 @@ Er staan elke week digitale camera’s in die prijscategorie in de reclamefolder
 
 Iemand een idee of voorstel?
 
-Ik zou het liefst voor nen nieuwen gaan, alhoewel je met 2dehandse toestanden leuke dingen kan tegenkomen. Zou Briekske zijn 2dehands kodakske van dé Michiel Hendryckx geweest zijn? Zie bij [Owner Name](http://www.flickr.com/photo_exif.gne?id=2081908878 "http://www.flickr.com/photo_exif.gne?id=2081908878"), zoalig!
+Ik zou het liefst voor nen nieuwen gaan, alhoewel je met 2dehandse toestanden leuke dingen kan tegenkomen. Zou Briekske zijn 2dehands kodakske van dé Michiel Hendryckx geweest zijn? Zie bij [Owner Name](http://www.flickr.com/photo_exif.gne?id=2081908878), zoalig!

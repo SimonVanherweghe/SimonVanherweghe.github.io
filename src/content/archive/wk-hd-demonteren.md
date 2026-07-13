@@ -9,6 +9,6 @@ Gisteren met Briekske de nieuwe scouts pc in elkaar gestoken, uit een heleboel o
 
 ![HD speakers](@images/posts/2006/11/hdspeakers.jpg)
 
-Dan maar getraind voor het wereldkampioenschap harde schijven demonteren. Een bezigheid die ik al van kleins af niet kan weerstaan. En je kan daar precies nog leuke dingen mee doen. Check maar eens [het filmpje van mijn HD-speakers](http://www.donebysimon.be/download/video/hdspeaker.mov "http://www.donebysimon.be/download/video/hdspeaker.mov"), en ze zien er nog slick uit ook.
+Dan maar getraind voor het wereldkampioenschap harde schijven demonteren. Een bezigheid die ik al van kleins af niet kan weerstaan. En je kan daar precies nog leuke dingen mee doen. Check maar eens [het filmpje van mijn HD-speakers](http://www.donebysimon.be/download/video/hdspeaker.mov), en ze zien er nog slick uit ook.
 
-Deze 3 hangen gewoon in serie aan elkaar, gewoon 2 draadjes (die dan naar een koptelefoon uitgang gaan of zo) solderen op die koppen en huspakee! Niet mijn idee trouwens, [komt van hier](http://www.afrotechmods.com/cheap/hdspeakers/hdspeakers.htm "http://www.afrotechmods.com/cheap/hdspeakers/hdspeakers.htm")
+Deze 3 hangen gewoon in serie aan elkaar, gewoon 2 draadjes (die dan naar een koptelefoon uitgang gaan of zo) solderen op die koppen en huspakee! Niet mijn idee trouwens, [komt van hier](http://www.afrotechmods.com/cheap/hdspeakers/hdspeakers.htm)

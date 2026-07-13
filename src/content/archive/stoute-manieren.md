@@ -7,7 +7,7 @@ tags: []
 ---
 Bwa neen é, vergelijk het met een glas onder de kraan te houden ipv alles weg te laten lopen…
 
-* Installeer eerst [Charles](http://www.xk72.com/charles/ "http://www.xk72.com/charles/") of iets dergelijks, een programma waarmee je het verkeer van je browser kan loggen.
+* Installeer eerst [Charles](http://www.xk72.com/charles/) of iets dergelijks, een programma waarmee je het verkeer van je browser kan loggen.
 * De firefox add-on is een handig ding om alle instellingen automatisch goed te zetten voor firefox.
 * Open Charles, en kijk of ie ook effectief logs maakt. In de linkse kolom moeten er mapjes komen als je een webpagina bezoekt. Indien het niet zo is zal je de help van Charles eens moeten induiken.
 * Ga naar een MySpace profiel pagina, en laat die volledig inladen

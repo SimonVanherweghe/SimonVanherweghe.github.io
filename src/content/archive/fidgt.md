@@ -9,7 +9,7 @@ Ik heb een zwak voor datavisualisatie. Allemaal getallekes en gegevens op een gr
 
 Met heel dat web 2.0 sociaal geval op het net kan je zelf vanalles gaan toope smijten.
 
-En dat is nu net wat Fidgt doet. Dankzij [Infostethics](http://infosthetics.com/archives/2007/05/fidgt_visualizer_network_tags.html "http://infosthetics.com/archives/2007/05/fidgt_visualizer_network_tags.html") kwam ik hierop terecht, aanvankelijk voor hun visualizer. Maar al vlug bleek dat ze iets leuks visualiseren. Je smijt de accounts van Flickr, Last.fm, msn-messenger enz, van één persoon samen in één geheel. Dit doe je voor al je vriendjes.
+En dat is nu net wat Fidgt doet. Dankzij [Infostethics](http://infosthetics.com/archives/2007/05/fidgt_visualizer_network_tags.html) kwam ik hierop terecht, aanvankelijk voor hun visualizer. Maar al vlug bleek dat ze iets leuks visualiseren. Je smijt de accounts van Flickr, Last.fm, msn-messenger enz, van één persoon samen in één geheel. Dit doe je voor al je vriendjes.
 
 Dan open je de visualiser, en drop je her en der wat tags. De nodes (uw maten) verschuiven dan ten opzichte van waar die tags staan. Nice!
 

@@ -11,7 +11,7 @@ Zo vond ik vanmiddag een klein stukje karton, het was pas toen ik het aan het op
 
 ![Bierkaert](@images/posts/2008/04/bierkaert.jpg)
 
-Plets zat er knal op toen ie de gelijkenis met het [Dharma initiative](http://www.lostpedia.com/wiki/Dharma_Initiative "http://www.lostpedia.com/wiki/Dharma_Initiative") opmerkte. We hebben hier al vanalles gevonden met het logo op: plakband, onderleggers, mappen, stickers enz… Het enige wat nog ontbreekt is een doos cornflakes.
+Plets zat er knal op toen ie de gelijkenis met het [Dharma initiative](http://www.lostpedia.com/wiki/Dharma_Initiative) opmerkte. We hebben hier al vanalles gevonden met het logo op: plakband, onderleggers, mappen, stickers enz… Het enige wat nog ontbreekt is een doos cornflakes.
 
 Je moet ook een beetje weten waar precies te zoeken. Zo stond er een doos vol met lege hangmappen, die vroeg er om… En inderdaad, onderaan de doos was het prijs: een dia
 

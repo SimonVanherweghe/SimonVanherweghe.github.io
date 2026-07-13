@@ -7,7 +7,7 @@ tags: []
 ---
 Ik zaterdagochtend naar den Occasion, het is daar uitverkoop (hij gaat verhuizen en meer antiek en brocante doen: jammer) en we nemen daar sowieso graag eens een kijkje. Mijn oog viel op een flits die daar lag, aan 7 euro -50% = 3 euro nalf: kon der niet aan gerekkerd zijn é.
 
-Thuisgekomen de boel meteen getest natuurlijk, hmmm deed niet veel… Geheel into poenderen vloog ik er op, een beetje te enthousiast, want ik heb er een stuk afgebroken. Ie moet maar conform zijn aan het [makers manifest](http://www.flickr.com/photos/pmtorrone/306528267/ "http://www.flickr.com/photos/pmtorrone/306528267/"), neh!
+Thuisgekomen de boel meteen getest natuurlijk, hmmm deed niet veel… Geheel into poenderen vloog ik er op, een beetje te enthousiast, want ik heb er een stuk afgebroken. Ie moet maar conform zijn aan het [makers manifest](http://www.flickr.com/photos/pmtorrone/306528267/), neh!
 
 ![open](@images/posts/2007/01/p1050963.jpg)
 

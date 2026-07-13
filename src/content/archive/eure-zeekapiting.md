@@ -11,4 +11,4 @@ Manman, was me dat gisteren een belevenis… Dikken ambi, met als apotheose nen 
 
 Gudder zit de beste die der zin!
 
-Voor wat pics: check [flickr](http://www.flickr.com/photos/simonvanherweghe/sets/72157594279505835/ "http://www.flickr.com/photos/simonvanherweghe/sets/72157594279505835/")
+Voor wat pics: check [flickr](http://www.flickr.com/photos/simonvanherweghe/sets/72157594279505835/)

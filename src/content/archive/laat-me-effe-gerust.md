@@ -7,4 +7,4 @@ tags: []
 ---
 Tijd voor een nieuwe dosis brainwashen, het is keynote!
 
-Volg het [hier](http://www.macrumorslive.com/ "http://www.macrumorslive.com/") of [hier](http://live.gizmodo.com/ "http://live.gizmodo.com/") of ergens anders
+Volg het [hier](http://www.macrumorslive.com/) of [hier](http://live.gizmodo.com/) of ergens anders

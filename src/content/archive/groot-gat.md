@@ -7,7 +7,7 @@ tags: []
 ---
 Niks geen vuile manieren, wel een handige tip voor de pinhole fanaten onder ons:
 
-Deze tip kreeg ik van [Stuutekeer](http://stuutekeer.wordpress.com/ "http://stuutekeer.wordpress.com/") en is al even simpel als geniaal. Het is om te weten of je gaatje van je pinhole wel de juiste afmeting heeft.
+Deze tip kreeg ik van [Stuutekeer](http://stuutekeer.wordpress.com/) en is al even simpel als geniaal. Het is om te weten of je gaatje van je pinhole wel de juiste afmeting heeft.
 
 Ideaal voor een matchbox pinhole is 0,2mm maar dat is een beetje klein om zo gewoon eens te meten. Hoe gaan we dan te werk?
 

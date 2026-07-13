@@ -7,4 +7,4 @@ tags: []
 ---
 [http://www.youtube.com/watch?v=5NlNQBK4QFc](http://www.youtube.com/watch?v=5NlNQBK4QFc)
 
-\[via [Wooster Collective](http://www.woostercollective.com/2008/06/nothing_to_do_with_street_art_but_we_lov.html "http://www.woostercollective.com/2008/06/nothing_to_do_with_street_art_but_we_lov.html")\]
+\[via [Wooster Collective](http://www.woostercollective.com/2008/06/nothing_to_do_with_street_art_but_we_lov.html)\]

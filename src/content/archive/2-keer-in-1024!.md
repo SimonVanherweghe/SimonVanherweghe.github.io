@@ -5,7 +5,7 @@ permalink: "2008/01/23/2-keer-in-1024/"
 tags: []
 
 ---
-Kijk eens aan, tot mijn grote verbazing hebben ze 2 van m’n foto’s voor het [10/24 project](http://www.perceptionthree.net/1024/index.html "http://www.perceptionthree.net/1024/index.html") geselecteerd! Ze staan in de [Gallery!](http://www.perceptionthree.net/1024/gallery.html "http://www.perceptionthree.net/1024/gallery.html")
+Kijk eens aan, tot mijn grote verbazing hebben ze 2 van m’n foto’s voor het [10/24 project](http://www.perceptionthree.net/1024/index.html) geselecteerd! Ze staan in de [Gallery!](http://www.perceptionthree.net/1024/gallery.html)
 
 Het gaat om de volgende foto’s:  
 [](http://www.flickr.com/photos/simonvanherweghe/2005859425/ "Bureau by Simon Vanherweghe, on Flickr")

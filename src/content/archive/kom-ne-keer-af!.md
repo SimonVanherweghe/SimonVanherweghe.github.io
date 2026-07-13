@@ -5,4 +5,4 @@ permalink: "2007/01/15/kom-ne-keer-af/"
 tags: []
 
 ---
-Passeer eens langs [Simonopolis](http://simonopolis.myminicity.com/ "http://simonopolis.myminicity.com/"), hoe meer bezoekjes, hoe groter mijn stad, zoalig! \[via [Neatorama](http://feeds.feedburner.com/~r/Neatorama/~3/200547081/ "http://feeds.feedburner.com/~r/Neatorama/~3/200547081/")\]
+Passeer eens langs [Simonopolis](http://simonopolis.myminicity.com/), hoe meer bezoekjes, hoe groter mijn stad, zoalig! \[via [Neatorama](http://feeds.feedburner.com/~r/Neatorama/~3/200547081/)\]

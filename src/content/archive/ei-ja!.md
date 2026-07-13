@@ -17,8 +17,8 @@ Lovely gewoon, mijn persoonlijke favo zijn deze: simpel maar geniaal!
 
 Er is nog héél wat meer over te vinden, check zeker onderstaande links:
 
-* Een [atrikelke met filmpje](http://www.fontanel.nl/artikelen/king-tuesdays-4-roadsworth "http://www.fontanel.nl/artikelen/king-tuesdays-4-roadsworth")
-* Zijn voorkomen op [Woostercollective](http://www.eablogs.com/mt3.32/mt-search.cgi?IncludeBlogs=3&Template=wooster&search=roadsworth "http://www.eablogs.com/mt3.32/mt-search.cgi?IncludeBlogs=3&Template=wooster&search=roadsworth") (Had ik al gezegd dat liefhebbers van het genre zich beter abonneren op die feed?)
-* Effe [zoeken op Flickr](http://www.flickr.com/search/?q=Roadsworth&w=all "http://www.flickr.com/search/?q=Roadsworth&w=all") geeft ook altijd resultaat
+* Een [atrikelke met filmpje](http://www.fontanel.nl/artikelen/king-tuesdays-4-roadsworth)
+* Zijn voorkomen op [Woostercollective](http://www.eablogs.com/mt3.32/mt-search.cgi?IncludeBlogs=3&Template=wooster&search=roadsworth) (Had ik al gezegd dat liefhebbers van het genre zich beter abonneren op die feed?)
+* Effe [zoeken op Flickr](http://www.flickr.com/search/?q=Roadsworth&w=all) geeft ook altijd resultaat
 
-Voor alle duidelijkheid, de eerste afbeelding met dat rioolputje is niet van Roadsworth maar van [6emeia](http://www.fotolog.com/6emeia "http://www.fotolog.com/6emeia"). Allemaal via [Woostercollective](http://feeds.feedburner.com/~r/wooster/~3/156001827/underfoot_in_sao_paulo.html "http://feeds.feedburner.com/~r/wooster/~3/156001827/underfoot_in_sao_paulo.html")
+Voor alle duidelijkheid, de eerste afbeelding met dat rioolputje is niet van Roadsworth maar van [6emeia](http://www.fotolog.com/6emeia). Allemaal via [Woostercollective](http://feeds.feedburner.com/~r/wooster/~3/156001827/underfoot_in_sao_paulo.html)

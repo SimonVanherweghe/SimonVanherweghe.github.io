@@ -7,4 +7,4 @@ tags: []
 ---
 Zo, bijna klaar om te vertrekken.
 
-Hier zal het zeker 2 weken stil zijn, check [www.zeescoutsjanbart.be/rafiki/](http://www.zeescoutsjanbart.be/rafiki/ "http://www.zeescoutsjanbart.be/rafiki/") in de plaats.
+Hier zal het zeker 2 weken stil zijn, check [www.zeescoutsjanbart.be/rafiki/](http://www.zeescoutsjanbart.be/rafiki/) in de plaats.

@@ -20,11 +20,11 @@ Een dag later dan dit:
 Grrr? Ok ja, dat zijn dingen die ik zou schrijven om te debuggen of zo. Wel leuk hoor, maar verwacht ik niet van zo nen pro als Google, toch?
 
 En dan vandaag de volgende dingen:  
-Blijkbaar zijn ze aan het peizen over video in de ads… Hopelijk komen er dan geen zulke dingen, komme tenn! \[via [Gizmodo](http://www.gizmodo.com/gadgets/google/hope-youve-got-broadband-here-come-google-video-ads-231339.php "http://www.gizmodo.com/gadgets/google/hope-youve-got-broadband-here-come-google-video-ads-231339.php")\]  
-[](http://www.centernetworks.com/mockup-what-if-google-sold-video-ads "http://www.centernetworks.com/mockup-what-if-google-sold-video-ads")
+Blijkbaar zijn ze aan het peizen over video in de ads… Hopelijk komen er dan geen zulke dingen, komme tenn! \[via [Gizmodo](http://www.gizmodo.com/gadgets/google/hope-youve-got-broadband-here-come-google-video-ads-231339.php)\]  
+[](http://www.centernetworks.com/mockup-what-if-google-sold-video-ads)
 
-[](http://www.centernetworks.com/mockup-what-if-google-sold-video-ads "http://www.centernetworks.com/mockup-what-if-google-sold-video-ads")
+[](http://www.centernetworks.com/mockup-what-if-google-sold-video-ads)
 
-[![google video ads](@images/posts/2007/01/googlevideoadssm.png)](http://www.centernetworks.com/mockup-what-if-google-sold-video-ads "http://www.centernetworks.com/mockup-what-if-google-sold-video-ads")
+[![google video ads](@images/posts/2007/01/googlevideoadssm.png)](http://www.centernetworks.com/mockup-what-if-google-sold-video-ads)
 
-En hier dan: een eigen [Google Second Life?](http://www.techcrunch.com/2007/01/24/googles-metaverse/ "http://www.techcrunch.com/2007/01/24/googles-metaverse/") Het idee om dat met Google Earth te doen spreekt me aan. Maar das dan meteen ook weer het enigste. Anyhow, in de gaten houden. \[via [TechCrunch](http://feeds.feedburner.com/~r/Techcrunch/~3/81262741/ "http://feeds.feedburner.com/~r/Techcrunch/~3/81262741/")\]
+En hier dan: een eigen [Google Second Life?](http://www.techcrunch.com/2007/01/24/googles-metaverse/) Het idee om dat met Google Earth te doen spreekt me aan. Maar das dan meteen ook weer het enigste. Anyhow, in de gaten houden. \[via [TechCrunch](http://feeds.feedburner.com/~r/Techcrunch/~3/81262741/)\]

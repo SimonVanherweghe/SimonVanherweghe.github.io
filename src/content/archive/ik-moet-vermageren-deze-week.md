@@ -5,7 +5,7 @@ permalink: "2007/01/28/ik-moet-vermageren-deze-week/"
 tags: []
 
 ---
-Want dat optreden van Goose daarnet in den trap was véél te vet! [Teisco](http://en.wikipedia.org/wiki/Teisco "http://en.wikipedia.org/wiki/Teisco") power!
+Want dat optreden van Goose daarnet in den trap was véél te vet! [Teisco](http://en.wikipedia.org/wiki/Teisco) power!
 
 Lang leve Tommy, de ticket leverancier!
 

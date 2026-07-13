@@ -9,4 +9,4 @@ Dan zie je plots een lampje extra branden op de modem/router en huppa: we hebben
 
 Fiew, het werd zo stillekesaan tijd.
 
-Enfin, tot straks op de [streekbierenavond](http://www.zeescoutsjanbart.be/2008/02/01/streekbieren-avond/ "http://www.zeescoutsjanbart.be/2008/02/01/streekbieren-avond/") zeker?
+Enfin, tot straks op de [streekbierenavond](http://www.zeescoutsjanbart.be/2008/02/01/streekbieren-avond/) zeker?
