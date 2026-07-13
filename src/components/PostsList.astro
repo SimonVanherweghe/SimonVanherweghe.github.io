@@ -6,7 +6,7 @@ const { posts } = Astro.props;
 <ul class="post-list">
   {
     posts.map((post, index) => (
-      <li>
+      <li style={`--i:${Math.min(index, 8)}`}>
         <Post post={post} index={index} />
       </li>
     ))
@@ -18,12 +18,12 @@ const { posts } = Astro.props;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
     justify-content: center;
-    gap: var(--space-m);
+    gap: var(--space-l) var(--space-m);
     margin-bottom: var(--space-m);
   }
 
   li {
-    margin-bottom: var(--space-2xl);
+    margin-bottom: var(--space-xl);
     container-type: inline-size;
   }
 

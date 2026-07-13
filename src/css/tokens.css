@@ -1,14 +1,54 @@
 :root {
-  --color-text: rgb(41, 41, 41);
-  --color-mid: rgb(189, 189, 189);
-  --color-grey: #979797;
-  --color-accent: #0074d9;
-  --color-bg: #fffffe;
+  /* ----------------------------------------------------------------------
+     Type — Bricolage Grotesque (display), Hanken Grotesk (body), Fragment
+     Mono (tiny metadata only). Self-hosted via @fontsource.
+     ---------------------------------------------------------------------- */
+  --font-display: 'Bricolage Grotesque Variable', system-ui, -apple-system, sans-serif;
+  --font-body: 'Hanken Grotesk Variable', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Fragment Mono', ui-monospace, 'SFMono-Regular', 'Courier New', monospace;
+
+  /* ----------------------------------------------------------------------
+     Palette — modern, fresh, subtle. Cool near-white paper, cool ink, and a
+     single blue accent. Neutrals tinted toward the blue (hue 258). OKLCH.
+     ---------------------------------------------------------------------- */
+  --paper:       oklch(0.988 0.004 258);
+  --paper-sunk:  oklch(0.966 0.006 258);
+  --ink:         oklch(0.225 0.021 260);
+  --ink-soft:    oklch(0.442 0.020 260);
+  --ink-faint:   oklch(0.552 0.017 260);
+
+  --rule:        oklch(0.906 0.006 260);   /* hairlines */
+  --rule-strong: oklch(0.790 0.010 260);   /* visible thin rules */
+
+  --blue:      oklch(0.525 0.165 256);     /* accent fill / marks */
+  --blue-ink:  oklch(0.475 0.150 258);     /* blue as text / links (AA) */
+  --blue-soft: oklch(0.958 0.026 250);     /* subtle blue wash (hero, hover) */
+  --on-blue:   oklch(0.992 0.004 258);     /* text on a solid blue */
+
+  /* ---- Semantic (light) ---- */
+  --color-bg:      var(--paper);
+  --color-surface: var(--paper-sunk);
+  --color-text:    var(--ink);
+  --color-accent:  var(--blue-ink);
+  --color-spark:   var(--blue);
+
+  /* Legacy names kept so existing prose + components restyle automatically. */
+  --color-mid:  var(--rule-strong);
+  --color-grey: var(--ink-soft);
+  --border: 1px solid var(--rule);
+
+  --body-weight: 400;
+  --body-leading: 1.62;
 
   --max-width: 75rem;
   --max-width-content: 45rem;
 
-  --border: 1px solid #e6e6e6;
+  /* ---- Motion ---- */
+  --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur-fast: 140ms;
+  --dur-mid: 240ms;
+  --dur-slow: 600ms;
 
   /* fontsizes */
   --step--2: clamp(0.78rem, calc(0.77rem + 0.03vw), 0.80rem);
@@ -19,7 +59,7 @@
   --step-3: clamp(1.94rem, calc(1.77rem + 0.87vw), 2.44rem);
   --step-4: clamp(2.33rem, calc(2.08rem + 1.25vw), 3.05rem);
   --step-5: clamp(2.80rem, calc(2.45rem + 1.77vw), 3.82rem);
-
+  --step-6: clamp(3.36rem, calc(2.75rem + 3.05vw), 5.20rem);
 
   /* spacings */
   --space-3xs: clamp(0.31rem, calc(0.31rem + 0.00vw), 0.31rem);
@@ -44,4 +84,59 @@
 
   /* Custom pairs */
   --space-s-l: clamp(1.13rem, calc(0.65rem + 2.39vw), 2.50rem);
+}
+
+/* ---- Dark theme: clean cool dark, blue stays the accent ---- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper:       oklch(0.200 0.016 262);
+    --paper-sunk:  oklch(0.246 0.018 262);
+    --ink:         oklch(0.948 0.008 258);
+    --ink-soft:    oklch(0.742 0.014 260);
+    --ink-faint:   oklch(0.602 0.016 262);
+
+    --rule:        oklch(0.318 0.014 262);
+    --rule-strong: oklch(0.452 0.016 262);
+
+    --blue:      oklch(0.660 0.150 256);
+    --blue-ink:  oklch(0.762 0.130 258);
+    --blue-soft: oklch(0.288 0.045 258);
+    --on-blue:   oklch(0.150 0.020 262);
+
+    --body-weight: 360;
+    --body-leading: 1.70;
+  }
+}
+
+/* Manual override wins in both directions (masthead toggle stamps data-theme). */
+:root[data-theme='light'] {
+  --paper: oklch(0.988 0.004 258);
+  --paper-sunk: oklch(0.966 0.006 258);
+  --ink: oklch(0.225 0.021 260);
+  --ink-soft: oklch(0.442 0.020 260);
+  --ink-faint: oklch(0.552 0.017 260);
+  --rule: oklch(0.906 0.006 260);
+  --rule-strong: oklch(0.790 0.010 260);
+  --blue: oklch(0.525 0.165 256);
+  --blue-ink: oklch(0.475 0.150 258);
+  --blue-soft: oklch(0.958 0.026 250);
+  --on-blue: oklch(0.992 0.004 258);
+  --body-weight: 400;
+  --body-leading: 1.62;
+}
+
+:root[data-theme='dark'] {
+  --paper: oklch(0.200 0.016 262);
+  --paper-sunk: oklch(0.246 0.018 262);
+  --ink: oklch(0.948 0.008 258);
+  --ink-soft: oklch(0.742 0.014 260);
+  --ink-faint: oklch(0.602 0.016 262);
+  --rule: oklch(0.318 0.014 262);
+  --rule-strong: oklch(0.452 0.016 262);
+  --blue: oklch(0.660 0.150 256);
+  --blue-ink: oklch(0.762 0.130 258);
+  --blue-soft: oklch(0.288 0.045 258);
+  --on-blue: oklch(0.150 0.020 262);
+  --body-weight: 360;
+  --body-leading: 1.70;
 }

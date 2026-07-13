@@ -1,67 +1,96 @@
-<footer>
-  <div>
-    <ul class="footer__links">
-      <li>
-        <a
-          href="https://www.instagram.com/donebysimon/"
-          target="_blank"
-          rel="noopener noreferrer">Instagram</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/simonvanherweghe"
-          target="_blank"
-          rel="noopener noreferrer">GitHub</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://bsky.app/profile/donebysimon.be"
-          target="_blank"
-          rel="noopener noreferrer">Bluesky</a
-        >
-      </li>
-      <li>
-        <a href="/feed.xml">RSS</a>
-      </li>
+---
+const links = [
+  { label: "Instagram", href: "https://www.instagram.com/donebysimon/", external: true },
+  { label: "GitHub", href: "https://github.com/simonvanherweghe", external: true },
+  { label: "Bluesky", href: "https://bsky.app/profile/donebysimon.be", external: true },
+  { label: "RSS", href: "/feed.xml", external: false },
+  { label: "The Archive", href: "/archive", external: false },
+];
+---
 
-      <li>
-        <a href="/archive">The Archive</a>
-      </li>
-    </ul>
+<footer class="colophon">
+  <div class="colophon__inner">
+    <hr />
+    <div class="colophon__grid">
+      <div class="colophon__brand">
+        <a class="colophon__word" href="/">donebysimon<span class="colophon__dot">.</span></a>
+      </div>
+
+      <nav class="colophon__nav" aria-label="Find Simon elsewhere">
+        <ul>
+          {
+            links.map((link) => (
+              <li>
+                <a
+                  href={link.href}
+                  {...(link.external
+                    ? { target: "_blank", rel: "noopener noreferrer" }
+                    : {})}
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </nav>
+    </div>
   </div>
 </footer>
 
 <style>
-  footer {
-    background-color: var(--color-text);
-    padding: var(--space-l) var(--space-xs);
-
-    color: var(--color-bg);
+  .colophon {
+    margin-top: var(--space-3xl);
+    padding-inline: var(--space-xs);
   }
 
-  div {
+  .colophon__inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
+  }
+
+  .colophon__grid {
     display: flex;
-    flex-flow: column nowrap;
-    align-items: center;
-    gap: var(--space-l);
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: start;
+    gap: var(--space-m);
+    padding-block: var(--space-m) var(--space-2xl);
   }
 
-  a:any-link {
-    color: inherit;
-  }
-
-  ul {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-  }
-
-  li:has(+ li)::after {
-    content: "\2022";
+  .colophon__word {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: var(--step-1);
+    letter-spacing: -0.03em;
+    color: var(--color-text);
+    text-decoration: none;
     display: inline-block;
-    width: 2ch;
-    text-align: center;
+  }
+  .colophon__dot { color: var(--blue); }
+
+  .colophon__nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2xs) 0;
+  }
+
+  .colophon__nav a {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: var(--step--1);
+    color: var(--ink-soft);
+    text-decoration: none;
+    padding-inline: var(--space-xs);
+  }
+  .colophon__nav li:first-child a { padding-inline-start: 0; }
+  .colophon__nav li:not(:last-child) a {
+    border-right: 1px solid var(--rule);
+  }
+  .colophon__nav a:hover {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-decoration-color: var(--color-spark);
+    text-underline-offset: 0.25em;
   }
 </style>

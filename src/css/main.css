@@ -5,7 +5,11 @@
 
 html {
   box-sizing: border-box;
+  color-scheme: light dark;
 }
+:root[data-theme='light'] { color-scheme: light; }
+:root[data-theme='dark'] { color-scheme: dark; }
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
@@ -13,6 +17,56 @@ html {
 img {
   max-inline-size: 100%;
   block-size: auto;
+}
+
+body {
+  background-color: var(--color-bg);
+}
+
+main {
+  padding: var(--space-xs);
+  margin: 0 auto;
+  max-width: var(--max-width);
+  width: 100%;
+}
+
+.layout-wrapper {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.page {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+}
+
+/* ---- Links ---- */
+a:any-link {
+  color: var(--color-accent);
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
+}
+a:hover {
+  text-decoration-color: var(--color-spark);
+  text-decoration-thickness: 2px;
+}
+
+::selection {
+  background: var(--blue);
+  color: var(--on-blue);
+}
+
+:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  width: 100%;
+  background: var(--rule-strong);
 }
 
 .visually-hidden {
@@ -30,46 +84,31 @@ img {
   position: absolute;
   left: var(--space-xs);
   top: 0;
-  z-index: 1;
+  z-index: 10;
   padding: var(--space-2xs) var(--space-xs);
-  background-color: var(--color-bg);
-  transform: translateY(-100%);
+  background-color: var(--blue);
+  color: var(--on-blue);
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  transform: translateY(-120%);
 }
-
 .skip-link:focus {
   transform: translateY(0);
 }
 
-body {
-  background-color: var(--color-bg);
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-delay: 0ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
 
-main {
-  padding: var(--space-xs);
-  margin: 0 auto;
-  max-width: var(--max-width);
-  width: 100%;
-}
-
-a:any-link {
-  color: var(--color-accent);
-}
-
-a:hover{
-  color: var(--color-accent);
-  text-decoration-color:var(--color-accent);
-  text-decoration-style: double;
-}
-
-.layout-wrapper {
-  min-height: 100vh; 
-  display: grid;
-  grid-template-rows: auto 1fr auto; 
-}
-
-.page {
-  max-width: var(--max-width-content);
-  margin: 0 auto;
+/* Post-page hero image (src/pages/[...slug].astro). */
+.headerimg {
+  margin-block: var(--space-s) var(--space-l);
 }
 
 /* Injected by the embedded GitHub gist script in 2023-05-03-textivalkrant.md. */

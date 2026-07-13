@@ -2,7 +2,9 @@
 const { pageTitle, frontmatter, lang = "en" } = Astro.props;
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
-import "@fontsource-variable/roboto-slab";
+import "@fontsource-variable/bricolage-grotesque";
+import "@fontsource-variable/hanken-grotesk";
+import "@fontsource/fragment-mono";
 import "/src/css/main.css";
 ---
 
@@ -11,6 +13,16 @@ import "/src/css/main.css";
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#faf7f0" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#171a21" media="(prefers-color-scheme: dark)" />
+    <script is:inline>
+      // Apply a stored theme before paint so there is no flash. No stored value
+      // means "auto" — the CSS prefers-color-scheme rules take over.
+      try {
+        var t = localStorage.getItem("theme");
+        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      } catch (e) {}
+    </script>
     <link rel="canonical" href={Astro.url} />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link

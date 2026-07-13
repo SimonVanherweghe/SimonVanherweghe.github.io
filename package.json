@@ -8,7 +8,9 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.7.0",
-    "@fontsource-variable/roboto-slab": "^5.2.8",
+    "@fontsource-variable/bricolage-grotesque": "^5.2.10",
+    "@fontsource-variable/hanken-grotesk": "^5.2.8",
+    "@fontsource/fragment-mono": "^5.2.8",
     "astro": "^5.17.3",
     "astro-og-canvas": "^0.10.0",
     "markdown-it": "^14.1.0",
