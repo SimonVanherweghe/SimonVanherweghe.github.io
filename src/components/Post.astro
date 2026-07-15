@@ -1,5 +1,8 @@
 ---
+import type { CollectionEntry } from "astro:content";
 import PreviewImage from "./PreviewImage.astro";
+
+type Props = { post: CollectionEntry<"posts">; index: number };
 const { post, index } = Astro.props;
 
 // The first card spans the full grid and is the homepage LCP element. The rest sit below the

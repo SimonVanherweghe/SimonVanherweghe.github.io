@@ -6,14 +6,24 @@ import {
   sourceNetwork,
 } from "../lib/webmentions.js";
 
+// The webmention.io jf2 fields this component actually reads.
+type Mention = {
+  url?: string;
+  published?: string;
+  "wm-property"?: string;
+  author?: { name?: string; url?: string; photo?: string };
+  content?: { text?: string; html?: string };
+};
+
+type Props = { url: string };
 const { url } = Astro.props;
-const mentions = await getWebmentionsForUrl(url);
+const mentions: Mention[] = await getWebmentionsForUrl(url);
 
 const likes = mentions.filter((m) => m["wm-property"] === "like-of");
 const reposts = mentions.filter((m) => m["wm-property"] === "repost-of");
 const replies = mentions
   .filter((m) =>
-    ["in-reply-to", "mention-of", "bookmark-of"].includes(m["wm-property"]),
+    ["in-reply-to", "mention-of", "bookmark-of"].includes(m["wm-property"] ?? ""),
   )
   .sort((a, b) => +mentionDate(a) - +mentionDate(b));
 
@@ -31,7 +41,7 @@ const MAX_CHARS = 500;
 
 // Bluesky replies via Bridgy often carry only content.text; only the html
 // branch goes through set:html, and always sanitized.
-function replyBody(mention) {
+function replyBody(mention: Mention) {
   const content = mention.content;
   if (!content) return null;
   const text = content.text ?? "";
@@ -52,7 +62,7 @@ function replyBody(mention) {
   };
 }
 
-function authorName(mention) {
+function authorName(mention: Mention) {
   return mention.author?.name || "Someone";
 }
 ---

@@ -19,9 +19,12 @@ const collectionEntries = await getCollection("posts");
 // to { 'post.md': { title: 'Example', description: '' } }
 const pages = {
   // Site-wide card at /og/home.png, used as the default for pages without their own OG image.
+  // `preview`/`previewPath` are spelled out so this entry matches the posts' shape for TS.
   home: {
     title: "Things done, by Simon.",
     description: "Mostly experiments, occasionally finished.",
+    preview: undefined,
+    previewPath: undefined,
   },
   ...Object.fromEntries(
     collectionEntries.map(({ id, data }) => [

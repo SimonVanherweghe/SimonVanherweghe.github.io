@@ -1,7 +1,12 @@
 ---
+import type { CollectionEntry } from "astro:content";
+
+type Props = {
+  posts: (CollectionEntry<"posts"> | CollectionEntry<"archive">)[];
+};
 const { posts } = Astro.props;
 
-const dateOptions = {
+const dateOptions: Intl.DateTimeFormatOptions = {
   year: "numeric",
   month: "short",
   day: "numeric",
