@@ -93,20 +93,27 @@ const previewAlt =
     }
 
     <aside>
-      <nav class="pagination">
+      <nav class="pagination" aria-label="More posts">
         {
           next && (
-            <a href={`/${next.data.permalink}`}>
-              <span>←</span>
+            <a class="pagination__link" href={`/${next.data.permalink}`}>
+              <span class="pagination__label">
+                ← Newer{next.collection === "archive" && " · from the archive"}
+              </span>
               <span>{next.data.title}</span>
             </a>
           )
         }
         {
           prev && (
-            <a href={`/${prev.data.permalink}`}>
+            <a
+              class="pagination__link pagination__link--older"
+              href={`/${prev.data.permalink}`}
+            >
+              <span class="pagination__label">
+                Older{prev.collection === "archive" && " · from the archive"} →
+              </span>
               <span>{prev.data.title}</span>
-              <span>→</span>
             </a>
           )
         }
@@ -189,12 +196,28 @@ const previewAlt =
 
     .pagination a:hover {
       color: var(--blue-ink);
+    }
+
+    .pagination a:hover span:last-child {
       text-decoration: underline;
       text-decoration-color: var(--blue);
       text-underline-offset: 0.2em;
     }
 
-    .pagination > *:last-child {
+    .pagination__label {
+      display: block;
+      font-family: var(--font-mono);
+      font-size: var(--step--2);
+      font-weight: 400;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--ink-faint);
+      margin-bottom: var(--space-3xs);
+    }
+
+    /* The "older" link always sits right, even when it's the only one. */
+    .pagination__link--older {
+      margin-inline-start: auto;
       text-align: right;
     }
   </style>

@@ -4,11 +4,63 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import ArchiveList from "../components/ArchiveList.astro";
 const allPosts = await getCollection("archive");
 allPosts.sort((a, b) => +b.data.date - +a.data.date);
+
+// Chunk the ~400-row list by year so a decade of posts is scannable.
+const byYear = new Map();
+for (const post of allPosts) {
+  const year = post.data.date.getFullYear();
+  if (!byYear.has(year)) byYear.set(year, []);
+  byYear.get(year).push(post);
+}
+const years = [...byYear.entries()];
+
+const newestYear = allPosts[0].data.date.getFullYear();
+const oldestYear = allPosts[allPosts.length - 1].data.date.getFullYear();
 ---
 
 <BaseLayout pageTitle="The archive">
   <section class="page">
     <h1>The archive</h1>
-    <ArchiveList posts={allPosts} />
+    <p class="archive__intro">
+      The old blog: {allPosts.length} posts from {oldestYear}–{newestYear},
+      mostly in Dutch, kept as they were.
+    </p>
+    {
+      years.map(([year, posts]) => (
+        <section class="archive__year" aria-labelledby={`year-${year}`}>
+          <h2 class="archive__year-label" id={`year-${year}`}>
+            {year}
+          </h2>
+          <ArchiveList posts={posts} />
+        </section>
+      ))
+    }
   </section>
 </BaseLayout>
+
+<style>
+  .archive__intro {
+    color: var(--ink-soft);
+    max-width: 55ch;
+    margin-bottom: var(--space-l);
+  }
+
+  .archive__year {
+    margin-top: var(--space-xl);
+  }
+
+  .archive__year-label {
+    position: sticky;
+    top: 0;
+    background: var(--color-bg);
+    font-family: var(--font-mono);
+    font-size: var(--step-0);
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+    padding-block: var(--space-2xs);
+    border-bottom: 1px solid var(--rule-strong);
+    max-width: var(--max-width-content);
+  }
+</style>

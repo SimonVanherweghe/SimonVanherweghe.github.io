@@ -9,10 +9,21 @@ allPosts.sort((a, b) => +b.data.date - +a.data.date);
 const allTags = [...new Set(allPosts.flatMap((post) => post.data.tags))];
 ---
 
-<BaseLayout pageTitle="All blogposts">
+<BaseLayout pageTitle="Blog">
   <section class="page">
-    <h1>All blogposts</h1>
+    <h1>Blog</h1>
+    <p class="blog__intro">
+      Every post as a plain list — pick a tag to narrow it down.
+    </p>
     <TagsList tags={allTags} />
     <ArchiveList posts={allPosts} />
   </section>
 </BaseLayout>
+
+<style>
+  .blog__intro {
+    color: var(--ink-soft);
+    max-width: 55ch;
+    margin-bottom: var(--space-s);
+  }
+</style>

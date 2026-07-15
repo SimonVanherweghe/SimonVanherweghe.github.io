@@ -82,17 +82,26 @@ const links = [
     gap: var(--space-2xs) 0;
   }
 
+  .colophon__nav li {
+    display: flex;
+    align-items: center;
+  }
+
   .colophon__nav a {
     font-family: var(--font-body);
     font-weight: 600;
     font-size: var(--step--1);
     color: var(--ink-soft);
     text-decoration: none;
-    padding-inline: var(--space-xs);
+    /* padding-block grows the tap target to ~44px; the ::after hairline stays 1em. */
+    padding: var(--space-2xs) var(--space-xs);
   }
   .colophon__nav li:first-child a { padding-inline-start: 0; }
-  .colophon__nav li:not(:last-child) a {
-    border-right: 1px solid var(--rule);
+  .colophon__nav li:not(:last-child)::after {
+    content: "";
+    width: 1px;
+    height: 1em;
+    background: var(--rule);
   }
   .colophon__nav a:hover {
     color: var(--color-accent);

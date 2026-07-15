@@ -17,16 +17,23 @@ const collectionEntries = await getCollection("posts");
 // Map the array of content collection entries to create an object.
 // Converts [{ id: 'post.md', data: { title: 'Example', description: '' } }]
 // to { 'post.md': { title: 'Example', description: '' } }
-const pages = Object.fromEntries(
-  collectionEntries.map(({ id, data }) => [
-    id,
-    {
-      ...data,
-      // Keep the resolved absolute file path for the preview image so OG generation can read it from disk.
-      previewPath: resolveContentImagePath(data.preview?.src),
-    },
-  ])
-);
+const pages = {
+  // Site-wide card at /og/home.png, used as the default for pages without their own OG image.
+  home: {
+    title: "Things done, by Simon.",
+    description: "Mostly experiments, occasionally finished.",
+  },
+  ...Object.fromEntries(
+    collectionEntries.map(({ id, data }) => [
+      id,
+      {
+        ...data,
+        // Keep the resolved absolute file path for the preview image so OG generation can read it from disk.
+        previewPath: resolveContentImagePath(data.preview?.src),
+      },
+    ])
+  ),
+};
 
 export const { getStaticPaths, GET } = await OGImageRoute({
   // A collection of pages to generate images for.
@@ -38,7 +45,7 @@ export const { getStaticPaths, GET } = await OGImageRoute({
   getImageOptions: (routePath, page) => {
     const logoPath = page.previewPath;
 
-    if (!logoPath) {
+    if (!logoPath && page.preview) {
       console.warn("No preview image path resolved for", routePath);
     }
 
@@ -51,6 +58,15 @@ export const { getStaticPaths, GET } = await OGImageRoute({
             size: [400],
           }
         : undefined,
+      // The home card mirrors the site's signature: cream headline on the brand blue
+      // (--blue / --on-blue from src/css/tokens.css, converted to sRGB).
+      ...(routePath === "home" && {
+        bgGradient: [[23, 104, 199]] as [number, number, number][],
+        font: {
+          title: { color: [251, 253, 255] as [number, number, number] },
+          description: { color: [251, 253, 255] as [number, number, number] },
+        },
+      }),
     };
   },
 });

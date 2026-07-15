@@ -25,6 +25,11 @@
   --blue-soft: oklch(0.958 0.026 250);     /* subtle blue wash (hero, hover) */
   --on-blue:   oklch(0.992 0.004 258);     /* text on a solid blue */
 
+  /* The signature hero block: cream Bricolage on solid blue in BOTH themes.
+     Kept separate from --blue/--on-blue, which invert for dark-mode accents. */
+  --hero-blue: oklch(0.525 0.165 256);
+  --on-hero:   oklch(0.992 0.004 258);     /* cream, 5.35:1 on --hero-blue (AA) */
+
   /* ---- Semantic (light) ---- */
   --color-bg:      var(--paper);
   --color-surface: var(--paper-sunk);
@@ -103,6 +108,11 @@
     --blue-soft: oklch(0.288 0.045 258);
     --on-blue:   oklch(0.150 0.020 262);
 
+    /* Slightly deeper than the light hero so it sits on the dark ground;
+       cream stays: 6.49:1 (AA). */
+    --hero-blue: oklch(0.480 0.155 256);
+    --on-hero:   oklch(0.992 0.004 258);
+
     --body-weight: 360;
     --body-leading: 1.70;
   }
@@ -121,6 +131,8 @@
   --blue-ink: oklch(0.475 0.150 258);
   --blue-soft: oklch(0.958 0.026 250);
   --on-blue: oklch(0.992 0.004 258);
+  --hero-blue: oklch(0.525 0.165 256);
+  --on-hero: oklch(0.992 0.004 258);
   --body-weight: 400;
   --body-leading: 1.62;
 }
@@ -137,6 +149,8 @@
   --blue-ink: oklch(0.762 0.130 258);
   --blue-soft: oklch(0.288 0.045 258);
   --on-blue: oklch(0.150 0.020 262);
+  --hero-blue: oklch(0.480 0.155 256);
+  --on-hero: oklch(0.992 0.004 258);
   --body-weight: 360;
   --body-leading: 1.70;
 }

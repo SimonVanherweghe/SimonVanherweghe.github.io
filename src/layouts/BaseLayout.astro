@@ -2,6 +2,13 @@
 const { pageTitle, frontmatter, lang = "en" } = Astro.props;
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import Metadata from "../components/Metadata.astro";
+
+const title = pageTitle || frontmatter?.title;
+// Site-wide fallback for pages that don't bring their own <Metadata> via the head slot.
+const defaultDescription =
+  "The maker's log of Simon Vanherweghe — creative coding, pen plotters, bots, cards and games. Mostly experiments, occasionally finished.";
+const defaultOgImage = new URL("/og/home.png", Astro.site);
 import "@fontsource-variable/bricolage-grotesque";
 import "@fontsource-variable/hanken-grotesk";
 import "@fontsource/fragment-mono";
@@ -36,7 +43,17 @@ import "/src/css/main.css";
       title="DoneBySimon"
       href="/feed.xml"
     />
-    <title>{pageTitle || frontmatter?.title}</title>
+    <title>{title}</title>
+    {
+      !Astro.slots.has("head") && (
+        <Metadata
+          title={title}
+          description={defaultDescription}
+          image={defaultOgImage}
+          type="website"
+        />
+      )
+    }
     <slot name="head" />
   </head>
   <body>

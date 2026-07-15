@@ -29,7 +29,7 @@ const dateLabel = post.data.date.toLocaleDateString("en-GB", {
     </div>
 
     <div class="entry__body">
-      <h3 class="entry__title">{post.data.title}</h3>
+      <h2 class="entry__title">{post.data.title}</h2>
       <p class="entry__desc">{post.data.description}</p>
       <div class="entry__meta">
         <time class="tabular" datetime={post.data.date.toISOString()}>{dateLabel}</time>

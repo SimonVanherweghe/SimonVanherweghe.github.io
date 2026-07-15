@@ -18,12 +18,11 @@ const { posts } = Astro.props;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
     justify-content: center;
-    gap: var(--space-l) var(--space-m);
-    margin-bottom: var(--space-m);
+    gap: var(--space-xl) var(--space-m);
+    margin-bottom: var(--space-xl);
   }
 
   li {
-    margin-bottom: var(--space-xl);
     container-type: inline-size;
   }
 
@@ -31,18 +30,42 @@ const { posts } = Astro.props;
     grid-column: 1 / -1;
   }
 
+  /* Wide screens: an explicit six-column grid so the stream keeps a beat —
+     full-bleed lead, a staggered pair, then repeating cycles of three quiet
+     columns followed by a clean 50/50 pair. Every row stays flush with the
+     grid edges so the variation reads as rhythm, not noise. */
   @media screen and (min-width: 950px) {
+    ul {
+      grid-template-columns: repeat(6, 1fr);
+    }
+
+    li {
+      grid-column: span 2;
+    }
+
+    li:nth-child(1) {
+      grid-column: 1 / -1;
+    }
+
     li:nth-child(2) {
       grid-row: 2;
-      grid-column: 1 / span 2;
+      grid-column: 1 / span 4;
       width: calc(75% - (var(--space-m) / 2));
     }
 
     li:nth-child(3) {
       grid-row: 2;
-      grid-column: 2 / -1;
+      grid-column: 3 / -1;
       width: calc(75% - (var(--space-m) / 2));
       justify-self: end;
+    }
+
+    li:nth-child(5n + 7) {
+      grid-column: 1 / span 3;
+    }
+
+    li:nth-child(5n + 8) {
+      grid-column: 4 / -1;
     }
   }
 </style>

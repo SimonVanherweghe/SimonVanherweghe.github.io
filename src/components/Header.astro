@@ -1,5 +1,11 @@
 ---
 import ThemeToggle from "./ThemeToggle.astro";
+
+const navItems = [
+  { label: "Blog", href: "/blog" },
+  { label: "About", href: "/about" },
+];
+const currentPath = Astro.url.pathname.replace(/\/$/, "");
 ---
 
 <header class="masthead">
@@ -10,8 +16,18 @@ import ThemeToggle from "./ThemeToggle.astro";
 
     <nav class="mainnav" aria-label="Main">
       <ul>
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="/about">About</a></li>
+        {
+          navItems.map((item) => (
+            <li>
+              <a
+                href={item.href}
+                aria-current={currentPath === item.href ? "page" : undefined}
+              >
+                {item.label}
+              </a>
+            </li>
+          ))
+        }
       </ul>
       <ThemeToggle />
     </nav>
@@ -77,7 +93,8 @@ import ThemeToggle from "./ThemeToggle.astro";
     text-decoration: none;
     padding: var(--space-3xs) var(--space-2xs);
   }
-  .mainnav a:hover {
+  .mainnav a:hover,
+  .mainnav a[aria-current='page'] {
     color: var(--color-text);
     text-decoration: underline;
     text-decoration-color: var(--color-spark);
