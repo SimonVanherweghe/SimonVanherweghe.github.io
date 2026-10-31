@@ -22,7 +22,7 @@ const { tag, posts } = Astro.props;
 ---
 
 <BaseLayout pageTitle={`Posts tagged with ${tag}`}>
-  <section>
+  <section class="page">
     <h1>Posts tagged with <span>'{tag}'</span></h1>
     <PostsList posts={posts} heading={null} />
   </section>
@@ -31,6 +31,6 @@ const { tag, posts } = Astro.props;
 <style>
   span {
     font-family: var(--font-body);
-    color: var(--blue-ink);
+    color: var(--ink);
   }
 </style>

@@ -13,11 +13,13 @@ const { posts, heading = "all work", count = posts.length } = Astro.props;
 ---
 
 {
-  heading !== null && (
+  heading !== null ? (
     <div class="list-head comp">
       <h2 class="list-head__title">{heading}</h2>
       <p class="list-head__count">{count} projects</p>
     </div>
+  ) : (
+    <h2 class="visually-hidden">Posts</h2>
   )
 }
 <ul class="post-list">

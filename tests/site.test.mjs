@@ -121,3 +121,17 @@ test('first and last post have a full-width pagination plane', () => {
   }
   assert.equal(solo, 2);
 });
+
+test('tag page has h1, then a visually-hidden h2, and no duplicate tag heading', () => {
+  const dir = join(dist, 'tags');
+  const page = readdirSync(dir).map((d) => join(dir, d, 'index.html')).find((f) => { try { return statSync(f).isFile(); } catch { return false; } });
+  assert.ok(page, 'no tag page');
+  const html = readFileSync(page, 'utf8');
+  const heads = [...html.matchAll(/<(h[12])\b([^>]*)>([\s\S]*?)<\/\1>/g)];
+  const mainHeads = heads.filter((m) => !/site-/.test(m[2]));
+  assert.equal(mainHeads.filter((m) => m[1] === 'h1').length, 1);
+  const h1i = heads.findIndex((m) => m[1] === 'h1');
+  assert.equal(heads[h1i + 1][1], 'h2');
+  assert.match(heads[h1i + 1][2], /visually-hidden/);
+  assert.equal(heads.filter((m) => m[1] === 'h2' && !/visually-hidden/.test(m[2])).length, 0);
+});

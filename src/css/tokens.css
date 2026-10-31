@@ -37,7 +37,6 @@
 
   --ink-soft:    var(--soft);
   --ink-faint:   var(--soft);
-  --blue-ink:    var(--ink);      /* legacy: blue-as-text, now plain ink */
   --rule:        var(--grey);     /* hairlines */
   --rule-strong: var(--ink);
 
