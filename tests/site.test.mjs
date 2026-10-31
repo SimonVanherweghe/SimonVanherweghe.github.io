@@ -128,9 +128,9 @@ test('tag page has h1, then a visually-hidden h2, and no duplicate tag heading',
   assert.ok(page, 'no tag page');
   const html = readFileSync(page, 'utf8');
   const heads = [...html.matchAll(/<(h[12])\b([^>]*)>([\s\S]*?)<\/\1>/g)];
-  const mainHeads = heads.filter((m) => !/site-/.test(m[2]));
-  assert.equal(mainHeads.filter((m) => m[1] === 'h1').length, 1);
+  assert.equal(heads.filter((m) => m[1] === 'h1').length, 1);
   const h1i = heads.findIndex((m) => m[1] === 'h1');
+  assert.ok(h1i >= 0 && heads[h1i + 1], 'h1 with following heading');
   assert.equal(heads[h1i + 1][1], 'h2');
   assert.match(heads[h1i + 1][2], /visually-hidden/);
   assert.equal(heads.filter((m) => m[1] === 'h2' && !/visually-hidden/.test(m[2])).length, 0);

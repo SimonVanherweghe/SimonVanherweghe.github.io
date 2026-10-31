@@ -121,6 +121,9 @@ hr {
   font-size: var(--step--1);
   transform: translateY(-120%);
 }
+.skip-link:any-link {
+  color: var(--on-plane);
+}
 .skip-link:focus {
   transform: translateY(0);
 }

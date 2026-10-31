@@ -21,7 +21,7 @@ a story and enjoy, not task-driven.
 - **Visual register**: constructed, confident, calm. NOT beige, NOT retro, NOT craft-textured,
   NOT childish.
 
-### Aesthetic: "Composition" (signed off 2026-10-31; build in progress until merged)
+### Aesthetic: "Composition" (signed off 2026-10-31)
 Structure inspired by Sophie Taeuber-Arp, with Molnar and Nees as influences on method only.
 - **Structure**: header, hero, post header, pagination and footer are a 12-column grid of
   abutting planes with 2px rules. Photos are planes; circles are punctuation inside a plane.

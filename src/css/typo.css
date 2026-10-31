@@ -22,8 +22,8 @@ h1, h2, h3,
   overflow-wrap: break-word;
 }
 
-/* Page-level h1/h2 share one scale here; components override in scoped styles.
-   The reset stripped heading sizes, so set them explicitly. */
+/* Page-level h1/h2 start from step-3; h1 then gets its own larger clamp below.
+   Components override in scoped styles. The reset stripped heading sizes, so set them explicitly. */
 h1, h2 {
   font-size: var(--step-3);
   margin-bottom: var(--space-s);

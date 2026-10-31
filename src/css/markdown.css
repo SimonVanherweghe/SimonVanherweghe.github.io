@@ -1,4 +1,6 @@
 .markdown {
+  /* Long bare URLs and inline code must wrap, not widen the page at 390px. */
+  overflow-wrap: anywhere;
 
   & p{
     margin-bottom: var(--space-m);
