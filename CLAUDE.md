@@ -18,27 +18,27 @@ a story and enjoy, not task-driven.
 ### Voice vs. visual
 - **Voice**: humble, playful, self-deprecating maker's log ("Mostly experiments, occasionally
   finished."). Shows the failures.
-- **Visual register**: modern, fresh, subtle, confident. Clean and quiet with one bold moment.
-  NOT warm-toned, NOT retro, NOT craft-textured, NOT loud.
+- **Visual register**: constructed, confident, calm. NOT beige, NOT retro, NOT craft-textured,
+  NOT childish.
 
-### Aesthetic (shipped)
-- **Type**: Bricolage Grotesque (display — wordmark/hero/titles, heavy ~800), Hanken Grotesk
-  (body), Fragment Mono (small metadata only: dates, tags, counts, `Nº`). Self-hosted via
-  `@fontsource`. No fantasy/antiqued serifs.
-- **Palette** (OKLCH, `src/css/tokens.css`): cool near-white paper (NOT warm cream), cool
-  blue-black ink, a single **blue** accent (riso-ish). Neutrals tinted toward blue. No orange.
-  Full light + dark (cool dark).
-- **Signature**: one bold solid-blue hero block with a big cream Bricolage headline (no
-  tagline); blue as a quiet accent everywhere else (links, hover underlines, wordmark dot).
-  Full-colour project photos lead. Whitespace + thin hairline rules. Kept spare: no section
-  labels, no post numbering, no colophon line.
-- **Interaction**: quiet — hover/focus = a blue title underline. No image hover-zoom.
+### Aesthetic: "Composition" (signed off 2026-10-31; build in progress until merged)
+Structure inspired by Sophie Taeuber-Arp, with Molnar and Nees as influences on method only.
+- **Structure**: header, hero, post header, pagination and footer are a 12-column grid of
+  abutting planes with 2px rules. Photos are planes; circles are punctuation inside a plane.
+- **Two speeds**: bold planes up top; the post gallery and reading text stay quiet (space only,
+  no rules, dots, labels or colour).
+- **Type**: Jost (display, weight 600, lowercase via CSS), Albert Sans (body and metadata),
+  system monospace for code. Self-hosted via `@fontsource-variable`. Headline leading 1.04,
+  never below 1.0.
+- **Palette** (`src/css/tokens.css`): pure white ground, ink, red, blue, black planes, cool grey.
+  Exact hex values per theme are in `.impeccable.md`.
+- **Interaction**: quiet: hover/focus = a title underline. No image hover-zoom.
 
 ### Principles
-1. One bold moment (the blue hero), quiet everywhere else.
-2. Blue is the only accent — used sparingly.
-3. Cool, modern, fresh — never warm.
-4. Legible first (measure ~65–75ch, contrast, rhythm).
-5. No AI tells — no hover-zoom, gradient text, glassmorphism, or side-stripe borders.
+1. The page is a composition: colour is structure, not decoration.
+2. Bold planes, quiet content.
+3. Influence through structure: never quote how an artwork looks.
+4. Legible first (measure, contrast, rhythm).
+5. No AI tells: no beige, hover-zoom, gradient text, glassmorphism, or side-stripe borders.
 6. Both themes as equals; accessibility in the DNA (alt text, visible focus, reduced-motion,
    WCAG-AA verified in both themes).
