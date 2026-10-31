@@ -11,8 +11,7 @@ body {
 
 /* Jost carries the identity: wordmark, titles, nav, labels. Set lowercase in CSS.
    Leading stays at 1.04 or looser: Jost's g hits the i-dot below it at 0.92. */
-h1, h2, h3,
-.display {
+h1, h2, h3 {
   font-family: var(--font-display);
   font-weight: 600;
   text-transform: lowercase;
@@ -32,9 +31,4 @@ h1, h2 {
 
 h1 {
   font-size: clamp(2.5rem, 5vw, 4.5rem);
-}
-
-/* Tabular figures for small metadata — dates, tags, counts. */
-.tabular {
-  font-variant-numeric: tabular-nums;
 }

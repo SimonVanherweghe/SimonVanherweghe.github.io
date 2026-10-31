@@ -135,3 +135,27 @@ test('tag page has h1, then a visually-hidden h2, and no duplicate tag heading',
   assert.match(heads[h1i + 1][2], /visually-hidden/);
   assert.equal(heads.filter((m) => m[1] === 'h2' && !/visually-hidden/.test(m[2])).length, 0);
 });
+
+test('tag page gallery is not inside .page', () => {
+  const tag = readdirSync(join(dist, 'tags')).find((d) => statSync(join(dist, 'tags', d)).isDirectory());
+  const html = readFileSync(join(dist, 'tags', tag, 'index.html'), 'utf8');
+  // Walk the tags: track open element depth and whether any open ancestor has class "page".
+  const stack = [];
+  const re = /<(\/?)([a-zA-Z][\w-]*)([^>]*?)(\/?)>/g;
+  const voids = new Set(['meta', 'link', 'img', 'br', 'hr', 'input', 'source', 'path']);
+  let found = false;
+  for (const m of html.matchAll(re)) {
+    const [, close, name, attrs, self] = m;
+    if (close) {
+      const i = stack.map((e) => e.name).lastIndexOf(name);
+      if (i >= 0) stack.length = i;
+      continue;
+    }
+    if (/class="[^"]*\bpost-list\b/.test(attrs)) {
+      found = true;
+      assert.ok(!stack.some((e) => e.page), 'gallery sits inside .page');
+    }
+    if (!self && !voids.has(name)) stack.push({ name, page: /class="[^"]*\bpage\b/.test(attrs) });
+  }
+  assert.ok(found, 'no .post-list on tag page');
+});

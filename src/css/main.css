@@ -32,6 +32,7 @@ main {
 .layout-wrapper {
   min-height: 100vh;
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   grid-template-rows: auto 1fr auto;
 }
 
@@ -136,11 +137,6 @@ hr {
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
-}
-
-/* Post-page hero image (src/pages/[...slug].astro). */
-.headerimg {
-  margin-block: var(--space-s) var(--space-l);
 }
 
 /* Injected by the embedded GitHub gist script in 2023-05-03-textivalkrant.md. */
