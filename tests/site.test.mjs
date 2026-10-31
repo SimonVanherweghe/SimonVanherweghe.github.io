@@ -87,3 +87,37 @@ test('the gallery has no entry animation', () => {
   const css = walk(dist, '.css').map((f) => readFileSync(f, 'utf8')).join('\n');
   assert.ok(!/entry-in|hero-in/.test(css));
 });
+
+const postPages = () =>
+  walk(dist, '.html').filter((f) => /class="[^"]*\bh-entry\b/.test(readFileSync(f, 'utf8')));
+
+test('post has a details column and h-entry intact', () => {
+  const html = readFileSync(join(dist, '2025/01/06/a-maze-ing-new-years-cards/index.html'), 'utf8');
+  const aside = html.match(/<aside[^>]*aria-label="Project details"[\s\S]*?<\/aside>/)?.[0];
+  assert.ok(aside, 'no details aside');
+  assert.match(aside, /dt-published/);
+  assert.match(aside, /href="\/tags\//);
+  assert.match(aside, /p-author h-card/);
+  for (const cls of ['h-entry', 'p-name', 'p-summary', 'u-url', 'e-content', 'post-photo']) {
+    assert.ok(html.includes(cls), cls);
+  }
+});
+
+test('archive post without preview has no photo plane', () => {
+  const html = readFileSync(join(dist, '2006/10/17/1024/index.html'), 'utf8');
+  assert.match(html, /h-entry/);
+  assert.ok(!html.includes('post-photo'));
+});
+
+test('first and last post have a full-width pagination plane', () => {
+  let solo = 0;
+  for (const f of postPages()) {
+    const nav = readFileSync(f, 'utf8').match(/<nav[^>]*class="[^"]*\bpagination\b[\s\S]*?<\/nav>/)?.[0];
+    assert.ok(nav, `no pagination in ${f}`);
+    const links = [...nav.matchAll(/<a [^>]*class="[^"]*\bpagination__link\b[^"]*"/g)];
+    const soloLinks = links.filter((m) => m[0].includes('pagination__link--solo'));
+    if (links.length === 1) { assert.equal(soloLinks.length, 1, f); solo++; }
+    else { assert.equal(links.length, 2, f); assert.equal(soloLinks.length, 0, f); }
+  }
+  assert.equal(solo, 2);
+});

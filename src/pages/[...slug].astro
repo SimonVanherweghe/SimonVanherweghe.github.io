@@ -51,170 +51,332 @@ const previewAlt =
     type="article"
   />
   <article class="post h-entry">
-    <header>
-      <TagsList tags={post.data.tags} />
+    <header
+      class:list={[
+        "comp",
+        "post-head",
+        !post.data.preview && "post-head--bare",
+        !post.data.description && "post-head--nodesc",
+      ]}
+    >
       <h1 class="title p-name">{post.data.title}</h1>
+      <span class="plane plane--red m2 head-red" aria-hidden="true"></span>
+      <span class="plane plane--k m2 head-k" aria-hidden="true">
+        <svg class="head-dot" viewBox="0 0 56 56" focusable="false">
+          <circle cx="28" cy="28" r="28" fill="var(--red)"></circle>
+        </svg>
+      </span>
+      {
+        post.data.preview && (
+          <PreviewImage
+            image={post.data.preview}
+            alt={previewAlt}
+            className="post-photo"
+            priority
+            width={1280}
+            sizes="(min-width: 120rem) 640px, (min-width: 860px) 34vw, 100vw"
+          />
+        )
+      }
       {
         post.data.description && (
           <p class="desc p-summary">{post.data.description}</p>
         )
       }
-      <div class="details">
-        <a class="u-url" href={Astro.url}>
-          <time class="dt-published" datetime={post.data.date.toISOString()}>
-            {post.data.date.toLocaleDateString("nl-BE")}
-          </time>
-        </a>
-        —
-        <a class="p-author h-card" href="https://donebysimon.be/" rel="author">
-          Simon Vanherweghe
-        </a>
-      </div>
     </header>
-    {
-      post.data.preview && (
-        <PreviewImage
-          image={post.data.preview}
-          alt={previewAlt}
-          className="headerimg"
-          priority
-        />
-      )
-    }
 
-    <div class="markdown e-content">
-      <Content />
+    <div class="body">
+      <aside class="details" aria-label="Project details">
+        <dl>
+          <div>
+            <dt>date</dt>
+            <dd>
+              <a class="u-url" href={Astro.url}>
+                <time
+                  class="dt-published"
+                  datetime={post.data.date.toISOString()}
+                >
+                  {post.data.date.toLocaleDateString("nl-BE")}
+                </time>
+              </a>
+            </dd>
+          </div>
+          {
+            post.data.tags.length > 0 && (
+              <div>
+                <dt>tags</dt>
+                <dd>
+                  <TagsList tags={post.data.tags} />
+                </dd>
+              </div>
+            )
+          }
+          <div>
+            <dt>author</dt>
+            <dd>
+              <a
+                class="p-author h-card"
+                href="https://donebysimon.be/"
+                rel="author"
+              >
+                Simon Vanherweghe
+              </a>
+            </dd>
+          </div>
+        </dl>
+      </aside>
+
+      <div class="text">
+        <div class="markdown e-content">
+          <Content />
+        </div>
+
+        {
+          post.collection === "posts" && (
+            <Webmentions
+              url={new URL(`/${post.data.permalink}`, Astro.site).href}
+            />
+          )
+        }
+      </div>
     </div>
 
-    {
-      post.collection === "posts" && (
-        <Webmentions url={new URL(`/${post.data.permalink}`, Astro.site).href} />
-      )
-    }
-
-    <aside>
-      <nav class="pagination" aria-label="More posts">
-        {
-          next && (
-            <a class="pagination__link" href={`/${next.data.permalink}`}>
-              <span class="pagination__label">
-                ← Newer{next.collection === "archive" && " · from the archive"}
-              </span>
-              <span>{next.data.title}</span>
-            </a>
-          )
-        }
-        {
-          prev && (
-            <a
-              class="pagination__link pagination__link--older"
-              href={`/${prev.data.permalink}`}
-            >
-              <span class="pagination__label">
-                Older{prev.collection === "archive" && " · from the archive"} →
-              </span>
-              <span>{prev.data.title}</span>
-            </a>
-          )
-        }
-      </nav>
-    </aside>
+    <nav
+      class:list={["comp", "pagination"]}
+      aria-label="More posts"
+    >
+      {
+        prev && (
+          <a
+            class:list={[
+              "plane",
+              "plane--blue",
+              "pagination__link",
+              "pagination__link--older",
+              !next && "pagination__link--solo",
+            ]}
+            href={`/${prev.data.permalink}`}
+          >
+            <span class="pagination__label">
+              older{prev.collection === "archive" && " · from the archive"}
+            </span>
+            <span class="pagination__title">{prev.data.title}</span>
+          </a>
+        )
+      }
+      {prev && next && <span class="pagination__dot" aria-hidden="true" />}
+      {
+        next && (
+          <a
+            class:list={[
+              "plane",
+              "plane--red",
+              "pagination__link",
+              "pagination__link--newer",
+              !prev && "pagination__link--solo",
+            ]}
+            href={`/${next.data.permalink}`}
+          >
+            <span class="pagination__label">
+              newer{next.collection === "archive" && " · from the archive"}
+            </span>
+            <span class="pagination__title">{next.data.title}</span>
+          </a>
+        )
+      }
+    </nav>
   </article>
 
   <style>
-    header {
-      max-width: var(--max-width-content);
-      margin: var(--space-l) auto 0;
-    }
-
-    div.markdown {
-      max-width: var(--max-width-content);
-      margin: 0 auto;
-      padding-bottom: var(--space-xl);
-
-      border-bottom: var(--border);
+    /* ---- Header: title and description beside the planes and photo ---- */
+    .post-head {
+      border-bottom: 2px solid var(--line);
     }
 
     .title {
+      grid-column: 1 / span 8;
+      grid-row: 1 / span 2;
+      align-self: end;
+      padding: 48px 28px 28px;
       font-family: var(--font-display);
-      font-size: var(--step-5);
-      font-weight: 800;
-      line-height: 0.98;
-      letter-spacing: -0.03em;
-      text-wrap: balance;
-      margin-bottom: var(--space-s);
-      font-variation-settings: 'opsz' 40;
+      font-size: clamp(2.5rem, 6.8vw, 8rem);
+      font-weight: 600;
+      line-height: 1.04;
+      letter-spacing: -0.035em;
+      text-transform: lowercase;
+      overflow-wrap: anywhere;
+      hyphens: auto;
+    }
+
+    .head-red { grid-column: 9 / span 2; grid-row: 1; }
+
+    .head-k {
+      grid-column: 11 / span 2;
+      grid-row: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .head-dot { width: 56px; height: 56px; }
+
+    .post-head :global(img.post-photo) {
+      grid-column: 9 / span 4;
+      grid-row: 2 / span 2;
+      width: 100%;
+      height: 100%;
+      min-height: 280px;
+      aspect-ratio: auto;
     }
 
     .desc {
-      font-size: var(--step-1);
-      line-height: 1.4;
-      color: var(--ink-soft);
-      margin-bottom: var(--space-s);
+      grid-column: 1 / span 8;
+      grid-row: 3;
+      align-self: end;
+      max-width: 44ch;
+      padding: 0 28px 32px;
+      font-size: 22px;
+      line-height: 1.45;
+      color: var(--soft);
+    }
+
+    /* No preview: the planes keep row 1 and the title drops below them, full width. */
+    .post-head--bare .title {
+      grid-column: 1 / -1;
+      grid-row: 2;
+    }
+    .post-head--bare .desc { grid-row: 3; }
+    /* No description: the title takes the rows the description would have had. */
+    .post-head--nodesc .title { grid-row: 1 / span 3; }
+    .post-head--bare.post-head--nodesc .title { grid-row: 2; }
+
+    /* ---- Body: details column, then the text in its measure ---- */
+    .body {
+      display: grid;
+      grid-template-columns: repeat(12, minmax(0, 1fr));
+      padding-block: 64px 72px;
     }
 
     .details {
-      font-family: var(--font-body);
-      font-size: var(--step--2);
-      color: var(--ink-faint);
-      margin-bottom: var(--space-s);
+      grid-column: 1 / span 3;
+      align-self: start;
+      padding-inline: 28px;
     }
 
-    .details a:any-link {
-      color: inherit;
+    .details dl {
+      border-top: 2px solid var(--line);
+      font-size: 15px;
+      line-height: 1.45;
     }
 
-    aside {
-      max-width: var(--max-width-content);
-      margin: var(--space-l) auto var(--space-2xl);
+    .details dl > div {
+      padding-block: 14px;
+      border-bottom: 1px solid var(--line);
     }
 
-    .pagination {
-      display: flex;
-      justify-content: space-between;
-      align-items: start;
-      gap: var(--space-m);
-    }
-
-    .pagination > * {
-      flex: 1;
-      max-width: 22ch;
-    }
-
-    .pagination a {
-      display: block;
+    .details dt {
       font-family: var(--font-display);
-      font-weight: 700;
-      font-size: var(--step-0);
-      line-height: 1.1;
-      letter-spacing: -0.01em;
+      font-weight: 600;
+      text-transform: lowercase;
+    }
+
+    .details dd {
+      margin: 2px 0 0;
+      color: var(--soft);
+    }
+
+    .details dd :global(ul) { margin-bottom: 0; }
+
+    .text {
+      grid-column: 4 / span 6;
+      min-width: 0;
+      max-width: var(--max-width-content);
+      padding-inline: 28px;
+      font-size: 19px;
+      line-height: 1.65;
+    }
+
+    /* ---- Pagination: older (blue) and newer (red) planes ---- */
+    .pagination {
+      grid-auto-rows: minmax(140px, auto);
+      border-top: 2px solid var(--line);
+    }
+
+    .pagination__link {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 24px 28px;
       text-decoration: none;
-      color: var(--color-text);
     }
+    .pagination__link:any-link { color: var(--on-plane); }
 
-    .pagination a:hover {
-      color: var(--blue-ink);
-    }
-
-    .pagination a:hover span:last-child {
-      text-decoration: underline;
-      text-decoration-color: var(--blue);
-      text-underline-offset: 0.2em;
-    }
-
-    .pagination__label {
-      display: block;
-      font-family: var(--font-body);
-      font-size: var(--step--2);
-      font-weight: 400;
-      color: var(--ink-faint);
-      margin-bottom: var(--space-3xs);
-    }
-
-    /* The "older" link always sits right, even when it's the only one. */
-    .pagination__link--older {
-      margin-inline-start: auto;
+    .pagination__link--older { grid-column: 1 / span 6; }
+    .pagination__link--newer {
+      grid-column: 8 / span 5;
+      align-items: flex-end;
       text-align: right;
+    }
+    .pagination__link--solo { grid-column: 1 / -1; }
+
+    .pagination__dot {
+      grid-column: 7;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--bg);
+    }
+    .pagination__dot::after {
+      content: "";
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--k);
+    }
+
+    .pagination__label { font-size: 14px; }
+
+    .pagination__title {
+      font-family: var(--font-display);
+      font-weight: 600;
+      font-size: 32px;
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      text-transform: lowercase;
+      overflow-wrap: anywhere;
+    }
+
+    .pagination__link:hover .pagination__title {
+      text-decoration: underline;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 0.18em;
+    }
+
+    @media (max-width: 859px) {
+      .title { padding: 28px 20px 24px; }
+      .head-red, .head-k { min-height: 72px; }
+      .head-dot { width: 36px; height: 36px; }
+      .post-head :global(img.post-photo) {
+        height: auto;
+        min-height: 0;
+        aspect-ratio: 3 / 2;
+      }
+      .desc { padding: 24px 20px 28px; }
+
+      .body {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 40px;
+        padding-block: 40px 56px;
+      }
+      .details, .text {
+        grid-column: 1 / -1;
+        padding-inline: 1.25rem;
+      }
+
+      .pagination__dot { display: none; }
+      .pagination__link { padding: 20px; }
+      .pagination__link--newer { align-items: flex-end; }
     }
   </style>
 </BaseLayout>
