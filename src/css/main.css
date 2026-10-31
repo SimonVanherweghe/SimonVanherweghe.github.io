@@ -24,7 +24,6 @@ body {
 }
 
 main {
-  padding: var(--space-xs);
   margin: 0 auto;
   max-width: var(--max-width);
   width: 100%;
@@ -39,26 +38,29 @@ main {
 .page {
   max-width: var(--max-width-content);
   margin: 0 auto;
+  padding-inline: 1.75rem;
+}
+@media (max-width: 859px) {
+  .page { padding-inline: 1.25rem; }
 }
 
 /* ---- Links ---- */
 a:any-link {
   color: var(--color-accent);
   text-underline-offset: 0.15em;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: 2px;
 }
 a:hover {
-  text-decoration-color: var(--color-spark);
-  text-decoration-thickness: 2px;
+  text-decoration-color: var(--red);
 }
 
 ::selection {
   background: var(--blue);
-  color: var(--on-blue);
+  color: var(--on-plane);
 }
 
 :focus-visible {
-  outline: 2px solid var(--blue);
+  outline: 2px solid var(--focus);
   outline-offset: 2px;
 }
 
@@ -87,8 +89,8 @@ hr {
   z-index: 10;
   padding: var(--space-2xs) var(--space-xs);
   background-color: var(--blue);
-  color: var(--on-blue);
-  font-family: var(--font-mono);
+  color: var(--on-plane);
+  font-family: var(--font-body);
   font-size: var(--step--1);
   transform: translateY(-120%);
 }

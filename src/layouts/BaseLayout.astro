@@ -9,9 +9,8 @@ const title = pageTitle || frontmatter?.title;
 const defaultDescription =
   "The maker's log of Simon Vanherweghe — creative coding, pen plotters, bots, cards and games. Mostly experiments, occasionally finished.";
 const defaultOgImage = new URL("/og/home.png", Astro.site);
-import "@fontsource-variable/bricolage-grotesque";
-import "@fontsource-variable/hanken-grotesk";
-import "@fontsource/fragment-mono";
+import "@fontsource-variable/jost";
+import "@fontsource-variable/albert-sans";
 import "/src/css/main.css";
 ---
 
@@ -20,8 +19,8 @@ import "/src/css/main.css";
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#faf7f0" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#171a21" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0F0F0F" media="(prefers-color-scheme: dark)" />
     <script is:inline>
       // Apply a stored theme before paint so there is no flash. No stored value
       // means "auto" — the CSS prefers-color-scheme rules take over.

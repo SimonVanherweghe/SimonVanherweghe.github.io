@@ -9,16 +9,17 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Bricolage Grotesque carries the poster identity: wordmark, hero, titles.
-   Heavy weight, tight tracking, tight leading — confident and graphic. */
+/* Jost carries the identity: wordmark, titles, nav, labels. Set lowercase in CSS.
+   Leading stays at 1.04 or looser: Jost's g hits the i-dot below it at 0.92. */
 h1, h2, h3,
 .display {
   font-family: var(--font-display);
-  font-weight: 800;
-  line-height: 0.98;
+  font-weight: 600;
+  text-transform: lowercase;
+  line-height: 1.04;
   letter-spacing: -0.02em;
   text-wrap: balance;
-  font-variation-settings: 'opsz' 36;
+  overflow-wrap: break-word;
 }
 
 /* Page-level h1/h2 share one scale here; components override in scoped styles.
@@ -29,8 +30,7 @@ h1, h2 {
   margin-top: var(--space-l);
 }
 
-/* Fragment Mono for small metadata only — dates, tags, counts. Never prose. */
+/* Tabular figures for small metadata — dates, tags, counts. */
 .tabular {
-  font-family: var(--font-mono);
   font-variant-numeric: tabular-nums;
 }
