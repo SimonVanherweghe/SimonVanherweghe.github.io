@@ -10,103 +10,86 @@ const links = [
 ];
 ---
 
-<footer class="colophon">
-  <div class="colophon__inner">
-    <hr />
-    <div class="colophon__grid">
-      <div class="colophon__brand">
-        <a class="colophon__word" href="/">donebysimon<span class="colophon__dot">.</span></a>
-      </div>
+<footer class="colophon comp">
+  <span class="colophon__word">donebysimon.be</span>
+  <span class="plane plane--blue colophon__square" aria-hidden="true"></span>
 
-      <nav class="colophon__nav" aria-label="Find Simon elsewhere">
-        <ul>
-          {
-            links.map((link) => (
-              <li>
-                <a
-                  href={link.href}
-                  {...(link.external
-                    ? {
-                        target: "_blank",
-                        rel: link.me
-                          ? "me noopener noreferrer"
-                          : "noopener noreferrer",
-                      }
-                    : {})}
-                >
-                  {link.label}
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </nav>
-    </div>
-  </div>
+  <nav class="colophon__nav" aria-label="Find Simon elsewhere">
+    <ul>
+      {
+        links.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              {...(link.external
+                ? {
+                    target: "_blank",
+                    rel: link.me
+                      ? "me noopener noreferrer"
+                      : "noopener noreferrer",
+                  }
+                : {})}
+            >
+              {link.label}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </nav>
 </footer>
 
 <style>
+  /* Outside <main>, so the footer carries its own cap and centring. */
   .colophon {
-    margin-top: var(--space-3xl);
-    padding-inline: var(--space-xs);
-  }
-
-  .colophon__inner {
     max-width: var(--max-width);
     margin: 0 auto;
-  }
-
-  .colophon__grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: start;
-    gap: var(--space-m);
-    padding-block: var(--space-m) var(--space-2xl);
+    width: 100%;
+    grid-auto-rows: minmax(72px, auto);
+    border-top: 2px solid var(--line);
+    font-family: var(--font-display);
+    font-size: 16px;
+    text-transform: lowercase;
   }
 
   .colophon__word {
-    font-family: var(--font-display);
-    font-weight: 800;
-    font-size: var(--step-1);
-    letter-spacing: -0.03em;
-    color: var(--color-text);
-    text-decoration: none;
-    display: inline-block;
+    grid-column: 1 / span 6;
+    display: flex;
+    align-items: center;
+    padding-inline: 28px;
   }
-  .colophon__dot { color: var(--blue); }
 
+  .colophon__square { grid-column: 7 / span 1; }
+
+  .colophon__nav {
+    grid-column: 8 / span 5;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-inline: 28px;
+  }
   .colophon__nav ul {
     display: flex;
     flex-wrap: wrap;
-    gap: var(--space-2xs) 0;
+    justify-content: flex-end;
+    gap: 0 24px;
   }
-
-  .colophon__nav li {
-    display: flex;
-    align-items: center;
-  }
-
   .colophon__nav a {
-    font-family: var(--font-body);
-    font-weight: 600;
-    font-size: var(--step--1);
-    color: var(--ink-soft);
+    display: inline-block;
+    /* padding-block grows the tap target to ~44px. */
+    padding-block: 12px;
     text-decoration: none;
-    /* padding-block grows the tap target to ~44px; the ::after hairline stays 1em. */
-    padding: var(--space-2xs) var(--space-xs);
-  }
-  .colophon__nav li:first-child a { padding-inline-start: 0; }
-  .colophon__nav li:not(:last-child)::after {
-    content: "";
-    width: 1px;
-    height: 1em;
-    background: var(--rule);
   }
   .colophon__nav a:hover {
-    color: var(--color-accent);
     text-decoration: underline;
-    text-decoration-color: var(--color-spark);
-    text-underline-offset: 0.25em;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+  }
+
+  @media (max-width: 859px) {
+    .colophon__word { min-height: 72px; padding-inline: 20px; }
+    .colophon__square { display: none; }
+    .colophon__nav { padding-inline: 20px; }
+    .colophon__nav ul { justify-content: flex-start; }
   }
 </style>

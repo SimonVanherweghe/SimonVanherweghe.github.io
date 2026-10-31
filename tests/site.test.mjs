@@ -39,3 +39,24 @@ test('IndieWeb markup survives', () => {
   const p = readFileSync(post, 'utf8');
   for (const cls of ['p-name', 'dt-published', 'e-content']) assert.ok(p.includes(cls), cls);
 });
+
+test('header keeps nav and theme toggle', () => {
+  const html = index();
+  const header = html.match(/<header[\s\S]*?<\/header>/)[0];
+  assert.match(header, /class="[^"]*\bcomp\b/);
+  assert.match(header, /plane--k/);
+  assert.match(header, /plane--red/);
+  const nav = header.match(/<nav[^>]*aria-label="Main"[\s\S]*?<\/nav>/)[0];
+  assert.match(nav, /href="\/blog"/);
+  assert.match(nav, /href="\/about"/);
+  assert.match(nav, /class="[^"]*theme-toggle/);
+  assert.ok(!header.includes('wordmark__dot'));
+});
+
+test('footer is a plane row with rel=me links intact', () => {
+  const html = index();
+  const footer = html.match(/<footer[\s\S]*?<\/footer>/)[0];
+  assert.match(footer, /class="[^"]*\bcomp\b/);
+  assert.match(footer, /plane--blue/);
+  assert.match(footer, /rel="me noopener noreferrer"/);
+});

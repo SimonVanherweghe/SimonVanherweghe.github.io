@@ -44,6 +44,31 @@ main {
   .page { padding-inline: 1.25rem; }
 }
 
+/* ---- Composition grid: abutting planes, no gutters ---- */
+.comp {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-auto-rows: minmax(120px, auto);
+}
+.plane {
+  --focus: currentColor; /* focus ring stays visible on any plane colour */
+}
+.plane--red { background: var(--red); color: var(--on-plane); }
+.plane--blue { background: var(--blue); color: var(--on-plane); }
+.plane--k { background: var(--k); color: var(--on-k); }
+
+/* Mobile: 4-column version of the same grid. Children span 4 unless sized. */
+@media (max-width: 859px) {
+  .comp {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-auto-rows: auto;
+  }
+  .comp > * { grid-column: span 4 !important; grid-row: auto !important; }
+  .comp > .m1 { grid-column: span 1 !important; }
+  .comp > .m2 { grid-column: span 2 !important; }
+  .comp > .m3 { grid-column: span 3 !important; }
+}
+
 /* ---- Links ---- */
 a:any-link {
   color: var(--color-accent);
