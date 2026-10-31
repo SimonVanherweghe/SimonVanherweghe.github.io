@@ -29,6 +29,20 @@ const { tag, posts } = Astro.props;
 </BaseLayout>
 
 <style>
+  /* Breathing room before the gallery, matching the list-head rhythm on home.
+     The gallery carries its own side padding, so the h1 takes the same to line up with the cards. */
+  h1 {
+    margin-bottom: 40px;
+    padding-inline: 1.75rem;
+  }
+
+  @media (max-width: 859px) {
+    h1 {
+      margin-bottom: 32px;
+      padding-inline: 1.25rem;
+    }
+  }
+
   span {
     font-family: var(--font-body);
     color: var(--ink);
