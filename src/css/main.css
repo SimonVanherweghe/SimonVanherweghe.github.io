@@ -51,8 +51,10 @@ main {
   grid-auto-rows: minmax(120px, auto);
 }
 .plane {
-  --focus: currentColor; /* focus ring stays visible on any plane colour */
+  --focus: currentColor; /* ring takes the plane's text colour, which contrasts with it */
 }
+/* Draw the ring inside the plane: outside it would land on the page ground. */
+.plane:focus-visible { outline-offset: -4px; }
 .plane--red { background: var(--red); color: var(--on-plane); }
 .plane--blue { background: var(--blue); color: var(--on-plane); }
 .plane--k { background: var(--k); color: var(--on-k); }

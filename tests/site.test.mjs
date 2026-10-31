@@ -60,3 +60,8 @@ test('footer is a plane row with rel=me links intact', () => {
   assert.match(footer, /plane--blue/);
   assert.match(footer, /rel="me noopener noreferrer"/);
 });
+
+test('plane focus ring sits inside the plane', () => {
+  const css = walk(dist, '.css').map((f) => readFileSync(f, 'utf8')).join('\n');
+  assert.match(css, /\.plane:focus-visible\s*\{[^}]*outline-offset:\s*-\d+px/);
+});
