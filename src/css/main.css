@@ -24,7 +24,6 @@ body {
 }
 
 main {
-  padding: var(--space-xs);
   margin: 0 auto;
   max-width: var(--max-width);
   width: 100%;
@@ -33,32 +32,63 @@ main {
 .layout-wrapper {
   min-height: 100vh;
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   grid-template-rows: auto 1fr auto;
 }
 
 .page {
   max-width: var(--max-width-content);
   margin: 0 auto;
+  padding-inline: 1.75rem;
+}
+@media (max-width: 859px) {
+  .page { padding-inline: 1.25rem; }
+}
+
+/* ---- Composition grid: abutting planes, no gutters ---- */
+.comp {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-auto-rows: minmax(120px, auto);
+}
+.plane {
+  --focus: currentColor; /* ring takes the plane's text colour, which contrasts with it */
+}
+/* Draw the ring inside the plane: outside it would land on the page ground. */
+.plane:focus-visible { outline-offset: -4px; }
+.plane--red { background: var(--red); color: var(--on-plane); }
+.plane--blue { background: var(--blue); color: var(--on-plane); }
+.plane--k { background: var(--k); color: var(--on-k); }
+
+/* Mobile: 4-column version of the same grid. Children span 4 unless sized. */
+@media (max-width: 859px) {
+  .comp {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-auto-rows: auto;
+  }
+  .comp > * { grid-column: span 4 !important; grid-row: auto !important; }
+  .comp > .m1 { grid-column: span 1 !important; }
+  .comp > .m2 { grid-column: span 2 !important; }
+  .comp > .m3 { grid-column: span 3 !important; }
 }
 
 /* ---- Links ---- */
 a:any-link {
   color: var(--color-accent);
   text-underline-offset: 0.15em;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: 2px;
 }
 a:hover {
-  text-decoration-color: var(--color-spark);
-  text-decoration-thickness: 2px;
+  text-decoration-color: var(--red);
 }
 
 ::selection {
   background: var(--blue);
-  color: var(--on-blue);
+  color: var(--on-plane);
 }
 
 :focus-visible {
-  outline: 2px solid var(--blue);
+  outline: 2px solid var(--focus);
   outline-offset: 2px;
 }
 
@@ -87,10 +117,13 @@ hr {
   z-index: 10;
   padding: var(--space-2xs) var(--space-xs);
   background-color: var(--blue);
-  color: var(--on-blue);
-  font-family: var(--font-mono);
+  color: var(--on-plane);
+  font-family: var(--font-body);
   font-size: var(--step--1);
   transform: translateY(-120%);
+}
+.skip-link:any-link {
+  color: var(--on-plane);
 }
 .skip-link:focus {
   transform: translateY(0);
@@ -104,11 +137,6 @@ hr {
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
-}
-
-/* Post-page hero image (src/pages/[...slug].astro). */
-.headerimg {
-  margin-block: var(--space-s) var(--space-l);
 }
 
 /* Injected by the embedded GitHub gist script in 2023-05-03-textivalkrant.md. */

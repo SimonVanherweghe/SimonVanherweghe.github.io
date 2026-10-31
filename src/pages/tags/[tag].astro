@@ -22,15 +22,27 @@ const { tag, posts } = Astro.props;
 ---
 
 <BaseLayout pageTitle={`Posts tagged with ${tag}`}>
-  <section>
-    <h1>Posts tagged with <span>'{tag}'</span></h1>
-    <PostsList posts={posts} />
-  </section>
+  <h1>Posts tagged with <span>'{tag}'</span></h1>
+  <PostsList posts={posts} heading={null} />
 </BaseLayout>
 
 <style>
+  /* Outside .page so the gallery keeps the home width. The h1 takes the gallery's side
+     padding to line up with the cards, and the gap below matches the list-head rhythm. */
+  h1 {
+    margin-bottom: 40px;
+    padding-inline: 1.75rem;
+  }
+
+  @media (max-width: 859px) {
+    h1 {
+      margin-bottom: 32px;
+      padding-inline: 1.25rem;
+    }
+  }
+
   span {
-    font-family: var(--font-mono);
-    color: var(--blue-ink);
+    font-family: var(--font-body);
+    color: var(--ink);
   }
 </style>

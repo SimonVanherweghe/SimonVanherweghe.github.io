@@ -35,7 +35,7 @@ const dateOptions: Intl.DateTimeFormatOptions = {
 
   li {
     display: grid;
-    grid-template-columns: 12ch auto;
+    grid-template-columns: 12ch minmax(0, 1fr);
     gap: var(--space-s);
     align-items: baseline;
     padding-block: var(--space-2xs);
@@ -43,10 +43,8 @@ const dateOptions: Intl.DateTimeFormatOptions = {
   }
 
   time {
-    font-family: var(--font-mono);
+    font-family: var(--font-body);
     font-size: var(--step--2);
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
     color: var(--ink-faint);
     font-variant-numeric: tabular-nums;
   }
@@ -55,10 +53,11 @@ const dateOptions: Intl.DateTimeFormatOptions = {
     color: var(--color-text);
     text-decoration: none;
     font-weight: 500;
+    overflow-wrap: anywhere;
   }
 
   .postlist-link:hover {
-    color: var(--blue-ink);
+    color: var(--ink);
     text-decoration: underline;
     text-decoration-color: var(--blue);
     text-underline-offset: 0.2em;

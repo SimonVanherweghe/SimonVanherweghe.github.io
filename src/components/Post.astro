@@ -2,12 +2,9 @@
 import type { CollectionEntry } from "astro:content";
 import PreviewImage from "./PreviewImage.astro";
 
-type Props = { post: CollectionEntry<"posts">; index: number };
-const { post, index } = Astro.props;
+type Props = { post: CollectionEntry<"posts">; priority?: boolean };
+const { post, priority = false } = Astro.props;
 
-// The first card spans the full grid and is the homepage LCP element. The rest sit below the
-// fold in narrower columns, so they can be fetched lazily at a smaller size.
-const isLead = index === 0;
 const dateLabel = post.data.date.toLocaleDateString("en-GB", {
   day: "2-digit",
   month: "short",
@@ -15,130 +12,75 @@ const dateLabel = post.data.date.toLocaleDateString("en-GB", {
 });
 ---
 
-<article class="entry" class:list={[{ "is-lead": isLead }]}>
+<article class="entry">
   <a class="entry__link" href={`/${post.data.permalink}`}>
-    <div class="entry__figure">
-      <div class="entry__frame">
-        <PreviewImage
-          image={post.data.preview}
-          alt={post.data.alt ?? ""}
-          priority={isLead}
-          width={isLead ? 1200 : 700}
-          sizes={isLead
-            ? "(min-width: 950px) 66vw, 100vw"
-            : "(min-width: 950px) 30vw, (min-width: 700px) 45vw, 100vw"}
-        />
-      </div>
-    </div>
-
-    <div class="entry__body">
-      <h2 class="entry__title">{post.data.title}</h2>
+    <PreviewImage
+      image={post.data.preview}
+      alt={post.data.alt ?? ""}
+      priority={priority}
+      width={960}
+      sizes="(min-width: 1600px) 33vw, (min-width: 860px) 50vw, 100vw"
+    />
+    <div class="entry__text">
+      <time class="entry__date" datetime={post.data.date.toISOString()}>{dateLabel}</time>
+      <h3 class="entry__title">{post.data.title}</h3>
       <p class="entry__desc">{post.data.description}</p>
-      <div class="entry__meta">
-        <time class="tabular" datetime={post.data.date.toISOString()}>{dateLabel}</time>
-        <span class="entry__tags">
-          {post.data.tags.map((tag) => <span class="entry__tag">#{tag}</span>)}
-        </span>
-      </div>
     </div>
   </a>
 </article>
 
 <style>
-  .entry {
-    animation: entry-in var(--dur-slow) var(--ease-out-quint) both;
-    animation-delay: calc(var(--i, 0) * 55ms);
-  }
-
   .entry__link {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
     text-decoration: none;
     color: inherit;
   }
 
-  .entry__figure {
-    margin-bottom: var(--space-s);
+  .entry__link :global(img) {
+    aspect-ratio: 3 / 2;
   }
 
-  .entry__frame {
-    overflow: hidden;
+  .entry__text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-width: 46ch;
   }
 
-  .entry__frame :global(img) {
-    display: block;
-    width: 100%;
-    aspect-ratio: 16 / 8;
-    object-fit: cover;
+  .entry__date {
+    font-size: 14px;
+    color: var(--soft);
   }
 
   .entry__title {
     font-family: var(--font-display);
-    font-weight: 800;
-    font-size: var(--step-2);
-    line-height: 1.0;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 1.05;
     letter-spacing: -0.02em;
+    text-transform: lowercase;
     color: var(--color-text);
-    margin-bottom: var(--space-2xs);
-    font-variation-settings: 'opsz' 30;
+    margin: 0;
   }
 
   .entry__desc {
-    color: var(--ink-soft);
-    font-size: var(--step-0);
-    line-height: 1.45;
-    max-width: 60ch;
-    margin-bottom: var(--space-s);
+    font-size: 17px;
+    line-height: 1.5;
+    color: var(--soft);
+    margin: 0;
   }
 
-  .entry__meta {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    gap: var(--space-2xs) var(--space-s);
-    font-family: var(--font-mono);
-    font-size: var(--step--2);
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--ink-faint);
-  }
-
-  .entry__tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--space-2xs);
-  }
-  .entry__tag {
-    color: var(--ink-soft);
-  }
-
-  /* Clean hover / keyboard-focus feedback: title underlines in blue. No zoom. */
+  /* Hover / keyboard-focus feedback: the title underlines. No zoom. */
   .entry__link:hover .entry__title,
   .entry__link:focus-visible .entry__title {
     text-decoration: underline;
-    text-decoration-color: var(--blue);
     text-decoration-thickness: 2px;
-    text-underline-offset: 0.1em;
+    text-underline-offset: 5px;
   }
 
-  /* Lead entry: bigger, two columns once the container is wide. */
-  .is-lead .entry__title {
-    font-size: var(--step-4);
-  }
-
-  @container (min-width: 42rem) {
-    .is-lead .entry__link {
-      display: grid;
-      grid-template-columns: 1.6fr 1fr;
-      gap: var(--space-l);
-      align-items: center;
-    }
-    .is-lead .entry__figure {
-      margin-bottom: 0;
-    }
-  }
-
-  @keyframes entry-in {
-    from { opacity: 0; transform: translateY(10px); }
-    to   { opacity: 1; transform: translateY(0); }
+  @media (max-width: 859px) {
+    .entry__title { font-size: 26px; }
   }
 </style>

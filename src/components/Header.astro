@@ -8,97 +8,91 @@ const navItems = [
 const currentPath = Astro.url.pathname.replace(/\/$/, "");
 ---
 
-<header class="masthead">
-  <div class="masthead__inner">
-    <a class="wordmark" href="/">
-      donebysimon<span class="wordmark__dot" aria-hidden="true">.</span>
-    </a>
+<header class="masthead comp">
+  <a class="wordmark plane plane--k m3" href="/">donebysimon</a>
+  <span class="plane plane--red m1 square" aria-hidden="true"></span>
 
-    <nav class="mainnav" aria-label="Main">
-      <ul>
-        {
-          navItems.map((item) => (
-            <li>
-              <a
-                href={item.href}
-                aria-current={currentPath === item.href ? "page" : undefined}
-              >
-                {item.label}
-              </a>
-            </li>
-          ))
-        }
-      </ul>
-      <ThemeToggle />
-    </nav>
-  </div>
-  <hr class="masthead__rule" />
+  <nav class="mainnav" aria-label="Main">
+    <ul>
+      {
+        navItems.map((item) => (
+          <li>
+            <a
+              href={item.href}
+              aria-current={currentPath === item.href ? "page" : undefined}
+            >
+              {item.label}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+    <ThemeToggle />
+  </nav>
 </header>
 
 <style>
+  /* Outside <main>, so the header carries its own cap and centring. */
   .masthead {
-    padding-inline: var(--space-xs);
-  }
-
-  .masthead__inner {
     max-width: var(--max-width);
     margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    gap: var(--space-s) var(--space-m);
-    padding-block: var(--space-m) var(--space-s);
-  }
-
-  .masthead__rule {
-    max-width: var(--max-width);
-    margin: 0 auto;
+    width: 100%;
+    grid-auto-rows: 72px;
+    border-bottom: 2px solid var(--line);
   }
 
   .wordmark {
-    font-family: var(--font-display);
-    font-weight: 800;
-    font-size: var(--step-2);
-    line-height: 1;
-    letter-spacing: -0.03em;
-    color: var(--color-text);
-    text-decoration: none;
-    font-variation-settings: 'opsz' 24;
-  }
-  .wordmark__dot {
-    color: var(--blue);
-  }
-  .wordmark:hover .wordmark__dot {
-    color: var(--ink-soft);
-  }
-
-  .mainnav {
+    grid-column: 1 / span 3;
     display: flex;
     align-items: center;
-    gap: var(--space-s);
+    padding-inline: 28px;
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: -0.01em;
+    text-transform: lowercase;
+    text-decoration: none;
   }
+  .wordmark:any-link { color: var(--on-k); }
 
+  .square { grid-column: 4 / span 1; }
+
+  .mainnav {
+    grid-column: 5 / span 8;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 36px;
+    padding-inline: 28px;
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 18px;
+    text-transform: lowercase;
+  }
   .mainnav ul {
     display: flex;
-    gap: var(--space-xs);
+    gap: 36px;
   }
-
   .mainnav a {
-    font-family: var(--font-body);
-    font-weight: 600;
-    font-size: var(--step--1);
-    letter-spacing: 0.02em;
-    color: var(--ink-soft);
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
     text-decoration: none;
-    padding: var(--space-3xs) var(--space-2xs);
   }
   .mainnav a:hover,
   .mainnav a[aria-current='page'] {
-    color: var(--color-text);
     text-decoration: underline;
-    text-decoration-color: var(--color-spark);
-    text-underline-offset: 0.25em;
     text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+  }
+
+  @media (max-width: 859px) {
+    .wordmark, .square { min-height: 72px; }
+    .mainnav {
+      justify-content: flex-start;
+      gap: 24px;
+      padding: 14px 20px;
+    }
+    .mainnav ul { gap: 24px; }
   }
 </style>
