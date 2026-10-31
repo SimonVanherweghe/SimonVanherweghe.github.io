@@ -24,7 +24,7 @@ const { tag, posts } = Astro.props;
 <BaseLayout pageTitle={`Posts tagged with ${tag}`}>
   <section>
     <h1>Posts tagged with <span>'{tag}'</span></h1>
-    <PostsList posts={posts} />
+    <PostsList posts={posts} heading={null} />
   </section>
 </BaseLayout>
 

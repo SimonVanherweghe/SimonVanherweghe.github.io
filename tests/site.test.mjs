@@ -65,3 +65,25 @@ test('plane focus ring sits inside the plane', () => {
   const css = walk(dist, '.css').map((f) => readFileSync(f, 'utf8')).join('\n');
   assert.match(css, /\.plane:focus-visible\s*\{[^}]*outline-offset:\s*-\d+px/);
 });
+
+test('home title splits on two lines', () => {
+  const h1 = index().match(/<h1[^>]*>([\s\S]*?)<\/h1>/)[1];
+  assert.match(h1, /things done\s*<br[^>]*>\s*by simon/);
+});
+
+test('newest post is in the hero, not repeated in the gallery', () => {
+  const html = index();
+  const links = [...html.matchAll(/href="\/([^"/][^"]*)"/g)].map((m) => m[1]);
+  const list = html.match(/<ul[^>]*class="[^"]*post-list[\s\S]*?<\/ul>/)[0];
+  const hero = html.slice(0, html.indexOf('<ul class="post-list'));
+  const latest = [...hero.matchAll(/class="[^"]*\bhero__photo[^"]*"[^>]*href="\/([^"]+)"|href="\/([^"]+)"[^>]*class="[^"]*\bhero__photo/g)][0];
+  assert.ok(latest, 'no hero photo link');
+  const permalink = latest[1] ?? latest[2];
+  assert.ok(links.includes(permalink));
+  assert.ok(!list.includes(`href="/${permalink}"`), 'latest repeated in gallery');
+});
+
+test('the gallery has no entry animation', () => {
+  const css = walk(dist, '.css').map((f) => readFileSync(f, 'utf8')).join('\n');
+  assert.ok(!/entry-in|hero-in/.test(css));
+});

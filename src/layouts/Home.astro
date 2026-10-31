@@ -2,51 +2,171 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "./BaseLayout.astro";
 import PostsList from "../components/PostsList.astro";
+import PreviewImage from "../components/PreviewImage.astro";
 const allPosts = await getCollection("posts");
 allPosts.sort((a, b) => +b.data.date - +a.data.date);
 
 const { frontmatter } = Astro.props;
-const heading = frontmatter?.heading ?? "Things done, by Simon.";
+const latest = allPosts[0];
+const dateLabel = latest.data.date.toLocaleDateString("en-GB", {
+  day: "2-digit",
+  month: "short",
+  year: "numeric",
+});
 ---
 
 <BaseLayout frontmatter={frontmatter}>
-  <section class="hero" aria-labelledby="hero-title">
-    <h1 class="hero__title" id="hero-title">{heading}</h1>
+  <section class="hero comp" aria-labelledby="hero-title">
+    <div class="hero__head">
+      <h1 class="hero__title" id="hero-title">things done<br />by simon</h1>
+    </div>
+    <span class="hero__red plane plane--red m2" aria-hidden="true"></span>
+    <span class="hero__blue plane plane--blue m2" aria-hidden="true">
+      <svg class="hero__circle" viewBox="0 0 64 64" aria-hidden="true">
+        <circle cx="32" cy="32" r="32" fill="#FFFFFF"></circle>
+      </svg>
+    </span>
+    <a class="hero__photo" href={`/${latest.data.permalink}`} aria-label={latest.data.title}>
+      <PreviewImage
+        image={latest.data.preview}
+        alt={latest.data.alt ?? ""}
+        priority={true}
+        width={1200}
+        sizes="(min-width: 860px) 42vw, 100vw"
+      />
+    </a>
+    <div class="hero__meta plane plane--k">
+      <span class="hero__label">latest</span>
+      <span>
+        <time datetime={latest.data.date.toISOString()}>{dateLabel}</time><br />
+        {latest.data.tags.join(", ")}
+      </span>
+    </div>
+    <a class="hero__text" href={`/${latest.data.permalink}`}>
+      <span class="hero__name">{latest.data.title}</span>
+      <span class="hero__desc">{latest.data.description}</span>
+    </a>
   </section>
 
-  <section class="index" aria-label="All posts">
-    <hr class="index__rule" />
-    <PostsList posts={allPosts} />
+  <section aria-label="All posts">
+    <PostsList posts={allPosts.slice(1)} count={allPosts.length} />
   </section>
 </BaseLayout>
 
 <style>
   .hero {
-    background: var(--blue);
-    color: var(--on-plane);
-    padding: var(--space-xl) var(--space-l);
-    margin-block: var(--space-xs) var(--space-xl);
-    animation: hero-in var(--dur-slow) var(--ease-out-quint) both;
+    border-bottom: 2px solid var(--line);
+  }
+
+  .hero__head {
+    grid-column: 1 / span 7;
+    grid-row: 1 / span 2;
+    padding: 48px 28px 32px;
+    display: flex;
+    align-items: flex-end;
   }
 
   .hero__title {
-    font-family: var(--font-display);
-    font-weight: 800;
-    font-size: var(--step-6);
-    line-height: 0.94;
-    letter-spacing: -0.035em;
-    max-width: 15ch;
-    color: var(--on-plane);
     margin: 0;
-    font-variation-settings: 'opsz' 48;
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: clamp(3.25rem, 7.4vw, 8.75rem);
+    line-height: 1.04;
+    letter-spacing: -0.035em;
+    text-transform: lowercase;
+    color: var(--color-text);
   }
 
-  .index__rule {
-    margin-bottom: var(--space-xl);
+  .hero__red {
+    grid-column: 8 / span 2;
+    grid-row: 1;
   }
 
-  @keyframes hero-in {
-    from { opacity: 0; transform: translateY(12px); }
-    to   { opacity: 1; transform: translateY(0); }
+  .hero__blue {
+    grid-column: 10 / span 3;
+    grid-row: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .hero__circle {
+    width: 64px;
+    height: 64px;
+  }
+
+  .hero__photo {
+    grid-column: 8 / span 5;
+    grid-row: 2 / span 3;
+    display: block;
+    min-height: 300px;
+  }
+
+  .hero__photo :global(img) {
+    aspect-ratio: auto;
+    height: 100%;
+    min-height: 300px;
+  }
+
+  .hero__meta {
+    grid-column: 1 / span 2;
+    grid-row: 3 / span 2;
+    padding: 24px 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 16px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  .hero__label {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: lowercase;
+  }
+
+  .hero__text {
+    grid-column: 3 / span 5;
+    grid-row: 3 / span 2;
+    padding: 24px 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 16px;
+    text-decoration: none;
+  }
+  .hero__text:any-link { color: var(--color-text); }
+
+  .hero__name {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 1;
+    letter-spacing: -0.02em;
+    text-transform: lowercase;
+  }
+
+  .hero__desc {
+    font-size: 19px;
+    line-height: 1.5;
+    color: var(--soft);
+    max-width: 34ch;
+  }
+
+  .hero__text:hover .hero__name,
+  .hero__text:focus-visible .hero__name {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+  }
+
+  @media (max-width: 859px) {
+    .hero__head { padding: 40px 20px 28px; }
+    .hero__red, .hero__blue { min-height: 72px; }
+    .hero__circle { width: 40px; height: 40px; }
+    .hero__meta, .hero__text { padding: 20px; }
+    .hero__name { font-size: 36px; }
   }
 </style>
